@@ -1,0 +1,5001 @@
+Restaurant_Name,Rating,Review_Count,Price
+Pagoda Inn,4.0,251,$$
+Tacos El Sinaloense,4.0,35,$
+The Dime,3.5,319,$$
+Aroma Bakery,4.0,14,$
+KFC,1.5,24,$
+Sushimon,4.0,192,$
+Catch,3.5,229,$$$
+Max City BBQ,4.0,818,$$
+Le Cafe Noir,4.5,20,$
+Pho Family Restaurant,4.0,101,$
+Commonwealth Restaurant,4.5,770,$$$
+Emon,4.0,132,$$
+Tacos El Zorro,4.0,78,$
+Agoura Hills Numero Uno,4.0,112,$$
+C&O Trattoria,4.0,3093,$$
+The BLVD,4.0,24,$
+The Great Caesar Banquet Hall,4.5,65,na
+Cal Mare,4.0,190,$$$
+La Favorita Bakery,3.0,55,$
+Hudson House,4.0,967,$$
+Café Tres Leches,4.5,7,na
+Taco Bell,3.0,22,$
+Boiling Point,3.5,609,$$
+La Indiana Restaurant,4.0,94,$
+Subway,2.0,21,$
+Cha Cha Chicken,4.0,1920,$$
+Freezzone Raspados,5.0,26,$
+Rainbow Donuts,4.0,109,$
+VENITIAN BANQUET HALL & REST,na,na,na
+Red Iron Mongolian BBQ,4.0,53,$
+Torrance City Farmers Market,4.5,362,$$
+Special Events Staffing,2.5,3,na
+Rinaldi's of Redondo,3.0,118,$
+GRANDYS GOODIES DONUTS,na,na,na
+Park's BBQ,4.0,1534,$$$
+India's Grill,4.0,562,$$
+Rinjani,4.5,107,$$
+Green Cottage Restaurant - Tarzana,4.0,204,$$
+Cassia,4.0,906,$$$
+SCHOLL CYN GOLF COURSE NSACK,na,na,na
+Keiko Grill,3.0,10,$
+Schoonerville,3.5,26,$$
+Arashi Sushi,4.0,679,$$
+Aroma Spa & Sports,3.5,116,$$
+Taihei,4.0,437,$$
+Sloopy's Beach Cafe,4.0,444,$$
+Subway,1.0,10,$
+The Rabbit Hole,4.0,361,$$
+AMERICAN LEGION PALM POST348,na,na,na
+ChinaWok,3.5,59,$
+Miss Donuts and Bakery,3.5,33,$
+The Park's Finest,4.0,1802,$$
+The Pizzeria Factory,4.5,516,$
+Galaxy Sports Bar,3.0,3,na
+Thank U Pho,4.0,557,$
+Lucky Lizard Bar,4.5,42,$
+D'amore's Famous Pizza,3.0,129,$$
+Wilshire Country Club,4.0,13,na
+Tin Roof Bistro,4.0,1904,$$
+Cafe Sole,4.5,234,$$
+The Donut,4.5,53,$
+Domino's Pizza,2.5,70,$
+Sunny's Sushi Hut,4.0,409,$$
+Gray Butte Cafeteria,4.0,1,$
+Souplantation,3.5,554,$$
+Cactus Mexican Cuisine,3.0,58,$$
+Café WG,4.0,21,$$
+Gjelina,3.5,4396,$$$
+The Warehouse Restaurant,3.0,817,$$$
+Subway,2.0,38,$
+Cosa Buona,4.0,215,$$
+The Six Chow House,4.0,709,$$
+Sidewalk Grill,4.5,815,$$
+Carl's Jr,1.5,60,$
+Birrieria La Suprema,4.0,79,$
+El Taurino,3.5,1969,$
+Tres Palmas,3.5,56,$$
+Sweet Retreat Donuts,4.5,283,$
+The Park Bar & Grill,4.0,123,$
+Salata,3.5,46,$$
+Bareburger,4.0,378,$$
+Ortega 120,4.0,1332,$$
+Aoki Japanese Restaurant,3.5,90,$$
+McDonald's,1.5,59,$
+Victory Bread,4.5,47,$
+Massis Kabob - The Original Kabobery,3.0,305,$
+Classic Coffee,4.5,268,$
+Palermo Pizza,3.5,64,$$
+Edible Arrangements,3.0,36,$$
+Tara's Himalayan Cuisine,4.0,92,$$
+Inca Gourmet Restaurant,3.5,78,$
+Seoul Tofu House,3.5,27,$$
+I Heart Boba,4.0,282,$
+Bistro Na's,4.0,456,$$
+More Than Waffles,4.5,2060,$$
+Unincorporated Coffee Roasters,5.0,25,$$
+Bricks & Scones,4.0,1272,$$
+Boba Express,4.5,188,$
+Engine Co No 28,3.0,693,$$
+Son of a Gun,4.0,1591,$$$
+The Courtyard Kitchen,4.0,294,$$
+San Miguel,4.0,18,$
+Have Some Coffee,4.0,159,$
+M & T Donuts,5.0,10,$
+mar'sel,4.0,435,$$$$
+Kenny's Q BAR-B-QUE and MORE,4.0,58,$$
+Forma Restaurant & Cheese Bar,4.5,821,$$$
+El Burro - Tacos & Beer,4.0,191,$
+Natraliart Jamaican Restaurant & Market,4.0,135,$$
+Bacio di Latte,4.5,148,$$
+Phonomenal,4.0,717,$$
+La Salsa,3.5,72,$
+Escalona's Bakery,5.0,1,na
+Silver Reign,3.0,65,$$
+Gyu-Kaku Japanese BBQ,3.5,967,$$
+Bravo's Charburgers,4.0,139,$
+Stripes Donuts,4.0,15,$
+Yuchun,4.0,997,$$
+Ollo,4.0,542,$$
+La Pequena Bakery,4.0,7,na
+Mi Casita,4.0,176,$$
+KOKUMI,4.5,6,na
+Lassens Natural Foods & Vitamins,3.0,197,$$
+Chipotle Mexican Grill,2.0,141,$
+Bugis Street Brasserie,3.5,126,$$
+Shawarma Factory,4.0,171,$
+I Love Boba,4.0,221,$
+Banana Bay Restaurant,3.5,2628,$$
+Eagle Rock Italian Bakery & Deli,4.5,471,$
+Butterfly Cake Shop,4.0,20,$$
+Elks Lodge No 2051 Montebello,5.0,1,na
+The Gables,4.5,145,na
+Shau Mei Taiwanese Deli,3.5,76,$
+El Pollo Loco,2.0,60,$
+Biriyani Factory,3.5,208,$$
+Yummy.com,3.5,132,$$
+La Gordita Restaurant,4.5,100,$
+Koi Thai Cuisine,4.5,229,$
+TeaPop,4.0,521,$
+El Bukanas,3.5,108,$$
+SusieCakes,4.5,271,$$
+Red O Restaurants,4.0,404,$$$
+La Salsa Restaurant,4.5,2,na
+San Antonio Bakery,4.0,46,$
+Tortas Ahogadas El Rey,3.5,37,$
+Costa Grande,4.5,774,$
+Carnitas Michoacan,3.5,39,$
+Mel's Drive In,3.0,838,$$
+Terranea Resort,4.0,1093,na
+Wasabi Japanese Noodle House,3.0,211,$
+SOMUNRAN KOREAN RESTAURANT,na,na,na
+India Sweet And Spice,4.5,51,$
+Tropicalia Brazilian Grill,4.0,561,$$
+Rolling Factory,4.0,78,$$
+Cafe Rio Mexican Grill,3.0,405,$
+Presto Deli,4.0,44,$
+The Morrison,4.5,3897,$$
+TACOS TUMBRAS FOOD PREP RM,na,na,na
+OO-KOOK Korean BBQ,4.0,1387,$$
+Star Of Siam on Lincoln,4.0,208,$$
+Pho Cafe,3.5,1316,$
+Ono Grill,3.5,323,$
+Fusion Burgers,4.0,697,$$
+Beverly Glen Deli,3.5,139,$$
+The Pot Thai Cafe,3.5,150,$
+Taco Ready,3.5,74,$
+Chio's Peruvian Grill,4.0,194,$$
+Komatsu,4.0,78,$$
+North Shore Poke Co,3.5,21,$$
+Doheny Room,3.0,249,$$$
+Helados POPS Ice Cream,5.0,400,$
+Pagliacci's Trattoria Taverna,4.0,289,$$
+Darabar Secret Thai Cuisine,3.5,100,$$
+South End,4.5,734,$$
+The Rendezvous Lounge,3.0,14,$
+The Cutting Board,4.5,54,$
+Point Break Poke and Grill,4.0,4,na
+Pancake Cottage,3.5,703,$$
+Kopan Ramen - UCLA,4.0,185,$$
+O Sushi,3.0,148,$$
+Asian Fusion,4.0,307,$$
+Marino's Italian Restaurant,4.0,230,$$
+El 7 Mares Express,3.5,63,$
+Greek Theatre,4.0,946,$$
+El Carbonero Bakery,3.0,12,$$
+Sharky's Woodfired Mexican Grill,4.0,168,$$
+SOCORROS RESTAURANT INC,na,na,na
+Louisiana Fried Chicken And China Bowl,4.5,3,$
+A-1 Chinese BBQ,4.0,137,$$
+The Coffee Bean & Tea Leaf,3.5,50,$
+Tastea,4.5,126,$
+Parkway Restaurant,4.5,130,$$
+The Counter,3.5,415,$$
+Tortas Ahogadas Guadalajara,3.5,136,$
+Mongol King,3.5,189,$$
+Bottega Louie,4.0,15786,$$
+88 Tea Bar & Cafe,3.0,90,$
+Taco Bell,2.0,38,$
+J Fish Market,4.0,44,$$
+El Fino Mexican food,4.0,30,$
+Venice Pizzeria,4.0,52,$
+Awesome Thai,4.0,308,$
+Eat at Rudy's,4.0,102,$$
+Rancheritas Mexican Grill,4.0,115,$
+Bloomingdale's,3.0,157,$$$
+Irwindale Speedway,4.0,115,na
+Conrad's Restaurant,3.0,446,$$
+New India's Oven,3.5,313,$$
+Greco's New York Pizzeria,2.5,240,$
+Subway,3.5,6,$
+Valentino's New York Pizza,3.5,109,$
+Domino's Pizza,2.0,133,$
+"Chibugan, Lechon At Ethan's Restaurant",4.0,39,$
+Hang Loose Hawaiian Shave Ice,4.5,29,$
+Red Mango Yogurt & Smoothies,3.5,11,$
+Panelas Brazil Cuisine,4.5,189,$$
+Menchie's South Pasadena,4.0,149,$
+Halal Kitchen Cafe,4.5,114,$$
+Indra Restaurant,3.5,194,$$
+Flavors of Thai,4.0,508,$
+Zero Degrees Custard and Italian Ice,4.5,192,$
+99 Ranch Market,3.5,179,$$
+French Village Cafe,3.0,25,$
+Hugo's,4.0,1193,$$
+Mi Casa,4.0,289,$$
+Little Sister,4.0,1222,$$
+PAMPAS GRILL AUXILLARY KITCH,na,na,na
+Ondal 2,4.0,432,$$
+GOMEZ SNAP E TACO,3.5,51,$
+Denny's,2.5,63,$$
+The Sandwich Joint,4.5,173,$
+Ding's Restaurant,3.0,34,$$
+WaBa Grill,3.5,14,na
+Mariscos Jalisco,4.5,695,$
+Seoul Soondae,4.0,93,$
+Miura,4.0,130,$$$
+Little Caesars,3.5,26,$
+Café Roulé,4.0,695,$
+Viva Madrid!,4.0,1145,$$
+Father's Office,4.0,2997,$$
+Lucques,4.0,1089,$$$
+The Rustic Spoon,4.5,1262,$$
+Dingle Berries Coffee & Tea,4.5,879,$
+Papa John's Pizza,2.0,40,$
+Era Billiards Club,4.0,49,$
+The Bottle Inn Hermosa,4.0,255,$$
+Mariscos Puerto Escondido,3.5,35,$
+Burritos El Chavo,3.0,88,$
+Carmine's Restaurant & Bar,4.0,167,$$$
+Sushi Ai,4.0,44,$$
+El Cielo,4.0,13,$
+Jerry's Famous Deli,2.5,725,$$
+Little Mexico Place,3.5,48,$
+Rita's Italian Ice,4.5,134,$
+Target,2.5,329,$$
+MAYTES JUGOS & RASPADOS,na,na,na
+KAIJIU SUSHI CORP,na,na,na
+South Bay Sports,5.0,1,na
+Piara Pizza,4.0,16,$
+Samba Brazilian Steakhouse,3.5,1506,$$$
+Ameci Pizza & Pasta - Winnetka,4.0,122,$$
+La Michoacana Helados Y Paletas Newhall,4.5,58,$
+Shakey's Pizza Parlor,3.5,205,$$
+The Wee Chippy,4.5,198,$$
+Scoops,4.5,2341,$
+JOONKY WON CORP / BOMBOM GRILL,na,na,na
+KK Donut,4.5,32,$
+WaBa Grill,3.0,89,$
+Joe's Crab Shack,2.5,615,$$
+Media Noche Cuban Cuisine,4.5,718,$$
+Pizza Place California,3.5,303,$$
+Pho Ha,3.0,280,$
+Frutibionicos,4.0,44,$
+VN Cuisine,3.5,290,$
+BELVEDERE PARK - CONCESSION STAND,na,na,na
+Los Tapatios Restaurant,3.5,43,$
+Tea Station,3.0,562,$$
+Feu Pho Kitchen,4.5,420,$$
+La Casita Olvera,4.5,575,$$
+The Larder at Burton Way,4.0,258,$$
+The Daily Harvest Cafe & Juicery,4.0,207,$$
+Craig's,4.0,788,$$$
+Abhiruchi Grill,4.5,122,$$
+Delhi Bites,3.5,158,$$
+K Bakery,4.0,109,$
+DREDAWA CAFE,na,na,na
+The Griddle Cafe,4.0,5406,$$
+Pepe's Finest Mexican Food,3.5,308,$
+Carnaby St. Fish & Chips,4.0,77,$
+Fresh Brothers,3.5,419,$$
+Katsuya Hollywood,3.5,1764,$$$
+Yum Cha Cafe,3.0,134,$
+Tutti Frutti Frozen Yogurt,3.0,19,$
+Phang Roy Thai,4.5,312,$
+Alice's Burgers,3.5,131,$
+Mirak,4.0,71,$$
+THAI NOODLE KING BY KOZE,na,na,na
+The yogurt shoppe,4.5,53,$$
+K.H. CHINA EXPRESS,na,na,na
+El Amanecer Salvadoreno,4.0,44,$$
+Heart N Soul,4.5,67,$
+Half and Half Tea Express,3.5,279,$
+Branch Office,4.0,44,$
+Burger Depot,2.5,57,$
+JAMZ Creamery,4.5,180,$
+Dan's Super Subs,4.5,1012,$
+Subway,2.0,10,$
+Pho So 9,3.5,257,$
+Menchie's Frozen Yogurt,3.5,132,$
+Haeundae Seafood Restaurant,3.5,61,$$
+Cherbourg,4.0,1,na
+BLU20,na,na,na
+The Halal Guys,3.5,338,$
+Amorelia Mexican Cafe,4.0,691,$$
+Quiznos,2.5,18,$
+Church's Chicken,2.5,36,$
+Shalimar Cuisine Of India,4.0,328,$$
+Leonardo's Restaurant,3.5,4,na
+Hyatt Regency Valencia,3.0,211,$$$
+Daily Grill,3.5,308,$$
+JJ Bakery,3.5,726,$
+El Picante,3.5,216,$$
+Rosales Mexican Food & Bakery,4.5,13,$
+La Taquiza,4.0,624,$
+The Loft,3.5,678,$
+Sun Ha Jang,3.5,192,$$
+Monterey Hill,3.0,133,$$
+Big Dean's Oceanfront Café,4.0,480,$
+Mohawk Bend,4.0,2205,$$
+China Express,4.0,47,$
+Gateway Newstands,3.0,5,na
+SoDam DooRi Restaurant,3.5,87,$
+L.A. Kitchen,3.5,7,$
+TaRa Cafe & Grill,4.5,256,$
+Dona Marta's,3.0,27,$
+Tatang,4.5,200,$$
+HanKook Supermarket,4.0,184,$$
+Las Champas,3.0,19,$
+Malibu Yogurt & Ice Cream,3.5,158,$
+Kimukatsu,3.5,429,$$
+Wood Ranch BBQ & Grill,4.0,780,$$
+LA NUEVA FLOR BLANCO SALVADORENA GRILL Y MARISCOS,na,na,na
+RAND Corporation,5.0,6,na
+New Flooky's Restaurant,4.0,127,$
+Softcream,4.5,194,$$
+Nothing Bundt Cakes,4.5,169,$$
+Digitech Solutions,4.5,41,na
+Las Chinampas,4.5,161,$
+Hong Kong Express,3.5,19,$
+Pizza Pasha,4.0,88,$$
+Old Sicily Pizza,4.5,450,$
+W Hollywood,3.0,813,$$$
+Cold Stone Creamery,3.5,72,$$
+Okipoki,4.5,339,$$
+Le Chene French Cuisine,3.5,245,$$$
+JiST Cafe,4.0,1034,$$
+Trejos Tacos - La Brea,3.5,1396,$$
+Martino's Bakery,4.0,388,$
+Fish N More Seafood & Grill,4.0,223,$$
+Chevron Grill,4.5,26,$
+Robinas Indian Cuisine,3.5,248,$$
+Day Day's BBQ & Waffle House,4.5,801,$$
+Mickey Fine Grill,4.0,109,$
+Westlake Brewing & Libations,4.0,93,$$
+Taqueria El Jefe,4.0,65,$
+Dim Sum Express,3.5,444,$
+Zumayas Mexican Cafe,4.0,313,$$
+Master Fresh Donuts,4.5,47,$
+ROC Sawtelle,3.5,1598,$$
+Donuts Galore,4.5,52,$
+Q Sushi,4.0,281,$$
+Mayer's Bakery,3.0,119,$$
+Brite Spot,3.0,1051,$$
+Border Grill Downtown LA,3.5,923,$$
+Gwen Butcher Shop,4.0,431,$$$$
+Taqueria La Oaxaquena de San Juan,4.0,33,$
+Sushi & Roll,3.5,176,$$
+CAFE SUWARNIE,na,na,na
+French Market Cafe,4.0,522,$$
+Which Wich,2.5,41,$$
+SPEARMINT RHINO ADULT CABARE,na,na,na
+BALEENkitchen,3.5,604,$$
+Boba Master,4.0,143,$
+CARNICERIA RESTAURANTE LUPITA,na,na,na
+Yogurtland,3.5,49,$
+Plants & Lovers,4.0,104,$$
+Tenten Nail Bar,4.0,9,na
+La Forcaccia,4.5,15,$$
+La Fonda Antioquena,4.0,371,$$
+The Buffalo Spot,3.0,57,$$
+Hilton Los Angeles/Universal City,3.5,655,$$$
+HACIENDA HEIGHTS STEINMET2,na,na,na
+YOGISAN,na,na,na
+Jugos Azteca,4.0,315,$
+Nina's Cafe,4.5,359,$
+Daikokuya Little Tokyo,4.0,7856,$$
+Hot Pot Land,4.0,45,$$
+Pho Saigon,3.5,165,$
+The Falls,4.0,523,$$
+Thai Me Upp,3.5,464,$$
+Old Place Restaurant,4.5,893,$$
+Wendy's Donuts,3.5,55,$
+Schwartz Bakery,2.5,95,$$
+Tam's Burgers No 7,4.5,40,$
+Pepe's G. Tacos #2,4.0,6,$
+Cypress Best Burgers,3.5,100,$
+Vermont Karaoke And Billlards,3.0,86,$$
+Minibar Hollywood,4.5,47,$$
+Melody,4.0,152,$$
+The Cork,4.0,191,$$
+Lucy's Place,5.0,1,na
+Islands Fine Burgers & Drinks,3.5,353,$$
+Papa John's Pizza,2.0,53,$$
+Peet's Coffee & Tea,3.5,66,$
+SPOT RESTAURANT SPORTS VILLA,na,na,na
+E.B.'s Beer and Wine,4.0,54,$$
+"Piencone Pizzeria, Creamery & Pub",4.0,153,$$
+Resident,4.0,322,$$
+Hollywood Pies,4.0,830,$$
+Seafood Palace,3.5,64,$$
+Ramen Yamadaya,4.0,1403,$
+El Appetiz,4.0,172,$$
+Starbucks,1.0,1,$$
+Swirlz Soft Serve Parlor,4.0,40,$$
+El Tapatio Grill and Bakery,3.5,6,$$
+Yard House,3.5,1275,$$
+Lock & Key Social Drinkery and KiTCHEN,4.0,1363,$$
+Stone Grill,4.0,377,$$
+The Den on Sunset,4.0,554,$$
+Valintina Pizza,4.0,80,$
+Shaherzad,3.5,500,$$
+Whole Foods Market,3.5,96,$$
+Delancey,4.0,496,$$
+SABORES OAXAQENOS RESTAURANT,na,na,na
+B's Land Sports Bar & Karaoke,2.5,18,$$$
+Bulacan Bakeshop & Catering,4.0,23,$
+Carnitas Loya Fast Food,4.0,84,$
+Howling Juice,5.0,98,$$
+Golden Bull Restaurant,4.0,132,$$
+Best & Fresh Donuts & Ice Cream,3.5,6,$
+THE Z00 GRILL,na,na,na
+Grunions Sports Bar & Grill,4.0,157,$$
+Panda Express,2.5,52,$
+Newport Seafood Restaurant,4.0,2584,$$
+CoCo Fresh Tea & Juice,4.0,257,$
+Tere's Mexican Grill,4.5,173,$$
+The Coffee Bean & Tea Leaf,3.5,88,$
+Gauchos Village,3.5,888,$$$
+Cristina's Bakery,5.0,7,$
+The Kickin' Crab,3.5,236,$$
+China Beauty,3.5,23,$
+La Mexicana Bakery,3.0,22,$
+The Irish Times Pub & Restaurant,4.0,219,$$
+Rio Hondo Event Center,4.0,18,na
+Javier's Century City,3.0,596,$$$
+Red Ribbon Bakeshop,4.0,98,$
+Big Pop's BBQ and Grill,4.0,187,$$
+KAFFE MIRAGE,na,na,na
+Daikichi Sushi,4.0,4,$
+El Zocalo,3.0,27,$
+YOUNG ISRAEL OF CENTUARY CITY,na,na,na
+NUDA Juice & Wellness Shop,4.5,162,$$
+Great Khan Mongolian BBQ,3.0,48,$
+Sabor Mexicano,4.5,3,na
+Da Jeong Korean Cuisine,4.5,58,$$
+Tempura Endo,4.0,50,$$$$
+Tommy's Original World Famous Hamburgers,4.0,1142,$
+Starbucks,2.5,47,$$
+Yokohama Sushi,3.0,305,$$
+Boba Bear,4.0,337,$$
+Rose & Blanc Tea Room,4.5,61,$$
+Chios Peruvian Grill,4.0,396,$$
+O'Briens Irish Pub,4.0,314,$$
+WaBa Grill,3.5,27,$
+Alaska Seafood,4.5,90,$$
+Robeks Juice,5.0,12,$
+Denny's,2.5,204,$$
+Goody's Pizza & Chicken,3.0,90,$
+Perry's Café and Beach Rentals - Torrance Beach,3.5,19,$$
+Picasso's Cafe,3.5,118,$$
+Toscana,4.0,257,$$$
+Ding Tea Hacienda,4.0,79,$
+Ubatuba Acai Bowl,4.5,26,$$
+Pulgarcito Del Valle,4.0,4,$
+Panaderia Y Restaurante Mi Tierra,3.5,18,$
+Denny's,2.0,144,$$
+Xtra Bionicos Allexis,4.5,57,$
+Siroodang,4.0,9,$
+Mr BBQ Grill,3.5,190,$$
+KC's Crepes Cafe,4.0,722,$
+Fuji Sushi & Rolls,3.5,275,$$
+Bob's Market,4.0,192,$$
+Carl's Jr Green Burrito,2.5,44,$
+King Taco,3.0,507,$
+1st Street Burgers,3.5,67,$
+Hisaya Kyoto Chestnuts Cafe,4.0,41,$$
+Baskin-Robbins,3.5,25,$
+HOLDING CORP DOWNEY ELKS,na,na,na
+The Malibu Cafe,3.5,1794,$$
+CoCo Fresh Tea and Juice,3.5,87,$
+Red Rock-Sawtelle,4.0,66,$$
+Phat Noodles,4.5,105,$
+Honeyfish Poke,3.5,356,$$
+Midori Sushi,3.5,966,$$
+DUIDOUGH CAFE LLC,na,na,na
+Kanpai Japanese Sushi Bar & Grill,4.0,1340,$$$
+Los Angeles International Airport - LAX,2.5,5755,na
+Hokkaido Seafood Buffet,3.0,791,$$
+Mariscos Sol Y Mar,2.5,54,$$
+Co-opportunity Market & Deli,4.0,63,$$
+FUJISAN SUSHI@ SAM'S CLUB,na,na,na
+Panda Express,2.5,43,$$
+Cocohodo,4.0,199,$
+P.F. Chang's,3.0,474,$$
+Break Room 86,3.0,522,$$
+Chipotle Mexican Grill,3.0,166,$
+Happy Rice,3.0,9,$$
+Abby's Diner,4.0,203,$
+El Torito,3.5,233,$$
+Tortas Sinaloa,3.5,255,$
+Donut Inn,3.0,26,$
+Creme De La Crepe - Redondo Beach,4.0,589,$$
+Luau Larry's,3.5,470,$$
+Acapulco Mexican Restaurant Y Cantina,3.5,627,$$
+Vince's Pizza and Grill,3.5,74,$$
+Pico Kosher Deli,3.5,202,$$
+Menchie's Frozen Yogurt,3.5,17,$
+Lakewood Golf & Country Club,3.0,94,na
+Mongolian Hot Grill,3.5,101,$
+Tia Juanas Night Club,3.0,11,$
+Carson Center,4.0,19,na
+90 West Lounge,4.5,115,$
+Boran Thai Restaurant,4.0,217,$
+Torimatsu,4.0,146,$$$
+The Pie Hole,3.5,119,$$
+O Jang Dong,4.0,282,$$
+Poké Bar,4.5,97,$$
+Knockouts Gentlemen's Club,3.0,74,$$
+Domino's Pizza,2.5,91,$
+It's A Grind Coffee House,4.5,145,$
+Equinox Marina Del Rey,3.5,206,$$$
+It's Thai Hometaurant,3.5,493,$$
+Donut King,4.0,43,$
+Piccolo Paradiso,4.0,183,$$$
+Tender Greens,3.5,153,$$
+Oak Tree Lanes Bowling and Sports Bar,3.5,192,$$
+Chyn King,3.0,255,$$
+République,4.0,4440,$$
+Diamond Palace Chinese Seafood Restaurant,3.5,258,$$
+Ruben Salazar Park,2.5,3,na
+BASILEIA CAFE,na,na,na
+Virgin Atlantic,3.0,87,na
+Durango's Restaurant,3.0,98,$$
+Sushi Ye,4.5,229,$$
+GUCKENHEIMER@JUSTFAB,na,na,na
+Donuts & Sandwich Station,3.5,31,$
+Book Sae Tong,4.5,45,$$
+Sushi Danku,4.5,139,$$
+Izzy's Tacos,5.0,1,na
+Ben & Jerry's,2.5,46,$
+Tamales Los Angeles,4.5,54,$
+LE PETIT PATISSERIE,na,na,na
+Il Tramezzino - Beverly Hills,4.0,532,$$
+Inti Restaurant,4.5,255,$$
+Fun Fish Market,3.0,108,$$
+New Mandarin Noodle Deli,3.5,183,$
+An Indian Affaire,4.5,437,$$
+Little Caesars,4.0,24,$
+Aloha Pizza & Shave Ice Company,4.5,655,$$
+Howlin' Ray's,4.5,4300,$$
+Pig 'n Whistle,3.0,683,$$
+Yoshida,4.0,664,$$$
+Asha Indian Restaurant,4.5,454,$$
+Faith & Flower,4.0,2155,$$$
+Panaderia Los Reyes,4.5,5,$
+Sticky Rice,4.0,797,$$
+Szechuwan Garden,3.0,223,$$
+The Alumni Sports Restaurant,4.5,82,$
+Kusina Filipina,3.5,218,$$
+CASA ESCOBA WILSHIRE,na,na,na
+Tosai Sushi,4.0,22,na
+Thailand House,3.5,53,$
+Han Bat Shul Lung Tang,4.5,1905,$
+WME COMMISSARY,na,na,na
+Redbird,4.0,1169,$$$
+R B PERFORMINGARTS CTR/EAST,na,na,na
+Sáu Can Tho Vietnamese Kitchen,4.0,73,$$
+Mr. Kabob,4.0,577,$$
+Donahoo's Golden Chicken,4.0,541,$
+The Wine Cave,4.0,101,$$
+Bebinca,3.5,85,$
+Carlo's Bake Shop,2.5,193,$$
+Giulia,4.0,235,$$
+Which Wich,2.5,19,$
+Asia Buffet,2.5,152,$$
+Sam's Pizza,4.0,107,$
+Sarita's Pupuseria,4.0,614,$
+King's Bakery,3.5,6,$
+Mike's Original Diner,3.5,155,$$
+Greenbelt,4.0,305,$$
+Lerd Rod Thai Food,3.5,12,$
+Phillips Ranch Health Bar,4.0,270,$
+Tacos Delta,4.0,533,$
+Delicias De Mexico,4.0,31,$
+Blue Bottle Coffee,3.5,254,$$
+TacosWay,2.5,452,$$
+Alex Theatre,4.0,95,na
+Mayas Tacos Market,4.0,146,$
+Whole Foods Market,3.0,289,$$$
+Maison Rafi,5.0,11,$$
+The Riviera Country Club,4.5,59,na
+House Of Boba,4.0,40,$
+Shanghailander Palace,3.0,48,$$
+Calamigos Ranch,4.5,228,na
+Best Century Donuts,3.5,5,$$
+Movita Juice Bar,4.5,76,$$
+Wienerschnitzel,2.5,41,$
+Light & Healthy Sushi Bar,4.0,190,$$
+Waterworks Aquatics Pasadena,4.5,352,na
+Stolichnaya Bakery,3.5,153,$
+Melkam Ethiopian Restaurant,4.5,11,$
+Nuevo San Miguel,3.0,196,$
+The Whole Wheatery,4.0,136,$$
+Madre Oaxacan Restaurant and Mezcaleria,4.0,699,$$
+Douglas Drive-In,4.0,40,$
+Cinemark Playa Vista and XD,3.5,318,na
+IHOP 939,na,na,na
+Casita Lopez,4.0,74,$
+Rock & Brews - El Segundo,4.0,1235,$$
+Auntie Ping Kitchen,4.0,35,na
+Ginger Thai Cuisine,4.0,199,$$
+Subway,1.0,3,$
+Cabaret Versatile,5.0,11,na
+Tea Republic,3.5,347,$
+Patra Burgers On Sunset,3.5,131,$
+Ameci Pizza Kitchen,4.5,68,$
+Mr Boba,4.0,118,$
+Rock Store,4.0,98,$$
+Woodland Hills Market,3.5,131,$$
+Panaderia Almazan,3.5,27,$
+Subway,3.5,7,$$
+Norm's Famous Charbroiled Hamburgers,3.5,276,$
+La Superior Panaderia and Tortilleria,4.0,5,$
+Le Petit Bakery,3.0,2,$$
+La Flor Blanca Restaurant,4.0,49,$
+Potato Corner,4.0,236,$
+Kinza Sushi,4.5,530,$$
+Niko Niko Sushi,4.0,295,$$
+Red Ribbon Bakeshop,3.5,77,$
+Cafe Dulce,4.0,2025,$
+Café Meli Mellow,4.5,31,$$
+Subway,2.5,23,$
+Rock House Sliders,4.0,146,$
+California Fish Grill,4.0,750,$$
+Daily Donut House & Sandwich,3.5,29,$
+Diamond Club,4.0,27,na
+Astro Burger,4.0,664,$
+Bäco Mercat,4.0,2453,$$
+Hotel Casa 425,3.5,55,$$
+Wetzel's Pretzels,3.0,32,$
+Red Maple Cafe,4.5,422,$$
+Ray's Tepeyac,4.0,393,$$
+La Bamba Island Cuisine,4.0,526,$$
+Full O' Life,4.0,101,$$
+Tentenyu Ramen - Culver City,3.5,152,$$
+American Legion Post 341,3.0,3,na
+Bagelicious,3.0,66,$
+Tacoteca,3.5,233,$$
+Trimana Grill,4.0,116,$
+Penthouse Lounge & Nightclub,2.0,13,$
+Jim's Donuts & Ice Cream,3.5,7,$
+BRITTS  BBQ  LLC,na,na,na
+V Cafe,4.0,178,$$
+Indochine Vien,3.5,345,$$
+Curry House,3.5,591,$$
+Larry's Chili Dog,4.5,366,$
+Gourmet 88 Burbank,3.5,512,$$
+Las Segovias Nicaraguan Restaurant,4.0,83,$$
+Jersey Mike's Subs,3.5,82,$
+La Morena Bakery,4.5,14,$
+Cinnabon,1.5,16,$
+Kote Dae Ji Korean BBQ,2.5,155,$$
+Superior Wok,4.0,24,$
+KOBUNGA,4.5,119,$$
+MRS. FIELDS COOKIES SKG,na,na,na
+The Habit Burger Grill,3.5,188,$
+Christy's Donuts,4.0,8,$
+Café de Olla,4.5,1493,$$
+Deja Vu Showgirls,3.0,66,$$
+The Desert Room,4.0,57,$
+EL MEZQAL HALL,na,na,na
+Carl's Jr,2.0,98,$
+Phoenix Food Boutique,3.5,403,$
+Link N Hops,4.0,421,$$
+Walmart Supercenter,3.0,110,$
+El Comal,4.5,32,$
+Electric Owl,4.0,233,$$
+Chipotle Mexican Grill,2.5,266,$
+Metapan Restaurant,3.5,98,$
+Boardner's,4.0,411,$$
+Saddle Peak Lodge,4.0,594,$$$$
+Love Baked Wings,4.0,323,$$
+Vons,3.0,138,$$
+Mrs Fields Cookies,3.0,8,$
+Manhattan Bagel,3.0,108,$
+Shawarma Land,4.0,130,$
+Nrgize,4.5,2,$$
+Metro Freeway Service Patrol - 511,4.5,164,na
+Coronados Mexican Restaurant & Bar,3.5,247,$$
+RIGO TACOS MEXICAN AUTH FOOD,na,na,na
+Universal Bar & Grill,3.0,94,$
+Hungry Howie's Pizza,4.0,66,$
+Maple Restaurant,4.0,2,$
+Beachwood Cafe,3.5,394,$$
+Spin the Bottle Wine Studio,4.5,74,$$
+Tacos and Fries,4.0,53,$
+ampm,2.0,10,$$
+US Chinese Food,4.0,14,na
+Swanya Thai Cuisine,3.5,321,$$
+Kali Restaurant,4.5,410,$$$
+El Camaron Mariscos,5.0,10,$
+Domino's Pizza,2.5,70,$
+Cactus Coffee,4.5,133,$
+The Arsenal,4.0,727,$$
+Rancho Grande Restaurant,2.0,3,$$
+Quality Seafood,4.0,1188,$$
+Norwalk Elks Lodge,3.5,7,$
+Roberta's Village Inn,4.0,183,$
+Sugar Babies Cupcakery Truck,4.0,10,$$
+Uncle Stavros,3.5,115,$$
+Marina Bar & Grill,3.5,12,$$
+Grace Cafe,4.5,82,$
+Eagle LA,4.0,127,$
+Chipotle Mexican Grill,2.5,26,$$
+Marcelino's Cafe,4.5,4,$$
+Dana Café Boba,4.5,6,$
+Honeyboba,3.0,221,$
+Mrs Fields Cookies,4.0,14,$$
+Satdha Plant-Based Thai Kitchen,4.5,647,$$
+Versailles,4.0,1378,$$
+Edwards West Covina Stadium 18,3.0,355,na
+Pico Rivera Senior Center,4.5,2,na
+The Honor Bar,4.5,1411,$$
+Valentino's Pizza,3.5,84,$
+M Street Kitchen,3.5,1166,$$
+Zebra Cafe,2.0,1,na
+Burgers and All,4.0,67,$
+Flame Broiler,3.0,120,$
+Mandarin Island,3.5,291,$$
+Hibachi Super Buffet,2.5,212,$$
+MASSIS KABOB INTL GRILL,na,na,na
+Enterprise Fish,3.5,1760,$$
+Slauson Donuts,4.0,20,$
+Gourmet Romano,4.5,101,$$
+Big Jim's Donuts,4.0,67,$
+La Fogata Mexican Restaurant,4.0,619,$
+Lum-Ka-Naad,3.5,315,$$
+Jersey Mike's Subs,3.5,99,$$
+The Cue Ball,3.0,100,$$
+Avolio's Italian Restaurant,4.0,367,$$
+Chick-fil-A,4.0,463,$
+Tocaya Organica - Santa Monica,4.0,322,$$
+Miss Donuts and Bakery,3.5,33,$
+Rosa's Restaurant,4.0,204,$
+Amazing Siam Thai Restaurant,4.5,623,$$
+Jersey Mike's Subs,3.0,40,$
+Fruit Revolution,4.5,113,$
+Ella Banquet & Lounge,5.0,6,na
+Anarbagh Indian Cuisine,4.5,1194,$$
+Velvet Margarita,4.0,1126,$$
+PESCADERIA PUERTO VALLARTA,na,na,na
+Sonic Drive-In,2.5,226,$
+The Coffee Bean & Tea Leaf,4.5,37,$$
+Costa Del Sol,3.5,37,$
+Up th' Hill,4.0,38,$
+Button Mash,4.0,521,$$
+Vaquero Mexican Grill,4.0,36,$
+The Habit Burger Grill,3.5,161,$
+Yellow Vase,3.0,297,$$
+SIR Pizza'n'chicken,4.0,192,$
+Metro Los Angeles,2.5,127,na
+Yoshinoya Crenshaw & 29th St.,2.0,24,$
+Tijuana's Tacos,4.0,693,$
+Fonda Don Chon,4.5,1592,$$
+Sweet Lady Jane Bakery,3.5,603,$$
+Flame Broiler,3.0,29,$
+Starbucks,2.0,53,$
+The Barrel,3.5,129,$
+Round Table Pizza,4.0,126,$$
+Los Tres Cochinitos Restaurant,4.5,136,$
+Gungjung Sulrungtang,3.5,148,$$
+Kreation Organic Juicery,4.5,162,$$
+El Pedregal,1.5,4,na
+Second City Bistro,3.5,305,$$
+Uncle Yu's Indian Theme Restaurant,3.5,629,$$
+California Roll Factory,4.0,623,$$
+The Capri Italian Restaurant,4.0,495,$$
+Bernadette's,4.5,53,$$
+Foothill Cinema 10,3.5,172,na
+Soowon Galbi KBBQ Restaurant,4.5,2375,$$
+Coach's Bar & Grill,4.5,62,$
+Baskin-Robbins,4.5,23,$
+Carolyn Rosas Park,3.5,7,na
+Della Terra,4.0,548,$$
+Little Caesars,4.0,24,$
+Pinches Tacos,3.5,200,$
+Molly Malone's,3.5,235,$$
+China Red,3.5,490,$$
+El Capiro,4.5,7,$
+Melt Gelato & Crepe Cafe,4.0,355,$
+Jersey Mike's Subs,3.5,142,$
+The Coffee Bean & Tea Leaf,3.0,89,$
+Choura Venue Services,4.0,2,na
+Palisades Pizza,3.5,102,$$
+Cemitas Poblanas,3.0,67,$
+Nobu Los Angeles,4.0,1130,$$$$
+Phat Birds,4.0,108,$$
+Factor's Famous Deli,3.5,511,$$
+Tacos El Zorro,4.0,78,$
+Boiling Point,3.0,621,$$
+El Chalateco,4.5,14,$
+Jersey Mike's Subs,3.5,93,$
+Babalu Cafe,4.5,12,$
+Monty Bar,4.0,192,$$
+Il Garage,4.0,220,$$$
+Ono Hawaiian BBQ,3.5,83,$$
+Cojutepeque Restaurant,3.5,34,$$
+It's All Good House of Kabob,3.5,142,$$
+Apothecary Cafe,4.0,10,$
+Metro Rapid Line 704,4.0,14,na
+Taqueria San Jose,4.0,21,$
+Home Restaurant - Los Feliz,4.0,2555,$$
+Domino's Pizza,2.5,47,$$
+Laurel Tavern,4.0,112,$$
+Village Pizzeria,4.0,1350,$$
+WETZE'S PRETZELS STORE,na,na,na
+THE KIREN HUT,na,na,na
+Buca di Beppo Italian Restaurant,3.0,551,$$
+The Counter,3.5,415,$$
+Vincenti Ristorante,4.0,193,$$$
+The Cajun Belle,4.0,60,$$
+Amazebowls,4.5,280,$$
+Macho Pollo,4.5,40,$
+Yoshinoya West Avenue K & 10th St.,3.0,61,$
+Home Style Donuts,4.0,26,$
+Seafood Town Chinese Restaurant,3.5,426,$$
+Good Shine Kitchen,3.5,124,$
+Novacane Sports Bar & Grill,4.5,210,$$
+RC Burgers,3.0,36,$
+Lee's Sandwiches,3.0,405,$
+Jim's Famous Quarterpound Burger,4.0,314,$
+Thai Stops,3.5,120,$
+Robeks Juice,4.0,91,$
+Adu Burger,3.5,8,$
+Philz Coffee,4.5,832,$
+10 Speed Coffee-Calabasas,4.5,184,$$
+Jenny's Country Kitchen,4.5,595,$
+Lemonade,3.5,479,$$
+Dynasty Club,1.0,1,na
+Spudnuts Donuts,4.0,52,$
+Exotic Thai Cuisine,4.0,388,$$
+Ameci Pizza & Pasta - Manhattan Beach,3.5,171,$
+Barrel & Ashes,3.5,1251,$$
+TeaPot Bakery & Cafe,4.5,61,$
+Lola's Baja Tacos,4.0,973,$$
+Sweet House,4.5,10,$
+Firehouse Subs,4.0,126,$
+La Villita Cantina,4.0,119,$$
+T's Thai,3.0,306,$
+Casa Jimenez,3.5,109,$$
+Mariscos Ensenada,2.5,9,$
+Manhattan Bagel,3.5,69,$
+Penny's Family Restaurant,3.0,110,$
+The French Crepe Co.,3.5,525,$$
+SteamPunk CoffeeBar & Kitchen,4.5,1251,$$
+Gardens Bar & Grill,4.0,71,$
+Menchies Frozen Yogurt,4.0,31,$
+Meat Bowl,5.0,116,$
+The Coffee Bean & Tea Leaf,3.5,12,$
+Shintaro Sushi,4.0,482,$$
+Philippe the Original,4.0,5731,$
+California Institute of the Arts,4.0,17,na
+Gen Korean BBQ House,4.5,2863,$$
+Red Ginger Thai & Sushi,4.0,233,$$
+BILLARES TECA,na,na,na
+BOWLKING BOBAKING,na,na,na
+KFC,3.5,23,$
+Halo Top Scoop Shop,3.5,50,$$
+Lucky Guy's Burgers,4.0,56,$
+Yaqui,3.5,12,$
+Il Piccolino,4.0,193,$$$
+Concert Hall Café,3.0,28,$$
+Target,3.0,460,$$
+LA Rose Cafe,4.0,858,$$
+Sola Japanese Izakaya Dining,4.5,135,$$
+Honey's Kettle Fried Chicken,3.5,2616,$$
+The Coffee Bean & Tea Leaf,4.0,149,$
+El Burrito Jr,3.5,183,$
+Los Compadres Restaurant,4.0,22,$
+Sheraton Cerritos Hotel,3.0,199,$$
+Black Angus Steakhouse,3.5,351,$$
+Charlie's Trio,4.0,351,$$
+Very Very Rice Cake Studio,4.5,48,$$
+Tenants of The Trees,2.0,272,$$
+Ginza Grill,2.0,78,$
+The Landmark,4.5,953,na
+Dona Amalia,3.5,67,$$
+King of Crabs,4.5,177,$$
+Los 3 Compadres,3.5,12,$$
+Jinky's Cafe Santa Monica,3.5,712,$$
+SOCORROS RESTAURANT INC.,na,na,na
+Taco Bell,1.5,93,$
+Launica Mexican Food & Bakery,5.0,1,na
+Restaurante Amalias,4.0,55,$$
+Founder's Room,4.5,3,na
+Hollywood Hookah Lounge,2.5,298,$$
+Carney's Express Limited,4.0,533,$
+Westlake Yacht Club,4.0,6,na
+Las Coronas Grill,4.0,37,$
+Pan Victoria,3.0,33,$
+"SUSHIC WEST, LLC",na,na,na
+ISA Japanese Restaurant,3.5,463,$$
+Leo's Mexican Food,3.5,23,$
+Club 21,3.0,10,$
+5 Line Tavern,4.0,351,$$
+CHELY'S SNACK SHOP,na,na,na
+Jing's Donut & Bakery,4.0,9,$
+Las Llamas Pollos,4.0,76,$$
+Il  Ristorante di Giorgio Baldi,3.5,396,$$$$
+VIP's Cafe,4.0,423,$
+ANGELS SOFTBALL & BASEBALL ACADEMY OF ROSEMEAD,na,na,na
+Rio Verde Pupuseria,3.5,23,$
+Fish Dish,3.5,425,$$
+Subway,2.5,7,$
+Barnes & Noble Booksellers,4.0,96,$$
+Bottega Louie,4.0,15786,$$
+YWCA INTERVAL SENIOR SERVICE,na,na,na
+El Pariente,3.5,11,$$$$
+Chunju Han-il Kwan,4.0,685,$$
+La Champita,4.0,92,$
+Subway,3.0,9,$
+Vino Wine & Tapas Room,4.0,840,$$
+Jamba Juice,3.0,84,$
+Holy Crab,3.5,493,$$
+Beeps Fast Food,4.0,605,$
+Subway,2.5,28,$
+Johnny Rockets,3.0,79,$$
+Queen of Sheba Ethiopian restaurant,4.5,21,$$
+Luminarias,3.5,665,$$
+Hennessey's Tavern,3.5,716,$$
+Panzanella Ristorante,4.0,381,$$$
+Viet Huong Restaurant,4.0,709,$
+JJ Bakery,3.5,726,$
+MTN,3.0,205,$$$
+It's Boba Time,3.5,331,$
+KFC,1.5,46,$
+Pili's Tacos,3.0,97,$
+Philz Coffee,4.5,1562,$
+Cinemark Downey & XD,3.5,372,na
+The White Harte Pub,4.0,447,$$
+EAST WEST FISH MARKFET,na,na,na
+DISCIPLINA SALUDABLE CLUB,na,na,na
+Pollo Campero,3.0,60,$
+Napoli Pizza,3.5,19,$
+Hanabishi By Kyushu Ramen,3.5,801,$$
+The Cajun Bayou,4.0,66,$$
+Doreen's Tropical Fruit,4.0,15,$
+Porta Via Beverly Hills,3.5,316,$$
+Bud Namu Korean BBQ,3.0,1202,$$
+Caramba Sports Bar,3.0,5,$$
+The Green Horse Nightclub,4.5,41,$
+Men Oh Tokushima Ramen,4.0,1124,$$
+Torrance Bakery,4.0,927,$
+The Cheesecake Factory,3.5,1060,$$
+Shabuya,4.0,337,$$
+Biriyani Kabob House,4.5,707,$
+Domino's Pizza,2.0,41,$$
+Top Sushi,4.5,248,$$
+New York Bagel Co.,4.0,205,$$
+Pinkberry,3.5,97,$
+Garcias Fruits,4.5,413,$
+Protini Bar,4.5,111,$$
+Ma'Kai Lounge,2.5,571,$$
+Donut Galore,4.5,8,$
+Domino's Pizza,2.0,43,$$
+Antojitos Cuquio,5.0,1,$
+Blue Dog Beer Tavern,4.0,1746,$$
+LA CHUPERIA THE TORTA SPOT INC,na,na,na
+Donut King,4.5,27,$
+Prime Cut Beef Jerky,5.0,45,$$
+Super Tacos Culiacan,3.5,20,$$
+Taco Bell,4.0,38,$
+Antigua Bread,4.0,269,$
+Tocaya Organica - Century City,4.0,150,$$
+Don Cuco Mexican Restaurant,3.5,393,$$
+The Lion Cafe- Peet's Coffee,2.5,11,na
+Hamasaku,4.0,445,$$$
+Gringo's Fish Tacos & Mariscos,3.0,146,$$
+Faubourg,4.0,113,$$
+Food and Bounty,2.5,26,na
+Poki Yo,4.0,57,$$
+MERCADO LA CACHANILLA,na,na,na
+Jennifer Pennifer Bakes,4.5,64,$
+Cafe 50's,3.5,898,$$
+AMERICAN LEGION POST 46,na,na,na
+Tak's Coffee Shop,4.5,116,$
+Cuvee,3.5,122,$$
+Tramp Stamp Granny's,4.5,65,$$
+Tra di Noi,3.5,297,$$
+"Tacos Estilo Sinaloa ""El Grullo""",4.5,50,$
+J K Donuts,4.5,58,$
+Pei Wei,3.5,181,$
+Tender Greens,3.5,360,$$
+The Bazaar by José Andrés,4.0,3632,$$$$
+Zelda's Corner,4.5,427,$
+LA Paella,4.0,587,$$$
+Boys & Girls Clubs of The South Bay,5.0,5,na
+Umami Burger - Hollywood,3.5,1669,$$
+Chuy’s Tacos Dorados,4.5,60,$
+California Donuts,4.0,2561,$
+Taco King,3.0,154,$
+LA NUEVA PAZ  RESTAURANT,na,na,na
+La Flor De Izote Restaurant,3.5,85,$
+Rice Express,3.0,60,$
+RINCON HODURENO,na,na,na
+Ras Noodle,4.5,250,$
+99 Ranch Market,3.5,155,$$
+El Michoacano,4.0,14,$
+Alhambra Cocktail Lounge,4.0,9,$
+Shin-Sen-Gumi Hakata Ramen-Gardena,4.5,2584,$$
+CUPOCORN,na,na,na
+Marie Callender's Restaurant and Bakery,3.5,201,$$
+Wabi Sabi Teppan Steak House & Sushi Bar,3.0,151,$$
+Talas Restaurant,4.0,32,$
+Tokyo Grill,3.5,96,$
+Glitterati Tours,5.0,10,na
+Ding's Garden,4.0,604,$
+Dragon Express Chinese Restaurant,3.5,39,$
+Pho 999,3.5,771,$
+Gorditas Durango Mexican Grill,3.0,45,$
+Secret IZT,4.5,18,na
+Zankou Chicken,3.5,357,$$
+Donut Friend,4.5,1998,$
+Balam Mexican Kitchen,4.5,522,$
+Olive & Grill,4.0,175,$$
+Blind Dragon,3.0,20,$$$
+Happy Lemon,4.0,205,$
+Muse Karaoke,3.5,50,$
+The Palm Coffee Bar,4.5,87,$$
+Gyromania,5.0,541,$$
+Nachos Mexican Food,4.0,77,$
+20/20 The Cafe,5.0,50,na
+Marugame Monzo,4.5,3142,$$
+MIAN | 滋味小面,4.0,882,$$
+Chinatown Express No 51,3.0,60,$
+5.2 Patio,4.0,143,$
+Hotel Casa Del Mar,4.0,356,$$$
+La Cocina Bar & Grill,3.5,133,$$
+Taco Safary Mexican Food,4.0,11,$
+Marmalade Cafe - Malibu,4.0,670,$$
+The Wheel,4.0,39,$
+Maggie's Donuts,4.0,46,$
+Giuseppe's Pizzeria,3.5,271,$$
+Los Cabos Tacos Y Mariscos,4.5,198,$
+DeSano Pizza Bakery,4.5,977,$$
+Nijiya Market,4.0,572,$$
+Pancho's Tacos,3.5,137,$
+LA Fitness,3.0,627,na
+Taqueria La Fogata,3.0,47,$
+Market Street Bar & Grill,4.5,97,$
+Locale90 Neapolitan Pizza Market,4.0,307,$$
+El Comalito,4.0,21,$
+Jitlada,3.5,1790,$$
+City Kitchen,4.5,102,$$
+Wendy's,3.0,110,$
+Dong II Jang Restaurant,4.0,567,$$
+Malibu Farm Pier Cafe,4.0,1371,$$
+Madre,4.0,560,$$
+Samosa House El Segundo,4.5,217,$$
+Buffalo Wild Wings,2.0,554,$$
+Family Fish Market,4.0,157,$
+Yojié Japanese Fondue,4.0,1310,$$
+Crawford's Pass,4.0,109,$$
+Sorrento Italian Market,4.5,415,$
+Meea's,4.5,276,$
+Brown Donkatsu,3.5,50,$$
+Shibuya,4.5,598,$$$
+L.A. Italian Kitchen,3.0,37,$
+DTLA RAMEN,4.0,407,$$
+Burger King,1.5,56,$
+Pepe's Tacos,4.0,487,$
+Gaby's,3.0,45,$$
+Baskin-Robbins,4.0,18,$
+Crowne Plaza Los Angeles International Airport,3.0,344,$$
+Something Healthy,4.0,492,$
+Yum Yum Donuts,3.5,44,$
+DELUCIA COCINA BAR,na,na,na
+Press Brothers Juicery,4.5,175,$$
+SomiSomi,4.5,1475,$
+Wetzel's Pretzels,2.0,16,$$$
+Trimana,4.0,66,$
+Pho Show,3.0,503,$$
+"Albert A Reff, MD",4.0,24,na
+Antonio's Restaurant,3.5,257,$$
+Viking Pizza and Kabob,4.5,187,$
+CDS@ROCKETDYNE,na,na,na
+RHS Photos,5.0,16,na
+El Compadre,3.5,1482,$$
+Courtyard Cafe,4.5,168,$
+LA Yimone,4.5,20,$
+Allure Banquet Hall,4.5,92,na
+India's Tandoori Hollywood,4.5,30,na
+Basil Cafe,3.5,47,$
+Earl of Sandwich,3.5,44,$$
+El Huarache Veloz,3.0,138,$
+JR's Barbeque,3.5,539,$$
+Fish Eight by Jinpachi,4.0,53,$$
+Slusheeland,4.5,311,$
+Chef Hannes Restaurant,4.0,201,$$
+Sharky's Woodfired Mexican Grill,3.5,208,$$
+KFC,2.0,46,$
+Some Crust Bakery,4.0,958,$
+M Grill,4.0,1780,$$$
+Vista Theatre,4.5,729,na
+Mayflower Gardens,4.0,1,na
+Hacienda Village Meat & Italian Deli,4.0,166,$
+Thai Food Express,4.5,371,$
+Michael's Cajun Seafood,3.5,497,$$
+A Cut Above Butcher Shop,4.5,269,$$
+Snug Harbor,3.5,30,$
+26 Beach Restaurant,4.0,2809,$$
+Tom's Jr's Burgers,3.5,36,$
+Dhaba Cuisine of India,3.5,237,$$
+Sun Moon Garden,4.0,140,$
+VIVIA JALISCO MEXICAN RESTAURANT,na,na,na
+Pez Cantina,4.0,729,$$
+Fish-O-Licious,4.0,296,$$
+Marco's Pizza,4.0,70,$$
+"SLS Hotel, a Luxury Collection Hotel, Beverly Hills",3.5,780,$$$
+Hollywood Thai,4.0,427,$$
+Newport Seafood Restaurant,4.0,2584,$$
+Lupe's Lunch Room,4.0,25,$
+Donuts Plus,3.5,33,$
+The Bellwether,4.0,526,$$
+Eight Korean BBQ,4.5,1541,$$
+Hillstone,4.0,953,$$$
+Plaza Marketplace,2.5,6,$$
+Nutrition Solutions Juice Bar,2.5,3,na
+Busby's West,3.5,650,$$
+Pete's Blue Chip,4.0,316,$
+Jinza Teriyaki,4.5,413,$
+Kathy’s Bakery Bros.,4.5,12,$
+Hong Kong Express,3.0,78,$
+Bon Appetit,4.5,15,$
+Blossom Restaurant,3.5,1051,$$
+The Petal Workshop,5.0,86,$$
+OB's Pub & Grill,3.5,177,$$
+Chema's Tacos,4.5,281,$
+Restaurante Tijuana,3.0,163,$
+Hash,4.0,501,$$
+BEAN SPROUTS INSIDE DISCOVERY CUBE,na,na,na
+Naturewell,4.5,260,$$
+Lucky Donuts & Croissants,4.0,30,$
+Sassafras,4.0,592,$$
+Las Palmas Cafe,3.5,61,$$
+Jersey Mike's Subs,4.0,28,$
+Eagle's Nest Saloon,3.5,25,$$
+Black Elephant Coffee,4.5,115,$
+Papa John's Pizza,2.0,69,$$
+Buchones Bar,5.0,4,$
+Hae Jang Chon Korean BBQ Restaurant,4.0,4373,$$
+Bruddah's Bar & Grill,3.5,111,$$
+Subway,3.5,16,$
+Kapoor's Akbar Indian Restaurant,4.5,116,$$
+Popeyes Louisiana Kitchen,2.0,145,$
+Grill 'Em All,4.0,2211,$$
+Jersey Mike's Subs,3.5,110,$
+Bottega Louie,4.0,15786,$$
+MONSTY BIONICOS,na,na,na
+Lupe's Place,3.5,98,$
+Togo’s Sandwiches,3.5,75,$
+Big Al's,3.5,36,$
+FRESKOL DRINKS,na,na,na
+Taco Limon,3.0,36,$
+Thai Dishes Valencia,3.5,275,$$
+Rolling Hills Country Club,4.0,20,na
+OUMI SUSHI @ SPROUTS 257,na,na,na
+Captain Tony's Pizza & Pasta Emporium,3.5,48,$
+THE 20/20 BAR & GRILL LA CASA DE LAS MICHELADAS,na,na,na
+Holy Guacamole,3.5,462,$
+NARA Mediterranean Bistro and Lounge,3.5,205,$$
+Lum-Ka-Naad Thai Restaurant,4.0,1163,$$
+Niko Niko Sushi,4.0,212,$$
+Boba Loca,3.0,60,$
+China Express,2.5,16,$
+The Coffee Bean & Tea Leaf,4.0,183,$
+Kitchen Story,4.0,392,$$
+Bambou Le Pho,4.5,943,$$
+Vic's Tacos,3.5,161,$
+Salsa & Beer,4.0,2766,$$
+El Picosito Taqueria,4.0,192,$
+Pollo Campero,3.0,77,$
+Mariscos Rosarito,4.5,106,$
+San Dimas Wine Shop & Tasting Room,4.5,74,$$
+Hot Basil Affair,4.5,2,na
+El Buen Sabor,3.5,28,$
+El Indio Azteca,2.5,34,$
+Pho Mely,3.5,205,$
+Master Zhou,3.5,22,$
+King Food,4.5,6,$
+Domino's Pizza,2.5,81,$$
+Banh Oui,4.5,78,$$
+Subs N Wich,4.5,6,na
+Baked in LA,4.5,32,$
+Tacos Y Mariscos Sahuayo,4.5,27,$
+Renu Nakorn,4.0,540,$$
+The Harvest Bar,4.5,536,$$
+Ruben Tacos,1.0,1,$
+Burger Lounge,4.0,375,$$
+LAKESIDE GOLF CLUMB RESTAURA,na,na,na
+Agaves Kitchen & Tequila,3.5,740,$$
+HK Chicken,4.5,22,$
+Q Nails and Spa,3.5,324,$$
+Saban Theatre,3.5,223,$$$
+Sakura Japanese Restaurant,4.0,852,$$
+Bluestone Lane,4.5,78,$$
+One One Dumplings,4.5,87,$
+Panera Bread,3.5,155,$
+Guatemalteca Bakery & Restaurant,4.0,26,$$
+El Borrego Mexican Restaurant,4.5,172,$
+Hot Wings Cafe - Melrose,4.0,777,$$
+LucaBella Fine Foods,4.5,320,$$
+SOCORROS RESTAURANT INC,na,na,na
+The Flame Broiler,3.5,210,$
+Galleria Tonkatsu,4.0,25,$$
+Chennai Tiffins,4.0,234,$$
+SIZZLER USA RESTAURANTS INC,na,na,na
+The Truck Stop,4.0,22,na
+Masa of Echo Park,4.0,3771,$$
+K1 Speed,4.0,469,na
+El Zarape Melrose,4.5,112,$$
+The Room Hollywood,3.5,370,$$
+Frutas Go Wild,3.0,59,$
+Tru Nature Juice Bar,4.5,530,$
+Elite Restaurant,3.5,1613,$$
+Louisiana Fried Chicken,4.0,86,$
+Casa Chapina Restaurant,3.5,15,$
+Fraternal Order of Eagles,4.0,1,na
+Lemonade,3.5,479,$$
+Taste of Mexico,5.0,1,na
+Steven's Steak & Seafood House,3.5,824,$$
+Sushi Sasabune,4.5,221,$$$$
+Courtyard by Marriott,3.0,29,$$
+Pronto Pizza,3.0,7,na
+Pailin Thai Cuisine,4.5,377,$
+Papa John's Pizza,2.5,45,$
+California State University Los Angeles,3.0,189,na
+The Lash,3.5,193,$$
+Mackay's Donuts,3.5,38,$
+Ground Up Coffee,5.0,188,$$
+Ameci Pizza & Pasta - North Hollywood,3.5,132,$
+Jamba Juice,3.0,43,$$
+MATTEL TOYS CAFETERIA,na,na,na
+Olmos Bar,3.0,3,$
+Pronto Pizza,4.0,36,$
+Mi Bandera Pupuseria,4.5,14,$$
+Xevichez Sushi Bar,3.0,1165,$$
+Menchie's Frozen Yogurt,4.0,54,$
+Rocco's Deli Italiano,4.5,518,$
+Dunkin Donuts,2.5,103,$
+Langosta Ranchera,4.5,130,$$
+Antigua Coffee Roasters of WeHo,4.0,10,$$
+Greens Up!,4.0,114,$$
+Bodega Wine Bar,4.0,884,$$
+Sun Donut,3.0,3,$
+Tenmimi,4.0,106,$$
+Mariscos Mazatlan,4.0,68,$
+Beverly Hills Thai Kosher,4.0,144,$$
+Fogo de Chão Brazilian Steakhouse,4.0,3587,$$$$
+Chuyitas Jericallas,4.0,8,na
+Ben & Jerry's Venice Beach,5.0,19,$$
+Pho 2000,3.0,368,$
+Avalon Grille,3.5,843,$$
+Wolfgang Puck Express,3.5,123,$$
+El Cafetal Salvadorian Restaurant,4.0,38,$$
+Chris's Burgers,4.0,421,$
+Ten Shabu,4.0,539,$$
+Fourteen Restaurant and Lounge,2.5,12,$$
+Ichimi-an,4.0,228,$$
+Bark Coffee,4.5,51,$
+Fox Rent A Car,1.5,1825,na
+Hagelbargers,3.0,12,$
+Urbane Cafe,4.0,224,$
+Yogurt Haven,4.0,253,$
+El Tacorin,4.5,45,$
+Yummi Chinese Fast Food,3.5,38,$
+Dojo Sushi,4.5,621,$$
+SHARKS COVE REST & SPTS LNGE,na,na,na
+Tokyo Beat,4.0,201,$$
+Thai House Express,3.5,186,$
+MexSake,4.5,218,$$
+Pressed Juicery,4.0,27,$$
+Casa Luz,4.0,63,$$
+Candlewood Country Club,3.0,19,na
+Azteca,4.0,97,$
+Eagles Lodge,4.0,4,na
+Main Burgers,3.5,95,$
+La Bona Energia,4.5,19,$
+Jasmine House Chinese Cuisine,3.5,217,$$
+The Jelly Donut,5.0,30,$
+Pinot's Palette - Valencia,4.5,57,na
+Juice Express,4.5,31,$
+Simply Wholesome,4.0,625,$$
+The Cellar Bar & Grill,3.5,116,$$
+Casa Canela,4.0,345,$$
+Porky's Restaurant Mexican Food,3.0,30,$
+Tea Bar,3.5,106,$
+Club Cha Cha,3.5,4,$$$$
+Yoguis Restaurant,4.5,38,$
+PizzaRev,4.0,664,$
+Crazy Rock'N Sushi - Covina,4.0,664,$$
+Tony's On the Pier,3.5,836,$$
+Simply Fish Grill,4.5,162,$$
+Thai Lady Restaurant,4.0,140,$
+Le Donuts,4.0,26,$
+Friza Frozen Yogurt & Açaí Bowls,4.0,52,$
+Guadalajara Market,2.0,5,$$
+McDonald's,2.5,79,$
+Rascals Teriyaki Grill,4.0,661,$
+Heritage Eatery,5.0,243,$$
+Buccaneer,4.0,56,$
+Viva Tacos La Estrella,3.0,361,$
+Lucky China Restaurant,3.5,216,$
+Denny's,3.0,117,$
+Surf City Squeeze,5.0,12,$
+Biryani Pot,3.0,55,$$
+Sushi Hanashi,4.0,292,$$
+Viva,3.5,166,$$
+Press Brothers Juicery,4.5,175,$$
+Frida Mexican Cuisine,2.5,277,$$
+Genghis Cohen,3.5,457,$$
+Don Reyes Mexican Restaurant,3.5,25,$
+The Green Store,4.0,106,$
+Elegant Affairs,4.0,27,na
+The Darkroom,3.5,295,$$
+Baja Fish Grill,4.5,286,$
+Subway,1.5,9,$$
+Papa John's Pizza,3.0,32,$$
+Mix & Match Burger,4.0,155,$
+WABA SUNVALLEY,na,na,na
+Baby Elephant Thai,4.0,468,$
+Mi Zacatecas,4.0,193,$
+Go Kart World,3.0,241,na
+San Dimas Chamber of Commerce,5.0,1,na
+UMAMI BURGER URBAN JUNGLE LLC,na,na,na
+Olive & Thyme,4.0,592,$$
+NeueHouse,4.0,25,na
+Papa Guido's Pizza,4.0,281,$
+Subway,1.5,46,$
+Tan-Cha,3.5,106,$$
+Homeboy Diner,4.0,45,$
+Eternal Valley Memorial Park & Mortuary,3.5,40,na
+BBQ & Kabob Factory,3.5,74,$
+Two For One Pizza Company,4.5,3,na
+HEU,4.0,402,$$
+New York City Deli,4.5,34,$
+Terra Cotta,4.0,361,$$
+Antonio's Pizzeria & The Catalina Cabaret,3.0,518,$$
+Masa of Echo Park,4.0,3771,$$
+Christy's Donuts,4.5,32,$
+Mr. Phat Donut House,4.0,2,na
+The French Crepe Co.,3.5,525,$$
+Pho Broadway,4.0,272,$
+Costco Wholesale,2.5,391,$$
+Rib Ranch BBQ,3.5,414,$$
+Cho Cho San,3.5,509,$$
+Pinkberry,4.0,179,$
+Big Mama's & Papa's Pizzeria,3.5,102,$$
+Tom's Famous Family Restaurant 7,4.0,363,$
+CREAM,3.5,167,$
+Pick Up Stix,3.0,111,$
+Casa de Las Garnachas & Beer,4.0,28,$$
+Edible Arrangements,2.5,47,$$
+Wing N Stuff,3.5,16,$
+Masa Coffee Lab,4.5,38,$
+Broiling Pit,4.0,88,$$
+Superbowl Acai & Brazilian Juice Bar,4.0,191,$
+Wings 101,4.0,46,$
+Novin Herbs & Spices,5.0,21,$
+Jamba Juice,3.5,47,$
+Blu Jam Cafe,4.0,843,$$
+Creperie Le Terrace,4.5,270,$$
+Crafted Donuts,4.5,90,$
+Antojitos Nueva Guatemala,3.5,4,na
+Cal Bowl,3.0,131,na
+Ramen Naruto,4.0,33,$$
+Max's Restaurant - Glendale,3.5,804,$$
+Ducks Restaurant,4.0,351,$$
+Curry House,3.5,588,$$
+Thai Casa,3.5,113,$
+Free Flo Rooter & Plumbing,5.0,390,na
+Rise N Shine Cafe,4.5,262,$$
+Shojin Downtown,4.0,1633,$$
+Premier Dessert Art,4.0,258,$
+JUGOS LIQUADOS EL MANANTIAL,na,na,na
+East Buffet,3.5,293,$$
+The Barn,4.0,426,$$
+The Coffee Bean & Tea Leaf,3.5,66,$
+Gold Yaki & Burger,4.5,125,$
+The Coffee Bean & Tea Leaf,3.5,65,$
+Dare U To Care Grill,4.0,49,$$
+SGT Steve Owen Memorial Park,4.5,20,na
+Yogurtland,4.0,240,$
+The Loft Hawaiian Restaurants,4.0,39,$$
+Forman's Whiskey Tavern,4.0,305,$$
+Good Luck Bar,3.5,471,$$
+The Milky Way,4.0,71,$$
+Tara's Himalayan Cuisine,4.0,1035,$$
+Azucena's Tacos,3.5,11,$
+Bar Toscana,4.0,113,$$$
+Thai Boom,3.5,965,$
+B C D Tofu House,3.0,1,$$
+Yesy's Bionicos,4.5,38,$
+Demitasse,4.0,962,$$
+Tutti Frutti Frozen Yogurt,3.5,82,$
+Ten Ten Seafood Restaurant,3.0,570,$$
+Orlando Karaoke Lounge & Restaurant,4.0,205,$$
+El Super Burrito Jr,3.5,109,$
+Ground Up Coffee,5.0,188,$$
+Trencher,4.0,287,$$
+Trimana Grill,4.0,116,$
+Vegetable,4.0,372,$$
+King Hua Restaurant,3.5,621,$$
+Fix Cafe,5.0,47,$
+Paws On A Path,5.0,30,na
+Chick-fil-A 7th & Fig In-Line,3.5,89,$
+Basecamp and High Horse Dinette,4.0,335,$$
+Dog Haus,4.0,950,$
+Tutti Frutti Frozen Yogurt,4.0,22,$
+El Perico Ranchero,4.0,255,$$
+Tsurumaru Udon Honpo,4.0,486,$
+Hambone's BBQ and Po'Boy Sandwiches,4.0,965,$$
+The Artist Pizzeria,4.0,535,$
+McConnell's Fine Ice Cream,4.5,117,$$
+Caffe Etc,3.0,273,$$
+Salathai Restaurant,4.0,211,$
+Yandicris Bionicos,3.0,13,$
+Xi An Tasty,4.0,82,$$
+Norah,4.0,481,$$$
+La cocina de paquita,4.5,3,na
+Bottega Louie,4.0,15786,$$
+Medidate Coffee,4.5,21,$$
+Monterey Palace Restaurant,3.0,471,$$
+Make Out,3.5,172,$$
+Pho & Roll,3.5,335,$$
+Thai Corner Restaurant,3.5,257,$
+Bon Bon Tea House,4.5,373,$
+Chillin' Thai Cuisine,3.5,333,$
+Starbucks,1.0,1,$$
+Gjelina,3.5,4396,$$$
+Taco Nazo,4.0,545,$
+Sushi Enya,4.5,1220,$$
+INTERNATIONAL HOUSE OF PANCA,na,na,na
+Dragon Palace,4.0,186,$$
+Häagen-Dazs,3.0,41,$
+Jeni's Splendid Ice Creams,4.5,744,$$
+Royal Dragon Chinese Restaurant,3.5,12,$
+Farmer Boys,3.0,216,$
+Johnny Carino's,2.5,470,$$
+La Puente Bakery,4.0,50,$
+Seahawk Cocktail Lounge,4.0,40,$
+La Nueva Flor Blanca,4.5,21,$
+PIARA PIZA,na,na,na
+Full House Seafood Restaurant,3.5,638,$$
+Papa John's Pizza,3.0,17,na
+Olympic Burger,4.0,151,$
+El Taco Loco,3.5,123,$
+Chan Dara Restaurant,3.5,345,$$
+Kogiya Korean BBQ,3.0,320,$$
+Mr You Express,3.5,212,$
+Warner Grand Theatre,4.0,75,$$
+California Roll & Sushi,3.0,112,$$
+Marvin,4.0,127,$$$
+Guadalajara Grill,3.0,678,$$
+Amigos Donuts,4.5,27,$
+& Waffles,4.5,641,$$
+Wong Java House,4.0,170,$
+Nutricion Fuente De Salud,4.0,1,$
+Tempo Urban Kitchen,4.5,3755,$$
+Industriel,4.0,1136,$$
+SERVERY- NICKELODEON,na,na,na
+Whole Foods Market,3.0,308,$$$
+The Boiling Crab,4.0,1612,$$
+Yuzu Shabu,4.0,924,$$
+HSIANG YUEN CHINESE RESTAURA,na,na,na
+Monday Night Mission,5.0,103,na
+Pieology Pizzeria,3.5,154,$
+Isabella's Italian Kitchen,4.5,165,$$
+EuroAsia,4.0,121,$$
+Pho House,4.5,322,$
+The Tamale Guy,4.0,138,$
+Mimi's Cafe,2.5,247,$$
+New Moon Restaurant,3.5,381,$$
+MONTEBELLO TOWN CTR FOOD CRT,na,na,na
+Tropical Paradise,4.5,40,$
+Crystal Donut,3.0,2,na
+Gamble House,4.5,125,na
+Made by Meg,4.5,80,$$
+Original Tommy's Hamburgers,4.0,110,$
+Neighbors Tea House,4.0,285,$
+Met Her At A Bar,4.5,484,$$
+Paddy O'Brien's Irish Pub,5.0,10,$$$$
+US Donuts,5.0,7,$
+Beaming Organic Superfood Café,4.5,102,$$
+Golden Eagle Restaurant,4.0,353,$
+El REAL ZACATECANO RESTAURANT,3.0,4,$
+Salo-Salo Grill,3.5,334,$$
+Bistro Garden at Coldwater,3.5,199,$$$
+Kayndaves,3.5,1207,$$
+Dino's Burgers,3.5,424,$
+Cemitas Poblanas Juquilita,4.0,52,$
+Gio's Fresh Mediterranean,4.5,216,$$
+Chipotle Mexican Grill,3.0,118,$
+Cafe Southwest,5.0,37,$
+ANB Japanese Grill,4.5,111,$
+Subway,2.5,22,$
+El Ranchito Restaurant,4.5,22,$
+Jollibee,3.0,213,$
+The Flame Broiler,4.0,44,$
+Thai Original BBQ,4.0,806,$$
+Mohawk Bend,4.0,2205,$$
+Cactus Mexican Grill,3.0,76,$
+Valerio's Tropical Bake Shop,3.5,85,$
+Nate'n Al Delicatessen,4.0,1433,$$
+JUGOS AND LICUADOS EL CHAPUL,na,na,na
+Verve Coffee Roasters,4.0,210,$$
+Montrésor,4.5,95,$$$
+MACEDONIA HOUSE OF HOPE,na,na,na
+Ana's Bionicos,4.0,177,$
+Alana's Coffee Roasters,4.5,232,$
+Noodle Street 108,4.5,20,$$
+Catherine's Cake Decorating & Candy Supplies,4.0,58,$$
+Gaucho Grill Argentine Steakhouse,4.0,1066,$$
+NEW DEL MAR SPORTFISHING BOA,na,na,na
+Roladin Restaurant,4.0,415,$$
+WaBa Grill,3.0,37,$
+Phillips Bar B Que,3.5,163,$$
+Banchan A La Carte,4.0,62,na
+Onishicho Ramen,4.0,660,$
+Villa Catrina,4.0,293,$$
+Nanjing Salted Duck,4.5,13,na
+Tommy's Original World Famous Hamburgers,3.5,148,$
+Coni'Seafood,3.5,69,$$
+Maggie's Blue Rose,4.0,622,$$
+Tanawin Thai Bistro,3.5,134,$$
+Canyon City Barbeque,4.0,579,$$
+The Meat Cellar,4.0,755,$$
+Sweet Rose Creamery,4.0,269,$$
+Mediterranean Triangle,4.0,163,$
+Diner On Main,3.5,575,$$
+Kozan Japanese Restaurant,3.5,73,$$
+El Paraiso Bakery,4.0,6,$
+Lawndale BrewHouse,5.0,10,$$
+Marix Tex Mex Cafe,3.5,465,$$
+Banana Bay Restaurant,3.5,2628,$$
+Juicy Ladies,3.5,505,$$
+Rodini Park,4.5,1297,$
+Baan Thai,4.0,276,$
+Jonathan Club,4.0,93,na
+Woodland Hills Athletic Club,4.5,159,na
+Papa John's Pizza,3.0,17,$$
+Menchie's Frozen Yogurt,4.0,132,$
+Ackee Bamboo Jamaican Cuisine,4.0,308,$$
+Dylan's Candy Bar,3.5,228,$$
+Raizel Ramen,4.5,409,$
+Mariscos El Viejon,4.0,125,$$
+Gallery Bar and Cognac Room,4.0,123,$$$
+Honey Baked Ham Company,4.0,499,$$
+City Cafe Restaurant & Bar,4.0,331,$$
+Han Bat Shul Lung Tang,4.5,1905,$
+Equinox West Hollywood,3.5,314,$$$
+3rd Generation Sake Bar,3.5,274,$$
+Gjelina,3.5,4396,$$$
+Baskin-Robbins,2.5,24,$$
+Shanghai'd Room,4.0,135,$
+Sofi Greek Restaurant,4.0,333,$$
+Let's sea Bag n' Roll,4.0,302,$$
+Lemonade,4.0,1393,$$
+Niko Niko Sushi,3.5,515,$$
+Ramen Spott,3.5,292,$$
+PERSEPOL'S PIZZA & SUBS,na,na,na
+Kitchen 24,3.5,1976,$$
+El Taco,3.5,143,$
+Sweettooth Yogurt & Boba,3.5,20,$
+Gingers Divine Ice Creams,4.5,341,$$
+Bluewave Fish Grill,3.5,153,$$
+Culichi Town - Bell,3.0,645,$$
+Tokyo Central & Main,4.0,111,$$
+Yes Donuts,4.5,27,$
+Whealthy,4.0,166,$$
+Lamp Village,5.0,2,na
+Killarney Pub & Grill,3.5,529,$$
+Kang Ho-dong Baekjeong,4.5,3891,$$
+Ricki and The Flash Dinner Cruise w/ Rick Springfield,5.0,1,na
+Togo's Eatery,3.5,45,$
+Flame Broiler,4.0,70,$
+Sacred Grounds,3.5,115,$
+Juice Bar El Antojito,3.5,27,$
+Sawtelle Tempura House,4.0,194,$
+Nestle Toll House Cafe by Chip,3.5,58,$
+Rainbird Manila Bakeshop & Catering,5.0,1,na
+New Kamara,4.0,35,$
+Gindi Thai,4.0,515,$$
+Petty Cash Taqueria,3.5,796,$$
+3 Little Cupcakes Cafe,4.5,52,$$
+Bay Cities Italian Deli,4.0,4332,$
+Campos Tacos,3.5,72,$
+McDonald's,2.5,29,$
+Blue Bottle Coffee,4.0,237,$$
+Plush Pocket,3.5,56,$$
+WaBa Grill,3.0,82,$
+Subway,1.5,35,$
+CHIQUACLE RESTAURANT,na,na,na
+Father's Office,3.5,5843,$$
+Carl's Jr,3.0,48,$
+Krispy Kreme,3.0,403,$
+The Capri Italian Restaurant,4.0,495,$$
+Jose Chiquito,4.0,90,$
+The Coffee Bar,4.0,2,$
+The Pizza Press,4.5,375,$
+The Coffee Bean & Tea Leaf,4.0,33,$
+1987 Beedle House,3.5,60,$
+The Palace Lounge,3.5,95,$$
+Jong Ga Jip,3.5,22,$$
+Yogurtland,4.0,266,$
+Burgerama,4.5,85,na
+Asal Bakery And Kabob,3.0,291,$$
+Wana Iguana Fresh Baja Grill,3.5,120,$
+Mercado Los Angeles,4.0,996,$$
+Wok n Fire,3.0,21,$
+Pho Bamboo,4.0,176,$
+Shakey's Pizza Parlor,3.5,87,$$
+Toyo Bowl,4.0,59,$
+Royal Palace Banquet Hall,4.5,178,na
+Ladybug Tea House,4.0,548,$
+Rae G Cafe,5.0,28,na
+Kreation Organic Juicery,4.5,52,$$
+Camino Real Restaurant,4.0,61,$$
+The Local Peasant - Sherman Oaks,4.0,1514,$$
+Norton Simon Museum,4.5,679,na
+Maru Sushi Bar,4.5,171,$$
+Subway,3.5,16,$
+Tomo-E Bento,4.0,40,$
+Eagle Rock Green Dragon,4.5,407,$$
+Subway,2.0,38,$
+Alfred Tea Room,3.5,471,$$
+JJ Hong Kong Cafe,3.5,981,$
+Pho Ha Vietnamese Restaurant,4.0,702,$
+Blacksmiths,4.5,405,$$$
+Los Arcos Mexican Food,4.0,100,$$
+Summer Buffalo,4.0,390,$$
+Patty's Mexican Foods,4.0,335,$
+TACOS MXICO BAUTISTA,na,na,na
+Louisiana Fried Chicken,4.0,86,$
+Wokcano,3.5,1333,$$
+Karuba's Yardy Kitchen,5.0,70,$$
+Tina's Mexican Restaurant,4.5,30,$$
+L & L Hawaiian BBQ,3.0,150,$
+Raku Roll & Teriyaki,4.0,103,$
+W.I. Simonson Mercedes-Benz,3.5,534,na
+Osen Izakaya,4.5,426,$$
+Waffle Love - Northridge,4.5,628,$
+Phuong Anh,5.0,23,$$
+Bob's Hamburgers,3.5,43,$
+Nouilles Of 3rds,4.0,199,$$
+A Song of Rice & Fire,4.5,30,$
+Basil Thai Cooking,3.5,221,$$
+Barn Rau Thai Halal Cuisine,3.5,137,$$
+MOD Pizza,4.0,123,$$
+Bottega Louie,4.0,15786,$$
+Emma's Coffee,5.0,20,na
+La Barbacha,4.5,88,$
+Belly's West,3.5,49,$
+SANTA MONICA CIVIC AUDITORIU,na,na,na
+BALDWIN VILLA SENIOR CENTER,na,na,na
+Santa Clarita Soccer Center,3.5,26,na
+Mitsuwa Marketplace,4.0,779,$$
+Little Bean Cafe,3.5,98,$$
+Pho Kim,4.0,179,$
+La Grande Orange Café,4.0,2830,$$
+AV Bakery Express Cafe,4.0,72,$$
+Italian & Mexican Food/Tulias Tacos 2,3.0,10,na
+Cravings,5.0,40,$
+Shandiz Restaurant and Grill,3.5,133,$$
+Claremont Farmers & Artisans Market,4.0,51,$
+The Country Deli,4.0,429,$$
+Got Sushi & King's burgers,4.0,1227,$$
+Islands Fine Burgers & Drinks,3.5,353,$$
+El Tejano,3.5,666,$$
+Energy Bistro & Karaoke,4.0,82,$$
+IMPERIAL ALANO CLUB INC,na,na,na
+Oki Japan,3.5,29,$
+LANCASTER ELKS LODGE 1625,na,na,na
+Kato,4.5,220,$$$
+Cali Fresh Mexican Grill,4.0,52,$
+Elephant Tea,3.5,59,$
+Pico Pica Rico,4.0,208,$
+House Of Donuts,5.0,8,$
+Tokyo Shabu Shabu,3.5,802,$$
+Manila Sunset,3.5,154,$
+Gold Medal Chinese Food,4.0,16,$
+Charlie's Trio,4.0,351,$$
+Grand Panda,3.5,179,$$
+Yogurtland,4.0,56,$
+ADASSA'S ISLAND CAFE&ENTERTA,na,na,na
+Louie's Chinese Cuisine,3.5,81,$
+Sunshine's Chinese & Korean BBQ,5.0,84,$$
+Mastarde Donuts,4.5,3,$$
+Peking Dumpling,4.0,10,na
+Lino's Tacos,4.5,47,$
+Pitfire Artisan Pizza,4.0,370,$$
+It's Boba Time,4.0,93,$
+Animal,4.0,3232,$$$
+MULTI-PURPOSE SENIOR CITIZEN,na,na,na
+Urth Caffé - Santa Monica,4.0,3067,$$
+Joss Cuisine / Traditional,4.0,196,$$$
+Z's Crazy Good,4.0,487,$
+MAGYAR HUNGARIAN HOUSE INC,na,na,na
+Daniel's Tacos,3.5,34,$$
+Bottega Louie,4.0,15786,$$
+Locanda Positano,4.0,520,$$$
+The Village Grille,4.0,45,$
+Depot Restaurant,4.0,272,$$$
+Royal Oak Banquet Hall,1.0,1,na
+Subway,2.0,10,$
+Blair's,4.0,135,$$
+Delishs,4.0,12,$
+ARGENTINE ASSOC,na,na,na
+Taco Bell,2.0,17,$
+Bon Vivant Market & Cafe,4.0,815,$$
+Taron Bakery,4.0,53,$
+Benihana,3.0,940,$$
+Meizhou Dongpo Restaurant,3.5,349,$$$
+The Grand Inn,4.0,32,$
+Ayara Thai Cuisine,4.0,1804,$$
+West Valley Occupational Center,3.5,32,na
+Freehab,4.5,2,na
+Goldstar Bakery,4.5,37,$
+El Huarique,4.5,396,$$
+LAX Terminal 2,2.5,99,na
+Kitty's Fish & Chips,4.0,49,$
+Luisa & Sons Bake Shop,4.0,103,$
+HaSunSaeng - MasterHA,4.5,243,$$
+The Bigg Chill Frozen Yogurt,4.0,617,$
+SUNLAKE BBQ DIMSUM,na,na,na
+Las Delicias,3.0,40,$
+Tipicos Martha,3.0,57,$
+Grill N Sushi,4.5,202,$$
+El Pollo Loco,2.0,97,$
+Yogurtland,4.0,93,$
+Peach Cafe,4.0,949,$$
+Edwards Alhambra Renaissance 14 & IMAX,3.5,518,na
+Bangkok Palace,4.0,200,$
+Thai Express Food To Go,3.5,150,$
+MELTOWAY PANINI GRILL,na,na,na
+Nishi Poke & Ramen Bar,4.5,92,$$
+Casa La Doña,4.5,533,$
+Spa Palace,4.0,1086,$$
+The Beverly Hills Hotel,4.0,314,$$$$
+Gobi Mongolian BBQ House,4.0,625,$$
+Angelini Osteria,4.5,1635,$$$
+Fiesta Bar,5.0,1,na
+Jus' Poke,4.5,1327,$$
+Charles R Drew University of Medicine and Science,4.0,23,na
+Dragon King,3.5,207,$
+Don Chente Bar and Grill,2.5,283,$$
+Paseo San Miguel,4.0,148,$
+Angelino's Pizza,3.5,33,$
+Van Leeuwen Artisan Ice Cream,4.0,186,$$
+Klatch Coffee,4.5,651,$
+Robek Juice,3.5,81,$
+Wendy's,3.5,131,$
+Hugo Foods,3.0,22,$
+Gold Star Hamburgers,3.5,261,$
+Nairi Meat & Deli,4.0,15,$
+Norwalk Senior Center,4.0,1,na
+Stickhouse,4.0,31,$
+Franklin & Company Tavern,3.5,455,$$
+Yellow Basket,3.5,86,$
+Quiznos,4.0,39,$
+A Divine H2O,4.5,104,$$
+The Tea & Coffee Exchange,3.5,140,$
+Junior Pizza,4.0,62,$
+Outback Steakhouse,3.0,326,$$
+Awash Restaurant,4.5,369,$$
+Curry House,3.5,899,$$
+Mary's Cake Shop,3.5,119,$$
+Hedley's Restaurant,4.0,192,$$
+China Chef's Express,3.0,2,na
+Boston Lobster,4.5,737,$$
+Queens Char Burgers,4.0,139,$
+Cafe Amici,4.0,174,$$
+The Attic,4.5,3,na
+Mr Goods Donuts Shop,4.0,45,$
+El Compa Restaurant,3.0,21,$
+Seattle Fresh,4.5,124,$$
+Nena's Cantina,1.5,3,$
+La Cocinita,4.5,190,$
+Which Wich,4.0,164,$
+The Rancho Vista Golf Club Grill,3.5,32,$$
+Brix Pizza,3.5,37,$
+Tommy's Original World Famous Hamburgers,3.5,234,$
+El Rinconcito Centro Americano,3.0,16,$
+Take Sushi,3.5,25,$$
+Cafe del Sol,3.5,2,na
+Maggie's Donuts,4.0,46,$
+Bonsai Garden SushiBar,3.0,231,$$
+El Sason Mexican Restauraunt,4.5,33,$
+California Poke House,4.0,196,$$
+"PAZIOUROS,NICK J",na,na,na
+KFC,2.0,47,$
+Laemmle's Claremont 5,4.0,168,na
+TOMS,4.0,251,$$
+Yanagi Sushi,4.0,237,$$
+Fair Oaks Pharmacy and Soda Fountain,3.5,738,$$
+Doheny Room,3.0,249,$$$
+BERNIE'S TERIBURGER,na,na,na
+Power House Internet Cafe,3.5,19,$
+Pinkberry,3.5,117,$
+Sonoma Grill,3.5,35,$$
+Poseidon Restaurant & Lounge,4.5,63,$$
+Tous Les Jours,3.5,107,$$
+Subway,1.5,35,$
+Dino's Chicken and Burgers,3.5,186,$
+PIPS On La Brea,3.5,389,$$
+The Plaza Market,3.5,40,$$
+Amapola Super Deli & Market,2.5,72,$
+Redline Food & Bar,4.0,99,$$
+Original Pantry Cafe,3.5,2725,$$
+Lusy's Mediterranean Cafe & Grill,4.5,27,$
+SanSai Japanese Grill,3.0,90,$
+Me Gusta Gourmet Tamales,4.0,191,$
+Lenzini's Pizza,4.0,343,$
+Hu's Szechwan Restaurant,3.5,378,$$
+Redondo Car Wash,4.5,324,na
+Shiki Sushi - Glendale,3.5,227,$$
+Boba Time,3.5,247,$
+Carnival Restaurant,4.0,756,$$
+Ding Tea Artesia,4.5,54,$
+Taqueria Los Primos,3.0,48,$
+Porterhouse Fried Chicken,4.5,3,$
+Wings & Pot,4.0,135,$$
+Roast To Go,4.0,141,$
+El Potrerillo Mexican Restaurant,4.0,5,na
+Miso Sushi,3.0,72,$$
+Sunday Bistro,3.0,613,$$
+Beverly Soon Tofu Restaurant,4.0,1346,$$
+Happy Days Cafe,4.0,666,$
+Fidel's Pizza,4.5,165,$
+Sky Burgers,3.5,36,$
+Yummie Tree Cafe,4.0,30,$
+Anzu Japanese Gourmet,4.5,161,$
+Pepe's Finest Mexican Food,3.5,308,$
+Founders Ale House,4.5,173,$$
+The Broken Yolk Cafe,4.0,944,$$
+Catalina Cantina,2.5,311,$$
+Chipotle Mexican Grill,2.0,173,$
+TOGO'S Sandwiches,3.5,69,$
+Sportsmen's Lodge Hotel,2.5,405,$$
+Samba Grill,4.0,18,$$
+Mon Land Hot Pot City,3.5,180,$$
+Rock'n Pies,4.0,97,$$
+Steak ’n Shake,2.5,540,$
+Thai Pepper Restaurant,4.0,120,$
+Tom's Famous Hamburgers,3.0,47,$
+VEGGIE HOUSE LLC,na,na,na
+Newport Seafood Restaurant,4.0,2584,$$
+Panda Wok  BBQ,3.0,53,$
+MILLERCOORS CAFE,na,na,na
+Tacos Mexico,3.0,99,$
+Chi's Chinese Cuisine,4.0,685,$$
+Six Flags Magic Mountain,3.0,2740,na
+Adobo Taco Grill,4.5,1549,$
+Hotel Erwin,3.5,393,$$$
+Choice Berry,4.5,18,$
+Rio's Pizza,3.5,344,$$
+Tutti Frutti Frozen Yogurt,4.5,196,$
+Nolan & Taft Management,2.5,63,na
+Grilliant,4.0,311,$$
+American Junkie,3.5,947,$$
+El Espino Restaurant,3.0,46,$
+Birrieria Jalisco,4.0,164,$$
+El Pescador - El Monte,3.5,225,$$
+Jade Snow,4.5,91,$$
+Cristina's Bakery,5.0,7,$
+Santa Clarita Lanes,3.0,102,na
+Boba Tea Hut,3.0,20,$
+Sushi USA,4.0,131,$$
+Plaza West Covina,3.0,199,$$
+Manchego,4.5,727,$$
+The Green Olive,3.5,86,$
+L&L Hawaiian Barbecue,3.0,165,$
+Ocean View Café,4.0,278,$$
+Menchie's Frozen Yogurt,4.0,51,$
+Knox Deli,4.5,50,$
+Oro's Pizza & Bakery,4.5,116,$
+El Gallo Pinto,4.0,150,$$
+P V BEACH AND ATHLETIC CAFE,na,na,na
+El Nuevo Mariscos Tampico,3.5,38,$$
+Mexico 86,4.0,16,$$
+Burgerim,4.0,32,na
+Chin Chin,3.0,375,$$
+Domino's Pizza,2.0,59,$
+Planet Restaurant & Pizza,4.0,17,$
+Buchun Gamjatang,4.0,64,$$
+Design Cafe Dabang,4.5,156,$$
+Cake & Art,4.5,314,$$
+La Paz Bakery,4.5,189,$
+Red Top Kitchen,4.5,240,$
+Taco Bell,2.5,72,$
+SPORTMANS LOUNGE,na,na,na
+Chocolate Opulence,4.0,73,$$
+The Canyon Club,2.5,437,$$
+Zinc Cafe & Market,4.0,1469,$$
+El Rio Bravo Restaurant,4.0,278,$$
+Wa Sushi & Bistro,4.0,262,$$$
+Orleans & York Deli,3.5,23,$$
+ABC Seafood,3.0,308,$
+Bibigo Fresh Korean Kitchen,3.5,177,$
+Izakaya Akatora,3.5,696,$$
+La Cabana Restaurant,4.0,79,$$
+Big Softee,4.5,170,$
+AYCE Sushi,3.5,828,$$
+Marmalade Cafe - El Segundo,3.5,863,$$
+Original Kabob Factory,4.5,850,$$
+Thai Dishes,3.0,412,$$
+Birrieria Apatzingan,4.5,53,$
+TEJUINOS RIVERA I,na,na,na
+Chipotle Mexican Grill,3.0,202,$
+Moonlight Tavern,3.0,35,$
+King's Kabob,3.5,179,$
+EKATA JUICE BAR,na,na,na
+Toasted and Roasted,4.5,205,$$
+Birrieria Lalo's,2.5,15,$
+Hotel Casa Del Mar,4.0,356,$$$
+Bluestone Lane,4.0,44,$$
+Veggie Grill,4.0,646,$$
+Green Zone,4.0,1681,$$
+Patricio's Grill and Pasta,4.5,52,$$
+Miso Sushi,3.0,189,$$
+Caffe Luxxe,4.0,407,$$
+Yaha Chinese Restaurant,3.5,27,$$
+WooRee Restaurant,4.5,32,$
+El 7 Mares Montebello,2.5,35,$$
+No Ghost Bears,4.5,249,$
+BONG SOONG A HAK DANG,na,na,na
+Kagura El Segundo,4.0,223,$$
+American Airlines Admirals Club,4.0,21,$$
+Santa Fe Cafe,3.5,148,$
+Be A Working Actor Studios,5.0,17,na
+Captain Kidd's,3.5,838,$$
+Rock Dog and Cat,5.0,162,na
+Windward Farms,4.0,68,$
+Darya Restaurant,3.5,431,$$
+SAUSAL,4.0,603,$$
+Toms Jr Burgers Express,3.5,17,$
+Zono Sushi,4.0,208,$$
+Chinese Express,4.0,16,$
+Tacos Way,3.0,150,$$
+Chalio Birrieria,4.0,113,$$
+Freezing Summer,2.5,3,$
+Flame Broiler,3.0,53,$
+Paseo San Miguel Restaurant,4.0,52,$$
+TNT Tortas & Tacos,4.0,469,$
+Jersey Mike's Subs,3.0,63,$
+Hong Kong Express,2.5,15,$
+96th Street Bistro,3.0,38,$$
+The Hangar Inn,4.0,169,$
+Limeño Salvadoran & Mexican Restaurant,2.5,3,na
+Brooklyn Brick Oven Pizza,3.5,149,$
+Bottega Louie,4.0,15786,$$
+Papa John's Pizza,2.5,35,$$
+Sultan Restaurant,4.0,310,$
+Sabores,3.5,10,$
+IHOP,2.5,121,$$
+Alea Cafe Long Beach,3.5,60,$
+Raffi's Place,4.5,3675,$$
+Jersey Mike's Subs,3.0,265,$$
+Sand Canyon Country Club,3.5,190,na
+Touhmi,3.5,197,$$
+Town Cafe,4.0,120,$
+Daru Sushi,4.5,242,$$
+Industry Cafe & Jazz,4.0,286,$$
+Los Jarritos Restaurants,4.0,535,$
+Continental Kosher Bakery,4.5,70,$$
+Starfish Sushi,4.0,231,$$
+Chomak,4.0,75,$$
+Diamond Buffet & Grill,3.5,196,$$
+Tita Celia's,3.5,305,$
+VARIEDADES DE PUPUSAS MARISC,na,na,na
+El Senor Taco,3.5,43,$
+Bread Lounge,4.5,649,$$
+Charley's Philly Steaks,3.0,31,$$
+Happy Harbor Cuisine,3.0,227,$$
+Front Page Jamaican Grille,4.5,459,$$
+Temakitto,4.5,377,$$
+Birrieria Chalio,2.0,66,$$
+Baja Rosarito,4.0,44,$
+Edible Arrangements,3.5,47,$$
+Think Cafe,4.0,219,$$
+Club Tee Gee,4.0,99,$
+Shin-Sen-Gumi Shabu-Shabu & Japanese BBQ,4.0,612,$$
+California Salsa,3.5,3,$
+Nicola's Kitchen,4.0,497,$$
+Drug Works Cafe,4.0,229,$
+Gloria's Pupuseria,3.0,17,$
+Ajisen Ramen,3.5,404,$$
+La Brea Bakery,2.5,31,$$
+TOWN Pizza,4.0,520,$
+Hoy-Ka Thai Restaurant,4.5,1467,$
+William's Donuts,4.0,51,$
+Heektea,3.0,134,$
+The Rice Street,4.0,196,$
+The Crab Shack,4.0,913,$$
+Best Fish Taco In Ensenada,4.0,2029,$
+ROSCOR'S LAX,na,na,na
+Sushi N Go,4.5,669,$
+Tacos Jr's,4.0,149,$
+Anna's Fish Market,4.5,31,$
+Omni Los Angeles Hotel at California Place,4.0,623,$$$
+Charley's Philly Steaks,3.5,33,$
+Taipan Bakery,3.5,61,$
+Cafe Dahab,3.5,298,$$
+Sunset Marquis,4.5,197,$$$
+Dolcenero Gelato,4.5,172,$
+Wildcraft,4.0,906,$$
+MENCHIIE'S,na,na,na
+Cafe Mak,3.5,748,$$
+H Salt Esquire Fish & Chips,3.5,64,$
+Golden State,4.0,1452,$$
+Hiko Sushi,4.0,360,$$$
+Hoke Poke,4.0,322,$$
+Raspados El Mazatleco,4.5,54,$
+Imperial Chopsticks,4.0,29,$
+La Michoacana Cold Delights,5.0,18,$
+Afters Ice Cream,4.0,300,$
+El 7 Mares Express,3.5,63,$
+Chile Verde,4.0,37,$
+Kokio Chicken,4.0,207,$$
+Eatalian Cafe,4.0,2432,$$
+Sushi Mac,3.5,521,$
+Jimmy's Famous American Tavern,4.0,1188,$$
+Alfredo's Mexican Restaurant,3.5,167,$$
+Super Ninja Japanese Sushi Cuisine,4.5,148,$$
+Taco Chabelita,3.0,212,$
+Home Style Donuts,4.0,32,$
+Waypoint Kitchen,3.0,4,na
+CAVA,4.0,194,$$
+Annapurna Cuisine,4.0,492,$$
+Denny's,2.5,140,$
+Cafe Brasil,4.0,768,$$
+Sunny Shine BBQ,3.5,71,$
+MountainGate Country Club,4.0,58,na
+Siam I Am,4.0,486,$
+Taliza Coffee,4.5,112,$
+Denny's,2.5,220,$$
+Landmark Wine Bar,3.0,57,$$
+Nicole's Gourmet Coffee & Chocolate Shop,3.5,52,$
+Walt's Bar,4.5,59,$$
+Indus by Saffron,4.0,188,$
+Le Macaron Los Angeles,4.5,15,na
+La Cocina Restaurant,3.5,193,$$
+Lee's Chinese Fast Food,3.5,35,$
+Albert's Mexican Food,3.5,181,$
+Tamaleria Maria's,3.5,78,$
+Northern Cafe,3.0,189,$$
+YUM YUM DONUTS FRANCHISE 9235C,na,na,na
+Wingstop,2.5,247,$$
+Ten Ren's Tea Time,3.5,520,$
+Dave & Buster's,3.0,1213,$$
+JAVIER TACO MEXICO LLC,na,na,na
+Lemonade,3.5,479,$$
+Alberts Mexican Food,3.0,102,$
+The Brickyard Pub,4.5,109,$$
+Point Five Espresso Bar,4.5,31,$$
+Mariscos El Jato,4.0,357,$
+Oxford Suites Lancaster,4.0,94,$$
+King Express Chinese Food & Donut,3.0,16,$
+Restaurant Mi Pueblo,4.5,9,$
+El Pollo Loco,2.5,46,$
+El Morfi Grill,4.0,308,$$
+Top Thai Cuisine,4.0,287,$$
+Tamara's Tamales,4.0,177,$
+OK Chinese Food,3.5,157,$
+EP & LP,3.0,1108,$$
+Oriental Breeze,4.0,123,$$
+Burger City Grill,4.0,355,$$
+The Hummus Factory,3.5,200,$$
+Lot 1 Cafe,4.0,242,$$
+Vertigo Event Venue,5.0,192,na
+Pepe's Mexican Restaurant,3.5,309,$$
+Bionicos Jalisco,4.0,42,$
+Round Table Pizza,3.5,80,$$
+LOUISINAN JOHN'S FISH MARKET,na,na,na
+Jazz Cat Restaurant,4.0,1471,$$
+Cojutepeque Restaurant,3.5,34,$$
+Roscoe's House of Chicken & Waffles,3.5,2219,$$
+Philly's Best,4.0,254,$
+JAZMIN'S DONTUTS & DELI,na,na,na
+Mrs Fields Cookies,2.0,25,$$
+Gate Gourmet,1.0,7,na
+Horse Thief BBQ,3.5,750,$$
+Tiato,3.5,330,$$
+Cindy's Noodle Land,3.5,76,$
+Udupi Palace,3.5,402,$$
+The M-Bar / The Metropolitan,3.5,54,$
+Rhythm Room LA,4.5,196,$$
+The Stalking Horse Brewery & Freehouse,4.0,199,$$
+Fatburger,3.0,82,$$
+The Greatest,3.5,51,$
+GYOCHA CAFE,na,na,na
+Farley's Gelato & Coffee Roasting,3.0,350,$
+Cha Cafe,4.0,982,$
+Los Angeles International Airport - LAX,2.5,5755,na
+Tramp Stamp Granny's,4.5,65,$$
+Te Amo Pizza,4.5,294,$
+Davenport's Restaurant,4.5,406,$$$
+Jimmy John's,3.0,122,$
+Garcias Fruits,4.5,413,$
+Buddy Chicken & Boba,2.5,27,na
+Fred 62,3.5,2159,$$
+Captain Lee's Seafood,3.0,36,$
+Erin McKenna's Bakery,4.0,561,$$
+Nino's Pizza Italian Restaurant,4.0,84,$$
+El Pollo Loco,3.5,50,$
+Alberto's Mexican Food,2.0,135,$
+Ono Hawaiian BBQ,3.0,50,$
+The Escondite,4.0,638,$$
+Chipotle Mexican Grill,2.5,197,$
+Shakey's Pizza Parlor,3.0,74,$$
+Papa John's Pizza,2.5,33,$$
+Sunset Room,4.0,188,$$
+Foxfire Room,4.0,168,$
+Garden Bistro,4.0,728,$$
+Employees Only,4.5,133,$$
+Chang's Garden,3.5,297,$$
+Big Mama's & Papa's Pizzeria,3.0,93,$$
+Hot Bowl,3.5,132,$
+Simmzy's,4.0,1114,$$
+Golden Bird,4.0,52,$
+BRENDAN'S IRISH PUB & RESTAU,na,na,na
+Petit Trois,3.5,336,$$$
+Pollos Asados Al Carbón El Güero,4.0,27,$
+Pizza Studio,4.0,206,$
+El Sazon Oaxaqueno,3.5,93,$
+K-ZO,4.0,720,$$$
+Rejuice,4.5,224,$$
+Min's Kitchen,4.0,288,$$
+Panda Wok,3.5,66,$
+Yoga-urt,4.5,396,$$
+Auntie Anne's / Cinnabon,2.0,4,na
+The Plaza Pantry,4.0,9,$$
+Cafe Tizon,4.5,2,na
+Miss Tea,4.5,280,$
+Teuscher Chocolates,4.0,3,$$$$
+Yard House,3.5,572,$$
+Octopus Japanese Restaurant,3.5,1376,$$
+Pete's Complete Auto Repair,5.0,71,na
+Beverly Hills Teuscher - Chocolates Of Switzerland,5.0,4,na
+Mr Pizza & Kabob,3.0,54,$$
+The Boiling Crab,3.5,297,$$
+D'Amore's Famous Pizza,3.0,186,$
+New Hong Kong Combo,1.5,6,$
+Panini Kabob Grill,4.0,1150,$$
+Huli Huli Hawaiian Grill & Teabar,4.0,72,$
+Noodle Monster,4.0,509,$$
+Courtyard Cafe,4.5,168,$
+EL PALMAR PIANO BAR COCKTAIL,na,na,na
+Patina Catering,3.5,25,na
+YMCA SENIOR NUTRITION PROGRA,na,na,na
+WaBa Grill,4.0,70,$
+Cascada Refrescante,4.5,7,$$
+Zono Sushi,4.0,437,$$
+Tacos Ensenada,3.5,80,$
+Poké Bar,4.5,100,$$
+Hong Kong Express,3.5,11,$
+Dino's Chicken and Burgers,4.0,1872,$
+Red Ribbon Bakeshop,3.5,51,$
+Half & Half Tea Express - Monterey Park,3.5,2596,$
+Chop Stop,4.0,154,$
+Catch 21,4.0,99,$
+Pita Pit,4.0,207,$
+Big Mama's & Papa's Pizzeria,3.5,211,$$
+DK's Donuts of Orange,4.5,749,$
+The Coffee Roaster,4.5,256,$
+Fish Tail Grill & Poke,4.0,686,$$
+Flappers Comedy Club & Restaurant,3.5,127,$$
+JJ2 Bakery,3.5,169,$
+Crazy Hot Wings,4.5,373,$
+Little Szechwan,4.0,148,$
+Galbi King,3.0,474,$$
+El Gaucho Meat Market,4.5,295,$
+Jims Charbroiled Burgers,3.5,43,$
+Mi Cabana,3.0,8,$
+Heritage Park,4.5,237,na
+Islands Fine Burgers & Drinks,3.5,353,$$
+CUT Lounge,4.0,87,$$$
+Pita kitchen,4.0,966,$
+Millennium Biltmore Los Angeles,3.0,899,$$$
+Kettle Glazed Doughnuts,4.5,757,$
+Las Dunas,3.5,88,$$
+The LINE LA,3.5,755,$$
+PAT & LORRAINEIS COFFEE SHOP,na,na,na
+Quynh Nhu Cafe,4.0,2,$$
+Creamistry,4.0,123,$$
+The Claremont Club,3.5,107,na
+The Donut House,4.5,2,$
+Subway,2.5,27,$
+Golden Panda Buffet,3.5,147,$$
+GROM MALIBU LLC,na,na,na
+Porto's Bakery & Cafe,4.5,7960,$
+J & A's Cafe,4.0,66,$
+URUAPAN RESTAURANT BAR & GRI,na,na,na
+STREETCHURROS,na,na,na
+Massis Kabob - The Original Kabobery,3.0,270,$$
+Americana Buffet & Grill,2.0,57,$$
+Mr Wok,1.5,28,$
+Lazy Dog Restaurant & Bar,4.0,1119,$$
+WeHo Bistro,4.0,598,$$
+The Snug,4.0,177,$
+Taco Gourmet Simply Fresh,4.5,183,$
+Chef Chen,4.5,123,$
+Aztig Grill,3.5,168,$
+Kosmos Burgers II,3.0,179,$
+Krungsri Thai Food,4.0,294,$
+Jollibee,3.0,233,$
+Fresh Roast,4.0,762,$
+Curry House,3.5,899,$$
+Jayde's Market,4.0,37,$$
+Muscle Beach Juice Bar,3.5,15,$$
+Blue Sky Cafe,4.0,14,$
+Bryan's Pit Barbeque,2.5,148,$$
+Knead & Co Pasta Bar+Market,3.5,213,$$
+Taco Bell,2.0,50,$
+Ni Ni Bakery,3.5,67,$
+Tower Cafe,4.5,6,$
+Seven Grand,4.0,2045,$$
+Salsa & Beer,4.0,2247,$$
+LEVEL II CONCEPSSION,na,na,na
+Anaheim Packing District,4.0,2091,na
+Leelin Bakery & Cafe,4.0,89,$
+Bob's Freeze,4.5,50,$
+Jolly Donuts,4.0,60,$
+Subway,3.0,5,$
+Tomoya Sushi & Izakaya,4.0,734,$$
+Garnish Cafe,4.0,158,$$
+Bizarra Capital,4.0,771,$$
+Strati Burgers,4.5,19,na
+SunLife Organics,4.0,146,$$
+Sushi Bei,4.0,144,$$
+Continental Bakery,3.0,34,$
+DK's Donuts & Bakery,4.0,1935,$
+Cafe 1886 by Taza,4.0,19,$$
+The Peppermint Club,2.5,77,$$$
+U-Haul Neighborhood Dealer,1.5,7,$
+Tortilleria La Pequenita,5.0,6,$
+Big Jim's Donuts,4.5,17,$
+El Capitan Theatre,4.5,784,na
+Santino's NY Pizza,4.0,372,$$
+Xris Burgers,4.0,86,$
+FIN Asian Tapas - Hollywood,4.5,75,$$$
+Subway,3.5,30,$
+Big Mama's & Papa's Pizzeria - Burbank,3.0,375,$$
+Cinnabon,3.0,7,$$
+Le Pain Quotidien,4.0,169,$$
+Uovo,4.0,588,$$
+Gentaro Soba,3.5,173,$
+Koji Ramen,4.0,127,$
+52M Teriyaki,4.5,28,$
+Pacific Restaurant,1.0,1,na
+Mama's Table,4.0,251,$$
+Royal Lounge,3.5,80,$
+Le Pain Quotidien,4.0,313,$$
+D-Town Burger Bar,3.5,297,$
+Jino's Pars,4.0,477,$$
+BJ's Restaurant & Brewhouse,2.5,1029,$$
+La Michoacana,4.5,93,$
+P.F. Chang's,3.0,444,$$
+EL COMANDANTE RESTAURANTE,na,na,na
+Raspado Xpress,3.5,33,$
+Jo Peeps NY Pizza,4.0,117,$
+Yummy Cupcakes,3.5,854,$$
+Genwa Korean BBQ,4.5,2648,$$
+Crispy Crust,4.0,292,$
+Dragon Herbs,4.5,44,$$
+Restaurante y pupuseria El Mana,4.0,26,$
+La Central Bakery,4.0,10,$
+Romano's Macaroni Grill,3.0,477,$$
+Atlantic Mexican & Seafood Restaurant,3.5,19,$
+Circus Sandwich Shop,4.0,59,$
+The Stinking Rose,4.0,3957,$$
+CENTRO PANADERO,na,na,na
+Oh My Burger,4.5,1037,$$
+Fat Sal's,4.0,1796,$$
+Bay Garden Cafe,3.5,81,$$
+True Food Kitchen,4.0,742,$$
+Los Amigos Mexican Grill and Cantina,3.5,85,$$
+MAGEEHS DONUTS,na,na,na
+Sunny Blue,4.0,354,$
+Fred's Downhome Burgers,4.0,239,$
+Bottega Louie,4.0,15786,$$
+Arirang Supermarket,3.5,229,$$
+Lolita's Restaurant,4.0,23,$
+Super A Foods,3.5,72,$
+Purgatory Pizza,4.0,659,$$
+Subway,2.5,40,$
+Younggoo's Naju Gomtang - Zero Nine,4.0,38,$$
+Super Teriyaki,4.0,58,$
+Club 33,4.5,883,$$$$
+Frootopia Frozen Yogurt,4.5,67,$
+Embassy Suites by Hilton Arcadia - Pasadena Area,3.0,190,$$
+Energy Karaoke,3.0,230,$$
+Olympic Spa,4.0,916,$$
+Earth Wind & Flour,3.5,289,$$
+La Parrilla,3.0,318,$$
+SKATELAND ENTERPRISES INC,na,na,na
+ICAIBAN SUSHI,na,na,na
+Gravina Malibu,4.0,100,$$$
+ahipoki bowl,4.0,557,$
+Springbok Bar & Grill,4.0,625,$$
+R & R Soul Food Restaurant,3.5,421,$$
+Ojiya,3.5,176,$$
+TacosWay,3.5,298,$
+Giuliano's Delicatessen,4.5,741,$
+Jake's Roadhouse,4.0,518,$$
+Roger's Burgers,4.0,185,$
+Santa Anita Golf Course,3.5,87,na
+CDS@PORT OF LA,na,na,na
+Quickly Boba,3.5,127,$
+Caffe Vita Silverlake,3.5,317,$$
+Mediterranean Delight,4.0,46,$$
+Yoshinoya - Palmdale,4.0,38,$
+Manhattan Bread & Bagel,3.5,320,$
+Woody's Bar-B-Que,3.5,196,$$
+Nice Bakery,4.5,30,$
+RESTAURANTE PLAYA DE ACAPULC,na,na,na
+Classic Le Palais Pastry,4.5,67,$$
+Sheng Hui Dim Sum,4.5,124,$
+IHOP,3.0,197,$$
+Eggslut,4.0,5258,$
+Bodhi Bowl,4.5,217,$
+Pho Pch,4.0,442,$
+El Tarasco,3.5,211,$
+La Ramada,2.5,7,$
+Mongolian Hashen BBQ,3.5,83,$
+Johns Drive-In Hamburgers,4.0,41,$
+Green Crush - West Covina,4.0,41,$$
+Jiquilisco Restaurant,3.5,3,$
+Boba Playhouse,3.0,32,$
+Market,2.5,13,$$
+Highland Park Bowl,4.0,483,$$
+Spaghetti Eddie's Cucina Italiana,4.0,577,$$
+El Puerto Escondido,3.0,260,$$
+Ragin Cajun Cafe,4.0,1156,$$
+Stone Oven,4.0,232,$
+The Rice Teriyaki Sushi Roll,3.5,78,$
+Ostioneria El Compa,4.5,93,$$
+Calita Cafe,4.0,28,na
+Normandie Cafe,3.0,54,$$
+Chinese Delight,3.5,318,$
+Domino's Pizza,3.0,30,$$
+Off Street Cafe,4.5,1677,$$
+The Krave Kobe Burger Grill,4.0,422,$$
+Triple Beam Pizza,4.0,313,$$
+Cookie Dough Dreams,4.5,97,$$
+Franklin Canyon Park,3.5,252,na
+eLoong Dumplings,4.5,399,$$
+Angel Food Donuts,4.5,9,$
+"Laurent's ""Le"" Coffee Shop",4.5,78,$
+Evan Angelo's Gelateria and Coffee Bar,4.5,442,$
+InterContinental Los Angeles Downtown,3.5,265,$$$
+Pat's II Cocktail Lounge,3.5,51,$
+Oceana Beach Club Hotel,4.0,93,$$$
+Acapulco Tortilleria,4.0,5,$
+Domino's Pizza,2.5,23,$
+Valley Sandwiches,4.5,91,$
+100 Por Ciento Las Frutas,3.0,53,$
+Patio Cafe,3.5,19,$
+El Burro - Tacos & Beer,4.0,191,$
+Vincenzo's Terrazza,4.0,442,$$
+Kamon Sushi,4.0,536,$$
+Joxer Daly's,4.0,366,$
+Pierre Garden,3.5,110,$$
+Pho Tasty,4.0,1455,$
+Nekter Juice Bar,4.0,385,$$
+Mr Steve Donuts,5.0,2,$
+Riverside Grill & Bar,4.0,579,$$
+Back On the Beach,3.5,425,$$
+Marinate,5.0,145,$
+Clay Pit Indian Kitchen,4.5,110,$$
+Shuto Izakaya,4.5,36,$$
+El Buen Gusto,4.0,146,$
+Tacos Los Desvelados,3.0,239,$
+Half & Half Tea Express,3.5,1791,$
+Kopan Ramen - Monterey Park,4.0,220,$$
+Busby's East,3.0,856,$$
+Mi Flor Blanca,4.0,28,$
+Favorite Donuts,4.0,4,$
+Neno's Italian Cafe,3.0,104,$$
+République,4.0,4440,$$
+Pepe's Finest Mexican Food,3.0,230,$
+Taron Bakery,4.0,86,$
+Sam's Burger & Fast Foods,2.5,28,$
+Zayna Flaming Grill,4.5,1028,$$
+Halo Top Ice Cream Scoop Shop,3.5,72,$
+Jam Club,3.5,19,$$
+Marisco's Miramar,4.0,73,$
+EightyTwo,4.0,1348,$$
+Little Caesar's Pizza,2.5,32,$
+MITAKI JAPANSE RESTAURANT 2,na,na,na
+Lucifers Pizza,4.0,463,$$
+El Grullense,4.5,82,$
+House of Benny,4.0,253,$$
+Gordon Biersch Brewing,2.5,55,$$
+Sprouts Farmers Market,3.5,477,$$
+Bluegold,4.0,635,$$$
+Armon's Restaurant,4.0,301,$
+Soap Plant Wacko,4.5,617,$$
+Show Cave,4.5,4,na
+Subway,2.0,38,$
+Oi Asian Fusion,4.5,963,$
+Coolest Boba & Shave Ice,5.0,72,$
+Bento Box,3.0,48,$$
+323 Bistro,3.5,39,$$
+SHAGNHAI BAN JUM,na,na,na
+Benihana,3.0,750,$$$
+Red Lion Tavern,4.0,1565,$$
+Golden Soup Restaurant,3.0,257,$$
+Donut Queen,4.5,23,$
+Papa John's Pizza,2.0,53,$$
+Chiba Restaurant,4.5,434,$$
+Grannys Yogurt,4.5,112,$
+Manzanillo Colima,4.5,35,$
+Chester Washington Golf Course,3.0,45,na
+Old Timers Foundation,3.0,2,na
+Ubon Thai Kitchen,4.0,345,$
+Point The Way Café,2.5,60,$$
+Hot N Sweet Chicken,4.0,573,$$
+Hue Thai Sandwiches and Noodles,3.5,52,$
+Stafford + Mathis Kitchen,3.5,42,$$
+New England Fish & Chips & Chinese Food,3.5,163,$
+Jersey Mike's Subs,4.5,92,$$
+SACHI.LA,4.5,60,na
+85°C Bakery Cafe,3.5,232,$
+Petit Bistro Coffee Shop,5.0,7,$
+Meet Tea,4.0,623,$
+McDonald's,2.0,24,$
+Sushi Tsujita,4.0,274,$$$$
+Oak Creek Golf Club,3.5,180,na
+Little Caesars,4.0,24,$
+Phoenix Bakery,4.0,502,$
+Lavender Blue,4.0,57,$
+Marco Polo Pizza,4.0,148,$
+Nekter Juice Bar,3.5,66,$$
+Aladdin's Coffee Shop,4.5,124,$
+Dan Tana's,3.5,764,$$$
+Wexler's Deli,3.5,246,$$
+Sharky's Woodfired Mexican Grill,4.0,209,$$
+Saffron Spot,4.0,298,$
+Raspados Don Manuel,4.5,79,$
+Danielle's Wood Fired Pizza,4.5,632,$$
+Grand Central Market,4.0,2226,$$
+Fish Time,4.0,849,$$
+Broth Shabu-Shabu,4.0,904,$$
+Wetzel's Pretzels,2.5,18,$
+Los Chiles Mexican Restaurant,3.5,43,$
+Ballard's Artwork Framing,5.0,96,$$
+Grand Foods Market,4.5,67,$$
+Earthen Restaurant,4.0,851,$$
+Sonia's Bakery,4.5,21,$
+Poki Blast,4.0,144,$
+Sports Harbour,3.5,191,$
+Yoshinoya - Lankershim,2.5,44,$
+Here's Looking At You,4.0,363,$$$
+RASPADOXPRESS CO,na,na,na
+Mon Petit Poulet,4.5,191,$$
+Hungry Harold's,4.0,28,$
+E.A.K. Ramen,4.0,267,$$
+Tacos Michoacan,4.0,40,$
+R & J's Southern Home Cooking,3.0,45,$$
+JJ CAFE INC. BOBA GOGO,na,na,na
+Subway,3.0,5,$
+Bay Poke,4.5,127,$$
+Miyabi Sushi Restaurant,3.5,51,$$
+Mercado Buenos Aires,4.0,251,$$
+Subway,2.0,37,$
+Speedy Joe's,4.0,92,$$
+Jimmy John's,3.5,20,$
+The Lorenzo,3.0,533,na
+Cozy Tea & Juice,4.0,203,$
+Dream Palace Banquet Hall,5.0,133,na
+Diamond Bakery,3.0,149,$
+Papa John's Pizza,2.0,87,$$
+Pizza Man,4.5,150,$$
+Tempo Urban Kitchen,4.5,3755,$$
+Jersey Mike's Subs,3.5,166,$
+INTERNATIONAL HOUSE OF PANCA,na,na,na
+McDonald's,1.5,83,$
+Polka Polish Restaurant,4.0,738,$$
+Conchita's Fruits,3.5,7,$
+VENICE GRILL LLC,na,na,na
+Margarita's Mexican Cafe,4.0,27,$
+Hambone's BBQ and Po'Boy Sandwiches,4.0,965,$$
+Pacific Brewing Supplies,5.0,32,$$
+Pace Joint,4.0,84,$$
+Hop Woo BBQ & Seafood Restaurant - LA,2.5,449,$$
+Pho Hana Restaurant,3.5,346,$
+Earth Organic Juice Bar,4.5,61,$$
+VBLB LLC,na,na,na
+Brennan's,4.0,103,$$
+SANTA ROSA PUPUSERIA Y RESTAURANTE,na,na,na
+Rosewood Park,4.5,12,na
+Togo’s Sandwiches,3.5,55,$
+Superba Food + Bread,3.5,316,$$
+Chicken Maison,4.5,80,$$
+Dumpling House,3.5,583,$
+Cinnabon,2.5,17,$
+Chatime,4.0,331,$
+Pharmaca Integrative Pharmacy,3.5,37,na
+Library Bar,4.0,472,$$$
+Culichi Town,3.0,325,$$
+Natas Pastries,4.0,774,$$
+Paul Martin's American Grill,3.5,1020,$$
+Mimo's Cafe,4.0,247,$
+Hilton Los Angeles/Universal City,3.5,655,$$$
+Subway,3.0,12,$
+Oliver's Prime Steakhouse,4.0,198,$$$$
+Chipotle Mexican Grill,2.5,100,$
+Yogurtland,3.5,53,$
+Mix Bowl Cafe,3.0,886,$
+Zpizza,3.5,199,$
+The Barkley Restaurant & Bar,3.5,224,$$
+Chengdu Noodle House,4.0,81,$
+Donut Factory,4.0,29,$
+Sul & Beans,4.0,1174,$$
+Tommy Taco,3.5,271,$
+Boba Loca Fresh Tea & Juice,4.0,172,$
+Shakalaka,3.5,98,$$
+The OffBeat Bar,4.0,125,$$
+Quality of Bombay,4.5,100,$$
+El Carrusel Bakery,4.0,51,$
+Sunnin Lebanese Cuisine,4.0,261,$$
+Tasty Goody Chinese Fast Food,3.5,38,$
+bld,2.5,56,$$
+Donut House,5.0,1,na
+The Inner Sanctum Cafe,4.5,16,$
+OLYNPIAN BURGERS,na,na,na
+Popeyes Louisiana Kitchen,1.5,75,$$
+Casa Martin Mexican Restaurant,4.0,692,$$
+Dal Rae Restaurant,4.0,1015,$$$
+Bistro Beaux,4.0,141,$$
+ChiMac Star,4.0,154,$$
+BURNING BONZAL,na,na,na
+Tony's Deli,4.0,161,$
+Walgreens,2.0,4,$$
+Cafe Culture,4.0,96,$
+Little Ocha Extra,4.0,153,$
+The Urban Oven,4.5,76,$$
+Sprinkles Cupcakes,4.0,3092,$$
+Sprouts Farmers Market,4.0,212,$$
+BBQ Unlimited Chinese Cuisine Restaurant,3.5,127,$$
+Pho 24,4.0,543,$
+Tacos El Jaliciense,4.0,28,$
+Subway,2.5,56,$
+JJ Bakery,3.5,199,$
+Pho Hoan My,4.5,33,$
+El Taco Llama,4.0,70,$
+Twinkle Brown Sugar,4.0,1142,$
+Round Table Pizza,3.0,96,$$
+Hae Jang Chon Korean BBQ Restaurant,4.0,4373,$$
+The Shawarma Factory,4.0,93,$$
+Teriyaki Sushi House,4.0,96,$
+Eduardo's Border Grill,4.0,377,$
+Domino's Pizza,2.5,37,$$
+The Thirsty Club,4.0,71,$
+Continental Bakery,3.0,34,$
+Pizza Time,3.5,76,$$
+My Taco,3.5,611,$
+Fiesta Fastfood,4.5,36,$$
+Guisados,4.5,2277,$
+Don Chato,4.5,104,$$
+Thai Bamboo Cuisine,3.5,158,$
+USC Village,4.0,12,na
+Rocky's Tacos,3.5,30,$
+Brother's Burgers,4.0,122,$
+Mimi's Cafe,3.0,406,$$
+Ojai Valley Inn,4.0,623,$$$
+Jamba Juice,3.5,97,$
+Honeyboba,3.5,343,$
+A-Frame,3.5,1900,$$
+Taco Limon,3.0,36,$
+Kotosh,4.0,710,$$
+Gindaco,4.0,68,$
+Tacomiendo,4.0,440,$
+BCD Tofu House,4.0,3440,$$
+Wingstop,3.0,97,$$
+Go Get Em Tiger,4.0,608,$$
+Happy Kitchen,3.5,139,$
+Tapioca Express,3.0,2,na
+Garden Cafe,4.5,21,$
+Nissi Bakery & Café,3.5,2,na
+Gold's Gym Downtown Los Angeles,3.0,729,na
+Fresco II,3.5,402,$$
+Wetzel's Pretzels,3.0,2,$
+Tea Bar Starry,3.5,586,$
+Green Kitchen,2.0,10,na
+Soban,3.5,273,$$
+Mofongos,4.0,804,$$
+Eat Naked.LA,4.0,54,$
+Las Islas Marias,3.5,62,$$
+Jimmy John's,3.0,73,$$
+Lomita's Best,4.0,242,$
+The Roger Room,4.0,494,$$
+Fatburger,3.5,109,$
+Mi Corazon,4.0,390,$$
+Eatgud Cafe,4.5,69,$
+Frida Mexican Cusine,3.5,571,$$
+Sushiko,4.0,201,$$
+West End,2.5,30,$$
+Little Caesars Pizza,2.0,25,$
+Mondrian Los Angeles,3.5,430,$$$
+LOS ANGELES COMMUNITY HOSPITAL AT BELLLOWER,na,na,na
+Donuts USA,4.5,72,$
+Stein Bar,3.5,8,$
+Descanso Beach Club,4.0,611,$$
+Chicken Now,3.5,144,$
+El Taco Loco No 3,4.0,250,$
+Crave Dessert Company,5.0,92,$$
+Bricks Restaurant & Sports Bar,3.5,10,na
+Tamayo Restaurant,4.0,224,$$
+O'Green Cafe,3.5,193,$$
+Kingchops,3.5,171,$
+Melody Lounge,4.0,186,$$
+L & L Hawaiian BBQ,3.0,150,$
+The Flame Broiler,2.0,54,$
+Ford's Filling Station,3.5,235,$$
+Chaumont Street,4.0,21,$$
+Nighthawk: Breakfast Bar,4.5,600,$$
+Raspados Zone,4.5,54,$
+EL CEMITERO PLOBLANO,na,na,na
+La Poubelle Bistro,3.5,503,$$
+Homestyle Donuts,4.0,25,$
+Sushi for You,4.0,345,$
+Oasis Pupuseria,3.0,204,$
+Kashira Japanese Restaurant,4.0,319,$$
+Friendly Hills Inn,3.5,37,$$
+Yogurtland,4.0,83,$
+Truxton's American Bistro,4.0,539,$$
+Salata,3.5,48,$$
+No Toro Cafe,4.5,529,$$
+BJ's Restaurant & Brewhouse,3.0,587,$$
+El Pollo Loco,1.5,112,$
+Clutch,4.0,380,$$
+Kunchorn Thai Food,3.5,47,$
+Taco Boy,3.5,46,$
+Ken's Ice Cream Parlor,4.5,44,$
+El Criollo,4.0,251,$$
+Hoa Binh Rosemead Supermarket,2.5,28,$$
+Baskin-Robbins,3.5,34,$
+Olives Mediterranean Cafe- Palmdale,4.5,64,$$
+8oz Poke,4.5,645,$$
+Urth Caffé- Melrose,4.0,2614,$$
+Curry India Bistro,4.5,700,$$
+Makani,4.5,101,$$
+Golden Indian Grill and Pizza,4.0,122,$
+Teriyaki Me!,4.5,521,$
+Royal Donuts,4.0,81,$
+Snow White Cafe,3.5,176,$
+Sub Machine,4.0,104,$
+El Tarasco Mexican Food,3.5,210,$
+Mifune,3.0,119,$
+Jolly Donuts,4.0,11,$
+r.e.d. Bar Grill,4.0,102,$$
+Sonsonate Grill,3.0,34,$$
+Craft Beer Cellar Eagle Rock,4.5,142,$$
+Nutrition Solutions Juice Bar,3.5,6,na
+Grill Thai,3.5,10,na
+New Pizza 8,3.5,42,$$
+Paradise Bowls,4.0,173,$
+Yum Yum Donuts,3.5,44,$
+The Spot Cafe & Lounge,4.0,180,$
+Serrano Cafe,1.5,31,$
+Brack Shop Tavern,4.0,117,$$
+Hon Sushi,4.0,448,$$
+Lamajoon Shish Kabob,2.5,131,$
+Rizzo's Pizzeria,3.5,249,$$
+BITES III,na,na,na
+Don Francisco's Coffee Casa Cubana,4.5,306,$
+Cabo Cantina,2.5,676,$$
+El Gallo Bakery,4.5,193,$
+Rejuvenate Café,2.5,36,$
+Pasta Sisters - Culver City,4.0,522,$$
+D J Bibingkahan,2.5,91,$
+TreeHouse Thai,4.0,228,$$
+Churroholic,4.0,158,$$
+Guelaguetza Restaurante,4.0,1795,$$
+Bionicos y Taqueria El Cabrito,4.0,22,$
+Gogobop Korean Rice Bar,4.5,227,$
+Pita Café,4.0,99,$$
+KO-PYUNG CHIN,na,na,na
+Black Angus Steakhouse,4.0,210,$$
+Coral Fish Poke Shop,4.5,172,$$
+Jayis Ice Cream,4.5,5,$
+Chris's Hamburgers,4.5,78,$
+Mono Poke,4.0,251,$
+Carrera Cafe,4.0,258,$$
+Salata,4.0,395,$$
+Pollo Campero Restaurant,2.5,40,$
+Smoky Doky Barbecue,4.5,110,$$
+Butler's Coffee,4.5,103,$
+El Nuevo Terre Nightclub,2.0,2,$
+Mike & Anne's Restaurant,3.5,944,$$
+Los Chilaquiles Mexican Grill,4.0,131,$
+TACOS ACAPUILCO,na,na,na
+Glowing Juices,5.0,99,$$
+IL Bambino Restaurant,5.0,87,$$
+Santa Anita Park,4.0,552,na
+Taqueria El Grullo,5.0,5,$
+Yuca's,4.0,739,$
+Teriyakiya,4.5,233,$
+Golden Bull Noodle,3.5,22,$
+Northern Cafe,4.0,102,$$
+Buy Low Market,2.5,36,$
+Charlies Trio Cafe,3.5,480,$$
+WaBa Grill,3.0,51,$
+Bricks & Scones,4.0,1272,$$
+Pepe's Pollo,4.5,38,$
+Trump National Golf Club Restaurant,4.0,282,$$$$
+Uno Tea House,4.5,86,$
+Becker's Bakery,4.0,272,$
+Mesa,3.5,1444,$$
+The Habit Burger Grill,3.0,35,$
+TAQUERIA EL ATORON,na,na,na
+Brewport Tap House,4.5,254,$$
+Jasmin Garden,3.0,15,$$$
+Firehouse Restaurant,4.0,746,$$
+Barone's Pizza,3.0,124,$$
+Tramonto Bistro,4.5,125,$$
+Chef's Corner Pizzeria,3.5,28,$
+Simply Pho,4.0,369,$
+Pita Pockets,4.5,856,$
+Chinese Taste Fast Food,3.0,49,$
+Mort's Delicatessen & Restaurant,3.5,172,$$
+Rolling Wok,4.0,120,$
+Hyatt Place Los Angeles/LAX/El Segundo,3.5,131,$$
+Mr Bill's Sandwiches,3.0,19,$
+Hollywood Farmers' Market,4.5,579,$$
+Ostioneria Colima,3.0,206,$$
+The Beirut Mix,4.0,474,$$
+Carthay Café,3.0,21,$
+Grace Baptist Church,4.5,14,na
+Hummus Yummy,4.5,48,$$
+Ruam Mitr,4.5,166,$$
+Steve's Steakhouse,4.0,875,$$$
+Subway,3.0,4,$$
+Las Americas,3.5,3,$$
+Yang's Restaurant,4.0,115,$$
+Momo Bistro,3.0,63,$
+Sweet Rose Creamery,4.0,381,$$
+Saddle Ranch Chop House,3.5,1719,$$
+Boom Boom Chicken,4.5,358,$
+Calle Tacos,4.0,687,$
+Nordstrom Del Amo Fashion Center,3.0,144,$$$
+Eat'n Park Restaurant,4.0,516,$
+La Doña Tamalería,4.0,104,$
+Boba Ya,3.5,148,$
+Gangadin Indian,4.0,492,$$
+J Trani's Ristorante,4.5,318,$$
+Coffee Commissary,4.0,664,$$
+Sakae Sushi,4.5,439,$
+Orto Santa Monica,4.5,89,$$$
+Little Beijing Chinese Fast Food,3.0,23,$
+The Coffee Bean & Tea Leaf,3.5,79,$
+Dagwoods,4.0,405,$
+Wood Ranch BBQ & Grill,4.0,493,$$
+Cafe Mak,3.5,748,$$
+Seoul Kitchen,4.5,43,$
+Q38 Noodle House,3.5,29,na
+KFC,2.0,22,$
+Farmer Boys,3.0,258,$
+The MacArthur,4.0,56,na
+Big Tuna,3.5,328,$$
+Coffee & Cream,3.5,105,$
+Original Queens,2.5,54,$
+Pizzanista!,4.0,965,$
+LITTLE BEJING CHINESEFASTFOO,na,na,na
+Spicy Thai,4.0,178,$
+Pampas Grill,4.0,1134,$$
+Couwami Asian Fusion,4.0,317,$$
+Papa John's Pizza,2.5,37,$
+Crown Wok,3.0,114,$$
+Qing Dao Bread Food,3.5,76,$
+Okane Umi,4.5,169,$$
+Viktor Benes Bakery,4.0,39,$$
+Wetzel's Pretzels,3.5,19,$
+THE FLAME BBROILER,na,na,na
+Red Herring,4.5,214,$$
+Wetzel's Pretzels,3.0,32,$
+Kitchen 24,3.5,1976,$$
+101 Sushi Roll and Grill,4.5,3029,$$
+Paleteria Michoacan,4.0,22,$
+Panini Kabob Grill,4.0,291,$$
+Donas,3.5,327,$$
+Pho Ha,3.5,684,$
+Sabroso American & Mexican Food,4.0,94,$
+Avra Beverly Hills,3.5,357,$$$
+Q2 xPress Chinese Fast Food,4.5,44,$
+Tsurugi Ramen,3.5,41,na
+Andrew's Cheese Shop,4.5,144,$$
+King Donuts,4.5,92,$
+Our Place,3.5,49,$
+Pho Stop,3.5,175,$
+The Gumbo Pot,2.5,747,$$
+ABC Riverside Commissary,3.0,6,$$
+Its A Grind Coffee House,4.0,209,$
+Fruti Bionicos,3.5,7,$
+Kimbap Paradise,4.5,149,$$
+FRUTI BLONICOS  SINALOA,na,na,na
+Traditions,3.5,116,$$
+Courtyard by Marriott,3.0,133,$$
+sweetgreen,3.5,55,$$
+Ya Yaa Thai Cuisine,4.0,271,$
+Yolanda's Bakery,3.5,21,$
+Hiccups,3.5,915,$$
+Rich's BBQ,5.0,48,$
+El Gallo Giro,3.0,149,$
+Dublin's Irish Whiskey Pub,3.0,444,$$
+The Venue,4.0,173,$$
+Yasai Japanese Grill,3.5,239,$
+Eagles Tacos,4.5,86,$
+Papa John's Pizza,2.5,57,$$
+Shirin Restaurant,4.0,405,$$
+The Olive Restobar,4.0,123,$$
+Creamistry,3.0,130,$$
+Honey Baked Ham Company,3.0,89,$
+Retro Fitness,3.5,123,na
+Cassia,4.0,906,$$$
+MARGARITA JONES MEXICAN RESTAURANT,na,na,na
+Ho Ho China Restaurant,4.0,195,$
+Baskin-Robbins,2.5,18,$
+Tubby's Tavern,4.0,115,$
+Temptations Cupcakes,4.5,21,$
+Petros Kafe,3.5,220,$$
+Le Pain Quotidien,3.5,245,$$
+Subway,2.5,30,$
+Charleys Philly Steaks,2.5,31,$$$$
+Gaam Karaoke,3.5,135,$$
+El Rinconcito Restaurant,3.5,13,$
+Creamistry,4.0,548,$$
+Domino's Pizza,2.0,68,$
+Gale's,4.0,973,$$
+Hideaway Country Bar & Grill,3.5,52,$
+Ireland's 32,4.0,223,$$
+Gourmet Palace China Bistro,4.5,105,$$
+Hilton Garden Inn Los Angeles/Redondo Beach,3.5,75,$$
+Thai Sierra Madre,4.0,76,$
+La Villa Mexican Food Restaurant,4.0,336,$
+Curry House,4.0,569,$$
+Hannam Chain Supermarket,3.5,170,$$
+Katsuya Hollywood,3.5,1764,$$$
+Southland Beer,4.5,166,$
+Pier Express,4.0,2,$
+Cafe D'Etoile,4.0,199,$$
+Kouraku Restaurant,3.5,961,$
+The Little Beach House,3.5,27,$$$
+Los Burritos,2.5,233,$
+Mother Moo Creamery,4.5,741,$
+ITALIAN ICE SHOPPE LLC,na,na,na
+Spices Thai Kitchen,4.0,282,$
+Chichen Itza Restaurant,4.5,1114,$$
+Aku Poke,3.5,280,$$
+BANGLA APNA BAZZAR,na,na,na
+A-Won Japanese Restaurant,3.5,236,$$
+Wahoo Chaya,3.5,126,$$
+Domino's Pizza,2.5,51,$
+Blue Fish,4.0,611,$$
+Lawry's The Prime Rib - Beverly Hills,4.0,3540,$$$
+The York,3.5,989,$$
+Pupuseria El Cerro Verde,3.5,409,$
+Sportsmen's Lodge Hotel,2.5,405,$$
+Big Mama's & Papa's Pizzeria,3.0,109,$$
+sweetgreen,4.0,347,$$
+Vernetti,4.0,261,$$
+The Habit Burger Grill,3.5,111,$
+Pepperdine University,4.0,73,na
+China Wok Express,3.0,41,$
+Dan Sung Sa,4.0,734,$$
+El Pollo Sonora,4.5,39,$
+Sabores Del Perú,4.0,36,$$
+Cielito Lindo,4.0,698,$
+China Wok,4.0,124,$$
+Taco Bell,2.0,34,$
+La Papa Loca,4.0,13,na
+Villa Moreliana,4.5,334,$
+Grand Star Jazz Club,3.5,209,$
+Quickly,3.5,121,$
+Original Pantry Cafe,3.5,2725,$$
+Bamboo Restaurant,4.0,407,$$
+Diana's Restaurant,2.5,62,$$
+Donut Den,5.0,35,$
+BILGEWATER BREW CAFE,na,na,na
+Taco's El Rey,4.0,144,$
+Las Brisas,3.5,144,$$
+Monster Burger,3.0,22,$
+Sbarro,2.5,6,na
+Boba Time,3.5,247,$
+Bodega Wine Bar,4.0,884,$$
+Moon Wok,3.5,201,$$
+Gelato by Stick Station,5.0,44,$
+Edible Arrangements,2.0,25,$$$
+TBaar,4.5,50,$
+Corner Bakery Cafe,3.0,247,$$
+Post & Beam,3.5,791,$$
+Story Tavern,3.5,475,$$
+18th Street Coffee House,3.5,285,$$
+Boba Lab,4.0,201,$
+'Lette Macarons,4.5,764,$$
+Katsuya Hollywood,3.5,1764,$$$
+Popeyes Louisiana Kitchen,2.5,94,$
+Farmer Boys,3.0,303,$$
+Go Green Gardeners,3.5,26,na
+Happy Bowl,3.5,50,$
+The Coffee Bean & Tea Leaf,3.0,69,$
+Daw Yee Myanmar Corner,4.5,275,$$
+Papa John's Pizza,2.5,78,$$
+Nickel Diner,4.0,2323,$$
+Hearty Deli,3.5,38,$
+Glenoaks Kabob House,3.5,90,$$
+Roma Specialty Pizza,4.0,813,$$
+Fiddlers Three Restaurant,3.5,99,$
+Cake House,3.5,142,$
+Culina,4.0,444,$$$
+Half and Half Tea Express,3.5,279,$
+Sushi Zo,4.5,236,$$$$
+Yamato Japanese Restaraunt,3.0,589,$$
+Tacos Mexico,2.5,59,$
+Bobo's Hamburgers,3.5,71,$
+Tropic Lounge,3.5,26,$$
+Guisados,4.5,2277,$
+TGI Korean BBQ,4.5,160,$$
+Southbay Pavilion At Carson,3.0,101,$$
+Donut Star,4.0,14,$
+Sip Matcha - Rowland Heights,4.0,222,$
+Al-Noor,4.5,795,$$
+Potato & Tea,4.0,128,$
+Lala's Argentine Grill,4.0,1278,$$
+Sharon's Good Eats,2.0,1,na
+Seongbukdong,4.0,1042,$$
+Irori Sushi,4.0,1525,$$
+Target,3.0,187,$$
+Jim's Burgers,3.5,76,$
+SALATIP RESTAURANT INC,na,na,na
+Guajillo Restaurant,4.5,40,$$
+Ramen Yamadaya,3.5,453,$
+Homage Brewing,4.5,109,$
+Domino's Pizza,2.0,57,$
+GUCKENHEIMER @ ABBOTT,na,na,na
+AMC Atlantic Times Square 14,3.5,469,na
+Shoya Izakaya,4.5,23,$$
+Schabarum Regional Park,4.5,242,na
+Machos Tacos,3.5,347,$
+Bru Coffeebar,3.5,312,$$
+BJ's Restaurant & Brewhouse,2.5,1103,$$
+Lemon Fish,4.0,119,$$
+WORLDS BEST PIZZAS.COM,na,na,na
+Uncle Joe's Donuts,4.0,93,$
+Pena's Tacos,4.0,313,$
+Mariscos Las Islitas,3.0,20,$$
+China Express,3.5,92,$
+Golden Noodle & Grill,4.0,122,$
+Domino's Pizza,3.0,57,$$
+Jersey Mike's Subs,4.0,176,$
+Los Tres Hermanos,3.5,362,$$
+Thai Tasty,4.5,208,$
+Bobo's Hamburgers,3.5,113,$
+Las Torres Bar,3.5,4,na
+Panini Kabob Grill,4.0,675,$$
+AMF Beverly Lanes,2.5,107,na
+Neno's Norooz,4.0,155,$$
+Hana Haru Japanese Restaurant,3.5,272,$$
+Ji Rong Peking Duck,4.5,694,$$
+Mariscos Alas,4.5,54,$$
+WESTFIELD CEN. CITY SCULLERY,na,na,na
+Starbucks,2.5,18,$$
+El Puerto Escondido,3.0,260,$$
+EL GRINGO KATEEN,na,na,na
+Arte Cafe,3.5,203,$$
+SUSHI ARU INC.,na,na,na
+Spoon House Bakery & Restaurant,4.0,1107,$$
+RIVERA PARK GRANDSTAND CONC,na,na,na
+Glendora Continental,3.5,117,$$
+Tokyo Steak Lancaster,3.0,96,$$
+Buddha Belly,4.0,77,$$
+Healthy Bites,4.0,352,$
+berri's,3.0,733,$$
+Calamigos Ranch,4.5,228,na
+Five Star Seafood Restaurant,3.0,703,$$
+Anajak Thai,4.0,289,$$
+Domino's Pizza,2.0,54,$$
+Fish Pepper Restaurant,4.0,93,$
+Mitsuwa Marketplace,4.5,935,$$
+Sweet N' Treats,5.0,2,na
+AL Basch Chicken,4.5,143,$$
+The Lobster,4.0,2061,$$$
+Plate & Petal,4.5,473,$$
+Pink Orchid Bakery and Cafe,4.5,119,$
+Cuatro Caminos,5.0,1,na
+Urth Caffé- Downtown LA,4.0,4855,$$
+Los Feliz Cafe,3.5,293,$$
+The Rusten House,3.5,129,$$
+McDonald's,1.5,60,$
+Fosters Freeze,2.5,75,$
+Aro Latin,4.0,369,$$
+California Donuts,4.0,2561,$
+The Habit Burger Grill,4.0,369,$
+Charley's Philly Steaks,3.0,39,$
+Barnes & Noble Booksellers,3.5,142,$$
+TWO GUYS FRUM ITALY,na,na,na
+Bar Nineteen 12,3.5,57,$$$$
+Super King Markets,3.5,481,$
+Sweet Butter Kitchen,3.5,1151,$$
+KFC,2.5,37,$$
+Santa Monica Windjammers Yacht Club,4.0,19,na
+Fishing Boat Chinese Cuisine,4.0,41,$$
+Dickey's barbecue pit,3.5,125,$$
+Wienerschnitzel,3.0,17,$
+Dots Cafe,4.0,171,$$
+Shawn Cafe,3.5,33,$$
+Cafe Fusion,3.5,179,$$
+Magic Touch Bullet Train Sushi,4.0,1120,$$
+Vino Volo,4.0,37,$$
+Fish Taco Express,4.0,207,$
+Teriburger,3.5,71,$
+Stuffed Sandwich,4.0,259,$$
+CHICK-FIL-A AT NORTHRIDGE FSU,na,na,na
+San Marino Grill,3.5,107,$$
+El Hatuchay,3.5,162,$$
+Rivera's,4.0,71,$
+WaBa Grill,3.0,90,$
+Jinky's Studio Cafe,3.5,677,$$
+A&W Seafood Restaurant,3.5,460,$$
+Alejos Presto Trattoria Italian Restaurant,4.0,555,$$
+Tierra Mia Coffee,4.0,239,$
+SushiStop,3.5,745,$
+Larsen's Steakhouse - Valencia,4.0,481,$$$$
+Dickey's Barbecue Pit,4.0,579,$$
+Tutti Frutti,2.5,39,$
+El Tequilense Restaurant,4.0,42,$
+Yakiyan,4.5,347,$$$$
+Asia Kitchen,3.0,61,$
+Yummy China,4.0,169,$
+Okrumong,4.0,264,$
+Szechwan Chinese Restaurant,3.5,261,$$
+Ayres Hotel Anaheim,4.0,288,$$
+Ameci Pizza & Pasta - Porter Ranch,3.5,43,$
+Al Hamra Halal Cafe,4.5,1005,$$
+EL GALLITO RESTAURANTE,na,na,na
+Lu & Pe Mexican Restaurant & Catering,4.5,168,$
+Baked Bear,4.0,64,$
+Veggie Grill,4.0,574,$$
+Randy's Donuts,4.0,2080,$
+Tacos Virginia,4.0,47,$
+Napoli's Pizza Kitchen,4.5,402,$$
+Blue C Sushi,3.5,474,$$
+Hanashima Restaurant,3.5,208,$
+Matisse Restaurant,4.0,139,$$
+Hook Burger,4.0,1014,$$
+Vibrato Grill Jazz,4.0,592,$$$
+Pho Hoa Vietnamese Restaurant,3.5,164,$
+77 Asian Kitchen,3.0,385,$$
+Teriyaki House,3.5,173,$
+Mid City Deli & Grill,4.5,94,$
+Zankou Chicken,2.5,354,$$
+Killer Shrimp,3.5,2193,$$
+Baja Fresh,2.5,81,$
+Gracias Madre,4.0,3542,$$
+Fresh Donuts,4.5,9,$
+LA Fitness,3.0,531,na
+EP & LP,3.0,1108,$$
+Menchie's Frozen Yogurt,4.5,18,$
+Alpine Village Market,4.0,256,$$
+Hae Jang Chon Korean BBQ Restaurant,4.0,4373,$$
+Koi,4.0,945,$$$
+Subway,3.0,24,$
+Kwon's Restaurant,4.0,228,$
+New Century Lobster,4.5,67,$$
+Il Cielo,4.0,1117,$$$
+Golden China,3.5,173,$$
+Mendocino Farms,4.5,528,$$
+Harold's Place,3.0,25,$
+Verde,2.5,38,$
+Panda Express,2.5,66,$
+The Original Brooklyn Water Bagels,3.5,535,$
+Kokio Chicken,3.5,306,$$
+Glatt Mart,3.5,108,$$
+Pazzo Pizzeria,4.0,176,$
+Sweetzy Treatzy,3.0,1,$
+Flame Broiler,3.5,66,$
+Olympic Basket,3.5,10,$
+Sur Restaurant & Lounge,3.5,3078,$$$
+Sushi Su,4.0,124,$$
+C&C Restaurant Bakery,5.0,2,$
+Farmer Boys,3.0,246,$
+Golden Spoon Frozen Yogurt,4.5,117,$
+Wingstop,3.0,187,$
+Dia De Campo,4.0,507,$$
+J & B Donuts,5.0,15,$
+Boda Restaurant,4.0,130,$
+Zui Xiang Yuan,4.0,189,$
+Commerson,4.0,351,$$
+LA MICHOACANA PALATERIA Y NE,na,na,na
+Pink Elephant,4.0,566,$
+Baskin-Robbins,4.0,47,$
+La Placita Cocteles,4.5,17,$
+Whole Foods Market 365,3.5,103,$$
+Olde Tyme Ice Cream,1.5,3,na
+Yang San Bak,4.0,261,$$
+Sako's Sandwich Shop,4.0,105,$
+Blaze Fast-Fire'd Pizza,4.0,430,$
+Fred Jordan Missions,4.5,15,na
+Crepes De Paris,4.5,98,$
+Wally's Beverly Hills,4.0,584,$$$
+The Coffee Bean & Tea Leaf,3.5,108,$
+Banh Mi My Tho,4.5,1523,$
+The Poke Haus,4.0,104,$$
+Roll Roll,4.5,600,$
+Angkor Restaurant,4.0,121,$$
+KFC,2.0,64,$
+LA ORIG PANDERIA EL SALVADOR,na,na,na
+KFC,1.5,22,$
+GOSHEN CUSINE,na,na,na
+Josie's Place,4.0,179,$
+Lupita's Bakery,3.5,97,$$
+Refresh by Ekkamai,4.5,137,$
+Gloria's Country Butcher,3.5,15,$$
+The Flame Broiler,3.0,75,$
+Baskin-Robbins,2.5,81,$
+Panda Express,2.5,170,$
+Burger Basket,3.5,73,$
+Santa Monica Farmers Market - Wednesday,4.5,204,$$
+Banh Mi & Che Cali,3.5,585,$
+Pattern Bar,4.0,355,$$
+Chado Tea Room,4.0,213,$$
+Baskin-Robbins,3.0,9,$
+Anar Indian Restaurant,4.0,480,$$
+Mendocino Farms,4.5,391,$$
+Peet's Coffee & Tea,3.5,66,$
+Coyote Cantina,4.0,404,$$
+Sbarro,2.5,6,na
+Mi Lindo Chuy Mariscos,3.5,33,$$
+Yogurtland,3.5,163,$
+Texas Donuts,4.5,41,$
+Lomeli's Restaurant,5.0,1,$$
+Kebab House,3.5,61,$
+Toca Madera,4.0,1585,$$$
+Nuno D & T,4.5,23,$
+10e,4.0,557,$$
+Peking Wok Restaurants,3.5,309,$$
+Little Caesars,1.5,27,$
+Cha Cha Chicken,4.0,328,$$
+Circle Bar,3.0,377,$$
+Mon Japanese Restaurant,4.0,351,$$
+Rush Street,3.5,2009,$$
+Maria's Restaurant,3.0,141,$
+LaB Coffee & Roasters,4.5,223,$$
+CANDILESAS RESTAURANT,na,na,na
+Chapinlandia Market,4.5,20,$
+Kai Ramen,4.5,587,$$
+Maria's Grill,4.0,61,$
+Puchica Guatemalan Bar & Grill,4.0,381,$$
+Al Layali Restaurant and Café,4.0,289,$$
+Fresh Potato Factory,4.0,520,$
+Barra Latina,2.5,3,na
+Kebab Halebi,4.5,308,$$
+La Hacienda,4.5,27,$$
+Flyin Fin,4.0,562,$$
+Kreation Organic Kafe & Juicery,4.0,244,$$
+Carnitas Michoacan,4.0,1136,$
+Pop's Hot Dogs,3.5,152,$
+New York Cafe,4.0,60,$
+Haida Sandwich & Juice,4.0,104,$
+The Bombay Frankie Company,4.5,329,$
+Tomato Pie Pizza Joint,4.0,343,$
+La Esperanza Restaurant and Bakery,4.0,617,$$
+Nuts 'n Berries Cafe,4.0,255,$$
+Primo Burgers,3.5,11,$$
+Bouvardia Restaurant,4.5,25,$$
+Shekarchi Kabob,5.0,77,$$
+Norm's Hamburger,4.0,311,$
+S & S Donut and Bake Shop,4.0,31,$
+Kolah Farangi,2.5,134,$$
+Five Guys Burgers and Fries,4.0,22,$
+Tarme Mediterranean Grill,4.0,357,$$
+Luminarias,3.5,665,$$
+Wahoo's Fish Tacos,3.5,258,$
+Leung Kee,3.0,276,$
+Los Angeles International Airport - LAX,2.5,5755,na
+Cassell's Hamburgers,2.5,21,na
+Good Stuff Restaurant - Hermosa Beach,4.0,395,$$
+JOE & THE JUICE,4.0,88,$$
+3 Ways,5.0,7,na
+Good Day Donut,5.0,16,$
+Pollo Campero,2.5,97,$
+Downey Brewing Company,2.5,458,$$
+Ebisu Japanese Tavern,3.5,337,$$
+Donut King,4.5,165,$
+Sate House,4.0,327,$
+Slusheeland,4.5,115,$
+Subway,3.5,16,$
+Jamba Juice,3.0,106,$
+LA Family Housing,5.0,1,na
+Cloverleaf Coffee & Bakery,3.5,407,$
+Gus Burgers,3.5,49,$
+El Cholo,3.5,1234,$$
+Flame Broiler,3.0,50,$
+Native Fields,4.5,267,$$
+New Time,3.0,28,$
+Fatima's Grill,4.5,861,$$
+New York Bagel & Deli,4.0,384,$
+Cruzer Pizza 100% Vegan,4.5,700,$$
+Summer Canteen,4.0,572,$$
+Mike's Pizza,4.0,126,$
+Honduras Restaurant,3.0,26,$
+Sushi n I,3.5,247,$$
+Panda Wok  BBQ,3.0,53,$
+Oreno Yakiniku Japanese Bar-B-Cue,3.5,108,$$
+The Pond Ice Cream,4.0,238,$
+Rob's Grill,3.5,92,$
+SOUTHERN CALIFORNIA PIZZA CO LLC,na,na,na
+Lomita Thai Cafe,4.0,245,$
+El Baron De Centro-America Pupuseria,3.5,103,$$
+Jacky’s Restaurant,4.5,8,$
+The Original Peppers,3.0,215,$$
+Small Batch Ice Cream,4.0,39,$
+Shaver Automotive Group,3.0,353,na
+The Hungry Cat,3.5,1189,$$$
+Village Grille,3.5,217,$
+iCuisine,3.5,227,$$
+Ramirez Restaurant,4.5,8,$
+Chef Geng's,4.0,40,$$
+Kai Sushi,3.5,315,$$
+Even Life,4.0,101,$
+Carmela Ice Cream,4.5,1501,$$
+Ozen Sushi,4.0,491,$$
+Baby Bros Pizza & Wings,4.0,217,$$
+The Original Rinaldi's Deli and Cafe,4.0,420,$
+Bee's Boba & Juicery,4.5,61,$
+Bricks & Scones,4.0,1272,$$
+El Pollo Loco,3.0,50,$
+El Rancherito,4.0,142,$
+El Torito Cafe,5.0,3,na
+France Donut,4.0,4,$
+Pancho's Tacos,4.0,39,$
+Knights of Columbus,5.0,1,na
+Surf City Squeeze,3.5,9,$
+Crenshaw Christian Center,4.5,16,na
+Ella's Belizean Restaurant,3.5,16,$
+Ravello Osteria,4.0,249,$$
+Troy's Burgers-10,4.0,80,$
+Milk,4.0,5729,$$
+Lotus Vegan,4.5,974,$$
+Happy Bakery,4.0,50,$$
+Undergrounds Coffeehouse,4.5,195,$
+CEMITAS POBLANAS EL SAITO INC,na,na,na
+Lucille's Smokehouse Bar-B-Que,3.5,856,$$
+Yi Mei Deli,3.5,422,$
+Sattdown Jamaican Grill,4.5,596,$$
+Rally's,3.0,32,$
+Cathay Palisades,3.5,89,$$
+Best Fish Taco In Ensenada,4.0,2029,$
+Alberto's Mexican Food,3.5,153,$
+Poke Poki,4.0,129,$$
+H Salt Esquire Fish & Chips,2.5,155,$
+North Italia,4.0,697,$$
+Rey's Pizza,3.5,19,$
+Wendy's,4.0,9,na
+Corner Bakery Cafe,3.0,280,$
+Frankie's Italian Kitchen,4.0,286,$$
+Q Kabob,4.5,17,$
+Nini Bakery,4.0,80,$
+Carbon,3.5,231,$
+Cheese Cave,5.0,261,$$
+Hamburger Express,3.5,84,$
+Sweet Stuff Donuts & Subs,5.0,3,$
+Uncle Tim's Thai House,3.5,312,$$
+Dippity Donuts,4.0,30,$
+Los Tres Hermanos,3.5,362,$$
+Italian Pizza Kitchen,4.0,130,$$
+Deluca Pasta,4.0,275,$$
+Leo Bakery,4.5,3,$$
+Bagel Broker,4.5,684,$
+Lemon Tree Kids and Family Restaurant,4.0,234,$$
+Piara Pizza,4.0,5,$
+MEXICALPAN RESTAURANT,na,na,na
+Sugar From the Heart,4.5,259,$$
+Palm Grove Ethiopian Restaurant,4.5,245,$
+Caffe Primo,3.5,377,$$
+China Bowl Express,3.5,22,$
+LOS CIPOTES SALVADOREAN GRILL Y BAKERY,na,na,na
+La Cabana Restaurant,3.5,761,$$
+WI JAMIN CARIBBEAN RESTAURAN,na,na,na
+Sweet Art Cakes,3.5,63,$$
+Wok To Go,3.0,179,$$
+Pollo Campero,2.5,81,$
+China Express,4.0,47,$
+Nordstrom Topanga,3.5,328,$$$
+Mandarin Lotus,4.5,331,$$
+El Camichin Authentic Mexican & Seafood,4.0,207,$$
+Chile Verde,3.0,67,$
+Bionicos Guadalajara,5.0,7,$
+Kifune Restaurant,3.5,301,$$
+KFC,2.5,19,$$
+The Pan,4.0,2448,$$
+Wanna Chill?,4.0,73,$
+JG's Nipa Hut,3.5,111,$
+Pure Energy Cafe,4.0,96,$$
+Subway,2.5,40,$
+J Nichols Kitchen,4.0,853,$$
+DeSano Pizza Bakery,4.5,977,$$
+Golden Donut Place,4.5,55,$
+Taco Bell,2.0,52,$
+Fatburger,3.5,194,$$
+The Coffee Bean & Tea Leaf,3.0,13,$$
+San Pedro Tacos,4.0,107,$
+Underground Bowling Lounge,3.0,7,na
+Siam Rice,4.0,211,$
+Gengis Khan,3.0,73,$
+Groundwork Coffee Co.,4.0,339,$
+Hilton Garden Inn LAX/El Segundo,3.5,126,$$
+ArcLight Cinemas,4.0,2145,na
+La Monarca Bakery,4.0,62,$
+Hacienda Grill,3.5,62,$
+El Arca Bakery & Restaurant,3.5,31,$
+Zion Market,3.0,300,$$
+The Donut Center,4.0,17,$
+Mc Den's Donuts,3.5,11,$
+Casa Moreno,3.5,383,$$
+AMC THEATRES BURBANK TWNCTR8,na,na,na
+Pupuseria el Kiosco,3.5,7,$
+Oh My Burger,4.5,1037,$$
+La Michoacana Ice Cream and Antojitos,4.5,69,$
+Jaragua,4.0,369,$
+Pupuseria Reynas Restaurant,3.5,15,$$
+Hatsatun,3.5,26,$$
+Tacos Mexico,4.0,260,$
+JC's Kitchen,5.0,103,$
+La Fiesta Bakery and Restaurant,5.0,1,na
+Panda Express,2.5,51,$
+Flaming Patty's,3.5,104,$
+California Mexican Grill,3.0,48,$
+Descanso Garden Spa,4.5,155,$$
+Al Wazir Chicken,4.0,508,$
+FAMILY STYLE KITCHEN 2 LLC,na,na,na
+The Little Easy,4.0,916,$$
+Tito's Tacos,3.5,4597,$
+Poquito Más,4.0,375,$
+The Bowery,3.5,558,$$
+El Amigo,4.5,344,$
+Dog Haus,4.0,175,$
+The Station,4.0,107,$
+The Village,3.5,644,$$
+Submarina California Subs,4.0,63,$
+Valley Super Burger,3.5,91,$
+NORMANDIE KAFE H C,na,na,na
+Las Molenderas Restaurant,4.5,126,$
+Midori Sushi,3.5,842,$$
+Vons,2.5,257,$$
+Lascari's Deli & Bakery,4.0,382,$$
+Sabrositas Pupusas & Beer,4.0,28,$$
+Gen Korean BBQ House,4.5,5390,$$
+Kee Wah Bakery,3.5,171,$
+Productos Naturales Rigo,5.0,1,na
+Santa Monica Seafood,4.0,1332,$$
+Pieology Pizzeria,4.5,102,$
+Yui Restaurant,4.5,126,$$
+Wolfdown,4.0,147,$$$
+Charlie's Fish & Chips,4.0,80,$$
+The Great Grill,4.0,330,$
+Starbucks,3.0,82,$
+Haifa Restaurant,4.0,158,$$
+Casita Taco Al Carbon,4.0,322,$
+EL GARABATO mexican food fusion,5.0,1,na
+Louisiana Fried Chicken,4.0,86,$
+Village Liquor & Market,4.0,6,$$
+TRiP,3.5,166,$
+TOMGEORGE Restaurant,4.0,434,$$
+Red Lantern Chinese Cuisine,4.0,222,$$
+LA ASUNCION FAMILY REST,na,na,na
+Love Letter Pizza & Chicken,3.5,369,$$
+Ruen Pair,4.0,1550,$$
+Chu's Garden,3.5,58,$
+Guisados Al Patron,4.0,5,na
+Elado,4.5,330,$
+Johnny's Bar,4.0,259,$
+BBQ Night,4.0,727,$$
+OUMI SUSHI @ SPROUTS 218,na,na,na
+Kansha Creamery,4.5,548,$
+Primo Cafe,3.5,185,$
+Dave & Buster's,2.5,180,$$
+Shina No Yoru,4.0,2,$$
+Ben & Jerry's,3.5,10,$$
+Big D's Burgers,4.0,1833,$$
+Mega Bodega,4.5,100,$$
+Cake Bash Studio,4.5,64,na
+Casa Gamino,3.5,247,$$
+Masala Grill,4.5,137,$$
+Subway,2.0,20,$
+La Cabana Restaurant,4.0,48,$$
+SUBHANNAHONG ROYAL THAI CUSINE,na,na,na
+Skylight Gardens,4.0,590,$$
+Homegirl Cafe,4.5,596,$$
+Honey Bakery,4.0,214,$
+Klat,4.0,581,$$
+The Parlor,3.5,599,$$
+BBQ Indian Cuisine,4.5,96,$$
+Sidecar Doughnuts & Coffee,4.5,1472,$$
+Meat Bowl,5.0,116,$
+Aroma Bakery Cafe,3.0,832,$$
+Taco Bell,3.5,37,$
+Jade Siam Restaurants,4.0,331,$
+Thai Victory Restaurant,4.5,272,$
+HQ Gastropub,4.0,978,$$
+Sandwich Express,4.0,269,$
+The Bee's Knees Protein Bar,4.5,15,$$
+Donut Star,3.5,57,$
+BJ's Pizzeria,3.5,83,$$
+Co-opportunity Market & Deli,4.0,355,$$
+Round Table Pizza,3.5,100,$$
+Capital Dim Sum & BBQ,3.0,50,$
+Sbarro,2.5,20,$
+Peking Kitchen,2.0,20,$
+The Wood,3.5,739,$$
+DeCarlo Pizza Chicken & Pasta,3.5,40,$$
+Pamore Pizza,3.5,64,$
+El Paraiso Tropical,5.0,1,$$
+Munchies,4.0,72,$
+un solo sol,4.5,533,$$
+LONZO'S BREAD CO,na,na,na
+Hooters,2.5,473,$$
+Yelp Elite Event: Secret Sipper Club at Tuck Room Tavern,5.0,22,na
+Red Chicken,4.0,332,$
+KFC,2.0,30,$
+Grandma Pucci's Homemade Ice Cream,4.0,44,$$
+Broken Spanish,3.5,776,$$$
+Fritto Misto,4.5,2255,$$
+Boba Tea Zone,3.5,147,$
+Wok N Tandoor,4.0,195,$$
+Elite Cuisine,4.0,41,$$
+Smitten Ice Cream,4.0,323,$$
+Tacos Con Todo,4.5,17,$
+Church of the Epiphany,4.5,2,na
+Macy's,2.5,42,$$
+Daily Grill,3.5,308,$$
+Takami Sushi & Robata Restaurant,3.5,1970,$$$
+Noree Thai on Beverly,4.0,54,$$
+HiHo Cheeseburger,4.5,494,$$
+Miyako Restaurant,3.5,149,$$
+Tortas Ahogadas Las Originales - Newhall,3.5,152,$
+Donut Time Cafe,4.5,38,$
+Backstage Bar & Grill,4.0,848,$
+SanSai Japanese Grill,4.0,316,$$
+Barbrix Restaurant & Wine Bar,4.0,1089,$$
+Scoops,4.5,359,$
+AA Cafe,5.0,4,na
+Scooter's Jungle - El Segundo,4.5,257,na
+CALIFIRNIA FISH GRILL LLC,na,na,na
+EL TUXATE RESTAURANT,na,na,na
+Vrej Pastry,4.0,133,$
+Dairy Queen / Orange Julius,3.5,56,$
+Perch,4.0,6371,$$$
+Red Car Coffee Shop,4.0,3,na
+V Wine Room,4.5,190,$$
+Popeyes Louisiana Kitchen,2.5,59,$
+Tikka Grill,4.0,273,$
+Guido's Pizza & Pasta,3.5,72,$
+Lulu's Restaurant,3.5,352,$$
+Baldoria,4.5,307,$$
+Champion Provisions,4.0,35,$
+Church's Fried Chicken,1.5,10,na
+DB's Grill & Bar,3.5,11,$$
+Edible Arrangements,3.0,41,$$$
+Planet Pansit,4.0,97,$
+El Palacio Restaurant & Night Club,2.5,7,$$
+Tocaya Organica - Hollywood,4.0,77,na
+Afters Ice Cream,3.5,15,na
+El Jalisciense,2.5,11,$
+Mariscos Mi Lindo Nayarit,3.5,170,$$
+Chipotle Mexican Grill,2.5,278,$
+Tashkent Produce,4.0,67,$$
+Imperial Alano Club,4.5,6,na
+Le Roy's Restaurant,4.0,787,$
+SunLife Organics,4.0,146,$$
+JNJ Burger  & BBQ,4.0,437,$
+Hamilton's Steakhouse,3.5,190,$$$
+Coconut's Fish Cafe,4.5,136,$$
+Tortuga Bay,4.0,216,$
+Something Vegan,4.5,201,$$
+Honey Boba,3.0,375,$
+Haché LA,3.5,565,$$
+ROSCOE'S HSE CHICKEN & WAFFL,na,na,na
+Palette Food and Juice,4.5,125,$$
+Bank Of America Farmers Market,4.0,59,$$
+El Porvenir Bakery,4.5,9,$
+Applebee's Grill + Bar,2.5,341,$$
+Chacui's Snack Bar and Coffee,4.5,35,$
+Chronic Tacos Mexican Grill,3.0,111,$
+Afterburn Fitness,4.5,43,na
+Local,4.0,785,$$
+Ichiban Japanese Restaurant,3.0,359,$$
+Embassy Suites by Hilton LAX North,3.5,197,$$
+The Habit Burger Grill,4.0,599,$
+Lucky Burgers,3.0,56,$
+Tea Rush,4.0,252,$
+Judi's Deli,3.5,44,$
+Sprouts Farmers Market,4.0,204,$$
+MARIA CECILIA ZEPEDA,na,na,na
+Pacos Tacos,2.5,121,$
+Electric Karma,4.0,747,$$
+Amazing Thai Cuisine,3.5,193,$
+Louisiana Fish Market,4.0,7,$
+V's restaurant + bar,4.5,398,$$
+Barnes And Noble Cafe,1.5,11,$$
+Ms Ruby's Bakery,4.5,82,$
+Rubio's Coastal Grill,3.5,143,$
+Pollo a La Brasa Western,4.0,729,$
+GROUNDWORK COFFEE -THE GROVE (KIOSK),na,na,na
+LGM POKE INC,na,na,na
+Express Deli,3.5,24,$
+Cafe Bolivar,4.0,355,$$
+Chop Stop,4.0,428,$
+Vespertine,4.5,127,$$$$
+DK DONER KING,na,na,na
+Garçons de Café,4.5,90,$$
+Coffee Buna,4.0,25,$
+Clocker's Corner,4.5,33,$
+Taco Bell,2.0,79,$
+Suzy's Bar & Grill,3.0,103,$
+Rosarito Taco Grill,4.0,202,$
+Katsuya Glendale,2.5,1619,$$
+Fat Sal's Deli,4.0,1114,$$
+The Donut,4.5,100,$
+Lotus Chinese Restaurant,3.0,180,$$
+Casa Nostra Ristorante,4.5,222,$$
+Jumpin Java,4.0,430,$$
+Fab Hot Dogs,4.0,1082,$
+Chocolate Cafe ll,4.0,171,$$
+El Sombrero,3.5,135,$$
+The HamWich Shack,4.5,141,$
+Big Rays Drive In,4.0,16,$
+Edwards South Gate  20 & IMAX,2.5,227,na
+Johnny Rockets,3.0,133,$$
+Healthy Haven,4.5,86,$
+Sushi Mashiko,4.0,117,$$
+illy Caffè,3.5,56,$
+Hugo's,4.0,1235,$$
+Asian Way,4.5,5,na
+Las Islas Marias Mariscos,3.0,85,$$
+Ventana Coffee,5.0,84,$
+Rice Garden,2.5,68,$
+The Ripe Choice Catering,4.5,23,na
+Velma's Cafe,5.0,46,na
+Guido's Pizza & Pasta,3.5,72,$
+Dandy Lion Restaurant,3.5,45,$
+Baguette De Paris,4.5,126,$
+China Express,3.5,81,$
+Taqueria of Hollywood,4.0,49,$
+Zelo Gourmet Pizza,4.0,715,$$
+LA AUTHENTICA MICHOACANA,na,na,na
+Dogtown Coffee,4.0,817,$
+Pepe's Finest Mexican Food,3.5,142,$
+Wunder Eats,3.5,25,na
+Genwa Korean BBQ,4.5,2648,$$
+Lucky Donuts,3.5,88,$
+Little Siam Restaurant,4.0,194,$$
+Villaggio Deli & Restaurant,4.5,161,$
+MARISCOS Y SUCHI LOS: TOMATEROS,na,na,na
+La Canada Taqueria,3.5,28,$
+Ribs USA,3.0,590,$$
+China Express,3.5,81,$
+Johnny Rebs',4.0,935,$$
+Bun Bo Hue,5.0,1,na
+Johnny Rockets,3.0,287,$$
+Applebee's Grill + Bar,2.5,359,$$
+Tommy's Original World Famous Hamburgers,4.0,1142,$
+LA's Best Salad Bar powered by Mrs. Winston’s,4.5,45,$$
+LAS PALMAS SENIOR CTR. SNACK,na,na,na
+Sharky's Woodfired Mexican Grill,4.0,215,$
+Heidi Store,2.5,2,na
+I Love Sweetea,4.0,362,$
+Thai Chef Cuisine,4.5,412,$
+Four Seasons Hotel Los Angeles at Beverly Hills,4.5,343,$$$$
+The Rookery Alehouse and Grill,4.0,398,$$
+Sayat Nova Restaurant & Banquet,3.0,31,$$
+Cafe Dulce,4.0,2025,$
+Los Almendro's Bakery,4.5,37,$
+Maradentro Brentwood,4.0,322,$$
+Lovebirds Cafe & Bakery,3.5,394,$
+Green Peas Casual Food,4.0,1025,$$
+Salo-Salo Grill,3.5,513,$$
+Ramen of York,4.0,445,$$
+Michael's Pizza,3.5,131,$$
+KFC,2.0,46,$
+Mei Heang Chinese Fast Food,4.0,10,$
+Wilson Burgers,4.0,129,$
+La Tropézienne Bakery Los Angeles,4.5,258,$$
+Sharky's Woodfired Mexican Grill,4.0,210,$$
+Regent Coffee,4.5,156,$$
+Tacos La Fonda,3.5,40,$
+Misasa,3.5,174,$
+Tirsa's,4.5,102,$$
+Kobee Factory,4.5,523,$$
+The Hidden Havana Cuban Cafe,3.5,178,$$
+The Ugly Mug Coffee House Burbank,4.5,89,$
+Brooklyn Deli,3.0,121,$$
+The Wood,3.5,739,$$
+Century 8 Theatres,4.0,279,na
+Kyoto Sushi,3.5,495,$$
+Chimney Coffee House,4.0,551,$$
+Subway,2.0,37,$
+Penmar Golf Course Coffee Shop,4.5,12,$
+Badmaash - Fairfax,4.5,90,$$$
+Auntie Anne's Pretzels,2.5,22,$
+Gombo Wang Korean Restaurant,4.0,131,$$
+Wilson Park,4.5,202,na
+Mr Champion,4.0,123,$
+RiceString Noodle Shack,4.0,272,$
+Subway,3.5,18,$
+The Shack,3.5,383,$
+Ono Hawaiian BBQ,3.5,85,$
+ArcLight Cinemas,3.5,1062,na
+Bristol Farms,3.5,174,$$$
+Szechwan Garden,3.5,133,$
+Lien Hoa Deli & Seafood Market,4.0,33,$
+Celebrity Hall,3.0,19,na
+Ciabatta Bar Hollywood,4.5,68,$$
+Super Panda,2.0,59,$
+B B Saara,3.5,59,$$
+Fatburger,2.5,167,$$
+Huo Zhou Wang,2.5,94,$$
+Cortina's Italian Market,4.5,1503,$
+Fred 62,3.5,2159,$$
+El Atacor Restaurant,4.0,171,$
+Cascabel,4.0,669,$$
+The Coffee Bean & Tea Leaf,4.0,52,$
+La Salsa,3.5,72,$
+Ramona's Mexican Food Products,3.5,66,$
+Frooza,5.0,59,$$
+Sogongdong 1962,2.5,10,$$
+Mexican American Opportunity Foundation MAOF Headquarters Servic,3.0,5,na
+BJ's Restaurant & Brewhouse,3.0,970,$$
+Tokyo Wako,3.0,288,$$
+Thai Chefs,4.0,181,$$
+Stonefire Grill,4.0,639,$$
+Element Palmdale,4.5,22,$$
+Philippe the Original,4.0,5731,$
+Subway,2.0,38,$
+JUN JU SHULUNGTANG,na,na,na
+Uncle Reds Pizzeria,4.0,326,$$
+Frutibionicos,4.0,44,$
+Fish In the Village,4.0,220,$$
+Izakaya Tonchinkan,4.0,45,$$
+Toast Bakery Cafe,3.5,1635,$$
+Star Bakery,4.0,98,$
+Fork Over Pork,4.0,156,$$
+Pine & Crane,4.5,1880,$$
+Seasalt Fish Grill,4.0,1172,$$
+Sweety Hut Thai Restaurant,4.0,275,$
+Chanos Drive In,4.0,135,$
+El Pollo Loco,2.0,65,$
+Asia Kitchen Of Baldwin Park,3.5,190,$$
+Corner Cuisine,4.0,13,$$
+Clark Street Bread,4.5,94,$
+Granny's Donuts,4.5,64,$
+Chan Dara Restaurant,3.5,345,$$
+Spread Mediterranean Kitchen,4.5,356,$$
+Bon Shabu,4.0,347,$$
+Wi Jammin Caribbean Cafe,3.5,119,$$
+Pizza King,3.5,74,$$
+Moana Grill,4.5,167,$
+Feel Karaoke,3.5,227,$$
+Grimaldi's Pizzeria,4.0,1027,$$
+GREYHOUND FOOD SERVICE INC,na,na,na
+Restaurant & Pupuseria El Ranchon,4.5,4,$
+Paraiso Kebab,3.5,38,$$
+Cindy's Eagle Rock,4.0,541,$$
+El Paseo Inn,3.5,1005,$$
+Taste of Tehran,4.5,777,$$
+Worldwide Tacos,3.5,191,$$
+Shenyang Tasty Restaurant,3.5,14,na
+Southern Girl Desserts,4.0,330,$$
+Versailles,4.0,865,$$
+Street Tacos and Grill,5.0,85,$
+Paper or Plastik Cafe,3.5,989,$$
+Taco Limon,3.0,36,$
+Palmtree Karaoke,3.5,29,$$$
+Stout Burgers & Beers,4.0,713,$$
+Royal Bakery,4.5,27,$
+Taqueria Los Coyotes,3.5,34,$
+King Poke,4.5,567,$
+Arts Meat Market & Deli,4.5,94,$
+Kues Restaurant,4.0,40,na
+La Michoacana,4.0,13,$
+Venice Bakery & Restaurant,4.0,271,$
+Rubio's,4.0,80,$
+Golden Burger 11,4.0,65,$
+Spire 73,3.0,445,$$$
+Cafe Oaxaca,4.5,55,$
+Ramen Nippon,3.5,828,$
+El Grullense,4.5,82,$
+Donut Inn,3.5,9,$
+Chin's Hawaiian Teriyaki Bbq Chicken,4.0,55,$
+Dolce Isola - The Ivy Bakery,4.0,153,$$
+Sushi bonito,4.5,69,$$
+Off Vine Restaurant,4.0,812,$$
+Klatch Coffee,4.5,89,$$
+Taqueria Los Anaya,4.5,1014,$
+Red Castle 1,3.5,207,$$
+Ten Ren's Tea Time,3.5,326,$
+BJ's Restaurant & Brewhouse,3.0,734,$$
+Matt & Tony's,3.0,132,$
+Kafe K,4.5,214,$$
+Lupitas Cafe,5.0,1,na
+Ebaes on Wilshire,4.0,109,$$
+Tutti Frutti Bell Gardens,3.5,14,$
+Bionicos La Tropicana,3.5,10,$
+Don Carlos Village Salvadoran Grill Y Pupuseria,3.0,8,$
+Panda Chinese Fast Food,3.0,56,$
+Hong Kong Express,3.0,34,$
+H Salt Esquire Fish & Chips,2.5,155,$
+Round1 Puente Hills,3.5,1118,$$
+The Coffee Bean & Tea Leaf,4.0,121,$
+Auntie Dee's Pan De Manila,4.0,65,$
+SAINT URBAIN STREET BAGELS / BUELLER'S BAGELS,na,na,na
+Take Sushi Restaurant & Japanese Cuisine,4.0,172,$$
+GLORIA'S PUEBLITO,na,na,na
+Albertos Mexican Food,2.5,45,$
+Edwards South Gate  20 & IMAX,2.5,227,na
+Caesar's Mongolian Bar-B-Q,4.0,434,$$
+Shamshiri Restaurant,4.0,275,$$
+DRAGO Centro,4.0,1477,$$$
+Rio's Pizza,3.5,344,$$
+Renaud's Patisserie and Bistro,4.5,424,$$
+Trois Mec,4.0,591,$$$$
+Alfred Coffee Studio City,4.0,159,$$
+Monkey Bar,4.0,396,$$
+KHUNDANG THAI RESTAURANT CHATSWORTH,na,na,na
+Baskin-Robbins,3.0,8,$$
+BakersBodega,4.0,128,$$
+Teresa's Mexican Grill,4.5,428,$
+Anarkali Indian Restaurant,4.0,2226,$$
+Sake House by Hikari,4.0,278,$$
+Emerald Thai Cuisine,3.5,201,$
+Gold's Gym Downtown Los Angeles,3.0,729,na
+Uncle Henry's Deli,4.5,466,$$
+Tasty Thai Cafe,4.0,184,$
+Big Wangs,2.5,995,$$
+Pupuseria Jutiapa,3.5,46,$
+El Llano Restaurant,4.0,63,$$
+Lake Lindero Country Club,3.0,43,na
+Me-N-Ed's Pizza Parlor,3.5,425,$$
+Ing Doi Thai Kitchen,4.0,203,$$
+Pinoy Food Republic,3.0,27,$
+Arco,2.0,20,na
+KFC E791027,na,na,na
+Tender Greens,4.0,324,$$
+Homemade Donut,3.0,8,$
+The Cheesecake Factory,3.0,1270,$$
+Oriental Wok,4.0,7,na
+Joss Bites,4.0,13,na
+Casa Córdoba,4.0,442,$$
+Zafran Pot,4.5,301,$$
+The Munchie's Spot,4.0,8,na
+HUNAN CHILLIKING INC,na,na,na
+Truman House Tavern,4.5,156,$$
+MULTI-PUPOSE SENIOR CENTER,na,na,na
+Menchie's - Sherman Oaks,4.0,186,$
+HT Grill,3.5,583,$$
+Solar de Cahuenga,3.0,660,$$
+Awoolim Kimbap Factory,4.5,88,$
+Maki Sushi,4.0,197,$
+FENGWEI KEBAB,na,na,na
+Shake Shack,3.5,387,$$
+Menchie's Frozen Yogurt,4.0,180,$
+Milk,4.0,5729,$$
+Sabor A Tony Restaurant,2.5,43,$$
+School Food Blooming Roll,3.0,523,$$
+Jay Bharat,4.0,172,$
+USA Donuts & Croissants,2.0,29,$
+The T Room,4.5,301,$$
+Bellflower Diner,4.0,192,$
+"TEUM RESTAURANT, INC.",na,na,na
+OLDENBORG CENTER,na,na,na
+William & Jane Bristol Civic Auditorium,5.0,3,na
+The Potato Sack,4.0,77,$$
+Tiffany's Catering,4.5,29,$$
+Fiesta Cantina,3.5,709,$$
+Gaucho Grill Argentine Steakhouse,4.0,1066,$$
+Le Petit Chateau,3.5,301,$$$
+Carmen Restaurant salvadorean cuisine,3.0,23,$
+SUGARFISH by sushi nozawa,4.0,1309,$$$
+Shakey's Pizza Parlor,3.0,133,$$
+Bartha's Donuts,3.5,17,$
+Torrance Little League,3.5,3,na
+Pollos A La Brasa Los Andes,4.0,62,$$
+Jack In The Box,2.0,32,$
+Premiere Events,4.0,8,na
+Little Caesars,4.0,24,$
+JJ's Sandwich Shop,4.5,194,$
+Wendy's Tortas,3.5,17,$
+EL RINCONCITO DE MAGO,na,na,na
+Boulevard Burgers,3.0,146,$
+Al Chile Pelon Mexican Food,3.5,134,$
+Daw Yee Myanmar Corner,4.5,275,$$
+Izakaya Gazen,4.0,261,$$
+Subway,3.0,22,$
+GLENDORA LA FERTA CENTER,na,na,na
+Game Haus Cafe,4.5,493,$
+Boba Cha Cha,4.5,149,$
+Tasty Noodle House,4.0,181,$$
+Salt & Straw,4.5,1099,$$
+Fusion Sushi - Manhattan Beach,4.0,637,$$
+"Sakura Japanese Steak, Seafood House & Sushi Bar",4.0,576,$$
+Blue Bottle Coffee,4.0,537,$$
+Park Cafe & Grill,4.5,7,$$
+Mendocino Farms,4.5,1816,$$
+Rydell Chevrolet,3.5,502,na
+Christy's Donuts,4.0,13,$
+The Green Chile,4.0,509,$
+Frida Restaurant,3.0,1820,$$
+Wilson Harding Clubhouse,3.0,10,na
+Best Donuts,4.0,87,$
+Pizza Express,5.0,1,na
+Montebello City Park,3.5,10,na
+Napoli Kosher,4.5,46,$$
+Holiday Inn West Covina,3.5,63,$$
+Amapola Deli & Market,3.5,128,$
+Raspado Xpress,3.0,71,$
+Tummy Stuffer,4.0,61,$
+The Great Room Cafe,4.0,265,$$
+Lady's Donuts,5.0,37,$
+Breakers Korean BBQ & Grill,4.0,242,$$
+El Mercadito de Los Angeles,4.0,289,$$
+Everyday Cafe,4.5,13,$
+Panda Inn,4.0,723,$$
+Pepperdine University,4.0,73,na
+Darling Donuts & Ice Cream,5.0,44,$
+Black Dog Coffee,4.0,300,$
+abeautifullife jamaican cafe,4.0,90,$
+Salt & Wind Travel,5.0,7,na
+Candle Light Bakery,4.0,28,$$
+DUNE ZWEI,na,na,na
+Ahi Hawaiian BBQ,4.5,53,$
+Mexico 86,4.0,16,$$
+Belcampo - Santa Monica,4.0,431,$$$
+The Cove Cocktail Bar,4.0,112,$
+Ana's Bionicos,4.0,177,$
+DeFranko's Submarines,4.0,498,$
+L&L Hawaiian Barbecue,3.5,257,$
+Simple Vapors,5.0,31,$
+Mitsuru Cafe,4.0,771,$
+Wingstop,3.5,146,$$
+Super Wok Chinese Restaurant,3.5,406,$$
+G&K Burgers,3.5,87,$
+Olympic Donuts,4.5,17,$
+House of Cookies,3.5,23,$
+Lasik Eye Center,4.5,430,na
+Little Caesars,1.5,27,$
+Merengue Bakery & Cafe,4.0,563,$
+Wingstop,2.5,190,$$
+Guisados DTLA,4.5,1515,$
+Halaloglu,4.5,83,$$
+Snowflakes Shaved Ice,4.5,472,$
+Verve Coffee Roasters,4.0,623,$$
+Bia Coffee,4.0,374,$$
+Chengdu House,4.0,225,$$
+SOUTHERN CALIFORNIA PIZZA CO LLC,na,na,na
+The Smoke House Restaurant,3.5,1130,$$
+Flame Broiler,2.5,41,$
+Ootoro Sushi,4.0,525,$$$$
+KFC,2.5,34,$$
+Jack's Pizza and Subs,4.5,173,$
+Tumbys Pizza,3.5,28,$
+71 Above,4.0,1322,$$$$
+Melissa's Catering,5.0,1,na
+Papa John's Pizza,2.0,38,$$
+IBROW BAR BY EB,5.0,1,na
+Boardwalk Yogurt,3.5,36,$
+PAGODA CATERING INC,na,na,na
+Kye's,4.5,329,$$
+Dandana Cafe and Banquet,4.0,117,$$
+Wabi Sabi,4.0,1,na
+Hilton Garden Inn Valencia Six Flags,3.5,163,$$
+Fatamorgana Gelato,4.5,175,$$
+Best Fish Taco In Ensenada,4.0,2029,$
+Santa Fe Springs Swap Meet,4.0,269,$
+Oke Poke Claremont,4.0,189,$
+Scopa Italian Roots,4.0,932,$$$
+Freudian Sip,2.5,80,$
+A Ri Rang Tofu House,4.0,1028,$$
+Raspados GDL,4.0,80,$
+Round Table Pizza,2.5,34,$$
+Mom's Donuts,4.0,26,$
+El Caporal Restaurant,4.0,58,$
+Talesai,4.0,103,$$
+Anarbagh Beverly Hills,4.5,417,$$
+Ruiji Sichuan Cuisine,4.0,180,$$
+Pho 45,4.5,621,$
+Pho Season,4.0,263,$
+Sierra Saloon,5.0,1,$
+BJ's Restaurant & Brewhouse,3.0,477,$$
+The Foodshop,5.0,22,$
+The Fish House,4.5,207,$$$
+Four Winters,4.5,45,na
+SGJAA SNACK BAR,na,na,na
+Juanita's Tortilleria,4.5,8,$$
+MJ Cafe & Teahouse,3.0,480,$
+The Coffee Bean & Tea Leaf,3.5,82,$
+King Buffet,3.0,416,$$
+Doc Popcorn - Lakewood Center Mall,2.5,9,$
+La Parrilla Mexicana,3.5,126,$$
+Donut Tree,4.5,214,$
+Chi Chi Club,3.0,48,$$
+2ServiceU,4.5,37,na
+Chomak,4.0,33,$$$$
+Hot Dog On A Stick,3.5,7,$
+Genwa Korean BBQ,4.5,690,$$$
+Synn Gentlemen's Club,3.5,121,$$
+El Pollo Loco,2.0,23,$
+Katana,4.0,1512,$$$
+Lafunz Hotpot,3.5,91,$$
+Flame International Kabob House,4.0,377,$$
+La Michoacana The Ice Cream Spot,4.5,41,$
+Blue Cow Kitchen & Bar,4.0,1181,$$
+Kang Kang Food Court,3.5,230,$
+Western Bagel,4.0,188,$
+Subway,2.5,42,$
+La Golondrina Mexican Cafe,3.5,831,$$
+Unique Pastry,3.5,106,$$
+Shiki Seafood Buffet,3.5,227,$$
+Thuan Phat Supermarket,3.5,134,$
+Jeff's Barbecue & Bibingkinitan,4.5,5,$
+Polly's Pies Restaurant,4.0,334,$$
+Delphi Greek,3.5,331,$$
+C & C Donuts,4.0,22,$
+Asako Sushi,4.0,321,$$
+Don Francisco's Coffee Casa Cubana,4.5,306,$
+Dolce Bistro & Bakery,4.0,1379,$$
+Lucky Elephant Thai Cuisine,4.0,861,$$
+Southern California University of Health Sciences,3.5,29,na
+La Goccia Espresso Bar,4.5,121,$
+RioZonas Açaí,4.5,329,$
+The Sunset Trocadero Lounge,4.0,245,$$
+Lieder's,5.0,30,$$
+Sam's Noodle Station,4.0,209,$
+Nancy's Market,4.5,8,$
+Pieology Pizzeria,4.0,267,$
+Vito's Pizza,4.0,217,$$
+Design Cafe,4.0,7,$$
+Shanghai No. 1 Seafood,3.0,555,$$
+Los Angeles International Airport - LAX,2.5,5755,na
+Rubio's Coastal Grill,4.0,202,$
+WEST END TENNIS&RACQUETCLUB,na,na,na
+Public School 213,3.5,703,$$
+Champs Sports Pub,3.0,189,$$
+Alberto's Mexican Food,3.0,94,$
+Los Cinco Puntos,4.5,482,$
+Donut Star,3.5,57,$
+PRINKIPIA TUTTI FRUTTI,na,na,na
+BKK101 Thai Cuisine,4.0,485,$$
+The Rustiq Table,4.0,150,$$
+World Seafoods,4.5,48,$$
+Donuts Park,5.0,1,na
+Manhattan Pizzeria,3.0,281,$
+Qin's Garden,3.0,9,na
+The Original Barrio Fiesta of Manila West Covina,4.0,184,$$
+Hare Krishna Cultural Center,4.5,19,na
+Casa La Doña,4.5,533,$
+Kai Poke,4.0,101,$$
+Earthen Restaurant,4.0,851,$$
+Grand Café,4.0,365,$$
+Doublz,3.5,75,$
+Hampton Inn & Suites Santa Monica,3.5,30,$$$
+Los Girasoles Mexican Grill,3.5,18,$
+Grand Banquet Hall,4.0,22,na
+Da Pasquale Restaurant,4.5,690,$$
+Viva Jalisco,4.5,22,$
+Alcove Café & Bakery,4.0,4002,$$
+Your Natural Birth,5.0,69,na
+Banh Mi Che Cali,3.0,146,$
+Dairy Queen,2.5,32,$
+India Fresh,4.5,215,$
+Thai Boom,3.5,200,$$
+Baltaire,4.0,639,$$$$
+Thai Thai Cafe,4.5,74,$
+OMG Great Cuisine,4.5,3,$$
+Shakey's Pizza Parlor,3.0,102,$$
+Bricks,4.0,1001,$$
+Toppings Yogurt,4.5,256,$
+Carnival Cruise Lines,3.0,1100,na
+Napa Valley Grille,3.5,818,$$
+The Artist Pizzeria,4.0,535,$
+Zooma Sushi,3.5,143,$$
+Daniel's Tacos,4.0,41,$
+Little Beast Restaurant,4.0,974,$$
+Bryan's Cafe,4.0,62,$
+Skirball Cultural Center,4.5,317,na
+MONKEE'S TERITAKI,na,na,na
+C+M Coffee and Milk at Westwood Gateway,4.0,46,$
+Popeyes Louisiana Kitchen,3.0,166,$
+Domino's Pizza,2.0,55,$
+Al Pollo Restaurant,4.5,10,$$
+La Perla Bakery,4.0,35,$
+Novo Cafe,4.0,435,$$
+Chile Verde,4.0,37,$
+Echoplex,3.5,462,$$
+Yee's Chinese Food,3.0,214,$
+Smaffee Cafe,5.0,28,$
+Wat Dong Moon Lek Noodle,4.0,925,$$
+Chicken Dijon - Torrance,3.5,367,$$
+Popeyes Louisiana Kitchen,3.0,81,$
+Quiero Mas Tacos,4.0,20,$
+Honeymee - Gardena,4.0,513,$
+Bar Nine,4.0,1,na
+Sugar Dayne,4.0,19,$$
+KFC,2.0,28,$
+Seoul Garden Restaurant,4.0,497,$$
+Jon & Vinny's,4.0,1247,$$
+El Pollo Amigo,4.0,184,$
+Burgerim,3.5,134,$$
+Hayato,5.0,31,na
+Ranch House BBQ & Grill,3.0,229,$$
+Donut Farm,3.5,225,$
+El Pollo Loco,2.5,82,$
+Chipotle Mexican Grill,3.5,287,$
+Chile Verde,3.0,44,$
+Hai Nam Saigon,3.5,88,$
+Que Ricos,3.0,81,$
+Pho Hue Oi,4.0,176,$$
+Mastro's Ocean Club,4.0,1179,$$$$
+Pots n' Woks,4.0,183,$
+Taqueria Mi Ranchito,5.0,212,$
+Lazy Dog Restaurant & Bar,4.0,1056,$$
+Good Day Donuts,4.5,36,$
+Momed - Beverly Hills,4.0,625,$$
+Papillon International Bakery,4.5,302,$
+Kiddos Creamery,5.0,367,$
+Roll Call,4.5,250,$$
+Sasabune Express,4.0,96,$$
+Vincenzo's Pizza,4.0,285,$$
+Peppertree Cafe,4.0,287,$
+Subway,2.5,25,$
+Uno Tre Otto,4.5,167,$$$
+Rincon Sinaloense,4.0,18,$$
+Beach Bowls Acai Cafe,3.5,590,$
+EL RINCON DE GIOVANNITA PERUVIAN GRILL,na,na,na
+Century Grill,4.0,17,$
+Jersey Mike's Subs,4.0,93,$$
+The DoubleTree by Hilton Hotel Claremont,3.5,177,$$
+The Gaslite,3.0,321,$$
+N'ice Cream,4.0,61,$
+Mary's Market,4.5,203,$
+Señor Fish,3.0,334,$
+Pick Up Stix,3.5,122,$
+Kappo Irifune,4.0,138,$$
+Longo Toyota,4.0,2236,na
+Vees Cafe,4.0,706,$$
+Mastro's Steakhouse,4.0,487,$$$$
+Old Time Drive In,3.0,205,$
+RESTAUNTE Y PUPUSERIA AZUCEN,na,na,na
+West 4th & Jane,4.0,443,$$
+Kung Pao Bowl,4.0,243,$
+The Industry Bar,3.5,34,$
+Veterinary Care Center,4.0,543,na
+Square Mixx,4.0,139,$$
+Tomomi Sushi,3.5,1222,$$
+Route 66 Classic Grill,3.5,187,$$
+Panini Kabob Grill,4.0,998,$$
+LASY DAISY,na,na,na
+Queen's Donut,4.0,99,$
+Berlins,4.5,833,$
+Julio's Pizza,3.5,87,$$
+Taqueria Los Anaya,4.5,1014,$
+Subway,2.0,22,$
+Wake & Late,4.5,249,$
+Taqueria El Charrito,4.0,49,$
+The Standing Room,4.0,386,$$
+Vientiane Lao Thai,4.0,1074,$
+Green Cottage,4.0,653,$$
+Kentro Greek Kitchen,4.0,1161,$$
+Kreation Organic Kafe & Juicery,3.5,464,$$
+York Shore House,4.0,90,$$
+3rd Street Pizza,4.0,77,$
+Anahi's Bionicos,4.0,7,$
+Burrolandia Mexican Grill,4.0,103,$
+Intiraymi Restaurant Peruvian Food,4.0,151,$$
+Oxford Suites Lancaster,4.0,94,$$
+My Home Chinese Restaurant,4.0,207,$
+Juan's Tacos,3.5,53,$
+VERYLICIOUS YOGURT INC,na,na,na
+YUM YUM DONUTS FRANCHISE 18C,na,na,na
+SILVERCREST KITHCHEN,na,na,na
+Mikomi Sushi,4.5,1131,$$
+GRANVILLE,4.5,1480,$$
+Crossings,4.0,371,$$$
+Jade Palace Buffet,3.0,14,$
+LA MEXCLA DELI,na,na,na
+Seven Grand,4.0,2045,$$
+Civil Coffee,4.0,286,$$
+Chez Tex,4.0,87,$$
+Subway,3.0,37,$
+71 Above,4.0,1322,$$$$
+Barbette,4.0,69,$$
+MI SOMBREREO AZUL,na,na,na
+Saigon Eden,4.0,697,$
+Lucy's El Adobe Cafe,2.5,260,$$
+Lucky China ,3.5,7,na
+Pizza Man,2.5,45,$
+Krust,4.5,152,$
+Kashiwa Sushi,4.5,347,$$
+City Club LA,4.0,101,na
+Heirloom Bakery,4.0,545,$$
+Amor Indio,4.0,88,$$
+Ricco's Pizza,4.5,88,$$
+Cakes Unlimited,3.5,127,$$
+Burgershopca,5.0,3,na
+Happy Donuts,4.5,15,$
+Pinkberry,3.5,234,$
+Chipotle Mexican Grill,2.0,44,$$
+Villa Moreliana,5.0,12,$
+Cabo Cantina,2.5,758,$$
+Lacha Somtum,4.0,227,$$
+Cupid's Hot Dogs,3.5,207,$
+Bon Vivant Market & Cafe,4.0,815,$$
+Cafe Vida,4.5,568,$$
+Kublai Khan,3.5,24,$
+BOBADIA,na,na,na
+Jamba Juice,3.5,127,$
+Los Angeles International Airport - LAX,2.5,5755,na
+Bionicos Jugos Zapopan,4.0,73,$
+Percolate,4.5,243,$
+Won Kok Restaurant,3.5,1051,$
+GEZZINY'S MARKET & DELI,na,na,na
+Hock+Hoof,4.5,145,$$
+Katie's Kitchen,3.5,23,$
+Pink Pepper,3.5,504,$$
+Calamigos Equestrian,4.5,99,na
+Cold Stone Creamery,3.5,73,$$
+Broadway Grill,3.5,10,na
+The Habit Burger Grill,4.0,375,$
+Baskin-Robbins,2.5,15,$$
+Hungry Crowd,4.5,288,$$
+Village French Bakery,4.5,163,$
+Tutti Frutti Frozen Yogurt,4.0,53,$
+Tacos El Gordo,4.0,96,$
+BRENTWOOD PIES LLC,na,na,na
+Sloan's Ice Cream,3.5,257,$$
+Mr J's,3.0,5,$
+Jamba Juice,2.5,100,$
+A & B Donuts,4.5,12,$
+Flame Broiler,4.0,22,$
+Board House Coffee,4.0,111,$
+Subway,3.5,18,$
+Jumbo's Clown Room,3.5,646,$$
+Kelly's Korner,4.5,32,$
+Bionicos Genesis,2.5,13,$
+Cafe Ahsah,3.5,3,$$
+Marie Callender's Restaurant & Bakery,3.0,248,$$
+Applebee's Grill + Bar,2.5,255,$$
+Subway,4.0,4,$
+FishBar,4.0,1485,$$
+Luigi al Teatro,4.5,110,$$$
+MEZZO Garden Restaurant,3.5,5,na
+Domino's Pizza,2.5,31,$
+Spires Restaurant,3.5,77,$
+Pho Family Restaurant,4.0,101,$
+Churro Craze,3.5,33,$
+"Huntington Library, Art Collections, & Botanical Gardens",4.5,1765,na
+Barista Society,4.5,50,$
+Las Palmas Mexican Food,4.0,146,$$
+EL VALLE OAXAQUENO INC.,na,na,na
+Vivian's Millennium Cafe,4.0,548,$$
+Mako Sushi,4.0,249,$$$
+Omar's Chinese Restaurant,4.5,191,$$
+Dario's Mexican Restaurant,3.5,128,$$
+Teddy's,3.0,77,$$$
+Bento-Ya,3.5,316,$
+Northrop Grumman,4.5,2,na
+La Guadalupana Bakery,4.0,1,$
+New Japan by SushiStop,3.5,512,$
+Joghurt,4.0,160,$
+Fosters Donuts,4.0,31,$
+Poquito Más,3.5,348,$
+The Locker Room,3.5,73,$
+Nest Tea House,4.0,507,$
+Jasmine Thai Noodle N BBQ,4.0,431,$$
+Antojitos Mexicanos Restaurant,4.5,602,$
+Birrieria Jalisco,4.5,72,$
+Patria Coffee,5.0,95,$
+Golden Panda,3.0,12,$
+Classic Donut,3.0,22,$
+Eagle Rock Music Festival,4.0,26,na
+H2O Poke & Fish Grill,4.0,278,$$
+The Kitchen,4.0,1362,$$
+India's Oven,4.5,999,$$
+The Magic Castle,4.0,2221,$$$
+Annie's Bakery Cafe,4.0,34,$
+Thai Rama,4.0,213,$
+Saigon Dish,4.5,1531,$
+Hoops Deli,4.0,29,$
+Villa Sombrero,3.0,176,$$
+Philie B's,3.5,249,$
+The Stand,4.0,226,$$
+Kabab & More,4.5,106,$$
+Asaka Sushi & Grill,3.0,246,$$
+Swork Coffee,4.0,686,$$
+LAS CHAMPAS USA FOOD SERVICE,na,na,na
+Pho Mai,4.0,194,$
+Bake-Are-We,4.5,79,$
+Kitchen24,3.5,987,$$
+Las Playas Bar,2.0,2,na
+Asian Box,4.0,209,$$
+Fubar,4.0,124,$$
+Albert's Mexican Food,3.0,65,$
+T. Phillips Alehouse and Grill,3.5,625,$$
+Jewel City Bowl,4.0,389,na
+Flame Broiler,3.0,77,$
+Chick-fil-A,3.0,43,$
+Garden Cafe,4.5,1465,$$
+MyungGa Jokbal,5.0,5,$$
+Starbucks,3.5,48,$
+Butter Cafe and Bakery,4.0,778,$$
+Creamistry,3.5,751,$$
+Bier Academy,4.0,168,$$
+Enzo & Angela,4.0,272,$$
+El Antojito,4.0,448,$
+Le Petit Restaurant,4.0,365,$$
+El Ruizeñor Grill,4.0,192,$
+Topanga Living Cafe,4.5,121,$$
+Subway,2.5,3,na
+Cherri's Donut Plus,4.5,27,$
+WANG BUNSIK,na,na,na
+Superior Grocers,3.0,36,$
+Guisados,4.5,2277,$
+Slurpin' Ramen Bar,4.5,3158,$$
+Chu Thong Coffee Shop,4.0,144,$
+Rubio's Coastal Grill,3.5,159,$
+Pizzaroni,5.0,11,$
+Fabulous Grill On Main Street,4.0,62,$
+Porto's Bakery & Cafe,4.5,6113,$
+Ocha Classic,3.5,489,$$
+Royal Donuts,2.5,10,$
+Jimmy's Donuts & Chinese Food,3.0,10,$
+Kang Ho-dong Baekjeong,4.5,3891,$$
+The Flame Broiler,3.0,94,$
+Tom's Junior Burger,2.5,38,$
+WaBa Grill,3.5,109,$
+The Griffin,3.5,965,$$
+SUNRIZE DONUT AND BURGER,na,na,na
+Sushi Sumo,3.5,599,$$
+La Minerva Restaurante,3.5,116,$
+Tapia Mexican Food,4.0,61,$
+Wienerschnitzel,3.5,24,$
+San Francisco Saloon,3.5,437,$$
+Zafran Grill,4.5,53,$$
+Las Delicias De Puebla,4.5,2,na
+The Oyster Bar SKC,4.0,587,$$
+Yoshinoya - Marengo & State,3.0,43,$
+AMADINE PATISSERIE CAFE KT,na,na,na
+Afters Ice Cream,4.0,197,$
+Com Tam Kieu,3.5,173,$
+Pitchoun!,4.0,775,$$
+Scardino's Italian Restaurant,4.0,679,$$
+Magic Wok Bakery,4.5,63,$$
+LA Express Chinese Food,4.5,145,$
+Blu Elefant Cafe,4.0,321,$
+WINCHELLS DONUTS FRNCH 9423A,na,na,na
+Sinners & Saints Desserts Venice,4.5,452,$$
+Venice Grind,3.5,345,$
+King Palace Buffet,2.5,287,$$
+Poke Etc,4.0,427,$
+Phil's Deli & Grill,3.5,202,$$
+Asanebo,4.0,534,$$$$
+Hotel Indigo Los Angeles Downtown,4.0,194,$$$
+South Bay BMW,3.5,1157,na
+KENTUCKY FRIED CHICKEN610-12,na,na,na
+Booka's Fusion Kitchen,4.0,31,$$
+Surawon BBQ,3.5,256,$$
+Royal Car Wash,3.5,76,na
+The Dudes' Brewing Company,4.0,105,$$
+Bud's Donut Shop,4.0,28,$
+Dr Sebi's Cell Food,4.0,30,$$
+Pepe's Finest Mexican Food,3.0,230,$
+PIH Health Hospital - Whittier,3.5,264,na
+Pieology Pizzeria,4.0,203,$
+Las Lomas Restaurant,4.0,82,$
+Hachioji Craft Ramen,4.0,75,$$
+Flame Broiler,4.0,87,$
+Hash Tag Coffee & Boba,4.5,15,$
+El Jacal,4.0,108,$$
+Luna Grill La Canada Flintridge,4.5,343,$$
+Jim's Burgers,2.5,29,$
+85°C Bakery Cafe,3.5,72,$
+Noodle Kitchen Shanghai Cuisine,4.0,35,$
+fōnuts,3.5,1004,$$
+Atticus Creamery & Pies,4.5,546,$$
+KALVA'S NIGHT CLUB,na,na,na
+WaBa Grill,2.5,15,$$
+The Kickin' Crab Express,3.5,71,$$
+Butcher's Dog,4.0,322,$$
+Jugos Naturales,5.0,8,$
+Chateau Lemongrass,4.0,268,$
+El Sipote Pupuseria Restaurant,4.5,7,na
+Stuft Pizza,3.0,74,$
+Paris Baguette,4.0,286,$
+The L.A. Grand Hotel Downtown,3.0,274,$$$
+M Grill,4.0,1780,$$$
+Cash Box KTV,3.5,31,$
+The Beverly Hills Hotel,4.0,314,$$$$
+Bobamia,4.5,43,$
+Burgerim,3.5,44,$$
+The Salvation Army,3.5,15,$$
+D.R. CUCINA,na,na,na
+Azabu Sabo,4.0,241,$$
+Popeyes Louisiana Kitchen,2.0,129,$
+Second Story Restaurant,4.0,277,$$
+Aqui Es Texcoco,3.0,308,$$
+Action Lanes Bowling Center,3.5,183,na
+K'Grill Korean Cuisine,4.5,74,$
+Havana Mania,4.0,976,$$
+Taqueria Mexico,3.0,47,$
+Carniceria Market Latina,4.0,11,$$
+Tasty Goody,3.5,207,$
+Shutters On The Beach,4.0,494,$$$
+Chicken Now,3.5,36,$
+Outtakes Cuisine,3.0,14,$
+VFW Post 1944,4.0,6,$$
+LULU'S NIEVES Y RASPADOS,na,na,na
+The Brick Market & Deli,4.5,380,$
+Restaurante Maria,3.5,29,$
+"The Ritz-Carlton, Marina del Rey",3.5,437,$$$
+Peking Wok,3.0,45,$
+Little Caesars Pizza,2.5,18,$
+All Star Donuts,5.0,5,na
+Un Rinconcito Argentino,4.5,72,$
+Tsurumaru Udon Honpo,3.0,239,$
+Pinkberry,3.5,90,$
+Bäco Mercat,4.0,2453,$$
+Yogurtland,4.0,17,$
+Walter's Restaurant,3.0,608,$$
+Art's Subs,3.5,121,$
+Mediterranean Triangle,4.0,163,$
+GENESIS RESTAURANT Y PUPUSER,na,na,na
+Cantaloop Frozen Yogurt & Drinks,4.0,329,$
+Thai Vegan,4.0,734,$
+Hooters,2.5,541,$$
+Little Tokyo Restaurant,4.0,350,$$
+Shin Ramen,4.0,620,$$
+Eastern Fish Market And Restaurant,4.0,5,$$
+Vicente Foods,4.0,111,$$$
+Pizza Pazza,4.0,209,$$
+Gwen's Specialty Cakes,4.5,32,$$
+Sushi On Brand,3.5,284,$$
+New Orleans Snoballs,4.5,171,$
+Pitcher House Upper Deck,3.0,151,$$
+Jimmy's Famous American Tavern,4.0,810,$$
+Hi Family,4.0,201,$$
+The Gourmet Pizzeria,2.5,9,$
+Chokolatta,4.5,126,$
+Class One Donut Croissant Cafe,4.5,42,$
+MARIE CALLENDER'S SHERMAN OASK,na,na,na
+Puente Hills Mall,2.5,326,$$
+Amor Bakery,3.5,60,$
+Subway,3.5,16,$
+Cafe Descanso,3.0,65,$
+Bamboo Garden Restaurant,3.5,47,$
+L & L Hawaiian BBQ,3.0,150,$
+Doomie's Home Cookin',4.0,1567,$$
+Yogurtland,4.0,311,$
+Armando's Bakery,5.0,1,$
+The San Fernando,4.5,153,$$
+J & F Ice Cream Shop,5.0,22,$
+La Monarca Bakery,4.0,146,$
+Ten Ren's Tea Time,3.5,292,$
+Pronto Cafe,2.5,61,$
+Islands Fine Burgers & Drinks,3.5,353,$$
+Urban Cafe,3.5,6,$
+Mrs Fields Cookies,4.0,15,$
+The ROCK Coffee House,4.0,10,$$
+Philz Coffee,4.5,1562,$
+HOT Spicy Kitchen,4.0,151,$$
+Jumbo Wok,4.0,80,$
+Tacos El Gavilan,4.0,297,$
+Togo's Eatery,3.5,45,$
+Carl's Jr,3.0,48,$
+Porto's Bakery & Cafe,4.5,8168,$
+Chipotle Mexican Grill,2.5,96,$
+Snake Pit Alehouse Whiskey Bar & Kitchen,3.5,211,$$
+P.F. Chang's,3.0,467,$$
+République,4.0,4440,$$
+Ono Hawaiian BBQ,3.0,120,$
+Salon Figueroa,3.5,13,na
+Himalayan Cafe,4.0,181,$$
+Wok Restaurant,4.0,108,$
+Mexicano,3.5,348,$$
+Taqueria Jocotepec,4.5,47,$
+SUGARFISH by sushi nozawa,4.0,1309,$$$
+Slurpin' Ramen Bar,4.5,3158,$$
+China Boy Express,4.0,179,$
+Ranch Side Cafe,4.0,155,$$
+Universal Fitness Club,2.5,67,na
+Fortune Bakery,4.5,273,$
+Whole Foods Market 365,3.0,363,$$
+JAVIER TACO MEXICO LLC,na,na,na
+Coffee Kiosk,3.5,12,$$
+Miki Chan's Okazu Ya,4.0,183,$
+Ky Xuong Restaurant & Bakery,4.0,4,na
+Just Grillin',3.5,255,$
+China Wok Express,3.0,9,$
+La Tostaderia,4.0,295,$$
+Subway,5.0,2,$
+Taqueria Los Tres Hermanos,3.5,153,$
+Uncle Tony's Pizzeria,4.0,1107,$$
+Flaming Saddles,3.5,172,$$
+Szechwan Inn Chinese Restaurant,4.0,195,$$
+Tender Greens,4.0,285,$$
+Applebee's Grill + Bar,2.5,290,$$
+Hong Kong Express,3.0,34,$
+Tagine Beverly Hills,4.0,823,$$$
+La India Bonita,3.0,9,na
+TBLA Catering & Cafe,4.5,182,$$
+Charleys Philly Steaks,3.5,36,$
+Edible Arrangements,4.0,60,$$
+A Plus Tea House,4.0,463,$
+Rachel's Corner Grill & Deli,4.0,35,$
+Aloha Café,4.0,623,$
+El Gallo Grill,4.0,184,$$
+Go Greek Yogurt,4.5,374,$$
+New China Express,4.0,40,$
+Kut Haus Salon Claremont,4.5,334,$$
+Cali Noodles & Grill,4.0,879,$
+Mariscos San Isidro,3.5,126,$$
+El Taco Llama Restaurant,3.0,26,$
+Oil Can Harry's,4.0,116,$
+Dayglow,4.5,84,$$
+Salsa & Beer,4.0,2767,$$
+Superior Super Warehouse,2.0,7,$
+Curry House,4.0,1149,$$
+La Chelita Kitchen & Market,4.0,16,$
+Frozen Haven,4.0,32,$
+VFW Post 7734,5.0,2,$
+Sharky's Woodfired Mexican Grill,4.0,253,$$
+Adobo Taco Grill,4.5,1549,$
+Blipsy Bar,3.5,361,$
+H Salt Esquire Fish & Chips,4.0,127,$
+Barney's Beanery,3.5,789,$$
+Tom Bradley International Terminal,3.0,469,na
+La Mexicana Bakery,3.0,22,$
+La Sirena Restaurant,3.5,31,$$
+WaBa Grill,4.5,27,$
+Emrick Garam Success Coach,5.0,1,na
+Muddy Paw Coffee Company,4.5,220,$$
+Fu House,4.0,300,$$
+CHARLY PETER TEMMEL,na,na,na
+Thanh Loi Tofu,4.0,5,$
+Plant Food + Wine,4.0,444,$$$
+Mr. Fish & Mex Grill,3.5,39,$
+Taco Nazo,4.0,375,$
+Little Swan Bakery,3.5,180,$
+Famous Label's Delicatessen,4.0,45,$$
+Retro Girls Hawaiian Ice Shack,5.0,29,$
+Seventeen Cafe,4.5,64,$
+Tomi Sushi,4.5,38,na
+Denny's,2.5,136,$
+BBCM USC,4.0,184,$$
+El Pollo Loco,4.0,74,$
+The Cheesecake Factory,3.5,963,$$
+Alcove Café & Bakery,4.0,4002,$$
+Giovanni's Ristorante,3.5,68,$$
+LA ESPERANZA CAFETERIA,na,na,na
+Joe's Downtown Market,3.5,16,$$
+Zapopana's Cafe,4.0,25,$
+The Back Door Bakery & Cafe,4.0,383,$$
+85°C Bakery Cafe,4.0,66,$
+Super Pizza Veloz,4.0,27,$
+Nekter Juice Bar,4.0,78,$
+"ALBERCHACHOS, INC",na,na,na
+Saladish,3.5,166,$
+Shandiz Vanak Restaurant,4.0,59,$$
+RigaTony's Pizza & Pizza,4.5,265,$$
+Kabuki Japanese Restaurant,3.5,736,$$
+The Coffee Bean & Tea Leaf,4.0,102,$
+Phu's Bakery,4.5,15,$
+Chinese Gourmet,3.0,29,$
+Lotus Bakery,3.5,127,$$
+Farmer Boys,3.0,477,$
+Pacific Star Grill,3.0,159,$
+Churros Mexicanos,4.5,8,$
+Chipotle Mexican Grill,3.5,112,$
+OUMI SUSHI @ SPROUTS 255,na,na,na
+Sunland Donuts,4.0,6,$
+Gold Room,3.5,643,$
+HWANG SOH MA EUL RESTAURANT,na,na,na
+Surawon Tofu House,4.5,53,na
+La Mayordomia,3.5,21,$$
+Olive Garden Italian Restaurant,3.0,510,$$
+COWBOY PALACE SALON,na,na,na
+J & S,3.5,443,$
+Chained Rabbit,4.5,86,$$
+Luna's Cakes,3.5,10,na
+Regency Theaters,3.0,207,na
+Avenue Italy,4.0,375,$$
+Nori Sushi,4.0,268,$$
+Albredos Fresh Mexican Food,4.0,21,$
+Pressed Juicery,4.0,60,$$
+Poke2 Grill,4.0,238,$$
+Pick a Poke,4.5,221,$
+Taqueria Tapatio No. 2,4.0,127,na
+Unknown Tea House,4.5,88,$
+Lupita's Express,4.0,16,na
+WaBa Grill,3.0,51,$
+Ministry Of Coffee,3.5,211,$$
+Seree Coffee Shop,4.5,68,$
+Hokkaido Ramen Santouka,4.5,1115,$$
+Benihana,3.0,845,$$
+Bionicos Marisol,3.0,6,$
+The Hat,4.0,851,$
+Saigon Dish,4.5,1531,$
+Jasmine Thai Restaurant,4.5,476,$
+Cognoscenti,5.0,23,$$
+Johnny's Kambingan Filipino Restaurant,4.5,105,$
+California Fish Grill,4.0,315,$$
+Crazy Otto's Diner,4.0,182,$$
+Northgate Gonzalez Market,3.0,5,$
+Sushi Anza,3.5,125,$$
+Baldwin Park Pizza,4.0,206,$
+Antelope Valley Family YMCA,3.5,29,na
+Harlyne J Norris Pavilion,5.0,29,na
+Costco Food Court,4.0,62,$
+Blizz Frozen Yogurt,3.5,135,$
+SAN JUAN HUACTZINCO PANADERIA Y PIZZERIA,na,na,na
+Pari Passu Cafe & Art,4.5,31,$
+Meiji Tofu,5.0,79,$
+Tortas Ahogadas Las Originales,4.0,221,$
+Rae's Restaurant,4.0,538,$
+Pieology Pizzeria,4.0,257,$
+India Sweets & Snacks Mart,3.0,5,$$
+Sushi Yotsuya,4.0,132,$$$
+Cerritos Senior Center at Pat Nixon Park,4.5,8,na
+Café de Olla,4.5,1493,$$
+Los Poblanos Restaurant,4.5,8,na
+Jo & Go House,5.0,47,$
+Hmart,3.5,180,$$
+Patrick Molloy's Sports Pub,3.5,570,$$
+Mr. Pete's Burger,3.0,141,$
+VAKA BURGER WHITTIER LLC,na,na,na
+Oo-Kook Tofu & BBQ,4.0,1202,$$
+Milkfarm,4.5,182,$$
+Placita Cafe,4.0,104,$
+Sushi Zo,4.0,730,$$$$
+Golden Rose Bakery,5.0,1,na
+Saeng Saeng Gimbap & Snack,2.5,47,$
+Jenny Bakery,5.0,1,na
+Jang An Restaurant,4.0,29,$$
+Tacos El Rayo 2,4.5,3,$
+Pho Burbank,3.5,265,$
+Marouch Restaurant,4.5,389,$$
+Carl's Jr.,3.0,34,$
+Baja Fresh,2.5,77,$
+WORKSHOP ENOTECA,na,na,na
+Mosaic Hotel,3.5,107,$$$
+El Charro Taco Shop,3.5,46,$
+Presto Pasta,4.0,230,$
+Local Kitchen,4.5,621,$$
+Sierra Madre Pizza Company,3.5,117,$
+Don Sal Cocina & Cantina,4.0,136,$$
+Friends & Family,4.0,140,$$
+BOBA ALBO,na,na,na
+Bell Thai Express,4.0,27,na
+Kagura,4.0,558,$$
+Gamja Bawi,3.5,69,$
+Sunday's Old Town Bistro,4.0,417,$$
+DURI FOOD CATERING 2,na,na,na
+The Robertson Nightclub,2.0,40,$$
+Poke Me,4.5,573,$$
+Wok Talk,3.0,146,$$
+Poki Island,4.0,106,$
+EVANNA CREATION,na,na,na
+4th Street Market,4.0,650,$$
+Mountain High Resort,3.0,565,na
+Sam's Donuts & Coffee,4.5,36,$
+Century Dragon,4.0,341,$$
+Killer Noodle Tsujita,4.0,471,$$
+Shinano Restaurant,3.5,232,$$
+Gloria's Restaurant & Bar,4.0,279,$$
+Mk's Donuts,5.0,27,$
+SOUTHERN CALIFORNIA PIZZA CO LLC,na,na,na
+Poké Bar,4.5,46,$$
+Calabasas Organic Patio Cafe,4.0,8,na
+Burger Bun,4.0,369,$
+The Sunset Restaurant,3.5,851,$$$
+Le Pain Quotidien,4.0,169,$$
+Hae Jang Chon Korean BBQ Restaurant,4.0,4373,$$
+Sunnin Bakery,4.0,72,$
+Celestes Tailoring,3.5,27,na
+Bake Code,3.5,233,$
+Boba Square,3.5,35,$
+Alameda Swap Meet,3.5,61,$
+Tea Station,3.0,764,$
+Niko Sushi,4.5,317,$$
+Severance Optometric Center,3.0,21,na
+WaBa Grill,3.5,62,$
+Subway,3.0,5,na
+Via Veneto,4.0,418,$$$$
+Moon Juice,4.5,52,$$$
+Master Donut,5.0,2,$
+El Milagro Bakery,4.0,105,$
+Maude,4.0,392,$$$$
+Subway,2.0,38,$
+The Brig,3.0,403,$$
+La Chiva Loca,3.0,193,$
+Stacked Eatery,4.5,151,$$
+Pa Ord Noodle,4.0,1310,$
+Kreation Organic Juicery,4.5,52,$$
+Charlie Kabob,3.0,168,$$
+Nothing Bundt Cakes,4.5,195,$$
+Millan's Ranchito Restaurant,4.0,42,$$
+La Bahia Salvadorian Cuisine & Seafood,3.5,85,$
+C&M Cafe,4.0,316,$$
+Woody's Bar-B-Que,3.5,261,$$
+Domino's Pizza,2.5,57,$
+Palermo's Pizza,3.5,56,$
+Shau May,3.5,23,$
+Carnitas Don Cuco,4.5,47,$
+Big Shotz Bar & Grill,4.5,75,$
+ACTON UNOCAL,na,na,na
+Madera Kitchen,3.5,395,$$
+Pokeio,4.5,76,$$
+Groundwork Coffee Co.,4.0,339,$
+Wetzel's Pretzels,3.0,9,$
+Vien Cafe,4.0,482,$$
+Community Christian Alliance  Church,5.0,4,na
+South Bay Mission Church,5.0,22,na
+Mujinjang,4.0,11,$$
+Coliseo Pizzeria,4.0,106,$
+E Sushi,4.5,295,$$
+USA Donuts & Crossaints,4.0,73,$
+Greens Up! Salads,4.0,283,$$
+SHU Sushi House Unico,4.0,170,$$$
+La Casita Mexicana,4.0,952,$$
+Embassy Suites LAX South,3.0,246,$$
+Sunrise Kitchens,4.0,14,na
+Panaderia Cortez,4.0,15,$
+Barbarita Restaurant,4.5,11,$
+Alimento,3.5,413,$$$
+El Charro Restaurant,4.0,91,$
+Osteria,3.0,177,$$
+The Village Cafe,4.0,104,$$
+Dough Boy's Donuts,4.0,45,$
+Tropicana Bakery & Cuban Café,3.5,1647,$
+Fusion Burgers,4.0,697,$$
+The Albright,4.0,1230,$$
+El Carrusel Bakery,4.0,51,$
+Pizza Beer And Wings,4.0,125,$$
+California Hot Pot,4.5,287,$$
+Lala's Argentine Grill,4.0,1822,$$
+The Pikey,4.0,603,$$
+Kabab Crush,4.5,885,$$
+Taqueria Tijuana,4.5,86,$
+Viva's Poprice,5.0,147,$
+Venice Ramen,4.5,259,$$
+Baja Fresh Mexican Grill,3.0,77,$
+The Cheesecake Factory,3.0,1502,$$
+Get Shaved,4.0,626,$
+Arcense Restaurant y Pupuseria,3.5,75,$
+Sushiholics,4.0,394,$$
+Simply Thai,3.5,233,$$
+City Club LA,4.0,101,na
+Clasico Tacos,4.0,70,$
+Las Gavíotas Juice Bar,3.5,14,$
+LUCY'S DRIVING BAKER INC,na,na,na
+Cinemark Movies 12,3.5,66,na
+Veranda,4.0,10,$$$
+Downey Pizza Company,3.5,691,$$
+Veggie Grill,4.0,681,$$
+Taco Bell,2.5,28,$
+Tacos Estilo DF,4.5,4,na
+Howlin' Ray's,4.5,4300,$$
+Bakery King,4.5,69,$
+Lucille's Smokehouse Bar-B-Que,3.5,915,$$
+Five Guys Burgers and Fries,4.0,22,$
+Penguin's Frozen Yogurt,4.0,47,$
+ABC Donuts,4.5,55,$
+Stan's Donuts,4.0,757,$
+Manna Korean BBQ,3.5,1173,$$
+Wirtshaus,4.0,762,$$
+Echo Park Donut,4.5,44,$
+Umenoya,3.5,611,$$
+Antojitos DF,4.0,18,$
+Pastries By Edie,4.0,310,$$
+Baskin-Robbins,3.5,38,$
+Harbour Japanese Restaurant,4.0,499,$$
+La Potosina Bakery,4.0,9,$
+Palos Verdes Bowl,3.0,141,$
+MORRISON MGMT SPECIALIST INC,na,na,na
+Los Angeles Yacht Club,3.5,5,na
+Poki Go,4.5,259,$
+88 King,3.5,26,$
+Happy Table,3.5,81,$$
+Cabbage Patch,4.0,389,$$
+Veterans of Foreign Wars,5.0,1,na
+Simmzy's,4.0,548,$$
+Finley's Tree & Landcare,4.5,158,na
+Subway,3.0,18,$
+Shan Social House,4.5,121,$$$$
+Stinkin Crawfish - West Covina,4.0,780,$$
+Sheroes Entertainment Mermaids and Pirates,5.0,32,na
+Loaded Cafe Restaurant Lawndale,4.0,258,$$
+WABA GRILL260,na,na,na
+Fruttisinaloa,4.5,4,$
+Burgundy Room,4.0,282,$$
+WaBa Grill,3.0,55,$
+Gelateria Uli,4.5,573,$
+Penang Malaysian Cuisine,3.5,345,$$
+Bonaventure Brewing Company,3.0,378,$$
+Brioche Cafe,4.0,99,$
+Rosewoods Family Restaurant,3.5,110,$$
+Sunny Bakery,4.0,130,$
+Giuliano's Delicatessen,4.5,741,$
+Sweet Rose Creamery,4.0,1053,$$
+Poké Bar,4.0,102,$$
+MAYA Restaurant,5.0,1,na
+Domingo's Italian Deli,4.5,245,$$
+Jersey Mike's Subs,3.0,14,na
+Rockit kitchen,5.0,1,na
+Groundwork Coffee Co.,4.5,278,$$
+dunkin donuts,5.0,1,na
+Panda Chinese Restaurant,3.5,3,$
+Lisa's Bon Appetit Events & Catering,4.0,38,na
+Maccheroni Republic,4.0,2391,$$
+ABC Donuts,4.5,55,$
+Breakaway Bakery,4.0,187,$
+Cafe Du Liban,4.5,369,$$
+Shekarchi Restaurant,4.0,369,$$
+Guadalajara De Noche,1.0,1,na
+WeChat Cafe,3.5,234,$$
+Poquito Mas,3.5,210,$
+The Poke Co & Wings,4.0,126,$$
+Happy Bagel & Donuts,4.5,59,$
+Kaido,4.0,283,$$
+Louisiana Fried Chicken,4.0,86,$
+LA PALAPA MAZATLAN RESTAURAN,na,na,na
+Continental Bakery,3.0,34,$
+Ahi Sushi,4.0,415,$$
+BakersBodega,4.0,128,$$
+Kavkaz,4.0,62,$$
+Sabrocito,5.0,2,na
+Seikoen,4.5,182,$$
+El Nopal,4.0,1,na
+Son of a Gun,4.0,1591,$$$
+Dave's On Broadway,3.5,120,$
+Hong Kong BBQ,3.5,110,$$
+Pinkfish Poke,4.5,110,$$
+TURQUIOSE,na,na,na
+The Wallace,4.0,1102,$$
+Almaza,4.0,489,$$
+Melo Burger,3.5,150,$
+Los Compadres,4.0,766,$$
+Hashi Sushi,3.0,6,$$
+Bay Cities Italian Deli,4.0,4332,$
+Winter Plus Donuts,2.5,5,$
+The Coffee Bean & Tea Leaf,2.5,123,$
+Maru Coffee,4.5,47,$
+Louise's Trattoria,3.5,217,$$
+Julie's Pizzeria,3.5,210,$
+Flower Beans Cafe,4.5,31,$
+El Pollo Loco,2.5,47,$
+La Costa Mariscos,4.0,37,$$
+Mercado La Paloma,4.5,160,$
+Southern California Gas Company,1.5,366,na
+Yours & Mine Cafe and Bakery,4.0,85,$
+Señor G's Fresh & Healthy Mexican Food,4.5,573,$$
+Mama's Chicken and Market,3.5,107,$
+Pupuseria Mi Salvador,3.0,54,$
+Mr Angelo's,3.0,28,$$
+Potato Corner,4.0,286,$
+Yuko Kitchen,4.5,1404,$$
+El Pollo Dorado,4.0,41,$
+Din Tai Fung,4.0,555,$$
+eaves Warner Center,4.5,41,na
+Cathedral of Our Lady of the Angels,4.0,199,na
+Rosa Mexicano,3.5,1203,$$
+Daiwa Sushi,4.5,213,$$
+IL Piccolo Ritrovo,4.0,92,$$
+Rotor F/X,4.5,181,na
+Joy,4.5,303,$$
+Tacos Michoacan,4.0,40,$
+Bombay Palace,3.5,231,$$$
+Sound Nightclub,3.0,354,$$
+The Appetizer,4.0,205,$$
+Mickey's Italian Delicatessen & Liquor Store,4.5,438,$
+Vua Kho Bo,3.0,123,$$
+Jin Kook Korean Restaurant,3.5,105,$
+Utro's Cafe,3.5,92,$$
+Noodle World Jr,3.5,253,$
+Noodle World,3.5,2152,$
+Link N Hops,4.0,421,$$
+S & W Country Diner,3.5,729,$
+Schooner Bar & Grill,3.0,130,$$
+Sushi Time,4.0,214,$$
+Panaderia Morelos,4.5,15,$
+Eggs N Things,4.0,522,$$
+Warehouse Pizza,4.0,501,$$
+Spudnuts Donuts,4.0,139,$
+Pinkberry,4.0,211,$
+La Pizza Del Sol,3.5,19,$
+Teriyaki Madness,4.0,273,$
+The Original Rinaldi's Deli and Cafe,4.5,62,$$
+Sprouts Farmers Market,3.5,136,$$
+Royal Tea,4.0,79,$
+Cafe Creole,4.0,134,$$
+CHICK-FIL-A AT VALENCIA TOWN CENTER FSU,na,na,na
+Top Round Roast Beef,3.5,727,$
+Beard Papa's,4.5,197,$
+Chuys Tacos & Bionicos,5.0,6,na
+Dunkin' Donuts,2.5,61,$
+China Buffet,3.5,304,$$
+Sonora Tortilleria,4.0,84,$
+The Great Wall Chinese Restaurant,3.5,314,$$
+Snowfox,3.5,44,$
+Fresh Brothers,4.0,322,$$
+Siam Bay Thai Cuisine,3.0,137,$
+Ritter's Steam Kettle Cooking,4.0,725,$$
+GUATELMATECA BAKERY,na,na,na
+Thai Plate Restaurant,3.5,168,$$
+Dune,4.5,572,$$
+Pineapple Hill Saloon & Grill,4.0,465,$$
+The Good Cake Company,4.5,107,$
+Copycat Cafe,4.0,49,$
+Baskin-Robbins,4.0,25,$$
+Spicy Charm,3.0,27,$$
+The Kettle,4.0,1430,$$
+Jersey Mike's Subs,3.5,21,$
+Marisco Rio Balsas,2.5,3,$$
+Canela Bakery,4.0,16,$
+OJ's Submarines,4.5,121,$
+Amapola-Mexican Deli,2.0,10,$
+Animal,4.0,3232,$$$
+The Drunken Crab,4.0,1236,$$
+Dominique Ansel Bakery,3.5,529,$$
+VJ's Burgers,4.5,14,$
+Tapioca Express,3.5,166,$
+The Flame Broiler,2.5,90,$
+EL BIEJON TACOS,na,na,na
+Wei's Cuisine Kitchen,4.0,20,$
+Teriyaki Bistro,3.5,117,$
+Wolfgang Puck at Hotel Bel-Air,3.5,295,$$$$
+Tokyo Fast Food,4.0,225,$
+Batch Baking Bar,4.0,26,$
+Hugo's Tacos,3.0,518,$
+Bottega Louie,4.0,15786,$$
+Kermés Taco Grill,5.0,36,$
+Hoy's Wok Chinese Restaurant,4.0,460,$$
+Hot Thai Restaurant,4.0,255,$$
+WaBa Grill,3.0,6,na
+Pho Super Bowl,4.0,540,$
+Nordstrom The Grove,3.5,399,$$$
+Taco Spot,4.0,483,$
+Kaiser Permanente West Los Angeles Medical Center,3.0,352,na
+Dong Ting Chun,3.0,165,$$
+Beach House Hotel Hermosa Beach,4.0,171,$$$
+Salsa Verdes,4.5,59,$$
+Buko Restaurant,4.0,257,$$
+Amelia's Espresso & Panini,4.5,467,$$
+Tak-e sushi & rolls,4.5,48,$$
+RESTAURANTE Y CENADURIA GUADALAJARA,na,na,na
+North End Pizzeria,4.0,118,$$
+The Coffee Bean and Tea Leaf,3.0,12,na
+Kuishimbo,4.0,108,$
+ANJAPPARLA,na,na,na
+Al Italiano,4.5,94,$$
+85°C Bakery Cafe,3.0,56,$$
+The Butcher's Daughter,4.0,903,$$
+The Stage,4.0,350,$$
+Birdies,4.0,1466,$$
+Little Bean,4.0,420,$
+Blue Star,3.5,509,$$
+Aqua Cafe,3.5,3,$
+Larsen's Steakhouse - Encino,4.0,431,$$$
+SweetSnow,4.0,337,$
+Yakuza Sushi,4.0,150,$$
+Don Lino's Mexican Food and Catering,4.0,20,$
+Panda Bowl,4.0,7,$
+SHMITZBURGER,na,na,na
+Marina Del Rey Boat Rentals,3.0,227,na
+CUT,4.0,1522,$$$$
+Mama Mia Pizza,3.5,97,$
+Piara Pizza,4.0,5,$
+Torch Room Lounge,3.0,22,$
+Tipsy Cow,4.0,1273,$$
+Astro Burgers No 7,2.5,35,$
+AltaMed Medical Group - Commerce,2.0,51,na
+Tea Block,4.0,207,$
+Masan Restaurant,3.0,113,$$
+Believe It Wedding &  Event Planning,5.0,6,na
+La Pradera Carniceria,4.5,44,$$
+Cafe Panamericana,4.5,79,$
+Backyard Bowls,4.5,414,$$
+Mi Cuscatlan,4.0,26,$
+Frontier Wok Too,4.0,393,$
+Kung Fu Tea,4.0,256,$
+Hot Dog on a Stick,3.0,42,$
+Ssa Rit Gol,4.5,18,na
+PHO U,4.0,7,na
+Peacock Donuts,4.0,49,$
+Top Thai Cuisine,4.0,287,$$
+Crispy Crust,4.0,292,$
+XOTIC CAFE,na,na,na
+Izzy's Deli,3.0,629,$$
+JULIAN'S MXCN FOOD PROD INC,na,na,na
+E T Donut,4.0,15,$
+Subway,2.0,28,$
+To Nostimo Greek Food & Deli,4.5,145,$
+Pour Haus Wine Bar,4.5,463,$$
+Sizzler,4.5,408,$$
+Tito's Tacos,3.5,4597,$
+Smith & Tait,5.0,92,$$
+Aloha Teriyaki,4.0,31,$
+Coral Tree Cafe,3.5,778,$$
+Porto's Bakery & Cafe,4.5,8169,$
+Winchell's Donuts,3.0,4,$
+Figaro Bistrot,3.5,1141,$$
+The Standard Station,4.0,276,$$
+Delmonico's Lobster House,3.5,569,$$$
+Fruiggies,3.5,63,$
+Crème Caramel LA,4.5,652,$$
+La Mascota Bakery,4.0,389,$
+Superior Grocers,3.0,36,$
+Jang Dok Dae,4.5,94,$$
+Follow Your Heart Natural Foods Market & Cafe,4.5,1268,$$
+Sbarro,2.5,51,$
+Sushi Eyaki,3.5,404,$$
+Burrito King Sunset,3.5,240,$
+Jaltepeque 3,3.5,36,$
+Fresh & Meaty Burgers,3.5,60,na
+Campos Tacos,3.5,72,$
+Baja Fresh,2.5,81,$
+Ameci Pizza & Pasta - Newhall,3.5,70,$
+Taqueria El Pariente,4.0,29,$
+Greenleaf Cafe,4.0,276,$
+Sushi Monster,4.0,228,$$
+Subway,2.5,42,$
+Salt Creek Grille,3.5,556,$$
+Maru Coffee,4.5,47,$
+Loteria Grill,3.5,926,$$
+Los Angeles Zoo & Botanical Gardens,3.5,1419,na
+Taco Ranch,4.0,103,$
+Mahan Indian Restaurant,4.0,499,$$
+We Want Tacos Cafe,4.0,60,na
+Baja Fresh,3.0,68,$
+TORTAS AHOGADES ELGUERO,na,na,na
+Little China,3.5,173,$
+Tacos Tu Madre,4.0,947,$
+Mateo's Ice Cream & Fruit Bars,4.5,269,$
+Cafe Dulce,4.0,2025,$
+TAGUERIA DON JORGE,na,na,na
+Pazzo Gelato,4.5,876,$
+Bahia Ensenada Grill,3.0,51,$
+Spicy Duck Wang La Ya,2.5,17,$$
+Tender Trap,4.5,60,$
+Bottega Louie,4.0,15784,$$
+La Favorita Bakery,3.5,77,$
+LOS ALCANTRACES,na,na,na
+JOHNNYS KAMBINGAN & BAKERY,na,na,na
+Rainbow Acres Natural Foods,4.0,194,$
+EMILIO'S TRATTORIA RESTAURAN,na,na,na
+La Princesa Bakery,4.5,13,$
+La Carreta,4.0,154,$
+Slusheeland,4.5,311,$
+Uncle John's Cafe,4.0,581,$
+City of Hope,3.5,187,na
+Rainbow Sushi & Teriyaki,4.0,107,$
+Olive Terrace Bar and Grill,4.0,546,$$
+Famous Burgers,3.0,99,$
+Kobawoo House,4.5,1074,$$
+Fiesta Martin Mexican Grill,4.0,769,$$
+Dragon Bakery,5.0,55,$$
+Quickly,3.5,198,$
+Caffe Latte,4.0,188,$$
+Settebello Pizzeria Napoletana,3.5,319,$$
+Juanito's Place,4.0,55,$
