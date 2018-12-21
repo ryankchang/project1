@@ -1,8 +1,3734 @@
-,Name,Inspection_Score,Inspection_Grade,Rating,Reviews,Price
-0,Century Dragon,81,B,3.5,146,$
-2,Dan's Super Subs,97,A,4.5,1012,$
-3,The Fat Dog,96,A,4.0,491,$$
-5,Orsa & Winston,100,A,4.0,384,$$$$
-6,Orange Delite & Grill,96,A,4.5,273,$$
-8,Rosie Thai Cuisine,85,B,3.5,115,$
-9,Highland Park Bowl,93,A,4.0,483,$$
+,Name,Inspection_Score,Inspection_Grade,Rating,Reviews,Price,Category
+0,El Tequilense Restaurant,94,A,4.0,42,$,Mexican
+2,Seafood Express,91,A,4.0,266,$,Seafood
+3,Pho Rowland Restaurant,93,A,4.0,408,$,Vietnamese
+4,Jino's Pars,91,A,4.0,477,$$,Persian/Iranian
+5,Pie-Not The Aussie Style Bakery,94,A,4.0,826,$,Bakeries
+7,Sushi Gen,98,A,4.5,3536,$$$,Sushi Bars
+8,Los Tres Hermanos,90,A,3.5,362,$$,Mexican
+9,Bel-Air Bay Club,93,A,4.5,78,NA,Social Clubs
+10,Birrieria La Barca Jalisco Restaurant,97,A,3.5,236,$$,Mexican
+12,Rigo's Taco,97,A,3.5,42,$,Mexican
+13,Mr Churro,94,A,4.0,483,$,Bakeries
+14,Edwards West Covina Stadium 18,99,A,3.0,355,NA,Cinema
+15,2 For 1 Pizza,95,A,4.0,56,$,Pizza
+16,Loteria Grill,98,A,3.5,926,$$,Mexican
+17,Panera Bread,96,A,3.0,120,$$,Sandwiches
+18,Vivoli Cafe & Trattoria,90,A,3.5,559,$$,Italian
+19,BB's Cafe,97,A,5.0,311,$,Soul Food
+20,Eagle Rock Noodle & Grill,93,A,3.0,199,$,Noodles
+21,Carrows Restaurants,94,A,3.0,152,$$,Diners
+22,California Wok,90,A,2.5,256,$$,Cantonese
+23,Sprouts Farmers Market,88,B,3.5,178,$$,Farmers Market
+24,Crowne Plaza Los Angeles Harbor Hotel,90,A,2.5,161,$$,Hotels
+25,Tierra Mia Coffee,100,A,3.5,361,$,Coffee & Tea
+26,The Coffee Bean & Tea Leaf,90,A,3.5,82,$,Coffee & Tea
+27,Rice Garden,93,A,2.5,68,$,Fast Food
+28,J Trani's Ristorante,94,A,4.5,318,$$,Italian
+29,BrewCo,91,A,4.0,582,$$,Breweries
+30,The Second City Hollywood,92,A,4.5,136,$,Performing Arts
+32,Potato & Tea,90,A,4.0,128,$,Cafes
+33,Frutibionicos,94,A,4.0,44,$,Desserts
+34,A & T Burgers,94,A,4.0,59,$,Burgers
+36,Curry House CoCo Ichibanya,90,A,3.5,356,$$,Japanese Curry
+37,Asanebo,94,A,4.0,534,$$$$,Sushi Bars
+38,Trimana Grill,97,A,4.0,116,$,Burgers
+39,MulDaePo BBQ,94,A,4.5,56,$$,Korean
+40,China Great Buffet,90,A,3.0,275,$$,Chinese
+41,Yummy.com,94,A,3.5,132,$$,Grocery
+44,Flame Broiler,95,A,4.0,100,$,Fast Food
+46,Pane E Vino,93,A,4.0,274,$$,Italian
+47,Canton Kitchen,92,A,3.5,72,$,Chinese
+48,Cafe Cuba & Cakes,87,B,4.0,260,$,Coffee & Tea
+49,Polly's Pies Restaurant,90,A,3.5,283,$$,Bakeries
+51,El Delfin,90,A,4.0,64,$$,Mexican
+52,Okane Umi,82,B,4.5,169,$$,Sushi Bars
+53,Bettolino Kitchen,96,A,4.5,351,$$,Italian
+54,Summer Buffalo,93,A,4.0,391,$$,Thai
+56,East Garden Restaurant,91,A,4.0,85,$$,Hong Kong Style Cafe
+57,Kogi Teriyaki,92,A,4.5,92,$,Korean
+58,Fatburger,92,A,3.5,195,$$,Burgers
+59,True Food Kitchen,91,A,4.0,2088,$$,American (New)
+61,LA Café,94,A,3.5,1759,$$,Breakfast & Brunch
+62,Shakey's Pizza Parlor,98,A,4.0,189,$$,Pizza
+63,Western Bagel Too,95,A,4.0,245,$,Bakeries
+64,Hae Ha Heng Thai Bistro,96,A,4.5,965,$$,Thai
+65,L&L Hawaiian Barbecue,91,A,3.5,85,$,Hawaiian
+66,Dignity Health - Northridge Hospital Medical Center,98,A,2.5,248,NA,Medical Centers
+67,El Curtido,95,A,3.5,157,$,Mexican
+69,The Village Bakery and Cafe,90,A,4.0,915,$$,Bakeries
+70,Polly's Pies Restaurant,96,A,4.0,334,$$,Bakeries
+72,Judi's Deli,90,A,3.5,44,$,Delis
+74,Terra Cotta,94,A,4.0,361,$$,Bars
+75,Fresco,95,A,2.5,91,$$,American (Traditional)
+76,Pots n' Woks,85,B,4.0,183,$,Chinese
+77,Cabo Taco,91,A,4.5,146,$,Mexican
+79,Mi Casita,93,A,4.0,176,$$,Mexican
+80,Taqueria El Diablo,87,B,3.5,171,$,Mexican
+81,SUGARFISH by sushi nozawa,99,A,4.0,373,$$$,Japanese
+82,Greenbelt,92,A,4.0,305,$$,American (Traditional)
+83,Popeyes Louisiana Kitchen,100,A,2.5,71,$,Fast Food
+85,Submariner,93,A,4.5,204,$,American (Traditional)
+86,Pep Boys,97,A,2.5,446,NA,Auto Repair
+87,Mariscos Maria's Restaurant,95,A,3.5,109,$$,Mexican
+89,Lordsburg Taphouse and Grill,95,A,3.5,299,$$,American (Traditional)
+91,La Michoacana 100% Tradicional,95,A,4.5,52,$,Ice Cream & Frozen Yogurt
+92,Cafe Dulce,98,A,4.0,2024,$,Coffee & Tea
+94,Tiny's Submarines,98,A,4.0,78,$,Sandwiches
+95,São Açaí,94,A,4.0,170,$$,Juice Bars & Smoothies
+96,La Michoacana Ice Cream and Antojitos,91,A,4.5,69,$,Ice Cream & Frozen Yogurt
+97,Salsa & Beer,91,A,4.0,2769,$$,Mexican
+100,Rubio's,99,A,4.0,163,$,Mexican
+101,Manny's Pizzeria,91,A,4.0,163,$$,Pizza
+103,Cole's French Dip,96,A,3.5,2096,$$,Bars
+104,3 Brothers Teriyaki,91,A,3.5,120,$,Japanese
+105,The Crepery Cafe,80,B,3.5,62,$$,Creperies
+106,Panda Wok  BBQ,82,B,3.0,53,$,Chinese
+107,Ohana Hawaiian BBQ,96,A,4.0,54,$,Hawaiian
+108,Loews Santa Monica,90,A,3.5,413,$$$,Hotels
+109,Toasted Bun,90,A,3.5,311,$,Breakfast & Brunch
+110,Shekarchi Kabob,94,A,5.0,77,$$,Mediterranean
+111,TAO Asian Bistro,98,A,4.0,679,$$$,Asian Fusion
+112,Tacos Tu Madre,90,A,4.0,950,$,Tapas/Small Plates
+113,Jersey Mike's Subs,96,A,3.5,63,$,Sandwiches
+114,Artesia Bar,95,A,3.5,44,$$,Karaoke
+115,The Back Abbey,96,A,4.0,1810,$$,Burgers
+116,Quickie's Pizzas & Subs,90,A,4.0,167,$,Pizza
+119,Super Burrito,93,A,4.0,252,$,Mexican
+120,Etorna Restaurant,95,A,4.0,88,$$,Italian
+121,Pizza Boy,91,A,4.5,507,$$,Pizza
+122,The Coffee Bean & Tea Leaf,94,A,3.0,69,$,Coffee & Tea
+123,La Moderna Bakery,93,A,4.0,212,$,Bakeries
+124,Elabrew Coffee,92,A,4.0,160,$,Cafes
+125,Kabuki Japanese Restaurant,90,A,3.5,706,$$,Sushi Bars
+126,KFC,93,A,2.0,42,$,Fast Food
+127,My Thai,90,A,4.0,486,$$,Thai
+128,Casa Jimenez,91,A,3.5,152,$,Mexican
+130,Seven Grand,90,A,4.0,2046,$$,Lounges
+131,Mr. Sate,90,A,4.5,170,$$,Indonesian
+133,Town Kitchen & Grill,92,A,4.0,286,$$,American (New)
+134,V Cafe,94,A,4.0,178,$$,Cafes
+135,Hunan Spicy Taste Restaurant,90,A,3.0,77,$$,Chinese
+136,REDCAT,97,A,4.5,43,NA,Performing Arts
+137,JINYA Ramen Bar,87,B,4.0,192,$$,Ramen
+139,Mi Patria Restaurant,96,A,3.0,80,$$,Peruvian
+140,MJ Cafe & Teahouse,90,A,3.0,1076,$,Coffee & Tea
+142,Tea Master Matcha Cafe & Green Tea Shop,96,A,5.0,1012,$,Coffee & Tea
+143,Niccolo's Hillside Pizza,90,A,3.5,112,$$,Pizza
+144,Groundwork Coffee Co.,94,A,4.5,278,$$,Coffee & Tea
+145,La Michoacana PLUS ice cream parlor,96,A,3.5,49,$,Ice Cream & Frozen Yogurt
+148,Urth Caffé- Melrose,93,A,4.0,2613,$$,Sandwiches
+150,Wings 101,94,A,4.0,45,$,Chicken Wings
+152,Sharkie Poke,97,A,4.5,181,$,Seafood
+153,KPB Asian Bistro,94,A,4.5,134,$,Asian Fusion
+155,Mel's Fish Shack,90,A,4.0,364,$$,Seafood Markets
+156,Diana's Restaurant,95,A,2.5,62,$$,Mexican
+158,El Huarachito,91,A,4.5,552,$,Mexican
+159,Sushi Nishi,95,A,4.0,361,$$,Japanese
+162,Thai Plate Restaurant,91,A,3.5,168,$$,Thai
+163,Renaud's Patisserie and Bistro,98,A,4.5,425,$$,Cafes
+164,The Chicken Shack,90,A,3.5,297,$$,Peruvian
+166,Bun Me!,96,A,4.0,754,$,Vietnamese
+167,Meet in Paris,90,A,4.0,1369,$$,French
+168,Aliki's Greek Taverna,97,A,4.5,908,$$,Greek
+169,Little Bean,96,A,4.0,420,$,Shaved Ice
+170,Valentino's Pizza,91,A,3.5,84,$,Pizza
+171,Rose & Blanc Tea Room,97,A,4.5,62,$$,Tea Rooms
+172,El 7 Mares,91,A,3.0,126,$$,Seafood
+176,Juice Crafters,91,A,4.0,77,$$,Juice Bars & Smoothies
+178,Tarme Mediterranean Grill,92,A,4.0,357,$$,Mediterranean
+179,Zayna Flaming Grill,90,A,4.5,1032,$$,Mediterranean
+180,The Venue,98,A,4.0,175,$$,Karaoke
+181,Venice Bakery & Restaurant,86,B,4.0,271,$,Bakeries
+182,Penelope's Cafe Books & Gallery,97,A,4.0,104,$$,Art Galleries
+184,Bibigo Fresh Korean Kitchen,93,A,3.5,90,$,Korean
+186,Hokkaido Seafood Buffet,90,A,3.0,791,$$,Japanese
+187,Wingstop,93,A,3.5,103,$$,Chicken Wings
+188,Poke Rainbow,91,A,4.0,191,$$,Poke
+190,Pita Café,90,A,4.0,99,$$,Mediterranean
+193,Hyperion Public,90,A,4.0,790,$$,Gastropubs
+194,California Fish Grill,97,A,4.0,317,$$,Seafood
+195,Maya's Restaurant,97,A,4.0,116,$,Mexican
+197,Little Ethiopia Restaurant,94,A,3.5,169,$$,Ethiopian
+198,Quarters Korean BBQ,96,A,4.0,2239,$$,Korean
+199,Leo's Tacos Truck,94,A,4.5,1494,$,Food Trucks
+200,Miyako Restaurant,90,A,3.5,150,$$,Sushi Bars
+201,Daphne's,92,A,3.0,163,$,Greek
+202,Wingstop,90,A,3.0,242,$,Chicken Wings
+203,Rosa's La Cabana,90,A,4.0,102,$$,Mexican
+207,Baked Bear,96,A,4.0,64,$,Desserts
+208,Poke & More - Artesia,98,A,4.5,99,$,Hawaiian
+209,Square Mixx,90,A,4.0,141,$$,Korean
+212,Dunkin' Donuts,93,A,3.0,487,$,Donuts
+215,Ayres Hotel Manhattan Beach/Hawthorne,96,A,4.0,163,$$,Hotels
+220,Goji Tea House,80,B,4.0,133,$,Bubble Tea
+221,Pokiholic,91,A,4.0,544,$,Japanese
+222,Trimana,90,A,4.0,66,$,Delis
+223,The Conga Room,92,A,2.5,516,$$,Dance Clubs
+224,Equinox West Hollywood,94,A,3.5,314,$$$,Gyms
+225,Snug Harbor,98,A,3.5,307,$$,Breakfast & Brunch
+226,Bay Cities Italian Deli,90,A,4.0,4333,$,Delis
+227,4th Street Market,97,A,4.0,651,$$,Food Court
+228,Kech Cafe- South Bay,95,A,4.5,132,$,Mediterranean
+229,Rice Yummy,94,A,3.0,70,$$,Chinese
+230,Shabu Shabu House,90,A,4.0,1341,$$,Japanese
+231,Fish Grill,95,A,4.0,254,$$,Seafood
+233,Fosselman's Ice Cream,95,A,4.0,2324,$,Ice Cream & Frozen Yogurt
+236,Roots Cafe,91,A,4.5,167,$,Cafes
+237,Burger Lounge,96,A,4.0,271,$$,Burgers
+238,Panda Chinese Fast Food,91,A,3.0,56,$,Chinese
+239,Christy's Donuts,95,A,4.0,140,$,Restaurants
+240,LA Buns & Company,93,A,3.5,124,$,Burgers
+242,NORMS Restaurant,97,A,3.0,674,$$,Diners
+243,Road To Seoul,97,A,4.0,3484,$$,Korean
+244,Lunar Feast Bodhi Veggie Cuisine,95,A,4.0,251,$$,Vegetarian
+245,Whole Foods Market,96,A,3.0,290,$$$,Grocery
+246,Applebee's Grill + Bar,93,A,2.5,341,$$,American (Traditional)
+247,Il Segreto Ristorante Belair,90,A,4.0,78,$$$,Italian
+248,Bergamot Cafe,93,A,4.0,224,$,Coffee & Tea
+249,Taco Deli,90,A,3.5,124,$,Mexican
+252,Johnnie's New York Pizzeria,90,A,3.5,295,$$,Pizza
+253,El Floridita,92,A,3.5,401,$$,Cuban
+256,Truxton's American Bistro,94,A,4.0,1253,$$,American (New)
+257,CiCi's Cafe,93,A,4.5,2922,$$,Breakfast & Brunch
+258,Kreation Organic Kafe & Juicery,96,A,3.5,464,$$,Cafes
+259,Prik Kee Noo Thai,90,A,4.0,73,$,Thai
+260,Shibuya,98,A,4.5,598,$$$,Sushi Bars
+261,China Boy Express,79,C,4.0,178,$,Chinese
+262,Jersey Mike's Subs,97,A,3.5,87,$$,Sandwiches
+263,Mama Petrillo's,98,A,3.5,253,$$,Italian
+265,Best Fish Taco In Ensenada,92,A,4.0,2030,$,Mexican
+266,Glory Days Sports Grill,90,A,3.0,276,$$,American (Traditional)
+268,TRU Bowl Superfood Bar,91,A,4.0,215,$,Juice Bars & Smoothies
+271,Newhall Press Room,100,A,4.5,100,$$,Wine Bars
+272,The Derby,98,A,4.0,717,$$$,Steakhouses
+273,Pressed Juicery,91,A,4.5,74,$$,Juice Bars & Smoothies
+276,Ubon Thai Kitchen,91,A,4.0,345,$,Thai
+277,Round Table Pizza,94,A,3.5,79,$$,Pizza
+278,Hummus Republic,91,A,4.5,113,$$,Mediterranean
+281,La Golondrina Mexican Cafe,91,A,3.5,831,$$,Mexican
+282,Ernie's Burgers,91,A,4.0,81,$,Burgers
+283,The Artist Pizzeria,93,A,4.0,534,$,Pizza
+285,Kang Kang Food Court,83,B,3.5,635,$,Taiwanese
+287,Domino's Pizza,93,A,2.0,57,$,Pizza
+288,Chipotle Mexican Grill,95,A,2.0,96,$,Mexican
+289,The Coffee Bean & Tea Leaf,95,A,4.0,57,$,Coffee & Tea
+290,Jim's Burgers,86,B,3.5,76,$,Burgers
+291,Aloha Food Factory,94,A,4.0,1072,$,Hawaiian
+292,Carnitas Uruapan,90,A,4.5,119,$,Mexican
+293,Sammy's Woodfired Pizza and Grill - El Segundo,91,A,3.5,557,$$,Pizza
+294,House of Pastry,97,A,4.5,145,$$,Bakeries
+296,Bottega Louie,92,A,4.0,15794,$$,Italian
+297,Northgate Market,97,A,3.5,59,$$,Grocery
+298,Pizza Beer And Wings,95,A,4.0,125,$$,Pizza
+299,Shah Abbas,90,A,3.0,189,$$,Middle Eastern
+300,Honeymee Westminster,92,A,4.0,280,$,Desserts
+301,Power House Hollywood,90,A,4.0,95,$$,Cocktail Bars
+304,The Munch Company,93,A,4.0,180,$,Sandwiches
+305,Din Tai Fung,95,A,4.0,3453,$$,Taiwanese
+306,Ellie's Cathy Bakery,94,A,3.0,49,$,Bakeries
+307,Everest Burgers,97,A,4.0,376,$,American (Traditional)
+308,Cholada Thai Beach Cuisine,95,A,4.0,650,$$,Thai
+309,Sista Mary's Soul Food,91,A,4.0,184,$$,Soul Food
+310,Seafood City Supermarket,92,A,3.5,126,$$,Grocery
+311,Habibi Cafe,92,A,2.5,535,$$,Coffee & Tea
+312,Uncle Bud's Kitchen,94,A,4.5,382,$,Breakfast & Brunch
+313,Philly's Sandwich & Grill,98,A,3.5,80,$,Cheesesteaks
+314,R Kitchen Soul Food,91,A,4.5,279,$$,American (New)
+315,Bao Dim Sum House,90,A,4.0,2402,$$,Dim Sum
+316,LiOrient Asian Bar & Restaurant,95,A,4.0,136,$$,Bars
+318,Spumante Restaurant,97,A,4.5,544,$$,Italian
+319,Depot Restaurant,90,A,4.0,272,$$$,American (New)
+321,Karl Strauss Brewing Company,94,A,4.5,555,$$,Breweries
+322,Zinqué,90,A,3.5,477,$$,Breakfast & Brunch
+323,Cook's Tortas,97,A,4.0,2118,$$,Mexican
+326,My Dung Sandwich Shop,91,A,4.0,92,$,Sandwiches
+328,Bonello's New York Pizza,93,A,4.5,308,$,Pizza
+329,Ordonez Mexican Restaurant,96,A,3.0,400,$$,Mexican
+330,Sonoratown,90,A,4.5,388,$,Mexican
+331,Mayura Indian Restaurant,90,A,4.0,932,$$,Indian
+332,Sena On Myrtle,90,A,4.0,566,$$,American (New)
+333,La Flor Blanca Restaurant,93,A,3.5,104,$,Salvadoran
+334,QWENCH Juice Bar,93,A,3.5,128,$$,Juice Bars & Smoothies
+335,Galleria Market,80,B,4.0,225,$$,Shopping Centers
+336,Pho-Licious,96,A,4.0,337,$,Vietnamese
+339,Blue Cow Kitchen & Bar,99,A,4.0,1181,$$,American (New)
+340,Laurel Tavern,93,A,4.0,112,$$,Gastropubs
+341,La Monarca Bakery,95,A,4.0,292,$,Bakeries
+344,Maria's Mexican Restaurant,80,B,3.5,137,$$,Mexican
+345,The Coffee Company,90,A,4.0,1225,$$,Coffee & Tea
+346,The Coffee Bean & Tea Leaf,95,A,4.0,71,$,Coffee Roasteries
+347,Shake Smart,96,A,4.5,62,$,Juice Bars & Smoothies
+349,Quickly,95,A,4.5,137,$,Bubble Tea
+350,Villa Terraza,94,A,4.5,185,$$,Italian
+351,Angel City Grill,97,A,5.0,235,$,Salad
+353,Half Baked Co,98,A,4.5,311,$$,Bakeries
+354,Las Molenderas Restaurant,96,A,4.5,126,$,Mexican
+355,The Stand,94,A,4.0,515,$$,Burgers
+356,Tea Garden Cafe,96,A,3.5,81,$,Coffee & Tea
+357,Porto's Bakery & Cafe,97,A,4.5,7968,$,Bakeries
+358,Plush Pocket,90,A,3.5,56,$$,Pool Halls
+359,Chicago For Ribs,90,A,4.0,76,$$,American (Traditional)
+360,Kumi Ko,94,A,5.0,42,$$,Japanese
+361,The Boiling Crab,96,A,3.5,314,$$,Seafood
+362,Cafe Sole,94,A,4.5,235,$$,Italian
+363,Noree Thai on Beverly,93,A,4.0,55,$$,Thai
+364,Luna Grill La Canada Flintridge,97,A,4.0,344,$$,Mediterranean
+365,La Que Buena Taqueria,93,A,4.0,75,$,Mexican
+366,Tea Bar,81,B,3.5,470,$,Coffee & Tea
+367,Señor G's Fresh & Healthy Mexican Food,92,A,4.5,573,$$,Mexican
+368,Togo’s Sandwiches,90,A,2.5,104,$,Sandwiches
+369,Diamond Bakery,91,A,3.0,150,$,Bakeries
+370,Phoever Yum,90,A,3.0,83,$,Vietnamese
+371,Taxco Fine Mexican Restaurant,90,A,3.5,158,$$,Mexican
+373,Tuning Fork,95,A,4.0,607,$$,Gastropubs
+374,The Baked Bear,98,A,4.5,52,$,Ice Cream & Frozen Yogurt
+375,Don Gus Fine Mexican & Seafood Family Restaurant,93,A,4.5,97,$$,Mexican
+376,JJ Bakery & Cafe,91,A,3.0,156,$,Bakeries
+377,Pink Taco,96,A,3.5,998,$$,Mexican
+379,Marisco Agua Verde Restaurant,92,A,4.0,57,$$,Mexican
+380,Happy Sushi & Izakaya,92,A,3.0,44,$$,Japanese
+381,Aloha Pizza & Shave Ice Company,96,A,4.5,655,$$,Pizza
+382,WikiWiki Hawaiian BBQ,93,A,3.0,116,$,Hawaiian
+383,Pho Hai,90,A,4.0,143,$,Vietnamese
+385,California Fish Grill,91,A,4.0,369,$$,Seafood
+387,China Kitchen,98,A,4.0,78,$,Chinese
+390,La Cocinita,95,A,4.5,190,$,Mexican
+391,Cabo Cantina,94,A,3.0,430,$$,Mexican
+392,The Spot Teriyaki,94,A,4.5,161,$,Japanese
+394,Osteria Mozza,96,A,4.0,2592,$$$$,Italian
+396,Thai Original BBQ & Restaurant,81,B,3.5,368,$$,Thai
+397,TacosWay,91,A,2.5,452,$$,Mexican
+398,Mariscos Mi Lindo Nayarit,90,A,3.5,170,$$,Mexican
+400,Longo Toyota,100,A,4.0,2264,NA,Car Dealers
+407,Jonathan Beach Club,100,A,3.5,55,$$$$,Lounges
+408,Hollywood Bowl,81,B,4.5,2222,$$,Music Venues
+409,Nat's On Ventura,93,A,4.0,229,$$,American (Traditional)
+410,Noodle World,95,A,3.5,352,$,Noodles
+411,Wok On The Wild Side,94,A,4.0,311,$$,Chinese
+412,El Gallo Bakery,91,A,4.5,193,$,Bakeries
+415,Kiddos Creamery,95,A,5.0,367,$,Ice Cream & Frozen Yogurt
+416,Hoke Poke,93,A,4.0,111,$$,Poke
+417,Don Rogelio's Restaurant,95,A,4.5,255,$,Mexican
+418,Alegro Restaurant,97,A,4.5,65,$$,Mediterranean
+419,Shave It,94,A,4.5,375,$,Ice Cream & Frozen Yogurt
+420,Gaam Restaurant and Lounge,90,A,3.5,968,$$,Asian Fusion
+421,Wingstop,95,A,3.0,153,$$,Chicken Wings
+424,Think Cafe,93,A,4.0,219,$$,American (New)
+425,Dhaba Cuisine of India,94,A,3.5,237,$$,Indian
+426,Ono Hawaiian BBQ,97,A,3.5,83,$$,Barbeque
+427,Carnival Cruise Lines,92,A,3.0,1099,NA,Travel Services
+429,Maggiano's Little Italy,91,A,4.0,1664,$$,Italian
+430,My Taco,95,A,3.5,611,$,Mexican
+432,Zono Sushi,92,A,4.0,208,$$,Sushi Bars
+433,Los Compadres,94,A,4.0,766,$$,Mexican
+434,Cook's Tortas,95,A,4.0,2118,$$,Mexican
+436,Gen Korean BBQ House,90,A,3.5,675,$$,Korean
+437,101 Noodle Express,90,A,3.5,517,$,Chinese
+440,California Grill Express,96,A,4.0,534,$$,American (Traditional)
+441,El Pescador - El Monte,96,A,3.5,225,$$,Sports Bars
+442,mar'sel,90,A,4.0,436,$$$$,American (New)
+444,Stonefire Grill,91,A,4.0,714,$$,American (Traditional)
+445,Olive Garden Italian Restaurant,93,A,3.0,512,$$,Italian
+447,The Donut Shop,97,A,4.5,75,$,Donuts
+448,Parkers' Lighthouse,98,A,3.5,1525,$$$,Seafood
+449,Myke's Cafe,90,A,4.0,806,$$,Cafes
+450,The Village Grille,91,A,4.0,45,$,American (Traditional)
+451,RIZE Thai Sushi,91,A,4.0,282,$$,Sushi Bars
+452,Taipei Bistro,96,A,4.0,310,$,Taiwanese
+453,The Boiling Crab,99,A,3.5,298,$$,Cajun/Creole
+454,San Pedro Cafe,93,A,4.5,241,$,Diners
+455,ROC Sawtelle,80,B,3.5,1598,$$,Chinese
+456,Tamales House,92,A,3.5,103,$,Mexican
+457,Torrance Memorial Medical Center,97,A,3.5,300,NA,Medical Centers
+458,Swork Coffee,97,A,4.0,686,$$,Coffee & Tea
+461,Corner Bakery Cafe,95,A,3.5,446,$,Bakeries
+462,India's Grill,90,A,4.0,564,$$,Indian
+464,BCD Tofu House,93,A,4.0,737,$$,Korean
+465,Hungry Howie's Pizza,92,A,4.0,66,$,Pizza
+466,Sunny Shine BBQ,93,A,3.5,71,$,Cantonese
+470,Jumbo Wok,93,A,4.0,80,$,Chinese
+471,Ruby Thai Kitchen,90,A,2.5,52,$,Thai
+473,Nature's Brew,93,A,4.0,547,$,Coffee & Tea
+474,Kumadori Sushi,95,A,4.0,588,$$,Sushi Bars
+476,Fantasy Cakes,97,A,4.5,94,$$,Coffee & Tea
+477,OMGarnachas,94,A,4.0,106,$,Mexican
+478,John Sparr Tavern,98,A,4.5,124,$$,Bars
+480,Redbird,96,A,4.0,1169,$$$,Cocktail Bars
+481,Jade Orient Express,94,A,4.0,164,$,Chinese
+482,Golden Corral,93,A,3.5,237,$$,Buffets
+483,The Pub,94,A,3.5,49,$,Pizza
+484,Eden Thai Cuisine,98,A,4.0,171,$,Thai
+487,The Little Izaka-Ya by Katsu-Ya Sherman Oaks,96,A,4.5,508,$$,Sushi Bars
+490,Champs Sports Pub,97,A,3.0,189,$$,Sports Bars
+491,Tacos El Gavilan,94,A,4.0,297,$,Breakfast & Brunch
+494,Eggs N Things,90,A,4.0,522,$$,Breakfast & Brunch
+495,SunCafe Organic,93,A,4.5,2065,$$,Vegan
+496,Canoe House,92,A,3.5,662,$$,Hawaiian
+497,Pollo a La Brasa Western,90,A,4.0,729,$,Latin American
+498,Royal Palace Banquet Hall,96,A,4.5,178,NA,Venues & Event Spaces
+499,Oak Creek Golf Club,95,A,3.5,180,NA,Golf
+500,Santa Rita Jalisco Taco Truck,92,A,4.5,60,$,Food Trucks
+501,Villa Catrina,94,A,4.0,293,$$,Mexican
+502,Bun Me!,95,A,4.0,754,$,Vietnamese
+504,Burgerim,90,A,4.0,76,$,Burgers
+505,Yo-Way,90,A,5.0,683,$,Juice Bars & Smoothies
+506,Cilantro Fresh Mexican Grill,92,A,3.0,102,$,Mexican
+507,Le Mervetty,96,A,4.0,168,$$,French
+508,Juan Pollo,93,A,3.0,98,$,Mexican
+509,Philippe the Original,98,A,4.0,5733,$,Sandwiches
+510,Lenny's Deli,83,B,3.5,1032,$$,Delis
+511,Robeks Juice,94,A,4.0,110,$,Juice Bars & Smoothies
+512,California Pizza Kitchen at Culver Center,95,A,3.0,287,$$,Pizza
+513,101 Noodle Express,90,A,3.0,189,$,Chinese
+514,Kosuke,90,A,4.0,1270,$,Ramen
+515,Wok Wok Express,91,A,3.0,68,$,Chinese
+516,Los Amigos Mexican Grill and Cantina,92,A,3.5,85,$$,Mexican
+517,Yellow Basket,94,A,3.5,87,$,Burgers
+518,Premier Dessert Art,97,A,4.0,259,$,Desserts
+520,SaMo Pizza,92,A,4.5,46,$,Pizza
+521,Marie Callender's,90,A,3.5,125,$$,American (Traditional)
+522,Class 302,93,A,3.5,2601,$,Taiwanese
+524,Melody,92,A,4.0,152,$$,French
+525,Great Khan's Mongolian Grill,93,A,2.5,217,$,Mongolian
+526,800 Degrees Neapolitan Pizzeria,77,C,3.5,2276,$$,Pizza
+529,The Bazaar by José Andrés,99,A,4.0,3633,$$$$,Spanish
+530,Electric Owl,96,A,4.0,233,$$,American (New)
+531,Taqueria of Hollywood,98,A,4.0,49,$,Mexican
+532,Javier's Century City,91,A,3.0,596,$$$,Mexican
+533,Pho VT,96,A,4.5,69,$$,Vietnamese
+535,Christy's Donuts,92,A,4.0,42,$,Donuts
+537,La Reyna Tacos 2#,97,A,4.5,178,$,Food Trucks
+539,The Rice Street,90,A,4.0,196,$,Asian Fusion
+540,SHUHARI Matcha Café,90,A,3.5,291,$,Tea Rooms
+542,Colima Burgers,93,A,4.0,380,$,Burgers
+544,BJ's Restaurant & Brewhouse,90,A,3.0,734,$$,American (New)
+545,Quiznos,94,A,3.0,70,$,Sandwiches
+546,Monja Taiker,90,A,4.0,468,$,Taiwanese
+547,Sham Tseng BBQ Shop,72,C,3.0,188,$$,Chinese
+548,Nature's Brew,92,A,4.0,547,$,Coffee & Tea
+549,Paragon Bar & Grill,94,A,4.0,334,$$,Bars
+550,King Shabu Shabu,94,A,4.5,616,$$,Japanese
+551,Ciccero's Pizza,81,B,3.5,208,$,Pizza
+552,Furaibo,94,A,4.0,386,$$,Chicken Wings
+553,D'Amore's Pizza,96,A,3.5,386,$$,Pizza
+554,SHOREbar,96,A,2.5,176,$$,Lounges
+555,Havana Sandwich Company,90,A,4.0,313,$,Sandwiches
+558,Laurel Point,90,A,4.0,450,$$,American (Traditional)
+559,Peet's Coffee & Tea,92,A,3.5,66,$,Coffee & Tea
+560,Health Nut,94,A,4.0,518,$$,Sandwiches
+561,Crazy Tokyo Sushi,95,A,3.0,310,$$,Sushi Bars
+562,Little Sheep Mongolian Hot Pot,90,A,3.0,481,$$,Mongolian
+564,D'Argenzio Wine Tasting Room,91,A,4.5,72,$$,Wine Tasting Room
+566,Malibu Eatery,96,A,3.5,217,$$,Seafood
+567,D'Amore's Pizza,93,A,3.5,111,$$,Pizza
+569,North End Caffe,92,A,4.0,788,$$,American (New)
+570,Pane E Vino,95,A,4.0,274,$$,Italian
+571,Yogurtland,95,A,4.0,171,$,Ice Cream & Frozen Yogurt
+572,Las Islas Marias,85,B,3.0,76,$$,Seafood
+574,The Lorenzo,95,A,3.0,537,NA,Apartments
+576,Mulberry Street Pizzeria,93,A,3.5,519,$$,Pizza
+577,Pat's Restaurant and Catering,91,A,4.5,155,$$$,Kosher
+578,Ercoles 1101,93,A,4.0,196,$,Dive Bars
+579,Meat Bowl,95,A,5.0,114,$,Chinese
+580,Paloma Hollywood,90,A,4.0,71,$$$,Cocktail Bars
+581,Cavitena Restaurant,86,B,4.0,75,$,Filipino
+582,The Standard Station,90,A,4.0,276,$$,Sports Bars
+583,Tender Greens,93,A,4.0,317,$$,American (New)
+586,The Independence,95,A,4.0,587,$$,American (New)
+587,Ono Hawaiian BBQ,95,A,3.5,159,$,Barbeque
+588,Tacos El Tapatio,98,A,3.5,61,$,Mexican
+589,Pho Ngoon,91,A,4.0,411,$,Vietnamese
+590,Hook Burger,98,A,4.0,1013,$$,Burgers
+591,"The Ritz-Carlton, Marina del Rey",80,B,3.5,437,$$$,Hotels
+592,Bricks & Scones,97,A,4.0,1272,$$,Desserts
+596,My Hero Submarine Sandwich Shoppe,97,A,4.0,285,$,Sandwiches
+597,Dickey's Barbecue Pit,82,B,3.5,158,$$,Barbeque
+600,PIRCH,97,A,4.5,190,$$$$,Kitchen & Bath
+601,El Matador 2,92,A,4.0,109,$,Mexican
+602,Geoffrey's Malibu,94,A,4.0,2153,$$$,Seafood
+603,Denny's,94,A,2.0,73,$,American (Traditional)
+604,exEat,94,A,4.0,312,$$,Italian
+605,Book Sae Tong,90,A,4.5,45,$$,Korean
+609,Simply Salad,91,A,4.0,247,$,Salad
+610,Ten Ren's Tea Time,92,A,3.5,293,$,Chinese
+611,Randy's Donuts,90,A,4.0,2081,$,Donuts
+612,Tom's Famous Family Restaurant 7,97,A,4.0,366,$,Breakfast & Brunch
+613,Señor Grandes Fresh Mexican Grill,98,A,3.0,160,$,Mexican
+614,Domino's Pizza,99,A,2.0,55,$$,Pizza
+615,Jamba Juice,97,A,4.0,49,$$,Juice Bars & Smoothies
+616,Togo’s Sandwiches,74,C,3.5,55,$,Sandwiches
+617,Poké Bar,93,A,4.5,404,$$,Hawaiian
+618,Superior Grocers,96,A,3.5,50,$,Grocery
+619,Belwood Bakery Cafe,98,A,4.5,629,$,Coffee & Tea
+620,Hopia Like It - Granada Hills,94,A,4.5,101,$,Bakeries
+621,The Orange County LASIK Institute,96,A,5.0,465,NA,Ophthalmologists
+622,Quickly,95,A,3.5,59,$,Coffee & Tea
+623,Rosa Mexicano,90,A,3.5,1205,$$,Mexican
+625,Rock & Reilly's DTLA,94,A,4.0,212,$$,Sports Bars
+626,Porto's Bakery & Cafe,92,A,4.5,6115,$,Bakeries
+627,The Anchor,94,A,4.0,773,$$,American (New)
+629,Malbec Argentinean Cuisine,93,A,4.0,682,$$,Argentine
+630,La Cabana Restaurant,94,A,4.0,48,$$,Seafood
+631,Villa Fresh Italian Kitchen,97,A,3.0,51,$$$,Pizza
+632,Panda Express,92,A,2.5,54,$$,Chinese
+633,Groundwork Coffee Co.,98,A,4.0,422,$,Coffee & Tea
+635,Au79 Teahouse,90,A,3.5,804,$,Coffee & Tea
+637,Carnitas Don Cuco,92,A,4.5,47,$,Mexican
+639,Blue Fin Sushi & Teriyaki,96,A,3.5,125,$$,Sushi Bars
+642,Tamaleria Maria's,85,B,3.5,78,$,Mexican
+645,B&R's Old-Fashion Burgers,90,A,3.5,286,$,Burgers
+646,Tummy Stuffer,88,B,4.0,61,$,Sandwiches
+647,Kings Deli,94,A,4.5,182,$$,Delis
+648,Enterprise Fish,90,A,3.5,1760,$$,Seafood
+649,Outback Steakhouse,95,A,3.0,345,$$,Steakhouses
+650,Eatalian Cafe,95,A,4.0,2434,$$,Italian
+651,Los California Tacos,90,A,4.5,855,$,Food Trucks
+652,Carl's Jr,91,A,1.5,60,$,Fast Food
+654,abeautifullife jamaican cafe,95,A,4.0,90,$,Sandwiches
+655,Buffalo Wild Wings,97,A,3.0,1118,$$,Chicken Wings
+656,House Of Pies,93,A,3.5,1450,$$,Diners
+658,Hikari Sushi,93,A,4.0,290,$$,Sushi Bars
+659,Yamashiro Hollywood,96,A,3.5,3160,$$$,Japanese
+661,The Coffee Bean & Tea Leaf,97,A,3.5,79,$,Coffee & Tea
+662,Young's Gourmet,90,A,4.0,128,$,Chinese
+663,Pinches Tacos,91,A,3.5,200,$,Mexican
+665,Northridge Fish & Chips,95,A,4.0,194,$,Fish & Chips
+666,El Pollo Loco,98,A,1.5,45,$,Fast Food
+667,Hong Kong Bakery And Deli,97,A,4.0,210,$,Bakeries
+669,Caruso's Pizza,94,A,3.5,301,$$,Pizza
+670,Bizarra Capital,94,A,4.0,771,$$,Mexican
+671,CoCo Fresh Tea & Juice,94,A,3.5,199,$,Coffee & Tea
+673,Craig's,90,A,4.0,788,$$$,American (New)
+674,Todo Bien Kitchen & Tequila Bar,95,A,4.0,467,$$,Bars
+677,Houston's Restaurant,90,A,3.5,1087,$$$,Steakhouses
+678,Western Bagel,97,A,3.5,88,$,Bagels
+679,Phillips Ranch Health Bar,95,A,4.0,270,$,Juice Bars & Smoothies
+680,Los Chero,83,B,4.0,57,$,Salvadoran
+681,Go Hyang Jib,97,A,4.5,109,$,Korean
+683,El Taco Llama,96,A,4.0,53,$,Mexican
+685,El Pescador - West Covina,92,A,3.0,744,$$,Seafood
+686,Sam's Bagels,93,A,3.5,312,$,Bagels
+687,Quickly Boba LA,100,A,4.0,92,$,Shaved Ice
+688,The Arsenal,96,A,4.0,728,$$,Lounges
+689,Gold Room,97,A,3.5,643,$,Cocktail Bars
+691,Panda House,93,A,4.0,72,$,Chinese
+692,Los Arcos Mexican Food,92,A,4.0,101,$$,Mexican
+695,Mixto Comida Latina,98,A,4.0,642,$,Mexican
+696,Oki Japan,98,A,2.0,46,$,Japanese
+697,Cafe 70 Degrees,90,A,3.5,864,$,Sandwiches
+698,Paris Baguette,97,A,3.5,234,$,Bakeries
+699,Massis Kabob - The Original Kabobery,94,A,2.5,65,$$,Middle Eastern
+700,Luna Rossa,90,A,3.5,160,$$,Italian
+701,Gaby's Express,93,A,3.0,282,$$,Mediterranean
+702,Hacienda Grill,93,A,3.5,62,$,Mexican
+703,Wistaria Restaurant and Bar,90,A,4.0,227,$$,Bars
+704,Porsche Experience Center Los Angeles,90,A,5.0,126,NA,Racing Experience
+705,Lock & Key,95,A,3.5,947,$$,American (New)
+706,Rincon Chileno Deli,95,A,4.0,65,$,Sandwiches
+707,Tony's Saloon,92,A,4.0,262,$$,Dive Bars
+709,Prova Pizzeria,91,A,4.0,502,$$,Pizza
+710,The Greyhound Bar & Grill,94,A,4.0,503,$$,American (Traditional)
+711,Chef Hannes Restaurant,94,A,4.0,201,$$,Seafood
+712,3BBQ,90,A,4.5,96,$$,Mongolian
+715,Denny's,96,A,2.0,207,$,Diners
+717,Eaterphant,90,A,4.0,135,$,Thai
+718,Wood Ranch BBQ & Grill,100,A,4.0,896,$$,Barbeque
+719,Crazy Fish - Grill & Market,96,A,4.5,184,$$,Seafood
+720,Greenleaf Gourmet Chopshop,90,A,3.5,137,$$,American (New)
+721,P.F. Chang's,81,B,3.0,475,$$,Chinese
+722,Back Home In Lahaina,91,A,4.0,636,$$,Hawaiian
+725,Lodeka Taiwanese Cafe,90,A,4.0,80,$,Taiwanese
+726,Woodland Hills Athletic Club,98,A,4.5,159,NA,Gyms
+727,El Gallo Giro,95,A,3.0,149,$,Mexican
+728,Yellow Vase,80,B,3.0,297,$$,Floral Designers
+729,Casa Garcia,95,A,3.5,471,$,Mexican
+731,TOI On Sunset,90,A,3.5,1118,$$,Thai
+732,Eagle Rock Poke Shack,97,A,4.5,56,$$,Poke
+733,Yunnan Restaurant,86,B,3.5,339,$$,Chinese
+734,Mr. Pizza,98,A,4.5,42,$,Pizza
+735,sweetgreen,95,A,4.0,210,$$,Salad
+736,La Tropézienne Bakery Los Angeles,93,A,4.5,258,$$,Bakeries
+737,Cafe Lucy,98,A,4.5,42,$$,Coffee & Tea
+739,Monterey Hill,96,A,3.0,133,$$,Venues & Event Spaces
+741,Masa Sushi Bon Appetit,95,A,3.0,90,$$,Sushi Bars
+742,PokeBar,96,A,4.0,50,$$,Poke
+743,SIRTAJ Hotel Beverly Hills,95,A,4.0,111,$$,Hotels
+744,Mariscos Guillen La Playita,98,A,4.0,444,$,Mexican
+745,The Coffee Bean & Tea Leaf,94,A,3.5,75,$,Coffee & Tea
+747,Angel City Brewery,98,A,4.0,1666,$,Breweries
+748,Yang Chow,92,A,4.0,2195,$$,Chinese
+749,Brown Donkatsu,82,B,3.5,50,$$,Korean
+750,Poom Thai Cuisine,90,A,3.5,346,$,Thai
+751,Thuan Phat Supermarket,91,A,3.5,134,$,Grocery
+752,Chaya-Tom Bradley Airport,92,A,2.5,86,$$,Sushi Bars
+753,La Boucherie,90,A,4.0,235,$$$$,Steakhouses
+754,Borrego's Tacos,93,A,4.0,118,$,Mexican
+755,Jackson Market,100,A,4.0,733,$$,Grocery
+756,Hyper Coffee,92,A,4.0,254,$,Coffee & Tea
+757,Burger Depot,93,A,2.5,57,$,Mexican
+758,Black Bear Diner,90,A,3.5,771,$$,Diners
+759,Penguin's Place Frozen Yogurt,96,A,4.0,136,$,Ice Cream & Frozen Yogurt
+761,Panera Bread,92,A,3.0,280,$$,Sandwiches
+762,Kao Cafe,92,A,4.0,339,$$,Thai
+763,Guido's Pizza & Pasta,95,A,4.0,193,$,Pizza
+764,PAPA'S CHICKEN,96,A,4.5,104,NA,Chicken Wings
+765,Hambone's BBQ and Po'Boy Sandwiches,95,A,4.0,966,$$,Barbeque
+766,Corner Bakery Cafe,93,A,3.5,271,$,Sandwiches
+767,Tony Roma's,94,A,3.0,395,$$,Barbeque
+768,Papa John's Pizza,96,A,2.0,87,$$,Pizza
+770,Arctic Hotspot Bakery & Cafe,81,B,4.5,216,$,Bakeries
+771,Fukurou Ramen,93,A,4.0,466,$,Ramen
+773,Gilligan's Irish Pub,98,A,3.5,44,$,Pubs
+774,Himalayan Cafe,91,A,4.0,210,$$,Himalayan/Nepalese
+775,My Taco,93,A,3.5,611,$,Mexican
+776,NorthStar Movers,90,A,4.5,703,NA,Movers
+777,Bia Coffee,94,A,4.0,374,$$,Coffee & Tea
+779,The Grill Spot,93,A,4.5,145,$$,Persian/Iranian
+780,Siamese Restaurant,93,A,4.0,127,$$,Thai
+781,MADE by DWC Cafe & Gift Boutique,98,A,4.5,49,$,Coffee & Tea
+782,Chef's Coffee Shop,91,A,3.5,232,$,Diners
+783,Mongolian Barbeque,92,A,3.5,262,$$,Mongolian
+784,Kalaveras,92,A,3.5,143,NA,Mexican
+785,Truxton's American Bistro,92,A,4.0,232,$$,American (Traditional)
+786,Joseph's Bar & Grill,93,A,3.0,480,$$,American (New)
+788,Crazy Falafel,94,A,4.0,165,$,Falafel
+789,Crème Caramel LA,98,A,4.5,652,$$,Desserts
+790,Sweet Art Cakes,92,A,3.5,63,$$,Bakeries
+793,Graciana Mexican Restaurant,91,A,4.0,129,$$,Mexican
+795,Popeyes Louisiana Kitchen,95,A,2.5,64,$,Fast Food
+796,Asuka,96,A,4.5,146,$$$,Sushi Bars
+797,Boba Loca,98,A,3.0,69,$,Juice Bars & Smoothies
+800,Cafe Dulce,96,A,4.0,2024,$,Coffee & Tea
+801,KFC,94,A,1.5,47,$,Chicken Shop
+803,Parrains Soulfood,90,A,4.5,457,$$,Soul Food
+804,Casa Jimenez Mexican Restaurant,94,A,3.0,108,$$,Mexican
+806,New Wok,94,A,4.0,50,$,Chinese
+811,Menchie's Frozen Yogurt,98,A,3.5,132,$,Ice Cream & Frozen Yogurt
+812,Thai Divine Bistro,93,A,4.0,51,$$,Thai
+813,Carmelitas Restaurante,96,A,4.5,70,$,American (New)
+814,The Magnolia Grille,96,A,4.0,339,$$,American (Traditional)
+815,Honey Roll & Sushi,95,A,4.0,195,$,Japanese
+819,Providence Saint Joseph Medical Center,97,A,3.0,400,NA,Hospitals
+820,The Buffalo Spot,95,A,3.5,197,$,American (Traditional)
+823,Sis Bakery,97,A,5.0,66,$,Bakeries
+824,Which Wich,98,A,4.0,164,$,Sandwiches
+825,Crawford's Pass,94,A,4.0,109,$$,American (Traditional)
+826,Roger's Burgers,91,A,4.0,186,$,Burgers
+827,Ford's Filling Station,92,A,3.5,235,$$,American (New)
+829,The Crawfish Co,96,A,4.5,302,$$,Cajun/Creole
+830,Captain's Sub Shop,90,A,4.5,53,$,Sandwiches
+831,Bon Bon Berry Acai Bowl Frozen Yogurt,92,A,4.0,131,$,Ice Cream & Frozen Yogurt
+832,China Tasty,90,A,3.5,134,$,Chinese
+833,STACKED: Food Well Built,90,A,4.0,1154,$$,Burgers
+834,Mexicali Cocina & Cantina,97,A,3.5,1261,$$,Mexican
+835,Chop Stop,93,A,4.0,154,$,Salad
+836,Jolly Burrito,92,A,3.0,96,$,Mexican
+839,Ebisu Japanese Tavern,97,A,3.5,337,$$,Japanese
+840,il Romanista,92,A,4.5,103,$,Pizza
+841,Pono Burger Santa Monica,96,A,4.0,1039,$$,Burgers
+843,Dino's Chicken and Burgers,90,A,4.0,1872,$,Burgers
+844,Eagle Rock Brewery,97,A,4.5,409,$,Breweries
+846,Open Source Organics,94,A,4.0,247,$$,Live/Raw Food
+847,Casa De Pizza,97,A,4.5,616,$$,Pizza
+848,Grilliant,90,A,4.0,283,$$,Mediterranean
+849,Gallery Bar and Cognac Room,98,A,4.0,123,$$$,Bars
+850,Papa Murphy's,98,A,4.5,48,$,Pizza
+853,Las Margaritas,93,A,3.5,65,$$,Mexican
+854,Braazo Pizza,95,A,4.5,305,$$,Pizza
+855,Eden On Brand,97,A,4.0,567,$$,Burgers
+856,Gardena Bowl Coffee Shop,94,A,4.0,570,$,Hawaiian
+859,Taste on Melrose,93,A,4.0,2342,$$,American (New)
+861,Thailand House,94,A,3.5,53,$,Thai
+863,Sushi for You,92,A,4.0,345,$,Sushi Bars
+865,The Cue Ball,97,A,3.0,100,$$,Pool Halls
+866,Cake & Art,96,A,4.5,314,$$,Bakeries
+867,Q Hawaiian BBQ,90,A,3.0,57,$,Barbeque
+868,Classics Flowers and Confections,96,A,4.5,389,$$,Florists
+869,Milk and Eggs,94,A,4.5,229,$$,Fruits & Veggies
+871,The Noypitz Bar and Grill,94,A,3.5,114,$$,Filipino
+872,Gaby's Mediterranean Restaurant Cafe,90,A,3.5,934,$$,Greek
+873,Tacos El Charro,98,A,4.5,75,$,Mexican
+874,Chargha House,82,B,4.0,200,$$,Indian
+876,Super Burger,98,A,4.5,717,$,Burgers
+877,Elephant Bar Restaurant,90,A,3.5,806,$$,Bars
+879,Manila Sunset,92,A,3.0,109,$,Filipino
+880,Green Apple China Bistro,90,A,4.0,757,$$,Chinese
+881,Goldie's Los Angeles,90,A,3.5,453,$$,American (New)
+882,Meshuga 4 Sushi,95,A,3.5,132,$$,Kosher
+883,Siam Chan,95,A,3.5,638,$,Thai
+886,Luv'n Donuts,95,A,4.0,42,$,Donuts
+887,AOC,90,A,4.0,2106,$$$,Wine Bars
+889,Habanero Grill,95,A,3.0,52,$$,Mexican
+890,The Gate to the Mediterranean,95,A,3.5,326,$$,Mediterranean
+891,Toyo Bowl,95,A,4.0,60,$,Japanese
+892,Olympic Bakery,93,A,4.0,116,$,Bakeries
+894,Brentwood Restaurant & Lounge,95,A,3.5,155,$$$,American (Traditional)
+896,Uoko Japanese Cuisine,98,A,4.0,239,$$,Japanese
+897,Don Francisco's Coffee Casa Cubana,95,A,4.5,306,$,Coffee & Tea
+898,Mitaki Roll & Grill,83,B,4.0,59,$,Japanese
+899,38 Degrees Ale House & Grill,90,A,4.0,1645,$$,Pubs
+900,Los Chilaquiles Mexican Grill,96,A,4.0,131,$,Mexican
+901,Hotel Erwin,96,A,3.5,393,$$$,Hotels
+903,Soda Jerks,90,A,3.5,100,$,Ice Cream & Frozen Yogurt
+904,Beard Papa's,97,A,4.0,790,$,Desserts
+905,Belgium Waffle Haus,91,A,4.0,91,$$,Coffee & Tea
+906,Viva Madrid!,92,A,4.0,1146,$$,Spanish
+910,Bulletproof Coffee,91,A,3.5,350,$$,Coffee & Tea
+911,Rubio's,97,A,3.0,72,$,Mexican
+912,Ahi Sushi,95,A,4.0,415,$$,Sushi Bars
+913,Tea Elle C Garden Cafe,92,A,4.0,429,$$,Tea Rooms
+914,The Hat,92,A,4.0,1295,$,Sandwiches
+915,Puran's Restaurant,98,A,4.0,229,$$,Mediterranean
+918,The Station,85,B,4.0,107,$,Sports Bars
+919,Primo Italia,91,A,4.0,204,$$,Italian
+920,Blizz Frozen Yogurt,98,A,3.5,135,$,Ice Cream & Frozen Yogurt
+921,El Pollo Loco,90,A,2.0,176,$,Mexican
+923,New India's Oven,97,A,3.5,313,$$,Indian
+924,Studio Movie Grill,98,A,3.5,161,$$,Cinema
+925,Giuliano's Delicatessen,96,A,4.5,743,$,Delis
+926,Ojiya,90,A,3.5,177,$$,Japanese
+927,JJ Bakery,90,A,4.0,403,$,Bakeries
+928,Shanghai Yau Fat,92,A,3.5,122,$$,Chinese
+929,La Casita Mexicana,100,A,4.0,953,$$,Mexican
+930,Great China Express,97,A,4.0,79,$,Chinese
+931,Brian's Shave Ice & Boba,96,A,4.0,314,$,Shaved Ice
+933,Jody Maroni's Sausage Kingdom,90,A,4.0,106,$,Hot Dogs
+934,Gobi Mongolian BBQ House,97,A,4.0,625,$$,Mongolian
+935,Sam Woo Barbecue,96,A,3.5,481,$,Chinese
+937,Le Pain Quotidien,90,A,3.5,328,$$,Bakeries
+938,The Melt - Sunset,94,A,3.0,362,$,American (Traditional)
+940,Pollo Campero,96,A,2.5,97,$,Latin American
+941,Milk,95,A,4.0,5729,$$,Ice Cream & Frozen Yogurt
+943,Nadia Cakes,96,A,4.0,354,$$,Bakeries
+944,Ten Ren's Tea Time,92,A,3.5,603,$,Coffee & Tea
+945,Raspados GDL,97,A,4.0,80,$,Shaved Ice
+946,Freedman's,97,A,4.0,115,$$,Delis
+947,Balam Mexican Kitchen,94,A,4.5,522,$,Mexican
+948,Coopers House of Brewmasters,92,A,4.0,133,$,Sports Bars
+949,Manhattan Bread & Bagel,91,A,3.5,320,$,Bagels
+951,CUT,91,A,4.0,1523,$$$$,Steakhouses
+952,Kobee Factory,97,A,4.5,523,$$,Middle Eastern
+953,Edwards La Verne 12,93,A,3.5,216,NA,Cinema
+954,Don Juan Mexican & Seafood,93,A,3.5,107,$$,Mexican
+955,Oriel Chinatown,95,A,4.5,89,$$$,French
+956,Chili's,96,A,3.0,238,$$,Tex-Mex
+957,Rainbow Sushi & Teriyaki,92,A,4.0,107,$,Japanese
+958,Little China Restaurant,91,A,3.5,194,$,Chinese
+960,Denny's,92,A,2.0,139,$$,Diners
+962,Hokkaido Ramen Santouka,97,A,4.5,2179,$,Ramen
+963,The Restaurant at The Getty Center,96,A,4.0,557,$$$,American (New)
+964,Tacos La Estrella,93,A,4.0,101,$,Mexican
+965,Hayakawa,90,A,4.5,264,$$$,Sushi Bars
+966,BJ's Restaurant & Brewhouse,91,A,3.0,734,$$,American (New)
+968,Mandarin Lotus,98,A,4.5,331,$$,Chinese
+969,Little Ongpin-Beverly,97,A,3.5,44,$,Filipino
+970,The Rusten House,93,A,3.5,129,$$,Mexican
+971,Taco Bell,94,A,1.5,93,$,Mexican
+972,Louie's Chinese Cuisine,96,A,3.5,81,$,Chinese
+973,CUT Lounge,97,A,4.0,87,$$$,Lounges
+974,Sunset Tower Hotel,96,A,4.0,219,$$$,Hotels
+975,Dan's Deli,95,A,3.5,63,$,Delis
+977,Mandarin Chinese Food & Sushi,93,A,3.0,144,$,Sushi Bars
+981,Pina Pizza House,92,A,4.0,244,$$,Pizza
+982,La Cabañita,90,A,4.0,1009,$$,Mexican
+983,Cabo Cantina,92,A,2.5,897,$$,Mexican
+984,California Chicken Cafe,94,A,4.0,862,$$,Chicken Shop
+985,El Cholo,95,A,3.5,1235,$$,Mexican
+988,Baja Beach Bar,97,A,3.5,104,$$,Sports Bars
+989,Mr. Poké,98,A,4.5,169,$,Poke
+992,The Original Rinaldi's Deli and Cafe,93,A,4.5,62,$$,Delis
+993,Las Lomas Restaurant,94,A,4.0,82,$,Mexican
+994,Nim Chan's Kitchen,94,A,4.0,65,$,Chinese
+996,ROK Sushi Kitchen,93,A,3.5,620,$$,Sushi Bars
+998,Bobaloca Manhattan Beach,92,A,3.5,191,$,Coffee & Tea
+1000,Saigon Eden,91,A,4.0,698,$,Vietnamese
+1001,MOD Pizza,96,A,4.0,280,$,Pizza
+1002,Fresh Canes,95,A,4.5,55,$,Juice Bars & Smoothies
+1003,Chop'd,95,A,4.5,379,$$,Salad
+1007,Thai Time Cuisine,91,A,4.0,503,$,Thai
+1008,Saraya Thai Cuisine,93,A,4.0,208,$$,Thai
+1010,Yei San Jib Korean Restaurant,86,B,3.0,209,$$,Korean
+1011,The Craftsman Bar and Kitchen,94,A,4.0,346,$$,Lounges
+1013,The Flame Broiler,93,A,3.5,211,$,Fast Food
+1015,Yakuza Sushi,93,A,4.0,150,$$,Sushi Bars
+1016,Westfield Santa Anita,97,A,3.5,677,$$,Shopping Centers
+1017,Young King,93,A,4.0,507,$$,Chinese
+1018,Octopus Japanese Restaurant,95,A,4.0,1092,$$,Japanese
+1019,Don Felix Restaurant,96,A,3.5,414,$$,Peruvian
+1020,Lassens Natural Foods & Vitamins,90,A,3.0,197,$$,Vitamins & Supplements
+1021,Galbi King,97,A,3.0,474,$$,Korean
+1022,Venice Beach Wines,93,A,4.0,317,$$,Wine Bars
+1023,Class 302,100,A,3.5,2601,$,Taiwanese
+1026,Me Gusta Gourmet Tamales,100,A,4.0,192,$,Mexican
+1027,New Pho 999,90,A,4.0,457,$,Vietnamese
+1029,Taco Bell,99,A,2.0,53,$,Mexican
+1030,Sushi Danku,92,A,4.5,139,$$,Sushi Bars
+1032,"Craigers Fudge, Ice Cream & Sweets",95,A,4.5,56,$,Desserts
+1033,Tacos Chihuahua,90,A,4.0,123,$,Mexican
+1034,Icho Izakaya,94,A,3.5,214,$$,Japanese
+1035,Dickey's Barbecue Pit,93,A,4.0,580,$$,Barbeque
+1037,République,91,A,4.0,4447,$$,French
+1038,Mariscos Villa Del Mar,94,A,3.5,109,$$,Seafood
+1039,Carousel Restaurant,95,A,4.0,982,$$,Middle Eastern
+1040,Jersey Mike's Subs,94,A,3.5,63,$$,Sandwiches
+1041,El Segundo Fish,90,A,3.5,328,$$,Seafood
+1042,Lobster & Steak Express,91,A,4.5,228,$$,Chinese
+1043,Spa Palace,94,A,4.0,1089,$$,Day Spas
+1044,Barbrix Restaurant & Wine Bar,92,A,4.0,1089,$$,Wine Bars
+1045,Vermont Soon Dae,90,A,4.5,43,$$,Korean
+1046,Buca di Beppo Italian Restaurant,94,A,3.5,366,$$,Italian
+1048,Kantaro Sushi,92,A,4.5,343,$$$,Sushi Bars
+1049,Lu's Garden,92,A,4.5,1174,$,Chinese
+1050,Snookies Cookies & More,93,A,3.5,156,$$,Desserts
+1051,Hilton Los Angeles North/Glendale,96,A,3.0,353,$$,Venues & Event Spaces
+1052,Sweetfin Poké,98,A,4.0,42,$$,Poke
+1054,Yum Yum Donuts,93,A,3.5,44,$,Donuts
+1056,Don Chente Bar and Grill,94,A,2.5,283,$$,Mexican
+1058,California Mexican Grill,87,B,3.0,48,$,Mexican
+1059,Little Asia,90,A,4.0,130,$,Chinese
+1060,El Atacor Restaurant,90,A,4.0,171,$,Mexican
+1061,Subway,100,A,2.5,42,$,Sandwiches
+1062,Café Royale,96,A,4.5,45,$,Coffee & Tea
+1065,Aloha Café,90,A,4.0,623,$,Breakfast & Brunch
+1067,Hana Grill,90,A,3.0,155,$,Japanese
+1069,Verve Coffee Roasters,91,A,4.0,312,$$,Coffee & Tea
+1070,Hoke Poke,96,A,4.0,323,$$,Poke
+1071,Tony's Restaurant,97,A,4.5,126,$,Sandwiches
+1072,Sweetfin Poké,96,A,4.0,42,$$,Poke
+1073,Panda Wok,92,A,4.5,112,$,Chinese
+1074,Ajisai,93,A,4.5,342,$$,Japanese
+1075,Guisados,91,A,4.5,2277,$,Mexican
+1076,The Links at Victoria Golf Course,85,B,2.0,107,NA,Golf
+1077,Equelecuá Cuban Cafe,98,A,4.5,632,$$,Cuban
+1078,Café Stella,90,A,3.5,862,$$$,French
+1079,Round1 Puente Hills,92,A,3.5,1119,$$,Arcades
+1081,Cold Stone Creamery,90,A,3.5,159,$,Ice Cream & Frozen Yogurt
+1082,Dae Bak,98,A,4.0,175,$$,Korean
+1083,Pailin Thai Cuisine,100,A,4.5,378,$,Thai
+1084,KIYO Arcadia,91,A,4.0,118,NA,Sushi Bars
+1085,People Helping People,92,A,2.5,82,NA,Health Insurance Offices
+1086,Kokio Chicken,92,A,4.0,64,$$,Korean
+1087,Melt Gelato & Crepe Cafe,90,A,4.0,356,$,Creperies
+1088,Pappas Artisanal,93,A,4.0,860,$$,American (New)
+1089,Library Bar,98,A,4.0,472,$$$,Lounges
+1090,Carrera Cafe,93,A,4.0,259,$$,Cafes
+1092,Superba Food + Bread,90,A,3.5,316,$$,American (New)
+1093,Chandni,92,A,4.0,292,$$,Indian
+1094,Fifty One,93,A,3.5,116,NA,Chinese
+1095,La Monarca Bakery,96,A,4.0,122,$,Coffee & Tea
+1096,La Mascota Bakery,73,C,4.0,388,$,Bakeries
+1097,Burgerim,96,A,3.5,134,$$,Burgers
+1098,O Sushi & Grill,92,A,4.5,311,$$,Japanese
+1099,Bambino's Pizza,91,A,4.0,142,$,Italian
+1101,The Green Chili,81,B,4.0,63,$,Mexican
+1102,La Bamba,95,A,2.0,44,$,Mexican
+1103,Ye Loy Restaurant,90,A,3.5,48,$$,Chinese
+1104,Cactus Coffee,96,A,4.5,133,$,Coffee & Tea
+1106,The Melt - Sunset,96,A,3.0,362,$,American (Traditional)
+1108,Dog Haus Biergarten USC,92,A,3.5,281,$,Hot Dogs
+1109,Taqueria Colima,95,A,4.0,74,$,Mexican
+1110,The Coffee Bean & Tea Leaf,93,A,3.5,92,$,Coffee & Tea
+1112,Manhattan Beach Post,90,A,4.5,2944,$$$,American (New)
+1113,Jasmine Market,94,A,4.5,531,$,Burmese
+1116,Porto's Bakery & Cafe,99,A,4.5,7968,$,Bakeries
+1117,Neighbor,90,A,4.0,238,$$$,Cocktail Bars
+1118,Reyhan Persian Grill,93,A,3.0,261,$$,Persian/Iranian
+1119,Tacos La Bufadora,90,A,4.0,346,$,Mexican
+1121,Mucho Mas,99,A,3.5,401,$$,Mexican
+1122,Nouilles Of 3rds,92,A,4.0,199,$$,Soup
+1123,Star Alliance Lounge,92,A,4.0,121,$,Airport Lounges
+1124,Al Hamra Halal Cafe,91,A,4.5,1005,$$,Middle Eastern
+1125,El 7 Mares Express,94,A,3.5,63,$,Mexican
+1126,Umami Burger - Hollywood,92,A,3.5,1670,$$,Gastropubs
+1127,Italia Deli & Bakery,97,A,4.5,555,$,Delis
+1128,On Teriyaki,93,A,4.5,60,$,Japanese
+1129,Seorae Village Pork BBQ,94,A,4.5,48,$$,Korean
+1130,Umenoya,90,A,3.5,613,$$,Ramen
+1131,Sweethoney Dessert,93,A,4.0,135,NA,Desserts
+1132,The Doughnut Society,92,A,4.5,155,$,Donuts
+1133,Dha Rae Ok,98,A,3.5,69,$$,Korean
+1135,Estela's Restaurant,95,A,4.0,58,$,Salvadoran
+1138,Domino's Pizza,97,A,2.5,57,$,Pizza
+1139,Little Joes Fresh Mex,96,A,4.0,100,$,Tacos
+1140,Sweet Basil Pizza & Pasta,95,A,4.0,131,$,Pizza
+1141,Pho Palace,95,A,3.5,63,$,Vietnamese
+1142,Tasty Garden,86,B,3.5,808,$$,Chinese
+1145,Amy's Patio Cafe,91,A,3.5,244,$$,Cafes
+1150,French Market Cafe,93,A,4.0,522,$$,French
+1151,Green Grotto Juice Bar,95,A,4.0,216,$$,Juice Bars & Smoothies
+1152,Sidecar Doughnuts & Coffee,97,A,4.5,2964,$$,Donuts
+1153,Komatsu,90,A,4.0,78,$$,Japanese
+1154,Mex Perú Gipsy,94,A,4.5,593,$$,Mexican
+1155,Akkad Mediterranean & Iraqi Grill,90,A,4.5,204,$,Middle Eastern
+1156,Khun 9 Thai Kitchen,91,A,4.0,397,$,Thai
+1157,Poké Bar,96,A,4.0,88,$$,Poke
+1158,The Coffee Bean & Tea Leaf,96,A,4.0,126,$,Coffee & Tea
+1159,Veggie Grill,98,A,4.0,291,$$,Vegan
+1160,Surati Farsan Mart,90,A,4.0,488,$,Indian
+1162,KazuNori  | The Original Hand Roll Bar,90,A,4.5,2305,$$,Sushi Bars
+1164,Los Chorros,90,A,3.5,223,$,Salvadoran
+1165,Bonello's New York Pizza,90,A,4.0,194,$$,Pizza
+1166,Heavenly Pancakes,93,A,3.5,251,$$,Breakfast & Brunch
+1167,Dave & Buster's,97,A,2.5,872,$$,Bars
+1168,La Pupusa Urban Eatery,90,A,5.0,136,$$,Salvadoran
+1169,Teriyaki Bistro,96,A,3.5,117,$,Asian Fusion
+1170,Brothers Sandwich Shop,98,A,4.5,387,$,Sandwiches
+1171,Que Ricos,98,A,3.5,305,$,Mexican
+1172,Barney's Gourmet Hamburgers,92,A,4.0,370,$$,American (Traditional)
+1173,Subway,100,A,4.0,51,$,Fast Food
+1175,Target,99,A,3.0,188,$$,Department Stores
+1176,Chado Tea Room,90,A,4.0,214,$$,Tea Rooms
+1177,The Donut Hole,81,B,4.0,372,$,Donuts
+1178,Little Tokyo Ice Cream & Yogurt Deli,97,A,2.5,96,$,Ice Cream & Frozen Yogurt
+1179,Domino's Pizza,95,A,2.0,56,$$,Pizza
+1180,La Monarca Bakery,90,A,4.0,146,$,Bakeries
+1182,Cafe Cancun Mexican Food,90,A,4.0,96,$,Mexican
+1183,Cocktails Anyone,91,A,3.5,84,$,Lounges
+1185,Upstairs Bar at the Ace Hotel,97,A,3.5,591,$$,Bars
+1186,Urban Masala,90,A,3.5,559,$,Indian
+1188,Crispy Crust,97,A,4.0,293,$,Pizza
+1189,Chris Burgers,91,A,3.5,109,$,Burgers
+1191,Cocohodo,93,A,4.0,199,$,Desserts
+1193,Agaves Kitchen & Tequila,97,A,3.5,742,$$,Mexican
+1195,Monsieur Marcel,92,A,4.0,677,$$,French
+1196,ArcLight Cinemas,95,A,4.0,2146,NA,Cinema
+1197,Barnacles Bar & Grill,93,A,3.5,192,$,Dive Bars
+1199,Sushimon,91,A,4.0,192,$,Sushi Bars
+1200,All'Acqua,94,A,4.0,530,$$,Italian
+1202,Bob's Big Boy Broiler,97,A,3.5,444,$$,American (Traditional)
+1203,Azuma Japanese Restaurant,91,A,4.0,735,$$,Japanese
+1204,Mitsuwa Marketplace,92,A,4.0,779,$$,International Grocery
+1208,H2O Poke & Fish Grill,95,A,4.0,278,$$,Poke
+1209,Los Compadres,90,A,4.0,1464,$$,Mexican
+1210,Millie's Cafe,95,A,4.0,888,$$,Diners
+1211,Naturewell,93,A,4.5,260,$$,Juice Bars & Smoothies
+1212,Malibu Seafood Fresh Fish Market & Patio Cafe,97,A,4.0,2281,$$,Seafood Markets
+1213,True Food Kitchen,93,A,4.0,743,$$,Vegan
+1214,Nanban-Kan Restaurant,80,B,4.0,692,$$,Japanese
+1215,Jersey Mike's Subs,92,A,3.5,129,$,Sandwiches
+1216,Golden Sky,90,A,3.5,133,$$,Chinese
+1217,Sonic Drive-In,97,A,2.5,226,$,Fast Food
+1218,The Larder at Burton Way,90,A,4.0,259,$$,American (New)
+1219,Encore Teppan,96,A,4.0,449,$$,Teppanyaki
+1220,Polly's On the Pier,86,B,4.0,292,$,Breakfast & Brunch
+1221,Groundwork Coffee Co.,92,A,4.5,278,$$,Coffee & Tea
+1222,Teddy's Cafe,96,A,4.0,279,$,Diners
+1223,Roni's,90,A,3.5,149,$$,American (Traditional)
+1224,Mama Mia Pizza,96,A,3.5,97,$,Pizza
+1225,Matcha Matcha,95,A,4.0,627,$,Desserts
+1228,Simply Salad,95,A,4.0,427,$,Salad
+1229,Barista Society,95,A,4.5,50,$,Coffee & Tea
+1230,Honey Donut & Teriyaki,93,A,4.0,49,$,Donuts
+1231,Numero Uno Pizza,96,A,4.0,222,$$,Italian
+1232,Dal Rae Restaurant,95,A,4.0,1016,$$$,Steakhouses
+1234,Tofu King,93,A,4.0,302,$,Taiwanese
+1235,South Beverly Grill,90,A,4.0,607,$$$,American (New)
+1236,Nevera Juice Bar,96,A,4.0,149,$,Juice Bars & Smoothies
+1237,Deus Ex Machina,98,A,4.0,261,$$,Men's Clothing
+1238,Cake By Marce,95,A,4.0,43,$$,Bakeries
+1239,TJs Subs,92,A,4.5,77,$,Sandwiches
+1241,Togo’s Sandwiches,98,A,3.5,86,$,Sandwiches
+1242,Curry House,91,A,4.0,569,$$,Seafood
+1243,1st Wok,90,A,4.0,54,$,Chinese
+1244,Agra Cafe,94,A,4.0,496,$$,Indian
+1247,Giuliano's Delicatessen,90,A,4.5,743,$,Delis
+1248,CAVA,90,A,4.0,194,$$,Mediterranean
+1249,Tony's Pizza,93,A,3.5,112,$$,Pizza
+1250,The Wellesbourne,90,A,4.0,880,$$,Lounges
+1251,Lucy's Drive In,90,A,3.0,357,$,Fast Food
+1252,Miss Donuts & Bagel,96,A,4.0,60,$,Donuts
+1254,Lomita's Best,90,A,4.0,241,$,Burgers
+1257,Hot Dog On A Stick,95,A,4.0,177,$,Fast Food
+1259,3rd Street Pizza,97,A,4.0,77,$,Pizza
+1260,El Comalon Mexican Food,93,A,3.5,56,$,Mexican
+1261,Big Jim's Donuts,94,A,4.0,67,$,Donuts
+1262,Backstage Bar & Grill,91,A,4.0,848,$,Karaoke
+1263,El Baron Restaurant and Night Club,91,A,3.0,122,$$,Latin American
+1264,Mrs Fields Cookies,90,A,4.0,45,$,Bakeries
+1265,Tastyblock Hawaiian Shave Ice,98,A,4.5,227,$,Shaved Ice
+1267,The Roof Garden,90,A,4.0,111,$$$,American (New)
+1268,Chile Verde,91,A,3.0,44,$,Mexican
+1269,The Carving Board,97,A,4.5,614,$$,Sandwiches
+1270,Buca di Beppo Italian Restaurant,91,A,3.0,552,$$,Italian
+1273,Shabu Hyang,91,A,4.5,499,$$,Korean
+1274,Headlines Diner & Press Club,82,B,3.5,253,$,Diners
+1275,Agua Chiles Sushi Bar,90,A,4.0,374,$$,Sushi Bars
+1277,T4 Tea For U,84,B,4.0,248,$,Bubble Tea
+1278,Schwartz Bakery,92,A,2.5,95,$$,Bakeries
+1280,Greenland Market,97,A,4.0,148,$$,Grocery
+1281,Hodori Restaurant,92,A,3.5,952,$$,Korean
+1283,Pizza World,96,A,4.0,61,$,Pizza
+1285,Jersey Mike's Subs,96,A,3.5,93,$,Sandwiches
+1286,Lucio's Restaurant,92,A,4.0,236,$,Mexican
+1287,Spicy Fish,93,A,4.0,51,$,Japanese
+1288,Antonio's Tacos & Kabob,80,B,4.5,446,$,Mexican
+1290,Twinkle Brown Sugar,72,C,4.0,1142,$,Coffee & Tea
+1292,Killer Shrimp,90,A,3.5,2196,$$,American (New)
+1293,Adobo Taco Grill,93,A,4.5,1549,$,Tacos
+1294,Wingstop,92,A,3.0,83,$$,Chicken Wings
+1295,Donut Farm,91,A,3.5,225,$,Donuts
+1297,Downtown Philly Cheese Steaks,90,A,4.0,198,$$,Cheesesteaks
+1300,Home Run Pizza,85,B,3.5,54,$,Pizza
+1302,Kebab House,98,A,3.5,61,$,Kebab
+1303,Yummy's,92,A,5.0,58,$,Cafes
+1304,Lee's Sandwiches - Corona,90,A,3.0,56,$,Sandwiches
+1307,Rincon Oaxaqueno Restaurant,93,A,3.5,114,$$,Mexican
+1310,The York,91,A,3.5,990,$$,Bars
+1311,Four Cafe,96,A,4.0,730,$$,American (New)
+1313,La Parrilla,90,A,3.0,318,$$,Mexican
+1314,DRAGO Centro,94,A,4.0,1479,$$$,Italian
+1315,Pine & Crane,91,A,4.5,1880,$$,Taiwanese
+1316,Galaxy Hamburgers,92,A,3.5,252,$,Burgers
+1321,El Gringo Redondo,90,A,3.5,140,$$,Mexican
+1323,Urth Caffé-Beverly Hills,90,A,4.0,2282,$$,Coffee & Tea
+1325,Temaki,92,A,4.0,133,$$,Japanese
+1326,O Sushi,93,A,4.5,277,$$,Japanese
+1327,Arte Cafe,92,A,3.5,202,$$,American (New)
+1329,Sprinkles Cupcakes and Ice Cream,95,A,3.0,505,$$,Cupcakes
+1330,Luck Thai Cuisine,96,A,3.5,178,$,Thai
+1332,Dough Girl,90,A,4.0,525,$$,Pizza
+1333,The Big Burger,95,A,4.0,200,$,Burgers
+1334,Cilantro Mexican Grill,92,A,4.5,813,$,Mexican
+1335,Great Wall,91,A,3.0,243,$,Chinese
+1337,Pizza Man,84,B,2.5,45,$,Pizza
+1338,Nogales Burgers,90,A,3.5,160,$,Burgers
+1339,Ledlow,94,A,3.5,363,$$,Desserts
+1340,Ni Hao Sushi & Dining,98,A,2.5,209,$$,Sushi Bars
+1341,Glenoaks Deli and Pizza,93,A,4.5,112,$,Pizza
+1345,Pattern Bar,84,B,4.0,356,$$,Bars
+1346,Maria's Bakery,90,A,4.0,111,$,Bakeries
+1347,Z Garden,92,A,3.5,899,$$,Mediterranean
+1348,Zafran Grill,94,A,4.5,53,$$,Mediterranean
+1349,Marugame Monzo,93,A,4.5,3143,$$,Japanese
+1351,Chio's Peruvian Grill,91,A,4.0,194,$$,Peruvian
+1352,Eagles Tacos,97,A,4.5,86,$,Mexican
+1353,King Red Crawfish & Pho,93,A,4.0,153,$$,Seafood
+1356,Gino's Italian Restaurant,90,A,4.0,226,$$,Italian
+1357,Aristo Cafe,76,C,4.5,572,$$,Middle Eastern
+1358,SUGARFISH by sushi nozawa,98,A,4.0,2206,$$$,Japanese
+1359,Pho Ha Linh,92,A,3.0,75,$,Vietnamese
+1361,Nostal Cafe,93,A,4.5,70,$,Juice Bars & Smoothies
+1362,La Mirada Regional Park,97,A,4.0,53,NA,Parks
+1364,Farmer Boys,90,A,3.0,199,$$,Burgers
+1365,Saigon Dish,90,A,4.5,1532,$,Vietnamese
+1366,Louisiana Famous Fried Chicken,91,A,3.5,43,$,Southern
+1369,Chocolate Cafe ll,96,A,4.0,171,$$,Cafes
+1370,Stuff I Eat,95,A,4.5,1134,$$,Vegan
+1372,Sweet Red Peach,90,A,4.5,476,$,Bakeries
+1375,The Junction Bar - Billiards,96,A,4.5,154,$$,Pool Halls
+1377,Rancho Bar,96,A,4.0,74,$,Dive Bars
+1378,H Salt Esquire Fish & Chips,95,A,2.5,155,$,Seafood
+1379,Graff Gennaro's Ristorante,92,A,3.5,134,$$$,Italian
+1380,Saffron Mediterranean Grill,91,A,4.5,135,$$,Mediterranean
+1381,Ajisen Ramen,93,A,3.5,606,$,Ramen
+1382,Baguette De Paris,90,A,4.5,127,$,Bakeries
+1383,Bull BBQ,83,B,4.0,139,$$,Korean
+1385,Seaside Palace Restaurant,93,A,3.5,267,$$,Middle Eastern
+1386,Lucille's Smokehouse Bar-B-Que,94,A,4.0,795,$$,Barbeque
+1387,Togo’s Sandwiches,97,A,3.0,57,$,Sandwiches
+1388,Pho Stop,90,A,3.5,175,$,Vietnamese
+1389,SanSai Japanese Grill,95,A,3.5,148,$,Japanese
+1390,Back On Broadway,92,A,3.5,87,$$,Breakfast & Brunch
+1391,SUGARFISH by sushi nozawa,97,A,4.0,1007,$$$,Sushi Bars
+1392,Chipotle Mexican Grill,97,A,3.5,287,$,Mexican
+1393,El Gallo Giro,95,A,3.0,159,$,Mexican
+1395,Yummy Hero,80,B,3.5,356,$,Taiwanese
+1396,Underground Pub and Grill,94,A,3.5,252,$$,Sports Bars
+1397,Vic's Tacos,97,A,3.5,161,$,Mexican
+1398,Gelson's Market,96,A,3.5,195,$$$,Grocery
+1399,The Woodman,90,A,4.0,890,$$,Pubs
+1400,Jumbo's Clown Room,90,A,3.5,647,$$,Adult Entertainment
+1401,CAFE IF,95,A,4.5,70,$$,Coffee & Tea
+1404,Lulu's Restaurant,90,A,3.5,352,$$,American (Traditional)
+1405,Lemonade,98,A,3.5,478,$$,American (New)
+1406,Astro Karaoke,91,A,4.0,45,$$,Karaoke
+1407,Yerevan Steak House,96,A,4.5,131,$$,Mediterranean
+1408,HomeState,95,A,4.0,163,$$,Tex-Mex
+1409,Swanya Thai Cuisine,90,A,3.5,321,$$,Thai
+1410,Tokyo Beat,96,A,4.0,201,$$,Karaoke
+1411,RiceBar,90,A,4.0,387,$,Filipino
+1412,Mr K's Pizza,93,A,4.5,162,$,Pizza
+1413,2nd Floor Restaurant Bar & Grill,100,A,4.5,236,$$,Italian
+1414,Ink Sack,92,A,3.0,199,$,Sandwiches
+1415,Ralphs,96,A,3.5,294,$$,Grocery
+1416,Molly's Burger,95,A,4.0,63,$,Burgers
+1417,Chowking,96,A,2.5,75,$,Filipino
+1418,Original Tommy's Hamburgers,98,A,3.5,189,$,Burgers
+1419,The Black Sheep,95,A,4.0,1008,$$,Pubs
+1420,Bobo's Hamburgers,96,A,3.5,46,$,Breakfast & Brunch
+1422,Hae Jang Chon Korean BBQ Restaurant,90,A,4.0,4378,$$,Korean
+1424,Bento Box,95,A,3.0,48,$$,Poke
+1425,Castaneda's Mexican Food,91,A,3.0,110,$,Mexican
+1426,The Habit Burger Grill,92,A,4.0,57,$,Burgers
+1427,Macy's,92,A,2.5,42,$$,Department Stores
+1428,Café de Leche,96,A,4.0,137,$,Coffee & Tea
+1432,Blu Jam Café,96,A,4.0,4570,$$,American (New)
+1433,Atwater Village Tavern,98,A,4.0,389,$$,Mexican
+1434,Fatburger,91,A,2.5,166,$$,American (Traditional)
+1435,MA'S Italian Kitchen,96,A,4.5,273,$$,Italian
+1439,Fresh Pita Organic Express,95,A,4.5,252,$,Mediterranean
+1441,Martini's Pizzeria,94,A,3.5,43,$,Pizza
+1442,Jeju Japanese Restaurant,90,A,3.5,56,$$$,Japanese
+1443,Sakura Japanese Restaurant,90,A,4.0,852,$$,Japanese
+1444,Happy Harbor Restaurant,80,B,3.0,740,$$,Dim Sum
+1445,Nolan & Taft Management,95,A,2.5,63,NA,Property Management
+1447,BBQ Night,92,A,4.0,726,$$,Barbeque
+1449,Rendezvous Cafe,92,A,3.5,178,$,Coffee & Tea
+1450,Elizabeth Bakery,97,A,3.0,136,$,Bakeries
+1451,Chez Tex,90,A,4.0,87,$$,Cafes
+1452,Twist & Grill,96,A,3.5,111,$,American (New)
+1455,Cocina Cilantro,93,A,4.0,183,$,Mexican
+1456,Edwards Alhambra Renaissance 14 & IMAX,97,A,3.5,518,NA,Cinema
+1457,La Terraza Café,99,A,4.5,88,$,Cafes
+1458,The Coffee Bean & Tea Leaf,96,A,3.5,49,$,Coffee & Tea
+1459,Carnitas Michoacanas,97,A,4.0,42,$,Mexican
+1460,Super Tom's Burgers,95,A,3.0,86,$,Fast Food
+1461,Phantom Carriage Brewery,96,A,4.5,483,$$,Breweries
+1462,Pam's Donuts & Ice Cream,97,A,4.5,51,$,Donuts
+1463,Hayat's Kitchen,90,A,4.5,934,$$,Lebanese
+1466,Fuji Sushi & Rolls,90,A,3.5,275,$$,Sushi Bars
+1467,Pupuseria Mi Salvador,90,A,3.0,54,$,Salvadoran
+1468,Pizza Di Roma,95,A,3.5,46,$,Pizza
+1470,Chipotle Mexican Grill,95,A,3.5,198,$,Mexican
+1471,Pho Mely,86,B,3.5,205,$,Vietnamese
+1472,The Los Angeles Banh Mi Company,100,A,5.0,145,$,Vietnamese
+1473,Miceli's,91,A,3.5,787,$$,Italian
+1474,Pamore Pizza,95,A,3.5,94,$,Pizza
+1475,Noemi's Mexican Food,95,A,3.5,68,$$,Mexican
+1476,Daikokuya Little Tokyo,80,B,4.0,7858,$$,Ramen
+1477,Dinah's Family Restaurant,91,A,3.0,1065,$$,Diners
+1478,Killer Shrimp,90,A,3.5,2196,$$,American (New)
+1479,Casa Nostra Ristorante & Bar,85,B,4.0,566,$$,Italian
+1480,Doubting Thomas,92,A,4.5,130,$$,Cafes
+1481,Tokyo Express,90,A,3.5,53,$,Japanese
+1482,Paul's Kitchen,92,A,4.0,283,$$,Chinese
+1483,Uncle Reds Pizzeria,95,A,4.0,326,$$,Pizza
+1484,Rosewoods Family Restaurant,85,B,3.5,110,$$,American (Traditional)
+1485,Estate Restaurant + Bar,95,A,4.0,419,$$$,Asian Fusion
+1486,Tonys Darts Away,94,A,4.5,1181,$$,Pubs
+1487,San Pedro Fish Market and Restaurant,94,A,3.5,1362,$$,Seafood
+1488,Tina's Tavern,94,A,3.5,73,$,Dive Bars
+1489,India's Restaurant,93,A,4.5,1771,$$,Indian
+1490,Seven Grand,96,A,4.0,2046,$$,Lounges
+1491,Thelma's Morning Cafe,91,A,3.5,355,$$,American (New)
+1492,Tacos Los Toritos,95,A,3.5,84,$,Mexican
+1493,Frank's Restaurant,94,A,4.0,265,$,Mexican
+1495,Il Pastaio,98,A,4.0,1241,$$$,Italian
+1496,Churroholic,93,A,4.0,158,$$,Desserts
+1498,LA Crystal Hotel,90,A,2.5,180,$,Hotels
+1499,ABC Seafood,90,A,3.0,308,$,Seafood
+1500,Le Saigon,91,A,3.5,551,$$,Vietnamese
+1503,Downey Pizza Company,94,A,3.5,691,$$,Pizza
+1504,Lebanon Shawarma,95,A,4.0,118,$$,Lebanese
+1505,Sweet Lady Jane Bakery,95,A,3.5,1438,$$,Desserts
+1506,Eagle Rock Brewery Public House,97,A,3.5,285,$$,Brewpubs
+1507,Grimaldi's Pizzeria,90,A,4.0,1027,$$,Pizza
+1508,Nabee-Ya,90,A,3.0,51,$$,Sushi Bars
+1509,Xi An Tasty,92,A,4.0,82,$$,Chinese
+1510,La Pergoletta,94,A,4.5,630,$$,Italian
+1511,Douglas Burgers,98,A,3.5,49,$,Burgers
+1512,Tip Top Hamburgers,98,A,3.5,134,$,Burgers
+1514,Valencia Car Wash,98,A,1.5,283,NA,Car Wash
+1515,Krispy Kreme,95,A,3.5,149,$,Donuts
+1517,Sol Maya,94,A,4.0,451,$,Salvadoran
+1518,Wurstküche,96,A,4.0,7913,$$,Hot Dogs
+1519,El Burrito Jr,92,A,3.5,184,$,Mexican
+1523,Tak's Coffee Shop,95,A,4.5,116,$,American (Traditional)
+1524,Super Donut House,94,A,4.5,49,$,Donuts
+1525,Mulcaheys,93,A,3.0,68,$$,Dive Bars
+1526,Golden Bird,83,B,4.0,52,$,American (Traditional)
+1527,Gardens of Taxco,92,A,4.5,58,$$,Mexican
+1529,Leo & Lily,96,A,4.0,1532,$$,Cafes
+1530,Flavor of India,98,A,4.5,398,$$,Indian
+1531,Panda Inn,93,A,4.0,723,$$,Chinese
+1532,Monkey Bar,100,A,4.0,397,$$,Cocktail Bars
+1533,Ding's Garden,90,A,4.0,157,$$,Chinese
+1534,Sweetsalt,94,A,4.0,863,$$,Sandwiches
+1535,Gushi,97,A,4.0,1010,$,Korean
+1537,Whole Foods Market,98,A,3.5,97,$$,Grocery
+1538,Sul & Beans,94,A,4.0,1174,$$,Desserts
+1540,Montrésor,92,A,4.5,96,$$$,French
+1541,Churro Stix,99,A,4.5,114,$,Desserts
+1543,Prime Cut Beef Jerky,99,A,5.0,46,$$,Meat Shops
+1544,VN Cuisine,90,A,3.5,290,$,Vietnamese
+1545,Bay Cities Italian Deli,92,A,4.0,4333,$,Delis
+1546,The Baked Bear,97,A,4.0,162,$,Bakeries
+1547,Thai Food Pick-Up,91,A,4.0,58,$,Thai
+1548,Peppertree Cafe,90,A,4.0,287,$,Venues & Event Spaces
+1549,O'Flaherty's Tap House,96,A,4.0,131,$$,Pubs
+1550,D's Dubai Sauce,90,A,4.5,183,$$,Mediterranean
+1551,El Sazon Oaxaqueno,96,A,3.5,93,$,Mexican
+1552,Miari Noodle House,92,A,4.0,109,$,Korean
+1554,Cinépolis,95,A,3.5,286,NA,Cinema
+1555,Salt & Straw,93,A,4.5,1101,$$,Ice Cream & Frozen Yogurt
+1556,Casa Alvarez,90,A,3.5,262,$$,Mexican
+1557,Off The Hook Fish Grill,97,A,4.5,928,$$,Seafood
+1558,Panda Express,96,A,2.5,87,$,Chinese
+1559,Spring Street Bar,91,A,4.0,548,$$,Beer Bar
+1560,Dos Amigos Gardunos Mexican Restaraunt,84,B,3.5,63,$,Mexican
+1561,Denny's,96,A,2.5,204,$$,American (Traditional)
+1562,California Steak & Fries,94,A,2.5,87,$,Sandwiches
+1564,CSUDH Passport Hub Center,94,A,5.0,83,NA,Passport & Visa Services
+1565,Birrieria Jalisco,97,A,4.0,164,$$,Mexican
+1566,My Ramen Bar,90,A,4.0,687,$$,Ramen
+1567,Otus Thai Kitchen & Coffee,93,A,4.5,402,$$,Thai
+1568,Sunshine's Chinese & Korean BBQ,96,A,5.0,84,$$,Chinese
+1569,88 Chinese & Sushi,94,A,3.5,277,$$,Chinese
+1570,Maggie's Pastry,97,A,3.5,170,$$,Bakeries
+1571,Cognoscenti Coffee,90,A,4.0,228,$$,Coffee & Tea
+1572,Sam's Burgers,97,A,3.5,62,$,Burgers
+1573,Blaze Fast-Fire'd Pizza,93,A,3.0,50,$$,Salad
+1574,Chop Shop Butcher & Kitchen,92,A,4.5,345,$$,Butcher
+1575,The Tenderloin,94,A,3.0,139,$$,Steakhouses
+1576,Greystoke Grill,94,A,4.0,74,$$,American (Traditional)
+1577,Catalina Cantina,87,B,2.5,311,$$,Sports Bars
+1578,Branch Office,90,A,4.0,44,$,Dive Bars
+1581,Leo's Mexican Food,94,A,3.5,285,$$,Mexican
+1582,Pascal Patisserie and Cafe,96,A,4.5,180,$$,Desserts
+1583,24 Hour Fitness - La Mirada,95,A,3.0,268,NA,Gyms
+1584,Warner Bros. Studio Tour Hollywood,98,A,4.0,952,NA,Amusement Parks
+1585,Desserts By Patrick,98,A,5.0,141,$,Desserts
+1589,Rock'n Juice - San Pedro,93,A,4.5,71,$$,Juice Bars & Smoothies
+1590,A & W Barbecue Seafood Restaurant,93,A,3.0,251,$$,Barbeque
+1591,Maki & Sushi Japanese,95,A,4.0,779,$$,Sushi Bars
+1593,Paco's Tacos,94,A,4.0,1030,$$,Mexican
+1594,POKEIO,97,A,3.5,52,$$,Poke
+1595,Craft Hill West Covina,91,A,4.5,690,$$,American (New)
+1596,Bobalicious,92,A,4.0,110,$,Tea Rooms
+1597,Farsi Cafe,90,A,4.0,414,$$,Persian/Iranian
+1598,Nha Trang,97,A,4.0,318,$,Vietnamese
+1601,Cakery Bakery,95,A,4.0,149,$$,Bakeries
+1602,Menchie's Frozen Yogurt,93,A,4.0,54,$,Ice Cream & Frozen Yogurt
+1605,Golden City Chinese Cuisine,93,A,4.0,212,$,Chinese
+1606,Mom's House,83,B,3.5,101,$,Korean
+1607,Hard Times Billiards,92,A,4.0,53,$,Pool Halls
+1608,SIR Pizza'n'chicken,91,A,4.0,193,$,Pizza
+1609,Mia Sushi,93,A,4.0,576,$$,Sushi Bars
+1610,Imperial Bakery,96,A,4.0,44,$,Bakeries
+1611,Saigon Flavor,96,A,4.0,435,$,Vietnamese
+1612,Farmer Boys,90,A,2.0,124,$,Burgers
+1614,Firefly,96,A,4.0,1874,$$$,American (New)
+1615,Thai Silk Express,92,A,4.0,129,$,Thai
+1617,Angie's Deli,94,A,4.5,189,$,Mexican
+1618,Sapori Ristorante,95,A,3.5,270,$$,Italian
+1621,Bamboo Thai Bistro,91,A,4.0,925,$$,Thai
+1622,Marina Cafe,90,A,4.5,90,$$,Cafes
+1623,il Tramezzino,97,A,4.0,89,$,Cafes
+1625,Big Tomy's,90,A,4.0,50,$,Burgers
+1626,The Original Yaki's Teriyaki Bowl,92,A,3.5,133,$,Burgers
+1628,Las Palmas Mexican Food,96,A,4.5,139,$,Mexican
+1629,American Deli,95,A,4.5,81,$,Chicken Wings
+1630,La Sabrosa Restaurant,90,A,4.0,64,$,Salvadoran
+1632,Carl's Jr.,97,A,1.5,48,$,Burgers
+1633,Greco's Pizza & Pasta,94,A,4.5,122,$$,Pizza
+1634,El Huarache Azteca,90,A,4.0,801,$,Mexican
+1635,Kop Jai Lai Restaurant,95,A,4.5,76,$$,Laotian
+1636,Ravello Bar & Grill,94,A,4.0,196,$$,Italian
+1637,A Simple Bar,95,A,5.0,233,$$,Bars
+1638,Vespertine,94,A,4.5,127,$$$$,American (New)
+1639,Los Angeles International Airport - LAX,97,A,2.5,5751,NA,Airports
+1640,MOD Pizza,95,A,4.5,295,$,Pizza
+1641,Mei Long Village,94,A,3.5,273,$$,Chinese
+1642,HaSunSaeng - MasterHA,96,A,4.5,243,$$,Korean
+1643,State Social House,90,A,3.5,323,$$,American (Traditional)
+1644,Kreation Organic Juicery,96,A,4.5,162,$$,Juice Bars & Smoothies
+1645,Yamakase,95,A,4.5,224,$$$$,Japanese
+1647,La Barca Grill and Cantina,93,A,2.5,471,$$,Mexican
+1648,Pick a Poke,91,A,4.5,222,$,Poke
+1649,Faith & Flower,84,B,4.0,2158,$$$,American (New)
+1651,Skinny's Lounge,91,A,3.5,326,$$,Lounges
+1652,Clearman's North Woods Inn,96,A,3.5,660,$$$,Steakhouses
+1657,Sako's Sandwich Shop,92,A,4.0,105,$,Sandwiches
+1658,626 Night Market,96,A,3.5,1615,$,Street Vendors
+1661,Villanueva Mexican Grill,97,A,4.5,220,$,Mexican
+1662,Mendocino Farms,93,A,4.5,758,$$,Sandwiches
+1666,Red Ginger Thai & Sushi,96,A,4.0,233,$$,Sushi Bars
+1667,Rene Cafe,90,A,3.5,71,$$,Chinese
+1668,Bottega Louie,95,A,4.0,15795,$$,Italian
+1670,Rae's Restaurant,90,A,4.0,539,$,Diners
+1672,Pacific Theatres,96,A,3.0,592,NA,Cinema
+1673,El Vaquero Restaurant,97,A,4.0,61,$,Mexican
+1675,Jollibee,86,B,2.5,271,$,Filipino
+1676,Hotel Bel-Air,96,A,4.5,212,$$$$,Hotels
+1680,Tallula's,96,A,4.0,335,$$$,Mexican
+1681,Chelly's Cafe,98,A,4.0,415,$,Cafes
+1683,The Hollywood Way BBQ,96,A,3.5,511,$$,Barbeque
+1684,The Chairman,93,A,4.0,233,$$,Asian Fusion
+1686,Mike & Nate's House of Seafood,90,A,3.5,536,$$,Cajun/Creole
+1687,Tere's Mexican Grill,90,A,4.5,174,$$,Mexican
+1688,Raspado Xpress,95,A,3.5,125,$,Shaved Ice
+1689,Flame Pizzeria,93,A,4.5,449,$$,Pizza
+1691,Lucille's Smokehouse Bar-B-Que,96,A,3.5,857,$$,Barbeque
+1693,El Marinero Family Restaurant,97,A,3.0,64,$$,Mexican
+1695,La Colombe,92,A,4.0,92,$$,Coffee Roasteries
+1696,Lark Cake Shop,94,A,4.0,782,$$,Desserts
+1698,Palos Verdes Golf Club,90,A,4.0,47,NA,Golf
+1699,Venice Whaler,93,A,3.5,598,$$,American (Traditional)
+1700,La Michoacana Ricas Nieves,94,A,4.5,161,$,Ice Cream & Frozen Yogurt
+1701,Chonitos Mexican Restaurant,98,A,3.5,271,$$,Mexican
+1703,La Poblana Restaurant,95,A,3.5,150,$$,Mexican
+1704,La Pradera Carniceria,92,A,4.5,44,$$,Meat Shops
+1705,Maru Coffee,94,A,4.5,47,$,Coffee & Tea
+1706,Subway,96,A,2.5,44,$,Sandwiches
+1707,Zamora Brothers,80,B,4.0,64,$,Meat Shops
+1708,Fatburger,94,A,2.5,156,$,Burgers
+1709,BCD Tofu House,95,A,4.0,3457,$$,Korean
+1710,Duke's Malibu,90,A,3.5,2291,$$,American (New)
+1712,Tasty Food,85,B,4.5,305,$,Food Stands
+1713,Perch,98,A,4.0,6372,$$$,Lounges
+1715,The Grill House,90,A,4.0,412,$$,Mediterranean
+1716,Sage Vegan Bistro - Echo Park,91,A,4.0,1921,$$,Vegan
+1717,Pieology Pizzeria,95,A,3.5,93,$,Pizza
+1718,Sprouts Farmers Market,95,A,3.5,139,$$,Farmers Market
+1719,Blaze Fast-Fire'd Pizza,90,A,4.5,268,$,Salad
+1720,El Hatuchay,93,A,3.5,162,$$,Peruvian
+1721,Beverly Hills Thai Kosher,90,A,4.0,144,$$,Kosher
+1722,Subs Cafe,95,A,4.0,56,$,Cafes
+1726,Catherine's Cake Decorating & Candy Supplies,97,A,4.0,58,$$,Candy Stores
+1727,Charlie's Trio,95,A,4.0,351,$$,Sports Bars
+1728,Dog Haus,97,A,4.0,278,$,Burgers
+1729,Soowon Galbi KBBQ Restaurant,93,A,4.5,2375,$$,Korean
+1730,Rutt's Hawaiian Cafe,96,A,4.0,1543,$,Hawaiian
+1731,Village French Bakery,95,A,4.5,163,$,Bakeries
+1732,B-Man's Teriyaki & Burgers,94,A,4.0,749,$,Burgers
+1733,Sprinkles Ice Cream,98,A,3.5,636,$$,Ice Cream & Frozen Yogurt
+1736,Tofu Ya,90,A,3.5,1045,$$,Korean
+1737,Library Bar,96,A,4.0,472,$$$,Lounges
+1739,Laemmle Noho 7,98,A,4.0,310,NA,Cinema
+1741,King Of New York Pizzeria Pub,84,B,4.0,484,$,Chicken Wings
+1742,The Venice Beach Bar,92,A,4.0,60,$$,Dive Bars
+1743,Zinqué,93,A,4.0,621,$$,French
+1744,Ramen Shack Takumiya-Gardena,94,A,4.0,240,$$,Ramen
+1745,Kismet,95,A,4.0,350,$$,Mediterranean
+1746,Glendale Tap,80,B,4.5,339,$,Beer Bar
+1747,Dinah's Family Restaurant,92,A,3.0,1065,$$,Diners
+1748,Tiffany's Coffee,93,A,4.0,212,$,Coffee & Tea
+1749,Bobamia,71,C,4.5,43,$,Taiwanese
+1751,Nordstrom The Grove,94,A,3.5,398,$$$,Department Stores
+1753,Valentino,92,A,3.5,445,$$$,Italian
+1755,The Coffee Bean & Tea Leaf,91,A,2.5,123,$,Coffee & Tea
+1756,Fred 62,97,A,3.5,2159,$$,Diners
+1758,Plancha Tacos,91,A,4.0,653,$,Mexican
+1759,El Tacazo,95,A,3.5,45,$,Mexican
+1760,Mongolian Hot Grill,93,A,3.5,101,$,Mongolian
+1762,The Palms Restaurant,92,A,3.5,68,$$,Latin American
+1763,Godiva Chocolatier,91,A,3.5,54,$$$,Candy Stores
+1764,Fiesta Grill,91,A,4.0,185,$$,Persian/Iranian
+1766,Paul Martin's American Grill,91,A,3.5,1021,$$,American (New)
+1767,Wolfgang's Steakhouse,95,A,3.5,471,$$$$,Steakhouses
+1768,SanSai Japanese Grill,97,A,3.5,133,$,Japanese
+1769,Kushi Shabu,91,A,4.0,472,$$,Japanese
+1770,Los Poblanos Taqueria Y Birrieria,93,A,4.0,66,$,Mexican
+1771,Vince's Pasta & Pizza,95,A,3.5,143,$$,Pizza
+1774,Malibu Yogurt & Ice Cream,98,A,3.5,158,$,Ice Cream & Frozen Yogurt
+1776,Aloha Hawaiian Grill,96,A,4.0,53,$,Hawaiian
+1777,Hop Woo BBQ & Seafood Restaurant - LA,84,B,2.5,449,$$,Chinese
+1778,6th & La Brea Brewery & Restaurant,95,A,4.0,183,$$,Breweries
+1779,Bob's Hamburgers,93,A,3.5,43,$,Burgers
+1780,Tacos El Gavilan,97,A,3.5,262,$,Mexican
+1781,The Darkroom,98,A,3.5,296,$$,American (New)
+1786,Le Petit Paris,96,A,4.0,974,$$$,French
+1787,The Stardust Club,99,A,3.0,49,$,Bars
+1788,Palmilla Cocina Y Tequila,94,A,4.5,1116,$$,Mexican
+1792,MTA - Metro Red Line,95,A,3.5,211,NA,Public Transportation
+1793,Floor & Decor,100,A,4.5,129,$$,Kitchen & Bath
+1794,Flames X Press,91,A,3.0,109,$,Fast Food
+1796,El Camino Mexican Grill,96,A,4.0,154,$,Mexican
+1798,Peet's Coffee & Tea,97,A,3.5,66,$,Coffee & Tea
+1799,Universal Bar & Grill,94,A,3.0,94,$,Sports Bars
+1800,Gwen Butcher Shop,90,A,4.0,431,$$$$,Butcher
+1801,Fiesta Cantina,90,A,3.5,709,$$,Mexican
+1802,Casa Adelita,92,A,2.5,109,$$,Mexican
+1804,重庆特色小面 Chongqing Special Noodles,90,A,4.0,147,$,Noodles
+1805,Kim Tar BBQ Restaurant,95,A,3.5,156,$,Chinese
+1806,TipTop Restoration,97,A,4.5,53,NA,Damage Restoration
+1807,Acai Nation,90,A,3.5,186,$,Desserts
+1809,Third Street Wine Shop,100,A,5.0,65,$$,"Beer, Wine & Spirits"
+1810,Toppers Pizza Place,99,A,4.0,619,$$,Pizza
+1811,Bank of Venice,91,A,4.0,283,$$,American (New)
+1812,Las Brisas,96,A,4.0,154,$,Mexican
+1813,Burritos Santana,91,A,3.0,162,$,Mexican
+1815,Nekter Juice Bar,95,A,4.0,385,$$,Juice Bars & Smoothies
+1816,Brooklyn Bar,93,A,4.0,117,$,Sports Bars
+1817,Nekter Juice Bar,94,A,3.5,65,$$,Juice Bars & Smoothies
+1818,The Thyme Pizzeria,100,A,4.5,201,$$,Pizza
+1819,Madcapra,97,A,4.0,219,$$,Falafel
+1820,Swirl Soft Serve,97,A,4.0,109,$,Ice Cream & Frozen Yogurt
+1823,Venice Room,90,A,4.0,352,$$,Bars
+1824,Earl of Sandwich,97,A,3.5,44,$$,Sandwiches
+1825,Yellow Fever,95,A,4.0,815,$$,Asian Fusion
+1826,El Chile Taqueria,91,A,3.0,92,$,Mexican
+1827,Corky's and The Cork Lounge,93,A,3.5,312,$$,American (Traditional)
+1828,Diana's Las Playas Restaurant,94,A,3.5,86,$$,Mexican
+1829,Blaze Fast-Fire'd Pizza,92,A,3.5,631,$,Salad
+1830,Zankou Chicken,97,A,4.0,364,$$,Mediterranean
+1831,Birrieria Mexico,94,A,4.0,66,$,Mexican
+1832,Trendy Thai,92,A,4.0,72,$,Thai
+1833,Quality Seafood,91,A,4.0,1187,$$,Seafood Markets
+1835,The Flame Broiler,92,A,2.0,54,$,Fast Food
+1836,Puerto Nuevo Coffee & Tacos,98,A,4.0,69,$,American (Traditional)
+1837,Poppy + Rose,93,A,4.0,1846,$$,Breakfast & Brunch
+1838,It's Boba Time,92,A,3.5,331,$,Juice Bars & Smoothies
+1839,Popeyes Louisiana Kitchen,93,A,3.0,81,$,Fast Food
+1843,Honeyboba,84,B,3.0,665,$,Coffee & Tea
+1845,PizzaRev,96,A,4.0,696,$,Pizza
+1846,Barone's Pizzeria,97,A,4.0,260,$$,Pizza
+1849,Skybar At Mondrian,98,A,3.5,679,$$$,Lounges
+1850,Ami Japanese Restaurant,90,A,3.5,1235,$$,Japanese
+1851,Enjoyer,84,B,4.5,167,$,Ice Cream & Frozen Yogurt
+1852,Pete's Complete Auto Repair,95,A,5.0,72,NA,Auto Repair
+1853,Residence Inn by Marriott Los Angeles L.A. LIVE,94,A,4.0,108,$$$,Hotels
+1854,Tai-Kadai Kitchen,96,A,4.0,436,$$,Chinese
+1855,Bottega Louie,90,A,4.0,15795,$$,Italian
+1856,The Echo,94,A,3.5,428,$$,Music Venues
+1857,Good Wok,90,A,3.5,42,$,Chinese
+1858,Kupcake Kitchen,97,A,4.0,133,$,Desserts
+1860,The Artist Pizzeria,91,A,4.0,534,$,Pizza
+1863,Delicias de Mexico,96,A,4.0,58,$,Ice Cream & Frozen Yogurt
+1864,Fresh Brothers,95,A,4.0,326,$$,Pizza
+1865,Wetzel's Pretzels,99,A,3.0,44,$,Pretzels
+1866,Tara's Himalayan Cuisine,90,A,4.0,1035,$$,Himalayan/Nepalese
+1867,Ruth's Chris Steak House,95,A,4.0,541,$$$,Steakhouses
+1868,Chili's,97,A,3.0,360,$$,American (Traditional)
+1869,Upper West,91,A,4.0,1737,$$,American (New)
+1870,Noodle Monster,95,A,4.0,511,$$,Thai
+1872,Hong Kong Kitchen,92,A,4.0,259,$,Chinese
+1873,Nadia Cakes,96,A,4.0,354,$$,Bakeries
+1874,Taqueria Carnitas Sahuayo,98,A,4.0,107,$,Mexican
+1875,Uncle Tony's Pizzeria,96,A,4.0,1106,$$,Italian
+1876,Guido's Pizza & Pasta,97,A,4.0,59,$,Pizza
+1878,TacoNaco,99,A,3.5,44,$,Mexican
+1879,El Torito,96,A,3.5,743,$$,Mexican
+1880,Blu Jam Café,95,A,4.0,4570,$$,American (New)
+1881,Western Bagel Too,95,A,4.0,245,$,Bakeries
+1882,Bistro Ka Japanese Restaurant,96,A,3.5,608,$$,Japanese
+1883,Rosalind's Ethiopian Restaurant,95,A,4.0,513,$$,Ethiopian
+1884,La Colombe,99,A,4.0,92,$$,Coffee Roasteries
+1885,I Heart Boba,97,A,4.0,282,$,Taiwanese
+1886,The Carving Board,97,A,4.5,956,$$,Cafes
+1887,Hmart,95,A,3.5,63,$$,Grocery
+1888,Wingstop,98,A,3.5,52,$$,Chicken Wings
+1890,La Goccia Espresso Bar,95,A,4.5,121,$,Coffee & Tea
+1893,Pepe's Finest Mexican Food,97,A,3.0,230,$,Mexican
+1894,Sandra's Tamales,96,A,4.0,164,$,Mexican
+1895,Eggslut,93,A,4.0,5260,$,Breakfast & Brunch
+1896,Piccola Trattoria,97,A,4.5,594,$$,Italian
+1898,Donut Den,94,A,4.0,135,$,Donuts
+1899,Costa Grande,94,A,4.5,775,$,Mexican
+1900,DK's Donuts & Bakery,90,A,4.0,1935,$,Donuts
+1901,Bob's Freeze,92,A,4.5,50,$,Ice Cream & Frozen Yogurt
+1902,SunLife Organics,97,A,3.5,87,$$,Juice Bars & Smoothies
+1903,Xen Lounge,90,A,3.0,327,$$,Lounges
+1904,85°C Bakery Cafe,92,A,3.5,1522,$,Bakeries
+1905,The Buffalo Spot,95,A,3.0,129,$,Chicken Wings
+1906,Seasalt Fish Grill,93,A,4.0,1172,$$,Seafood
+1907,Gusto,92,A,4.0,485,$$$,Italian
+1908,Wahlburgers,92,A,3.5,294,$$,Burgers
+1911,Grace Cafe,90,A,4.5,82,$,Sandwiches
+1912,Presidente,90,A,2.5,167,$$,Mexican
+1913,Chibiscus Asian Cafe,94,A,4.5,1015,$$,Asian Fusion
+1914,CarMax,93,A,3.0,387,NA,Used Car Dealers
+1917,Osteria Bigoli,92,A,4.5,74,$$$,Italian
+1920,North Shore Burgers,95,A,3.5,310,$,Burgers
+1922,Power Pro Plumbing Heating & Air,98,A,3.5,61,NA,Plumbing
+1923,Mariscos Rosarito,93,A,4.5,106,$,Mexican
+1924,Green Tea House,82,B,3.5,275,$,Chinese
+1925,Hilton Garden Inn Valencia Six Flags,98,A,3.5,163,$$,Hotels
+1926,Badmaash - Downtown LA,91,A,4.0,1537,$$,Indian
+1927,sweetgreen,95,A,3.5,55,$$,Vegetarian
+1928,S & W Country Diner,96,A,3.5,729,$,Breakfast & Brunch
+1930,Zui Xiang Yuan,91,A,4.0,189,$,Szechuan
+1931,Anime Jungle/Entertainment Hobby Shop Jungle,98,A,4.0,264,$$,Toy Stores
+1932,Aliacci Pizza & Pasta,91,A,4.0,234,$$,Pizza
+1933,The Pho Shop,90,A,2.5,176,$,Vietnamese
+1934,Tacomiendo,92,A,4.5,52,$,Mexican
+1935,The Lobster,94,A,4.0,2061,$$$,Bars
+1936,Souplantation,97,A,3.5,455,$$,Vegetarian
+1937,McDonald's,95,A,1.5,51,$,Burgers
+1938,Chart House,90,A,3.0,399,$$$,Seafood
+1940,Octopus Japanese Restaurant,94,A,3.5,1384,$$,Japanese
+1942,Spin Lounge,93,A,3.5,166,$$,Lounges
+1943,Magal BBQ,95,A,4.5,1411,$$,Korean
+1944,Romano's Macaroni Grill,93,A,3.0,478,$$,Italian
+1945,Antigua Bread,93,A,4.0,269,$,Bakeries
+1946,DeSano Pizza Bakery,96,A,4.5,977,$$,Pizza
+1947,Britannia Pub,93,A,3.5,304,$$,Pubs
+1948,Dunkin' Donuts,91,A,3.0,416,$,Donuts
+1949,Tequilas Cantina & Grill,95,A,3.5,414,$$,Mexican
+1950,Ella's Jüs,91,A,4.5,113,$,Juice Bars & Smoothies
+1951,Elysee Bakery & Cafe,91,A,3.0,544,$$,Bakeries
+1952,Teriyakiya,92,A,4.5,233,$,Japanese
+1953,El Ruizeñor Grill,97,A,4.0,192,$,Mexican
+1954,La Casita Mexicana,94,A,4.0,953,$$,Mexican
+1955,Elbows Mac N' Cheese,97,A,3.5,90,$$,American (Traditional)
+1956,Dunkin' Donuts,95,A,3.0,242,$,Donuts
+1957,Guisados,91,A,4.5,688,$,Mexican
+1958,Green Crush,94,A,4.0,61,$,Juice Bars & Smoothies
+1961,Honey's Kettle Fried Chicken,94,A,3.5,2616,$$,Southern
+1964,Pagliacci's Trattoria Taverna,93,A,4.0,289,$$,Italian
+1965,Pacific Dining Car,92,A,3.5,1119,$$$$,Steakhouses
+1967,Louis Burgers,97,A,4.0,110,$,Burgers
+1969,Babytuna Sushi,90,A,3.0,232,$$,Japanese
+1970,Pho Kim,92,A,4.0,179,$,Vietnamese
+1971,Shin Beijing,91,A,3.5,237,$$,Chinese
+1972,Four Seasons Hotel Los Angeles at Beverly Hills,93,A,4.5,343,$$$$,Hotels
+1974,Boom Boom Chicken,96,A,4.5,358,$,Korean
+1975,Factory Tea Bar,91,A,4.0,1643,$,Tea Rooms
+1976,Tutti Mangia Italian Grill,93,A,4.0,381,$$$,Italian
+1979,The Getty Center,99,A,4.5,2947,NA,Art Museums
+1982,Metro Ale House & Grill,91,A,4.0,323,$$,American (New)
+1983,Moderns Cafe,94,A,4.5,46,$,Juice Bars & Smoothies
+1984,Sattdown Jamaican Grill,91,A,4.5,596,$$,Caribbean
+1986,Beijing Restaurant,81,B,3.5,137,$$,Chinese
+1987,Magee's Donuts,90,A,4.0,45,$,Donuts
+1989,El Pollo Loco,96,A,4.0,49,$,Fast Food
+1990,So Sushi,92,A,4.5,780,$$,Sushi Bars
+1991,Thai Curry,94,A,4.5,145,$,Thai
+1992,Planet Pansit,96,A,4.0,97,$,Filipino
+1993,The PCS Connection,95,A,5.0,485,$$,Mobile Phones
+1994,RockSugar Southeast Asian Kitchen,95,A,4.0,2174,$$,Indonesian
+1995,Mercado Taqueria,95,A,4.5,146,$$,Cocktail Bars
+1997,Street Churros,96,A,4.0,233,$,Desserts
+1999,New Starboard Attitude,81,B,3.5,60,$$,Dive Bars
+2000,WaBa Grill,92,A,3.0,83,$,Fast Food
+2001,Wokcano Asian Restaurant & Bar,90,A,4.0,367,$$,Chinese
+2002,Futaba Japanese Restaurant,94,A,4.0,535,$$,Ramen
+2004,33 Taps Silver Lake,94,A,4.5,271,$$,Sports Bars
+2006,Tom's Burgers,92,A,4.5,46,$,Burgers
+2007,Paleteria Limon,90,A,4.5,71,$,Ice Cream & Frozen Yogurt
+2009,Honey Baked Ham Company,97,A,4.0,499,$$,Meat Shops
+2010,Sushi Fire,95,A,4.0,174,$$,Japanese
+2011,The Coffee Bean & Tea Leaf,92,A,3.0,102,$,Coffee & Tea
+2012,Mary's Little House of Coffee,98,A,4.0,55,$,Coffee & Tea
+2013,Chef's Coffee Shop,90,A,4.0,111,$,Breakfast & Brunch
+2014,Farmer Boys,92,A,3.0,247,$,Burgers
+2015,Star Alliance Lounge,92,A,4.0,121,$,Airport Lounges
+2016,The Pan,90,A,4.0,2450,$$,Pizza
+2018,Glazed Donut Bar,98,A,4.5,201,$$,Donuts
+2019,Chao Krung Thai,90,A,3.5,276,$$,Thai
+2020,Cliff's Texas Style Burritos,95,A,3.5,86,$,Mexican
+2021,Chelo Creamery,97,A,4.0,1254,$,Ice Cream & Frozen Yogurt
+2022,Rabano,93,A,4.5,503,$$,Vegan
+2023,California Pita,93,A,3.0,63,$,Mediterranean
+2024,Pacific Theatres Lakewood Center,96,A,2.5,172,NA,Cinema
+2025,Jackson Market,92,A,4.0,733,$$,Grocery
+2026,Tom's Jr,85,B,3.0,106,$,Burgers
+2028,Saffron Mediterranean Grill,95,A,4.5,135,$$,Mediterranean
+2030,Cilantro Fresh Mexican Grill,91,A,3.0,102,$,Mexican
+2031,Louisiana Fried Chicken,90,A,4.0,86,$,Cajun/Creole
+2032,Toto's Lechon Manok,91,A,3.5,101,$,Filipino
+2033,Llamarada,96,A,4.5,88,$,Mexican
+2034,Ricos Tacos El Tio,96,A,4.0,290,$,Mexican
+2035,Block Party,96,A,4.5,319,$$,Bars
+2036,Abarca's Taco Pub,100,A,3.5,94,$,Mexican
+2037,Hae Jang Chon Korean BBQ Restaurant,90,A,4.0,4378,$$,Korean
+2038,Yogurtland,97,A,4.5,505,$,Ice Cream & Frozen Yogurt
+2039,The Burger Palace,90,A,4.5,44,$,Burgers
+2041,Reilly's Pub - Terminal 1 at LAX Airport,96,A,2.5,63,$$,Irish Pub
+2042,Mitsuru Cafe,96,A,4.0,771,$,Japanese
+2044,Dink's Deli & Bagels,90,A,2.5,170,$,Delis
+2046,Waterworks Aquatics Pasadena,97,A,4.5,354,NA,Swimming Lessons/Schools
+2047,Java Cafe Taiwanese,83,B,3.5,85,$,Chinese
+2050,Whole Foods Market,95,A,3.0,250,$$$,Grocery
+2051,The Flats,90,A,4.0,156,$$,Pizza
+2052,Natraliart Jamaican Restaurant & Market,90,A,4.0,135,$$,Grocery
+2053,Wendy's,98,A,4.0,54,$,Fast Food
+2055,Michael's,93,A,3.5,420,$$$,American (New)
+2056,Noodle World Jr,93,A,3.0,344,$,Noodles
+2057,California Chicken Cafe,95,A,3.5,607,$$,American (New)
+2058,Tiato,98,A,3.5,331,$$,Asian Fusion
+2059,Robinas Indian Cuisine,93,A,3.5,248,$$,Indian
+2060,Royal Room,93,A,3.5,43,$,Karaoke
+2061,Dulan's Soul Food Kitchen,93,A,4.0,741,$$,Soul Food
+2063,Soom Soom Fresh Mediterranean,90,A,4.0,111,$$,Falafel
+2064,Tacos Baja,93,A,4.5,670,$,Seafood
+2065,Donut King 2,84,B,3.5,66,$,Donuts
+2066,Baja Mar Taco,80,B,4.5,120,$,Mexican
+2067,Burbank Bar & Grille,98,A,3.0,524,$$,Sports Bars
+2068,Love Letter Pizza & Chicken,83,B,3.5,643,$$,Pizza
+2069,Meat Bowl,92,A,5.0,114,$,Chinese
+2070,Stinkin Crawfish - North Hills,96,A,4.5,223,$$,Cajun/Creole
+2072,Ford's Filling Station,90,A,3.5,235,$$,American (New)
+2073,Lulu's Cafe,95,A,4.5,127,$$,Breakfast & Brunch
+2074,Basil Cafe,91,A,3.5,47,$,Cafes
+2075,North End Pizzeria,97,A,3.5,221,$$,Italian
+2076,Whole Foods Market,97,A,3.0,260,$$$,Grocery
+2077,Snap-E Tacos,90,A,3.0,117,$,Mexican
+2078,Mo-Mo-Paradise,92,A,4.5,485,$$,Japanese
+2080,重庆小面 Best Noodle House,96,A,4.0,112,$,Noodles
+2083,Tender Greens,100,A,4.0,285,$$,Salad
+2084,Richmond Bar & Grill,90,A,4.0,151,$$,Bars
+2085,Continental Kitchen BH,93,A,4.0,65,$$,American (New)
+2087,Sand Canyon Country Club,96,A,3.5,189,NA,Golf
+2088,Javatinis Espresso,96,A,4.0,285,$,Coffee & Tea
+2089,Long Beach City College,98,A,3.0,94,NA,Colleges & Universities
+2090,Belly's West,93,A,3.5,49,$,Dive Bars
+2091,Pink's Hot Dogs,93,A,3.5,6826,$,Hot Dogs
+2092,KC's Crepes Cafe,95,A,4.0,722,$,Coffee & Tea
+2093,Don Sal Cocina & Cantina,91,A,4.0,135,$$,Mexican
+2095,Red Salmon,91,A,4.0,363,$$,Japanese
+2096,Marino's Italian Restaurant,96,A,4.0,230,$$,Italian
+2097,Rustic Kitchen Market & Cafe,98,A,4.0,306,$$,Cafes
+2098,Newport Seafood Restaurant,91,A,4.0,2585,$$,Chinese
+2099,Gene's Grinders,94,A,3.5,71,$,Fast Food
+2101,Daikokuya Little Tokyo,93,A,4.0,7858,$$,Ramen
+2103,House of Billiards,96,A,3.5,228,$$,Pool Halls
+2104,Mamma's Juicery,92,A,4.5,75,$,Juice Bars & Smoothies
+2106,Delicious Southern Cuisine,80,B,3.5,146,$$,Cajun/Creole
+2107,Omanas,90,A,4.5,93,$,Mexican
+2108,Cerritos Center for the Performing Arts,98,A,4.5,116,NA,Performing Arts
+2109,Hy Mart Sandwiches,92,A,4.5,825,$,Sandwiches
+2110,MidiCi The Neapolitan Pizza Company,93,A,4.0,74,NA,Pizza
+2111,Sushi Sazanami,96,A,4.5,121,$$,Japanese
+2112,Tacos DF,91,A,4.0,145,$,Mexican
+2113,Marmalade Cafe - Santa Monica,97,A,4.0,315,$$,Breakfast & Brunch
+2114,La Brea Ramen Bar,91,A,4.0,359,$$,Ramen
+2115,Checkers Downtown,98,A,3.5,129,$$,Bars
+2117,Caffe Montage,92,A,5.0,127,$,Coffee & Tea
+2118,Casa Jimenez,96,A,3.5,44,$,Mexican
+2119,Zaatar Factory and bakery,98,A,4.5,98,$,Middle Eastern
+2120,Mariscos Linda 4,90,A,4.5,61,$$,Seafood
+2122,Uoko Japanese Cuisine,100,A,4.0,239,$$,Japanese
+2123,Tacos El Tapatio,94,A,4.0,152,$,Mexican
+2124,Giorgio's Restaurant,95,A,4.5,95,$$,Italian
+2125,Red Iron Mongolian BBQ,90,A,4.0,53,$,Barbeque
+2126,Bottega Louie,95,A,4.0,15795,$$,Italian
+2128,Rawberri,93,A,4.0,219,$$,Juice Bars & Smoothies
+2129,Lee's Sandwiches,91,A,3.0,163,$,Sandwiches
+2130,George's Burgers,96,A,3.5,314,$,Burgers
+2131,Downtown Kabob,94,A,3.0,46,$,Middle Eastern
+2132,City Club LA,96,A,4.0,101,NA,Social Clubs
+2133,Slusheeland,94,A,4.5,311,$,Ice Cream & Frozen Yogurt
+2134,Nighthawk: Breakfast Bar,90,A,4.5,602,$$,Bars
+2135,Master Burger,92,A,3.5,96,$,Burgers
+2137,3rd Street Coffee,97,A,4.0,204,$,Coffee & Tea
+2138,Kaldi Coffee and Tea,94,A,3.0,251,$,Coffee & Tea
+2139,Western Doma Noodles,97,A,4.0,526,$,Korean
+2140,BionicLand,97,A,4.0,229,$,Juice Bars & Smoothies
+2141,New Flavors,90,A,3.5,208,$,Hawaiian
+2143,Everson Royce Bar,95,A,4.5,644,$$,Bars
+2145,Top Thai Cuisine,91,A,4.0,287,$$,Thai
+2147,Dinosaur Coffee,96,A,4.0,480,$$,Coffee & Tea
+2148,Malibu Burger Co,90,A,3.5,127,$$,Burgers
+2149,Dialogue,96,A,4.5,75,$$$$,American (New)
+2150,La Ranita Michoacana,90,A,4.0,54,$,Mexican
+2151,Coach's Bar & Grill,90,A,4.5,62,$,Sports Bars
+2152,El Pueblo Restaurant,97,A,4.0,61,$,Mexican
+2153,Carnitas Michoacan,95,A,4.0,1135,$,Mexican
+2154,SUGARFISH by sushi nozawa,97,A,4.0,547,$$$,Japanese
+2155,Coffee Bean & Tea Leaf,96,A,4.0,147,$,Coffee & Tea
+2158,Din Tai Fung,97,A,4.0,3453,$$,Taiwanese
+2159,Lu & Pe Mexican Restaurant & Catering,96,A,4.5,168,$,Mexican
+2160,Gindi Thai,93,A,4.0,515,$$,Thai
+2162,Peppe's Pollo,91,A,4.0,68,$,Colombian
+2163,McDonald's,90,A,2.0,77,NA,Fast Food
+2165,The Legendary Restaurant,85,B,4.0,157,$$,Szechuan
+2166,El Jacal,97,A,4.0,108,$$,Mexican
+2167,Black Rabbit Rose,96,A,4.0,216,$$,Cocktail Bars
+2168,CUP'S,90,A,4.5,49,$,Korean
+2171,Embassy Suites by Hilton Arcadia - Pasadena Area,99,A,3.0,190,$$,Hotels
+2172,Rebel Yell Bar & Steakhouse,95,A,4.5,118,$$,Steakhouses
+2173,Paris Baguette,91,A,4.0,196,$,Bakeries
+2174,Cupid's Hot Dogs,97,A,3.0,48,$,Hot Dogs
+2175,Im Aroi Thai Cuisine,91,A,4.0,87,$$,Thai
+2176,Boston Cream Donut,93,A,4.0,52,$,Donuts
+2177,Island Eats Hale Aina,91,A,4.0,344,$,Hawaiian
+2178,Ni Ni Bakery,90,A,3.5,67,$,Desserts
+2180,Pondahan Restaurant,92,A,4.0,502,$$,Filipino
+2181,Jade Wok,90,A,4.0,143,$,Chinese
+2182,Frida Mexican Cuisine,97,A,2.5,278,$$,Mexican
+2183,Valerio's Tropical Bake Shop,96,A,3.5,85,$,Bakeries
+2184,Phlight,90,A,4.0,649,$$,Tapas Bars
+2186,Mastro's Ocean Club,91,A,4.0,1182,$$$$,Seafood
+2187,Scooter's Jungle - El Segundo,96,A,4.5,257,NA,Venues & Event Spaces
+2188,Ohana BBQ,93,A,4.5,327,$$,Barbeque
+2189,Belasco Theater,93,A,2.5,896,$$,Performing Arts
+2190,Tokyo Central & Main,93,A,4.0,111,$$,International Grocery
+2194,Flame Broiler,94,A,4.0,70,$,Asian Fusion
+2195,ABC Donuts,97,A,4.5,75,$,Donuts
+2196,Pomona Fish Market,96,A,4.0,220,$,Seafood
+2197,Sun Hai Inn,94,A,4.0,118,$,Chinese
+2198,Pollo Campero,97,A,2.5,81,$,Latin American
+2199,Rancho Grande,95,A,4.5,218,$,Mexican
+2200,India Sweet House,98,A,4.0,193,$,Indian
+2201,El Caporal,94,A,4.5,134,$$,Mexican
+2202,Bake Code,94,A,3.5,233,$,Bakeries
+2203,Pet Food Express,98,A,5.0,106,NA,Pet Stores
+2204,Lasik Eye Center,94,A,4.5,430,NA,Optometrists
+2205,El Tepeyac Cafe,96,A,4.0,2054,$$,Mexican
+2206,The Coffee Bean & Tea Leaf,95,A,4.0,114,$,Coffee & Tea
+2207,8oz Poke,91,A,4.5,644,$$,Hawaiian
+2208,Cafe Jack,90,A,3.0,184,$$,Asian Fusion
+2209,El Pueblo Restaurant,90,A,4.5,115,$,Mexican
+2210,Zankou Chicken,98,A,4.0,348,$$,Armenian
+2212,Chicken Day,93,A,3.5,268,$$,Chicken Wings
+2213,Yogurtland,96,A,4.0,72,$,Ice Cream & Frozen Yogurt
+2214,Ike's Love & Sandwiches,96,A,4.0,100,$$,Sandwiches
+2215,Cho Dang Tofu,93,A,4.0,638,$$,Korean
+2217,El Cochinito Restaurant,90,A,4.0,640,$$,Cuban
+2218,Percolate,100,A,4.5,243,$,Tea Rooms
+2219,Dough Box Pizza & Bread,92,A,4.5,353,$$,Pizza
+2222,Acs Security Industries,94,A,3.5,120,NA,Security Systems
+2224,Mick's Sub Shop,94,A,4.5,92,$,Sandwiches
+2225,Red 9,95,A,4.0,62,$$,Vietnamese
+2226,Yxta Cocina Mexicana,92,A,4.0,979,$$,Mexican
+2227,Aikoi Poke Burrito & Grill,80,B,4.0,128,$$,Poke
+2228,Phoenix Food Boutique,93,A,3.5,302,$,Chinese
+2229,Kura Revolving Sushi Bar,90,A,3.5,784,$$,Sushi Bars
+2232,P.F. Chang's,91,A,3.5,602,$$,Chinese
+2233,TeaPop,96,A,4.0,522,$,Art Galleries
+2234,Good China,93,A,3.5,46,$,Chinese
+2235,Kali Restaurant,95,A,4.5,410,$$$,American (New)
+2237,Chronic Tacos,99,A,3.5,77,$,Mexican
+2238,Rubio's Coastal Grill,96,A,3.5,144,$,Mexican
+2239,The Gaslite,93,A,3.0,321,$$,Karaoke
+2240,Rancheritas Mexican Grill,90,A,4.0,116,$,Mexican
+2241,Robeks Juice,98,A,4.0,122,$,Juice Bars & Smoothies
+2243,Bellaire Banquet Hall,98,A,3.5,44,NA,Venues & Event Spaces
+2244,London Gastropub,90,A,3.0,441,$$,Gastropubs
+2247,Royalty Juice Bar & Cafe,98,A,4.5,264,$$,Juice Bars & Smoothies
+2248,Uovo,95,A,4.0,589,$$,Noodles
+2249,Kai Ramen,94,A,4.5,588,$$,Ramen
+2250,Jim's Burgers,94,A,4.0,129,$,Burgers
+2251,Grannys Yogurt,90,A,4.5,112,$,Ice Cream & Frozen Yogurt
+2253,Candle Light Bakery,99,A,3.5,49,$$,Bakeries
+2254,Caffe Luxxe,95,A,4.5,78,$$,Coffee & Tea
+2255,Old Place Restaurant,95,A,4.5,896,$$,American (Traditional)
+2256,Clementine,94,A,4.0,971,$$,Bakeries
+2258,Jerry's Pizza,90,A,4.0,204,$,Pizza
+2259,Caffé bene,99,A,3.0,258,$,Cafes
+2260,Blosom Bento,90,A,3.5,44,$,Japanese
+2261,New Moon,98,A,4.0,638,$$,Chinese
+2262,Leonor's Vegetarian Mexican Restaurant,96,A,4.0,445,$,Mexican
+2264,Fiesta Feast,97,A,4.0,91,$,Mexican
+2265,The Hamburger Hamlet,93,A,3.5,397,$$,Burgers
+2266,Osteria Mozza,95,A,4.0,2592,$$$$,Italian
+2268,Big Time Burgers,99,A,4.0,72,$,Burgers
+2269,Pa Ord Zapp Ver,90,A,3.5,63,$$,Thai
+2270,The Grilled Cheese Factory,97,A,3.5,149,$,American (New)
+2271,Tokyo Fast Food,97,A,4.0,225,$,Japanese
+2272,Terroni,93,A,3.5,1072,$$,Italian
+2273,Carl's Jr.,97,A,1.5,49,$,Fast Food
+2274,Orange Tree Cafe,93,A,4.0,120,$,Juice Bars & Smoothies
+2275,Artisan Cheese Gallery,92,A,4.0,648,$$,Cheese Shops
+2277,Harbour Japanese Restaurant,95,A,4.0,498,$$,Japanese
+2278,La Canada Flintridge Country Club,96,A,4.5,121,NA,Country Clubs
+2279,Shangri-La Hotel,92,A,2.5,397,$$$,Hotels
+2282,The Green Leaf Thai Cuisine,99,A,4.5,451,$$,Thai
+2283,Un Mundo De Sabor #3,93,A,4.0,45,$,Juice Bars & Smoothies
+2284,Canyon City Barbeque,97,A,4.0,579,$$,Barbeque
+2285,Second Story Restaurant,93,A,4.0,277,$$,American (New)
+2287,Mi Tierra Restaurant,92,A,4.0,52,$,Mexican
+2288,Blue Moon Lounge,97,A,4.0,80,$,Lounges
+2289,Katsuya Hollywood,97,A,3.5,1764,$$$,Japanese
+2291,Chris's Hamburgers,96,A,4.5,78,$,American (Traditional)
+2293,Luizon Mariscos y Sushi,90,A,3.5,66,$$,Seafood
+2295,Simply Salad,91,A,4.0,427,$,Salad
+2296,Q&Q Hawaiian BBQ,97,A,4.0,230,$,Hawaiian
+2297,Moun Of Tunis Restaurant,97,A,4.0,238,$$,Moroccan
+2298,D J Bibingkahan,90,A,2.5,91,$,Filipino
+2299,Nordstrom,94,A,4.0,48,$$$,Men's Clothing
+2300,BAR Ama,92,A,4.0,1103,$$,Tex-Mex
+2301,Togo's Eatery,95,A,3.5,45,$,Sandwiches
+2302,Nha Trang Noodle House,85,B,4.0,319,$,Vietnamese
+2303,Applebee's Grill + Bar,96,A,3.0,148,$$,American (Traditional)
+2304,JJ's Sandwich Shop,92,A,4.5,194,$,Sandwiches
+2305,Robbie Mac's Pizza,94,A,3.5,142,$$,Pizza
+2306,Public School 213,93,A,3.5,703,$$,Bars
+2307,Blue Star Donuts,95,A,3.5,163,$$,Donuts
+2308,Pacific Theatres Glendale 18,94,A,3.0,561,NA,Cinema
+2309,Chin Chin,91,A,3.0,374,$$,Chinese
+2310,Joan & Sisters Restaurant,94,A,4.0,57,$$,Caribbean
+2311,Mediterranean Triangle,93,A,4.0,163,$,Mediterranean
+2313,Vegan House Thai Bistro,98,A,4.0,89,$$,Thai
+2316,Maui Chicken & Poke,92,A,3.5,211,$,Hawaiian
+2317,Pizza Hut,94,A,2.5,56,NA,Pizza
+2318,Cyber Yogurt,98,A,4.5,127,$,Ice Cream & Frozen Yogurt
+2319,Matsumoto,95,A,4.5,78,$$$$,Sushi Bars
+2320,Meizhou Dongpo Restaurant,90,A,3.0,646,$$$,Szechuan
+2321,The Gallery Restaurant,92,A,4.0,293,$$$,Seafood
+2322,Taqueria El Tapatio,94,A,4.0,297,$,Mexican
+2323,Qin West Noodle,85,B,3.5,55,NA,Chinese
+2325,Gelson's Market,83,B,3.5,195,$$$,Grocery
+2326,Ben & Jerry's,96,A,3.5,44,$,Ice Cream & Frozen Yogurt
+2327,Le Pain Quotidien,98,A,3.5,202,$$,Coffee & Tea
+2329,Oni Hot Pot,95,A,4.5,70,NA,Taiwanese
+2330,Bowl Thai,90,A,4.5,835,$$,Thai
+2333,Divina Cucina,94,A,4.0,342,$$,Italian
+2334,Donut Queen,96,A,4.5,45,$,Bakeries
+2335,Andante Coffee Roasters,80,B,4.5,73,$$,Coffee Roasteries
+2336,Johnny's Shrimp Boat,94,A,3.5,47,$,Seafood
+2337,My Home Chinese Restaurant,91,A,4.0,207,$,Chinese
+2338,El Espino Restaurant,97,A,3.0,46,$,Salvadoran
+2339,Victoria's Tacos & Grill,91,A,4.0,463,$,Breakfast & Brunch
+2340,Fabio's Pizza & Italian Restaurant,90,A,4.0,66,$,Pizza
+2341,Franklin Canyon Park,100,A,3.5,251,NA,Parks
+2342,Banana Bay Restaurant,90,A,3.5,2631,$$,Thai
+2343,Page 71 Lounge,92,A,3.0,304,$$,Lounges
+2344,Pita Hut,96,A,4.5,64,$$,Mediterranean
+2345,Weiler's West Hills Deli,93,A,3.5,158,$$,Delis
+2347,Rosemead Park,99,A,4.0,70,NA,Parks
+2349,Nagila Kosher Pizza & Salads,94,A,3.5,186,$$,Pizza
+2350,Raspado Xpress,93,A,3.0,71,$,Mexican
+2351,BJ's Restaurant & Brewhouse,94,A,2.5,636,$$,American (New)
+2353,Pete's Burger,94,A,3.5,120,$,Burgers
+2355,Plan B,92,A,3.5,59,$$,Adult Entertainment
+2356,The T Room,96,A,4.5,302,$$,Tea Rooms
+2359,Nonna's Empanadas,91,A,4.0,824,$,Empanadas
+2360,Eagle Russian and Armenian Cuisine,96,A,4.5,160,$$,Mediterranean
+2361,Sheraton Agoura Hills Hotel,95,A,3.0,183,$$,Hotels
+2363,Rockies Frozen Yogurt,99,A,4.5,159,$,Ice Cream & Frozen Yogurt
+2365,Three Flames Mongolian Bar-B-Q,95,A,3.5,174,$$,Barbeque
+2366,Bangla Bazar & Restaurant,92,A,3.5,52,$,Bangladeshi
+2368,Jongewaard's Bake n Broil,95,A,4.0,2020,$$,American (Traditional)
+2369,Klatch Coffee,95,A,4.5,89,$$,Coffee & Tea
+2370,Mariscos Jalisco,92,A,4.5,698,$,Mexican
+2371,Cleo,91,A,4.0,1677,$$$,Mediterranean
+2372,Raku Teriyaki,94,A,4.5,232,$,Japanese
+2373,Omelette & Waffle Shop,90,A,4.0,850,$$,Breakfast & Brunch
+2374,Erewhon Market,90,A,4.0,220,$$$,Organic Stores
+2375,McDonald's,98,A,1.5,82,$,Burgers
+2377,It's Boba Time,91,A,4.0,93,$,Bubble Tea
+2379,The Donut Palace,93,A,4.0,48,$,Donuts
+2380,Myung Dong Kyoja,94,A,4.0,1121,$$,Korean
+2381,Walker's Cafe,90,A,3.0,144,$,Coffee & Tea
+2382,Papa Cristo's,73,C,4.5,1784,$$,Greek
+2383,Juice Stop,96,A,4.0,79,$,Juice Bars & Smoothies
+2384,Carambas,97,A,4.0,63,$,Desserts
+2385,Asianya,94,A,3.5,192,$$,Asian Fusion
+2386,The Roof on Wilshire,90,A,3.5,1275,$$,American (New)
+2387,Moon Mart Kabab,94,A,4.5,123,$$,Persian/Iranian
+2389,Sandwich Man,98,A,3.5,68,$$,Delis
+2392,Togo's Eatery,94,A,3.5,45,$,Sandwiches
+2393,The Lake House,100,A,4.0,130,$$,Breakfast & Brunch
+2394,Pho Hong Long,90,A,4.0,283,$,Vietnamese
+2395,La Corona Bakery,97,A,4.5,48,$,Bakeries
+2396,Boiling Point,97,A,3.0,779,$$,Taiwanese
+2397,TAP The Asian Project,97,A,4.0,415,$,Do-It-Yourself Food
+2398,Secret Restaurant and Hookah Lounge,95,A,3.5,264,$$,Hookah Bars
+2399,Sweetfin Poké,94,A,4.0,1083,$$,Hawaiian
+2400,Assam Indian Kitchen,90,A,3.5,245,$$,Indian
+2401,Hyatt Regency Los Angeles International Airport,97,A,4.0,60,$$,Hotels
+2402,Gyu-Kaku Japanese BBQ,90,A,4.0,1055,$$,Barbeque
+2403,Khun Moo Thai Kitchen,92,A,4.5,222,$,Thai
+2404,'Lette Macarons,94,A,4.0,416,$$,Macarons
+2405,Unique Pastry,91,A,3.5,107,$$,Bakeries
+2406,Angelini Osteria,91,A,4.5,1637,$$$,Italian
+2408,Castillo Mexican Restaurant,96,A,4.0,61,$,Mexican
+2409,Zelo Gourmet Pizza,91,A,4.0,715,$$,Pizza
+2410,Shake Shack,100,A,3.5,199,$$,Burgers
+2411,The Tap Room,95,A,4.0,205,$$$,Lounges
+2412,La Pescadora,98,A,3.0,285,$$,Mexican
+2413,Janet's Mediterranean Cuisine,93,A,4.0,358,$$,Middle Eastern
+2414,Wow Bento & Roll,92,A,3.5,85,$,Japanese
+2415,S-Mart,91,A,4.0,253,$$,Grocery
+2416,Tea Station,92,A,2.5,378,$,Desserts
+2417,Casa Del Rey,94,A,3.5,403,$$,Mexican
+2419,Venice Grind,95,A,3.5,345,$,Coffee & Tea
+2421,Slusheeland,96,A,4.5,311,$,Ice Cream & Frozen Yogurt
+2423,Jersey Mike's Subs,96,A,2.5,80,$$,Sandwiches
+2424,Mendocino Farms,95,A,4.5,574,$$,Sandwiches
+2425,O Taipei Cafe,93,A,3.0,192,$,Taiwanese
+2426,Claro's Italian Markets,96,A,4.5,328,$,International Grocery
+2427,Tacos & Mariscos El Parque,96,A,4.5,118,$,Mexican
+2428,Happy Bagel & Donuts,92,A,4.5,59,$,Donuts
+2429,Bottega Louie,94,A,4.0,15795,$$,Italian
+2430,InterContinental Los Angeles Downtown,91,A,3.5,267,$$$,Hotels
+2431,Tamales Lilianas,91,A,3.5,600,$,Mexican
+2432,Round Table Pizza,91,A,3.5,100,$$,Pizza
+2434,GuildHall,96,A,4.5,157,$$,Beer Bar
+2435,Kimbap Paradise,90,A,4.0,90,$,Korean
+2436,Café de Olla,97,A,4.5,1496,$$,American (Traditional)
+2437,Red Devil Pizza,90,A,4.0,468,$$,Pizza
+2439,Carney's Express Limited,95,A,4.0,533,$,Burgers
+2441,Stonefire Grill,96,A,4.0,830,$$,Barbeque
+2444,Sattdown Jamaican Grill,93,A,4.5,596,$$,Caribbean
+2445,Kopan Ramen - Rowland Heights,97,A,4.0,2465,$$,Ramen
+2447,Champs Elysees,95,A,3.0,192,$$,French
+2448,Patricio's Grill and Pasta,95,A,4.5,52,$$,American (Traditional)
+2449,Claim Jumper Restaurant & Saloon,91,A,3.0,599,$$,Steakhouses
+2452,Merengue Bakery & Cafe,95,A,4.0,563,$,Bakeries
+2453,Cafe 86,91,A,4.0,581,$,Desserts
+2454,Happy Table,83,B,3.5,81,$$,Chinese
+2455,Vege Paradise,96,A,4.0,243,$$,Vegetarian
+2456,Pho CT Asian Cafe,91,A,4.0,347,$,Vietnamese
+2457,B Sweet Dessert Bar,94,A,4.0,1411,$,Desserts
+2459,Kokio Chicken,94,A,3.5,306,$$,Chicken Wings
+2460,Sol y Luna,97,A,4.0,1670,$$,Mexican
+2461,Prime Grind Coffee,92,A,3.5,90,$,Coffee & Tea
+2462,Lady M Cake Boutique,96,A,3.5,103,$$,Patisserie/Cake Shop
+2463,Malibu Eatery,94,A,3.5,297,$$,Seafood
+2465,Bar Louie,91,A,3.5,656,$$,Bars
+2467,Sinful Treats,91,A,4.0,201,$,Ice Cream & Frozen Yogurt
+2470,The Room Santa Monica,93,A,3.5,465,$$,Lounges
+2471,Toppings Yogurt,95,A,4.5,256,$,Ice Cream & Frozen Yogurt
+2472,Sqirl,94,A,4.0,1700,$$,Coffee & Tea
+2474,WaBa Grill,91,A,3.0,90,$,Fast Food
+2475,Mom's Bar-B-Que,97,A,3.5,134,$$,Barbeque
+2476,The Mighty,92,A,4.5,187,$$,American (New)
+2479,Cora's Coffee Shoppe,92,A,3.5,497,$$,Coffee & Tea
+2483,Gitana Restaurant,97,A,3.5,288,$$,Middle Eastern
+2485,Ko Hyang Tofu House,98,A,3.0,358,$$,Korean
+2486,Krazee Grill,94,A,3.5,73,$$,Japanese
+2487,Gratitude - Beverly Hills,96,A,4.0,229,$$,Vegan
+2490,Pizza Moon,94,A,3.0,76,$,Pizza
+2491,Vista Theatre,96,A,4.5,729,NA,Cinema
+2492,Vegi Wokery,82,B,4.0,363,$,Chinese
+2493,The Grilled Cheese Truck,98,A,3.5,1556,$,Food Trucks
+2494,The Coffee Bean & Tea Leaf,90,A,3.0,69,$,Coffee & Tea
+2496,Tapioca Express,94,A,3.5,166,$,Coffee & Tea
+2499,Gus Jr,91,A,2.5,70,$,American (New)
+2500,Napa Rose,96,A,4.5,1498,$$$$,American (Traditional)
+2501,Which Wich? Superior Sandwiches,96,A,3.5,348,$,Sandwiches
+2502,Viva,92,A,3.5,166,$$,Mexican
+2504,Design Cafe Dabang,94,A,4.5,156,$$,Coffee & Tea
+2506,Next Door Lounge,90,A,4.0,989,$$,Lounges
+2507,American Rag Cie,90,A,3.0,187,$$$,Women's Clothing
+2508,Alberto's Mexican Food,91,A,2.0,136,$,Mexican
+2509,Culichi Town - Bell,94,A,3.0,646,$$,Sushi Bars
+2510,Utro's Cafe,90,A,3.5,92,$$,Seafood
+2511,Lupita's Bakery,96,A,3.5,97,$$,Bakeries
+2512,Kagura El Segundo,90,A,4.0,223,$$,Japanese
+2513,The Coffee Bean & Tea Leaf,95,A,3.5,130,$,Coffee & Tea
+2514,Gardena Cinema,80,B,4.0,44,NA,Cinema
+2515,Ensenada Kitchen,97,A,3.5,56,$,Mexican
+2516,Aroma Coffee & Tea,92,A,4.0,2648,$$,Coffee & Tea
+2517,Maggie's Pub,97,A,3.0,226,$$,British
+2518,A Cut Above Butcher Shop,96,A,4.5,269,$$,Butcher
+2519,Bianchi Theatres,96,A,3.0,84,NA,Cinema
+2520,Samosa House East,94,A,4.0,710,$,Vegetarian
+2522,Carnitas Michoacan,98,A,4.0,1135,$,Mexican
+2523,Document Coffee Bar,94,A,4.5,466,$,Coffee & Tea
+2524,Midori Sushi,97,A,3.5,842,$$,Japanese
+2525,Temakitto,90,A,4.5,377,$$,Asian Fusion
+2526,Delice Bakery,91,A,3.0,129,$$,Bakeries
+2527,Juan's Rotisserie Chicken,97,A,4.0,63,$,Chicken Shop
+2528,Surf Food Stand,75,C,3.5,113,$$,Breakfast & Brunch
+2530,CiaoCristina!,94,A,4.0,543,$$,Italian
+2532,Tony's Barbecue and Bibingkinitan,93,A,4.5,61,$,Fast Food
+2534,Jersey Mike's Subs,92,A,3.5,150,$,Sandwiches
+2537,Chengdu Lao Zao Hotpot,97,A,3.5,191,$$$,Szechuan
+2538,Matsuhisa,92,A,4.0,930,$$$$,Sushi Bars
+2539,Nothing Bundt Cakes,99,A,4.0,273,$$,Bakeries
+2540,Cha Chaa,91,A,4.5,51,$,Thai
+2541,California Bakery & Cafe,98,A,4.0,138,$,Bakeries
+2545,Shin-Sen-Gumi Yakitori -Gardena,92,A,4.5,1097,$$,Japanese
+2546,Original Farmers Market,93,A,4.0,1284,$$,Farmers Market
+2547,Casa Nuova,96,A,3.5,149,$$,Pizza
+2549,208 Rodeo Restaurant,95,A,3.5,545,$$$,American (New)
+2550,Stamp Proper Foods,98,A,4.0,249,$$,Gluten-Free
+2551,Greco's New York Pizzeria,96,A,3.5,108,$,Pizza
+2552,Viva La Fiesta,96,A,4.5,72,$$,Mexican
+2553,Birrieria La Barca Jalisco Restaurant,95,A,3.5,236,$$,Mexican
+2554,Cos&Pi,99,A,4.5,544,$$,Breakfast & Brunch
+2555,Tampopo Restaurant,91,A,4.0,193,$$,Sushi Bars
+2556,Shakey's Pizza Parlor,98,A,3.0,151,$$,Pizza
+2557,JNJ Burger  & BBQ,90,A,4.0,437,$,Barbeque
+2558,The Buffalo Spot,100,A,3.0,46,$$,Chicken Wings
+2560,The Habit Burger Grill,93,A,4.0,599,$,Burgers
+2561,Superior Donuts,96,A,4.0,73,$,Donuts
+2563,Domino's Pizza,96,A,2.0,63,$,Pizza
+2565,Street Party,95,A,3.5,74,$$,Chinese
+2566,Las Glorias Del Buen Comer,98,A,4.0,199,$,Mexican
+2569,Boiling Point,92,A,4.0,575,$$,Taiwanese
+2572,Marino Restaurant,94,A,4.5,327,$$$,Italian
+2573,Father's Office,94,A,4.0,2997,$$,Burgers
+2574,Somisomi,94,A,4.5,130,$,Desserts
+2575,Hwa Sun Ji Tea & Coffee,95,A,4.5,537,$,Coffee & Tea
+2576,Spitz - Little Tokyo,92,A,4.0,1547,$$,Mediterranean
+2577,Shiloh’s,90,A,4.0,196,$$$,Steakhouses
+2578,TreeHouse Thai,91,A,4.0,228,$$,Thai
+2579,Shaky Alibi,90,A,4.0,460,$$,Breakfast & Brunch
+2580,Soregashi,97,A,4.5,104,$$$,Japanese
+2581,Norwood Bar & Lounge,90,A,3.5,192,$$,Bars
+2582,Hambone's BBQ and Po'Boy Sandwiches,90,A,4.0,966,$$,Barbeque
+2583,Hotel Casa Del Mar,99,A,4.0,356,$$$,Hotels
+2586,Tacos Tumbras a Tomas,98,A,4.5,886,$,Mexican
+2587,Pieology Pizzeria,92,A,3.5,154,$,Pizza
+2588,Pieology Pizzeria,98,A,3.5,151,$,Pizza
+2589,Urban Plates,91,A,4.0,533,$$,American (New)
+2590,Tirsa's,92,A,4.5,103,$$,Mexican
+2591,Mike & Anne's Restaurant,90,A,3.5,944,$$,American (New)
+2593,Il Pastaio,90,A,4.0,1241,$$$,Italian
+2594,Nano Cafe,96,A,4.0,770,$$,American (Traditional)
+2595,Los Tres Hermanos,95,A,3.5,362,$$,Mexican
+2597,The Coffee Bean & Tea Leaf,93,A,3.0,140,$,Coffee & Tea
+2599,The Coffee Bean & Tea Leaf,95,A,4.0,146,$,Coffee & Tea
+2600,Round Table Pizza,96,A,3.5,45,$$,Pizza
+2601,Momed Atwater Village,92,A,4.0,441,$$,Mediterranean
+2602,WaBa Grill,97,A,4.0,122,$,Fast Food
+2604,Bodhi Leaf Coffee Traders,93,A,5.0,176,$,Coffee Roasteries
+2605,CoCo Fresh Tea and Juice,90,A,3.5,87,$,Bubble Tea
+2606,Pico Pica Rico,95,A,4.0,208,$,Mexican
+2607,Tommy's Original World Famous Hamburgers,92,A,4.0,1142,$,Burgers
+2608,Mee and Greet,90,A,4.0,179,$$,Vietnamese
+2609,Pierre Garden,94,A,3.5,110,$$,French
+2611,Candela,94,A,4.0,588,$$,Mexican
+2613,Pick Up Stix,94,A,3.0,122,$,Asian Fusion
+2614,South Bay BMW,91,A,3.5,1163,NA,Car Dealers
+2615,Second City Bistro,90,A,3.5,305,$$,Steakhouses
+2616,Giggles Night Club,95,A,2.5,109,$$,Bars
+2617,Villa Tepeyac,93,A,3.5,215,$$,Mexican
+2618,Restaurante Amalias,94,A,4.0,55,$$,Latin American
+2620,Menchie's Frozen Yogurt,94,A,4.0,180,$,Ice Cream & Frozen Yogurt
+2621,Alfredo's Mexican Food,96,A,3.5,227,$,Mexican
+2622,Crab N Grab,93,A,4.0,321,$$,Seafood
+2623,House of  Bread,96,A,4.5,186,$$,Bakeries
+2624,Azusa Greens Country Club,96,A,3.0,60,NA,Golf
+2625,Glowing Juices,95,A,5.0,99,$$,Health Markets
+2626,KFC,98,A,2.0,46,$,Fast Food
+2628,Sweety Hut Thai Restaurant,86,B,4.0,275,$,Thai
+2629,Popeyes Louisiana Kitchen,96,A,2.0,80,$,Fast Food
+2631,Noe Restaurant and Bar,95,A,4.0,454,$$$,Bars
+2632,Grand Foods Market,95,A,4.5,67,$$,Armenian
+2633,World Famous Grill,92,A,4.0,250,$,Burgers
+2634,Delius Restaurant,95,A,4.0,537,$$,American (New)
+2635,iTech Pizza,94,A,4.5,302,$,Pizza
+2636,Doubletree by Hilton Los Angeles Downtown,97,A,3.0,414,$$,Hotels
+2637,Siam Sunset,90,A,4.0,236,$,Thai
+2638,Es Con Sabor West,90,A,4.5,104,$,Salvadoran
+2639,Lum-Ka-Naad Thai Restaurant,93,A,4.0,1166,$$,Thai
+2640,Wingstop,98,A,2.0,135,$$,Chicken Wings
+2641,JC's Kitchen,95,A,5.0,103,$,Latin American
+2642,The Coffee Bean & Tea Leaf,98,A,4.0,114,$,Coffee & Tea
+2643,El Burro - Tacos & Beer,97,A,4.0,191,$,Mexican
+2645,SunLife Organics,94,A,4.0,146,$$,Juice Bars & Smoothies
+2647,Cuvee,90,A,3.5,338,$$,American (New)
+2648,India's Tandoori Halal Restaurant,92,A,4.5,307,$$,Indian
+2650,Riverside Grill & Bar,91,A,4.0,579,$$,Breakfast & Brunch
+2651,Karina's Tacos,97,A,4.0,128,$,Mexican
+2652,Toastea,98,A,4.5,278,$,Desserts
+2653,Original Farmers Market,96,A,4.0,1284,$$,Farmers Market
+2654,Nabi Korean Restaurant,96,A,4.5,71,$,Korean
+2655,Mi Pueblito Restaurant,91,A,3.5,80,$,Mexican
+2656,La Tequila Restaurant,98,A,2.5,64,$$,Mexican
+2657,Cafe Magazzino,94,A,4.5,163,$$,Cafes
+2658,Laemmle’s Royal Theatre,97,A,4.0,97,NA,Cinema
+2659,Rosa's Restaurant,92,A,4.0,204,$,Mexican
+2660,Breakers Korean BBQ & Grill,90,A,4.0,243,$$,Barbeque
+2662,Dog Haus Biergarten,93,A,4.0,1030,$,Hot Dogs
+2663,Jon & Vinny's,92,A,4.0,1249,$$,Italian
+2665,Bahia Ensenada Grill,95,A,3.0,51,$,Mexican
+2666,Yogiyo Korean BBQ,92,A,4.0,149,$$,Korean
+2667,Alfredo's Mexican Food,94,A,4.0,271,$,Mexican
+2668,Rahel Ethiopian Vegan Cuisine,97,A,4.0,533,$$,Ethiopian
+2669,Taco Fiesta,97,A,4.5,74,$,Mexican
+2672,Taco Bell,97,A,3.0,58,$,Fast Food
+2673,Fine Garden Vegetarian Restaurant,92,A,3.5,305,$$,Chinese
+2674,Honeyboba,82,B,3.5,343,$,Coffee & Tea
+2675,Harlam's Kitchen,95,A,4.0,267,$,Chinese
+2676,Catch 21,92,A,4.0,99,$,Seafood
+2677,Super Panda,92,A,2.0,59,$,Chinese
+2679,Traxx Restaurant,94,A,3.5,265,$$,American (Traditional)
+2680,Wally's Beverly Hills,94,A,4.0,588,$$$,American (New)
+2681,Honeyboba,90,A,3.5,661,$,Tea Rooms
+2682,Mimi's Cafe,95,A,3.0,362,$$,American (Traditional)
+2683,Nanking Indo-Chinese Restaurant,90,A,4.0,228,$$,Indian
+2685,Virgin Atlantic,93,A,3.0,87,NA,Airlines
+2686,Sisters Korean Kitchen,92,A,4.0,46,$$,Korean
+2687,Island Pacific Supermarket,92,A,3.0,93,$,Grocery
+2689,Pronto Pizza,97,A,3.0,47,$,Pizza
+2691,Pizza Show,99,A,3.5,307,$$,Pizza
+2692,Twinkle Brown Sugar,97,A,4.0,1142,$,Coffee & Tea
+2695,Adrian's Trattoria,96,A,4.0,156,$$,Italian
+2696,Valerio V Family Bake Shop,95,A,3.5,52,$,Bakeries
+2697,Carnaval,96,A,2.0,90,$$,Dance Clubs
+2699,Boba Bear,96,A,4.0,369,$$,Hookah Bars
+2700,Barriles RestoBar,85,B,4.0,137,$$,New Mexican Cuisine
+2702,Wok Talk,91,A,3.0,146,$$,Chinese
+2703,Cui Hua Lou Szechwan,83,B,4.5,63,$$,Szechuan
+2704,Communal Food & Drink,92,A,3.5,140,$$,American (New)
+2705,Newhall Refinery,97,A,4.5,1254,$$,Gastropubs
+2706,Shrimp By You,94,A,4.5,460,$$,Cajun/Creole
+2707,Pick & Mix Juice Bar,93,A,4.5,163,$,Juice Bars & Smoothies
+2708,Hermosa Beach Fish Shop,90,A,4.0,601,$$,Seafood
+2709,Citrus On Sunset,94,A,4.0,120,$,Cafes
+2713,The Coffee Bean & Tea Leaf,90,A,4.0,108,$,Coffee & Tea
+2714,Corner Burger,97,A,4.5,596,$,Burgers
+2715,Shahnawaz Halal Tandoori,96,A,3.5,102,$$,Indian
+2716,Mt San Antonio College,93,A,3.0,116,NA,Colleges & Universities
+2717,Trencher,96,A,4.0,287,$$,Sandwiches
+2718,Bud Namu Korean BBQ,90,A,3.0,1201,$$,Barbeque
+2719,Burgerim,93,A,3.0,153,$$,Burgers
+2720,Urartu Coffee,91,A,4.5,344,$,Coffee & Tea
+2721,Ocean View Café,91,A,4.0,278,$$,Breakfast & Brunch
+2722,Dario's Mexican Restaurant,96,A,3.5,128,$$,Bars
+2723,Blue Cafe,94,A,4.0,243,$$,Persian/Iranian
+2725,Pink Salt Grill,91,A,4.0,200,$$,Filipino
+2726,Jersey's Bar & Grill,90,A,4.0,62,$,Dive Bars
+2727,Takuma,90,A,4.5,312,$$,Japanese
+2728,Hmart,94,A,4.0,164,$$,Grocery
+2730,Taco Sinaloa,93,A,3.5,830,$,Mexican
+2731,Domino's Pizza,97,A,1.5,78,$$,Pizza
+2732,The Coffee Bean & Tea Leaf,95,A,3.5,128,$,Coffee & Tea
+2733,Chicken Maison,92,A,4.5,472,$$,Mediterranean
+2735,Sunset Junction Coffee Shop,91,A,4.0,314,$$,Diners
+2737,The Capri Italian Restaurant,94,A,4.0,495,$$,Italian
+2738,Milkyway Tea House,91,A,4.5,271,$,Bubble Tea
+2739,El Taco Llama,96,A,3.5,197,$,Mexican
+2740,Nong La Cafe,91,A,4.0,466,$$,Vietnamese
+2741,IKEA,100,A,3.0,756,$$,Home Decor
+2742,Nonna's Empanadas,91,A,4.0,824,$,Empanadas
+2743,Yang's Dining Room,92,A,4.0,62,$$,Chinese
+2745,Gio's Fresh Mediterranean,98,A,4.5,216,$$,Mediterranean
+2746,Boiling Point,92,A,3.0,1469,$$,Taiwanese
+2747,BBQ Chicken,90,A,4.0,420,$$,Korean
+2748,Mako Sushi,96,A,3.5,261,$$$,Sushi Bars
+2749,Panini Palace,97,A,4.5,164,$,Salad
+2750,Foster's Donuts,97,A,4.0,56,$,Donuts
+2751,The Hummus Factory,94,A,4.0,239,$$,Mediterranean
+2752,Vrej Pastry,98,A,4.0,133,$,Bakeries
+2753,San Pedro Brewing Company,93,A,3.5,490,$$,Sports Bars
+2754,Palms Thai Restaurant,93,A,4.0,2507,$$,Seafood
+2755,The Dive SKC,95,A,4.0,171,NA,Seafood
+2756,Corner Bakery Cafe,95,A,4.0,134,$,Salad
+2757,Swirlz Creamery,97,A,5.0,66,$,Ice Cream & Frozen Yogurt
+2758,Mr Furley's Bar,91,A,4.0,372,$,Pubs
+2760,Tasty Noodle House,81,B,3.5,167,$$,Noodles
+2761,Yoshinoya,98,A,3.0,48,$,Japanese
+2762,Modo Mio Cucina Rustica,97,A,4.5,210,$$,Italian
+2763,The Apple Pan,95,A,3.5,2679,$$,Burgers
+2764,Daru Sushi,95,A,4.5,244,$$,Sushi Bars
+2765,Taqueria Los Compadres,95,A,4.5,79,$,Mexican
+2766,Ding Tea Hacienda,93,A,4.0,80,$,Coffee & Tea
+2767,La Flor Blanca Restaurant,90,A,3.5,104,$,Salvadoran
+2768,Kape Republik,94,A,4.5,542,$,Desserts
+2770,Redondo Beach Coffee Shop,92,A,3.5,57,$$,Coffee & Tea
+2771,Red Herring,94,A,4.5,214,$$,American (New)
+2774,Taron Bakery,94,A,4.0,86,$,Bakeries
+2775,Panini Kabob Grill,90,A,4.0,676,$$,Mediterranean
+2776,Pizza Man - Van Nuys,71,C,3.5,57,$$,Pizza
+2777,Jimmy John's,97,A,3.0,122,$,Sandwiches
+2778,Sushi Ippo,90,A,4.0,1113,$$,Sushi Bars
+2780,Drinx,90,A,4.5,129,$,Coffee & Tea
+2782,Veracruz Mexican Restaurant,98,A,3.5,154,$,Mexican
+2783,Panda Wok,91,A,3.5,66,$,Chinese
+2785,Las Islas Marias,90,A,3.5,62,$$,Seafood
+2786,Gold Coast Bar,93,A,4.0,85,$,Gay Bars
+2787,The Counter,90,A,3.5,415,$$,Burgers
+2788,Golden Mile Bowling,96,A,3.5,176,NA,Bowling
+2789,Blue Ribbon Sushi Bar & Grill - Los Angeles,90,A,3.5,428,$$$,Sushi Bars
+2792,Church & State,90,A,3.5,1691,$$$,French
+2793,Wood & Water,93,A,4.0,156,$$$,American (New)
+2794,Zury's Raspados,83,B,3.0,63,$$,Juice Bars & Smoothies
+2795,Trimana,93,A,3.0,60,$,American (New)
+2796,Sabor A Tony Restaurant,80,B,3.0,44,$$,Mexican
+2797,Adana Restaurant,95,A,4.5,307,$$,Middle Eastern
+2798,El Zipote,93,A,2.5,56,$,Salvadoran
+2799,Boulevard Burgers,96,A,3.0,146,$,Burgers
+2800,Valentino's Pizzeria,96,A,4.0,209,$,Pizza
+2801,Sushi Katsu-Ya Studio City,92,A,4.0,1108,$$$,Sushi Bars
+2804,Burrito Factory,97,A,3.0,125,$,Mexican
+2805,Cuties,98,A,4.5,94,$$,Coffee & Tea
+2806,Blaze Fast-Fire'd Pizza,93,A,4.0,358,$,Salad
+2810,Sicha Siam,91,A,3.5,124,$,Thai
+2811,Angel Maid Bakery,98,A,4.5,524,$$,Bakeries
+2812,Tous Les Jours,90,A,3.5,107,$$,Bakeries
+2815,Slapfish,90,A,3.0,165,$$,Seafood
+2816,Citadel Outlets,99,A,3.5,1072,$$,Outlet Stores
+2817,Salo-Salo Grill,90,A,3.5,514,$$,Filipino
+2818,Raspados Nayarit,97,A,4.5,102,$,Desserts
+2819,Philie B's,91,A,3.5,249,$,Pizza
+2820,Voltaggio STRFSH,98,A,4.0,73,$,Sandwiches
+2822,Kanpai Ramen,86,B,4.0,469,$$,Ramen
+2823,Tasty Noodle House,94,A,4.0,182,$$,Noodles
+2829,Fine Wok,92,A,4.5,71,$,Chinese
+2830,Attari Sandwich Shop,90,A,4.0,587,$$,Sandwiches
+2831,Early Bird,98,A,4.0,1996,$$,American (New)
+2832,Maxim Restaurant & Banquet Hall,94,A,4.0,67,$$$,Russian
+2834,JJ Grand Hotel,94,A,2.5,53,$$,Hotels
+2835,Coconut's Fish Cafe,98,A,4.5,136,$$,Seafood
+2836,The Boat Sushi & Thai Restaurant,91,A,3.5,459,$$,Asian Fusion
+2837,The Village Bakery and Cafe,96,A,4.0,915,$$,Bakeries
+2838,Moku Sushi,94,A,4.0,126,$$,Japanese
+2842,Venus,92,A,4.0,212,$,Cantonese
+2843,Ono Hawaiian BBQ,94,A,3.0,120,$,Barbeque
+2845,Fresco Ristorante,91,A,4.0,70,$$,Italian
+2846,Fantasy Frostings,99,A,5.0,94,$$$,Bakeries
+2847,Chyll Creamery & Boba,92,A,4.0,158,$$,Bubble Tea
+2849,Augustine Wine Bar,96,A,4.5,228,$$,Wine Bars
+2850,DeFranko's Submarines,90,A,4.0,498,$,Italian
+2851,Andy's Sub Shop,90,A,4.0,53,$,Sandwiches
+2852,Larsen's Steakhouse - Valencia,95,A,4.0,481,$$$$,Steakhouses
+2854,Subway,96,A,2.0,46,$,Sandwiches
+2855,Wabi Sabi Teppan Steak House & Sushi Bar,94,A,3.0,151,$$,Japanese
+2856,Ferraro's On The Hill,92,A,4.0,144,$,Italian
+2857,Petrillo's Pizza Restaurant,91,A,3.5,1112,$$,Pizza
+2859,Blaze Fast-Fire'd Pizza,95,A,4.0,305,$,Pizza
+2860,El Limon,99,A,4.5,197,$$,Salad
+2861,Nick's Manhattan Beach,96,A,4.5,845,$$,Breakfast & Brunch
+2862,O-Sho Sushi,91,A,3.5,137,$$,Japanese
+2863,Thai Food Express,93,A,4.5,371,$,Thai
+2864,Rita's Italian Ice of Glendora,96,A,4.5,102,$,Desserts
+2865,Lady M Cake Boutique,94,A,3.5,1042,$$,Desserts
+2867,Han Bat Shul Lung Tang,80,B,4.5,1906,$,Korean
+2868,Kopan Ramen- Northridge,90,A,4.0,563,$$,Ramen
+2869,Falafel Arax - Studio City,94,A,4.0,44,$,Falafel
+2870,Jersey Mike's Subs,90,A,3.5,167,$,Sandwiches
+2871,Irene's Burger's Cafe,92,A,4.0,121,$,Burgers
+2872,J Sushi & Ramen,92,A,4.0,228,$$,Japanese
+2873,Korean Kitchen Hibachi Barbeque,94,A,4.0,308,$$,Korean
+2874,Poké Bar,91,A,4.0,333,$$,Seafood
+2875,WaBa Grill,94,A,3.0,53,$,Asian Fusion
+2877,Islands Fine Burgers & Drinks,99,A,3.5,354,$$,Burgers
+2879,Thai Sierra Madre,90,A,4.0,76,$,Thai
+2881,Coffee Commissary,94,A,4.0,664,$$,Coffee & Tea
+2882,Manchego,90,A,4.5,727,$$,Spanish
+2883,Golden Star Chinese Deli,97,A,3.0,55,$,Chinese
+2884,Final Score,82,B,4.0,148,$$,Sandwiches
+2885,La Carreta,94,A,4.0,154,$,Mexican
+2886,Masan Restaurant,87,B,3.0,113,$$,Seafood
+2887,Earthen Restaurant,85,B,4.0,851,$$,Chinese
+2888,Kickin Kasian,98,A,4.0,1034,$$,Seafood
+2890,Seoul Garden Restaurant,94,A,4.0,497,$$,Korean
+2892,Rebecca's Cafe,91,A,4.0,81,$,Sandwiches
+2893,Sunshine's Chinese & Korean BBQ,94,A,5.0,84,$$,Chinese
+2894,Chick-fil-A,95,A,4.0,311,$,Fast Food
+2895,La Esperanza Restaurant and Bakery,90,A,4.0,616,$$,Bakeries
+2897,Canoe House,91,A,3.5,662,$$,Hawaiian
+2898,Adobe Cantina,94,A,3.5,201,$$,Mexican
+2899,Rusty Pot Cafe,95,A,4.0,601,$$,Breakfast & Brunch
+2900,LJ's Partyland,95,A,5.0,126,$,Party Equipment Rentals
+2903,Jamba Juice,95,A,2.5,56,$,Juice Bars & Smoothies
+2904,Second Round,99,A,4.5,85,$,Coffee & Tea
+2905,Sharky's Woodfired Mexican Grill,97,A,4.0,153,$$,Mexican
+2906,Natalie Peruvian Seafood Restaurant,97,A,4.0,368,$$,Seafood
+2907,R Bar,91,A,4.0,586,$$,Lounges
+2908,The Rockefeller,91,A,3.5,518,$$,American (New)
+2912,Ozen Sushi,95,A,4.0,497,$$,Sushi Bars
+2913,GUACS,98,A,3.5,300,$$,Mexican
+2914,Berry Bowl,86,B,3.5,351,$,Juice Bars & Smoothies
+2915,El Zarape Melrose,95,A,4.5,112,$$,Mexican
+2916,Fonz's Restaurant,91,A,4.0,147,$$$,American (New)
+2917,Sunny Grill,99,A,4.0,275,$,American (Traditional)
+2918,Slurpin' Ramen Bar,90,A,4.5,1411,$$,Ramen
+2921,Fritto Misto,92,A,4.5,2255,$$,Italian
+2923,Angel Maid Bakery,96,A,4.5,524,$$,Bakeries
+2924,Sushi 101,90,A,3.5,211,$$,Japanese
+2925,Nuevo San Miguel,94,A,3.0,195,$,Salvadoran
+2926,La Vue,94,A,4.0,119,$$$,Wine Bars
+2928,Sheraton Universal Hotel,96,A,2.5,584,$$$,Hotels
+2929,Domino's Pizza,90,A,2.5,71,$$,Pizza
+2930,Brent's Delicatessen & Restaurant,96,A,4.5,1927,$$,Delis
+2931,The Health Winner at Westin Bonaventure,98,A,3.5,54,$,Sandwiches
+2932,Fortune Cookie,95,A,4.0,91,$,Chinese
+2934,Wildflour Bakery & Cafe,90,A,4.0,382,$$,Bakeries
+2936,Boba Time,91,A,3.5,247,$,Ice Cream & Frozen Yogurt
+2937,Vons,96,A,3.0,138,$$,Grocery
+2938,Heirloom Bakery,94,A,4.0,545,$$,Bakeries
+2939,Bangkok Palace,97,A,4.0,200,$,Thai
+2940,El Taco Llama,96,A,4.0,70,$,Mexican
+2942,The Buffalo Club,92,A,3.0,216,$$$,American (New)
+2944,The Serving Spoon,92,A,4.5,1527,$$,Breakfast & Brunch
+2945,Bravo Pizza & Chicken,91,A,4.0,323,$,Pizza
+2946,Matt & Tony's,94,A,3.0,132,$,Sandwiches
+2948,Hillstone,91,A,4.0,953,$$$,American (New)
+2950,Knockouts Gentlemen's Club,95,A,3.0,75,$$,Adult Entertainment
+2952,Los Angeles Times Festival of Books,98,A,4.0,88,NA,Festivals
+2954,Quality Food & Beverage,94,A,3.5,277,$$,Breakfast & Brunch
+2956,Buono's Authentic Pizzeria,93,A,3.5,185,$$,Pizza
+2957,Chinese Delight,87,B,3.5,318,$,Chinese
+2958,Weiler's Original Northridge Delicatessen,90,A,3.5,250,$$,Delis
+2961,Griffins of Kinsale,94,A,4.0,255,$$,Bars
+2962,Pazzo Gelato,97,A,4.5,878,$,Ice Cream & Frozen Yogurt
+2964,Kale & Quinoa Vegan Cafe',81,B,4.0,216,$$,Vegan
+2966,Street Level Cafe,96,A,4.5,184,$$,Cafes
+2967,Nevera Juice Bar,94,A,4.5,189,$,Juice Bars & Smoothies
+2968,Diamond Bakery,83,B,3.0,150,$,Bakeries
+2969,TOT / Teishokuya of Tokyo,91,A,3.5,797,$$,Japanese
+2973,Bianca's Deli & Café,98,A,4.5,125,$,Delis
+2974,Mitsuwa Marketplace,97,A,4.0,779,$$,International Grocery
+2975,Cupid's Hot Dogs,98,A,4.0,142,$,Hot Dogs
+2976,Hyatt Place Los Angeles/LAX/El Segundo,94,A,3.5,131,$$,Hotels
+2977,Taqueria El Tapatio,92,A,4.5,168,$,Mexican
+2980,City Kitchen,86,B,4.5,102,$$,Cafes
+2982,Poke Bar,94,A,4.0,292,$$,Hawaiian
+2983,Rutabegorz,90,A,4.0,703,$$,Wraps
+2984,Saeng Saeng Gimbap & Snack,93,A,2.5,47,$,Korean
+2985,Ani Bakery,98,A,4.5,43,$,Bakeries
+2986,Walter's Cafe,90,A,4.5,390,$$,Breakfast & Brunch
+2987,Bagelworks Cafe,96,A,4.0,93,$,Bagels
+2988,Pine Tree Restaurant,95,A,3.0,113,$$,Barbeque
+2991,Tribal Cafe,90,A,4.0,701,$,Juice Bars & Smoothies
+2994,Berri's Pizza,80,B,3.5,242,$$,Salad
+2995,Tomodachi Sushi,90,A,3.5,437,$$,Sushi Bars
+2996,5.2 Patio,97,A,4.0,143,$,Desserts
+2997,Philly's Best,97,A,4.0,406,$,Cheesesteaks
+2999,Knollwood Country Club,97,A,4.0,83,NA,Country Clubs
+3000,El Criollo,96,A,4.0,251,$$,Cuban
+3001,Donut Star,91,A,3.5,57,$,Donuts
+3002,Fresh & Meaty Burgers,92,A,3.5,60,NA,Burgers
+3003,Mikkeller DTLA,96,A,4.0,335,$$,American (New)
+3004,Leelin Bakery & Cafe,92,A,4.0,89,$,Filipino
+3005,Veggie Grill,98,A,4.0,542,$$,American (New)
+3006,Los Burritos,95,A,3.5,111,$,Mexican
+3009,Louise's Trattoria,94,A,3.5,248,$$,Italian
+3011,Casa Del Rey,92,A,3.5,177,$$,Mexican
+3012,The Spot Cafe & Lounge,98,A,4.0,180,$,Lounges
+3013,Nina's Cafe,92,A,4.5,359,$,French
+3016,Bareburger,95,A,4.0,378,$$,Burgers
+3017,Red Top Kitchen,95,A,4.5,240,$,Vietnamese
+3018,Islands Fine Burgers & Drinks,97,A,3.5,354,$$,Burgers
+3019,KazuNori  | The Original Hand Roll Bar,96,A,4.5,2305,$$,Sushi Bars
+3020,Nini Bakery,92,A,4.0,80,$,Bakeries
+3022,Smoky Doky Barbecue,96,A,4.5,110,$$,Barbeque
+3023,Teriyaki Express,91,A,4.0,55,$,Japanese
+3024,Buffalo Wild Wings,94,A,2.0,532,$$,Chicken Wings
+3026,Takami Sushi & Robata Restaurant,92,A,3.5,1972,$$$,Sushi Bars
+3028,Al Chile Pelon Mexican Food,90,A,3.5,134,$,Mexican
+3029,Cielito Lindo,93,A,4.0,698,$,Mexican
+3030,Jersey Mike's Subs,90,A,3.5,77,$,Fast Food
+3032,El Grullense,90,A,4.5,82,$,Mexican
+3033,Demitasse Santa Monica,95,A,4.0,364,$$,Coffee & Tea
+3034,85°C Bakery Cafe,95,A,3.5,72,$,Coffee & Tea
+3038,Square Bar Cafe,94,A,3.0,84,$$,Coffee & Tea
+3041,Lollicup,90,A,3.0,89,$,Coffee & Tea
+3042,Hisaya Kyoto Roasted Chestnuts,95,A,4.0,199,$,Coffee & Tea
+3043,Oomasa,91,A,4.0,1209,$$,Japanese
+3044,SOTTA,90,A,4.5,281,$$,Mediterranean
+3045,Yogis Grill,97,A,4.0,124,$,Sushi Bars
+3046,Stox Restaurant & Bakery,92,A,3.5,272,$$,Bakeries
+3050,Genever,98,A,5.0,45,$$,Lounges
+3051,Honeyboba,84,B,3.0,221,$,Coffee & Tea
+3053,Dickey's Barbecue Pit,97,A,3.5,362,$$,Barbeque
+3056,Jimmy Dean's Charbroiled Burgers,99,A,3.0,197,$,Burgers
+3057,Nachos Lab,97,A,4.0,192,$$,Mexican
+3058,Isaac's Cafe,98,A,4.5,326,$,Mexican
+3061,Au79 Teahouse,97,A,3.5,728,$,Taiwanese
+3062,Avila's El Ranchito Mexican Restaurant,95,A,4.5,470,$$,Mexican
+3063,Destination Seafood House,92,A,4.0,151,$$,Seafood
+3065,Co-opportunity Market & Deli,97,A,4.0,354,$$,Health Markets
+3066,Bread & Butter,93,A,4.0,155,$$,Sandwiches
+3069,The Getty Villa,98,A,4.5,1246,NA,Botanical Gardens
+3070,Tagine Beverly Hills,90,A,4.0,822,$$$,Moroccan
+3071,Chateau Marmont,91,A,3.5,712,$$$,Hotels
+3072,Foodlab,94,A,4.0,601,$$,Coffee & Tea
+3075,McDonald's,98,A,2.5,79,$,Fast Food
+3077,Don Antonio's,97,A,3.5,1164,$$,Mexican
+3078,Kaido,90,A,4.0,283,$$,Sushi Bars
+3080,Las Perlas,92,A,4.0,667,$$,Lounges
+3081,Muse Karaoke,90,A,3.5,50,$,Karaoke
+3083,The Oaks Gourmet,94,A,4.0,651,$$,Specialty Food
+3085,Kalbis Grill,92,A,4.5,181,$$,Barbeque
+3086,Stonefire Grill,90,A,4.0,639,$$,American (Traditional)
+3088,Honda Ya Izakaya,94,A,3.5,1356,$$,Izakaya
+3089,El Buen Gusto,94,A,4.0,147,$,Salvadoran
+3090,Starbucks,96,A,3.0,107,$,Coffee & Tea
+3091,NORMS Restaurant,98,A,3.0,313,$,American (Traditional)
+3093,Bagel Broker,94,A,4.5,685,$,Bagels
+3094,Wurstküche,92,A,4.0,7913,$$,Hot Dogs
+3095,TOMS,93,A,4.0,251,$$,Shoe Stores
+3096,El Pollo Loco,97,A,3.0,46,$,Fast Food
+3097,Osuna's Restaurant,96,A,3.5,241,$$,Mexican
+3099,Scopa Italian Roots,91,A,4.0,932,$$$,Italian
+3100,Max's Restaurant - Glendale,93,A,3.5,804,$$,Filipino
+3101,Crowne Plaza Redondo Beach and Marina,96,A,3.5,288,$$,Hotels
+3103,Angel Stadium of Anaheim,94,A,4.0,1372,NA,Stadiums & Arenas
+3105,Taqueria Los Padilla,96,A,4.5,156,$,Mexican
+3106,Cafe Oaxaca,97,A,4.5,55,$,Coffee & Tea
+3107,Cookie Good,95,A,4.5,395,$$,Bakeries
+3108,Edible Arrangements,98,A,2.0,45,$$,Florists
+3109,The Boy & The Bear,94,A,4.5,105,$$,Coffee Roasteries
+3110,La Parrilla Mexicana,91,A,3.5,127,$$,Mexican
+3111,Umami Burger - Santa Monica,92,A,4.0,2440,$$,Burgers
+3112,La Palma,91,A,4.5,110,$,Mexican
+3114,Howlin' Ray's,95,A,4.5,4308,$$,Southern
+3115,Sabor A Mexico,94,A,3.5,71,$,Mexican
+3117,The Basement Cafe,95,A,4.0,45,$,Cafes
+3119,Mexicatessen,95,A,4.0,137,$,Mexican
+3120,Frida Restaurant,90,A,3.0,1825,$$,Mexican
+3121,CatCafe Lounge,99,A,5.0,61,$$,Pet Adoption
+3122,California Poke House,96,A,4.0,197,$$,Poke
+3123,BJ's Restaurant & Brewhouse,95,A,3.0,680,$$,American (New)
+3124,El Trocadero Mesquite Steakhouse,97,A,3.0,200,$$,Mexican
+3125,Dolce Bistro & Bakery,94,A,4.0,1382,$$,Bakeries
+3127,The Veggie Grill,91,A,4.0,895,$$,Vegetarian
+3128,Le Chene French Cuisine,95,A,3.5,245,$$$,French
+3130,Green Cottage,92,A,4.0,653,$$,Mediterranean
+3134,ZingGa Grill,99,A,4.5,295,$,Korean
+3135,Amazebowls,100,A,4.5,169,$,Food Trucks
+3136,Blaze Fast Fire'd Pizza,94,A,4.0,195,$,Salad
+3138,Cha Cafe,93,A,4.0,983,$,Coffee & Tea
+3139,Laemmle Town Center 5,98,A,3.5,94,NA,Cinema
+3141,Onishicho Ramen,93,A,4.0,662,$,Japanese
+3142,Lucky Strike Live- Hollywood,99,A,3.0,503,$$,Bowling
+3143,California Yacht Club,90,A,4.0,49,NA,Boating
+3144,The Crab Shack,91,A,4.0,215,$$,Seafood
+3145,Panera Bread,96,A,3.0,410,$,Sandwiches
+3146,Cafe Haus,93,A,3.5,344,$,Desserts
+3147,Creamistry,94,A,4.0,270,$$,Desserts
+3148,Pirozzi's Italian Deli,93,A,4.0,117,$,Italian
+3149,George's Greek Cafe,94,A,4.5,1964,$$,Greek
+3152,Ho Ho Kitchen,91,A,4.0,43,$,Chinese
+3153,Sianto's Bakery Cafe,91,A,4.5,257,$,Mediterranean
+3154,Yellow Vase,94,A,3.0,297,$$,Floral Designers
+3155,Firehouse Restaurant,95,A,4.0,746,$$,Greek
+3158,Circus Sandwich Shop,94,A,4.0,59,$,Sandwiches
+3160,The MV Grab and Go,97,A,4.0,63,$$,American (New)
+3163,Dickey's Barbecue Pit,95,A,3.5,283,$$,Barbeque
+3165,Wok Experience,90,A,4.0,123,$,Chinese
+3166,Milkfarm,95,A,4.5,182,$$,Cheese Shops
+3167,La Chouquette,98,A,4.5,134,$$,Bakeries
+3168,Fortune Express,97,A,3.0,55,$,Chinese
+3169,Rock'N Fish,95,A,3.5,1025,$$,Seafood
+3171,Cal Bowl,98,A,3.0,131,NA,Bowling
+3174,Cruzita's Deli and Cafe,97,A,5.0,197,$,Cafes
+3175,Super Burger,90,A,4.5,717,$,Burgers
+3176,North Italia,96,A,4.5,1500,$$,Pizza
+3177,Fireplace Solutions The Chimney Sweeper,97,A,4.5,124,NA,Chimney Sweeps
+3178,Torihei,90,A,4.0,583,$$,Japanese
+3179,Pollo Gordo,94,A,3.5,49,$,Mexican
+3182,Fist of Fusion,97,A,4.0,156,$$,Asian Fusion
+3183,Sports Harbour,90,A,4.0,66,$$,Sports Bars
+3184,Ventura West Car Wash,99,A,3.0,269,NA,Car Wash
+3185,The Gourmet Soup Kitchen,99,A,5.0,102,$,Soup
+3186,Guisados,92,A,4.5,2277,$,Mexican
+3187,Sonny's Hideaway,95,A,4.0,360,$$,Cocktail Bars
+3188,Izakaya Sasaya,93,A,4.0,445,$$,Izakaya
+3189,Board House Coffee,97,A,4.0,111,$,Coffee & Tea
+3190,Ohana Hawaiian BBQ,90,A,3.0,130,$,Hawaiian
+3191,The Cajun Bayou,91,A,4.0,67,$$,Cajun/Creole
+3192,President Thai Cafe,95,A,4.0,513,$$,Thai
+3193,Lily's Tacos,94,A,3.5,110,$,Mexican
+3194,Neno's Norooz,93,A,4.0,155,$$,Persian/Iranian
+3195,Hana Kitchen Azusa,83,B,4.0,137,$,Asian Fusion
+3196,Yogurtland,94,A,4.0,203,$,Ice Cream & Frozen Yogurt
+3197,Killer Noodle Tsujita,91,A,4.0,473,$$,Ramen
+3198,Whole Foods Market 365,95,A,3.5,103,$$,Grocery
+3199,Miya Sushi,97,A,4.5,334,$$,Sushi Bars
+3200,Hotel Mdr A Doubletree Hotel,97,A,3.5,142,$$,Hotels
+3202,Whisper Lounge,93,A,4.0,442,$$,Lounges
+3204,Tasty Donuts and Cafe,95,A,4.0,104,$,Donuts
+3207,The Hive,90,A,4.5,484,$$,Juice Bars & Smoothies
+3208,Los 3 Pollos,96,A,4.0,57,$,Mexican
+3211,Alchemist Coffee Project,96,A,4.0,946,$$,Coffee & Tea
+3213,Ladybug Tea House,85,B,4.0,548,$,Coffee & Tea
+3215,Pho 22,96,A,3.0,225,$,Vietnamese
+3217,The Golden Owl,96,A,4.5,304,$,Burmese
+3218,The Noodle,87,B,2.5,283,$$,Noodles
+3220,Osteria Venice West,90,A,4.5,428,$$$,Pizza
+3221,Thai Valley,97,A,4.0,108,$$,Thai
+3222,Freshway Pizza,96,A,4.0,49,$$,Pizza
+3223,Fairfield Inn & Suites By Marriott,99,A,4.0,82,$$,Hotels
+3224,LAX Terminal 2,97,A,2.5,99,NA,Airport Terminals
+3226,Wendy's Place,95,A,4.0,325,$,Diners
+3229,BROKEN MOUTH | Lee's Homestyle,97,A,5.0,366,$,Asian Fusion
+3232,El Patron,96,A,3.5,722,$$,Mexican
+3234,Blaze Fast-Fire'd Pizza,93,A,3.0,144,$$,Salad
+3235,El Azteca Taqueria,87,B,3.0,43,$,Mexican
+3236,Ronin Pest Control,96,A,4.5,489,NA,Pest Control
+3238,Al-Noor,95,A,4.5,795,$$,Indian
+3239,Appu's Cafe,98,A,5.0,437,$,Vegan
+3240,Gelato-go - Beverly Hills,94,A,5.0,52,$$,Gelato
+3241,Peking Restaurant,94,A,4.0,396,$$,Chinese
+3242,Maple Block Meat Co,90,A,4.0,1056,$$,Barbeque
+3243,Whole Foods Market,98,A,3.0,302,$$$,Grocery
+3245,Honda Of Hollywood,94,A,3.5,390,NA,Car Dealers
+3246,Made by Meg,97,A,4.5,80,$$,American (New)
+3247,Bishamon Japanese Restaurant & Karaoke Lounge,90,A,3.5,266,$$,Karaoke
+3248,Pier69 AYCE SUSHI,97,A,4.0,208,$$,Korean
+3249,Bottega Louie,99,A,4.0,15795,$$,Italian
+3251,Umami Burger - Arts District,88,B,3.5,617,$$,American (New)
+3252,Pollos Kikiryki,97,A,3.5,233,$$,Peruvian
+3255,New Lucky,91,A,3.5,233,$$,Seafood
+3256,Pam's Donuts & Ice Cream,95,A,4.5,51,$,Donuts
+3259,China Tasty & BBQ,90,A,3.5,46,$$,Chinese
+3260,Made by Meg,95,A,4.5,80,$$,American (New)
+3262,Hot Spicy Dip,85,B,4.5,153,$$,Hot Pot
+3263,Boba Master,98,A,4.0,143,$,Bubble Tea
+3264,Zelda's Corner,91,A,4.5,427,$,Sandwiches
+3265,Golden Pouch,94,A,4.0,611,$$,Dim Sum
+3266,TownePlace Suites by Marriott Los Angeles LAX/Manhattan Beach,98,A,2.5,87,$$,Hotels
+3268,BCD Tofu House,92,A,4.0,3457,$$,Korean
+3269,RJM Mexican Grill,92,A,4.5,290,$,Mexican
+3271,Chyn King,90,A,3.0,255,$$,Chinese
+3272,Winsome,93,A,3.5,400,$$,American (New)
+3273,Juanito's Tamales,92,A,3.5,82,$,Mexican
+3275,Omni Los Angeles Hotel at California Place,96,A,4.0,622,$$$,Hotels
+3276,Hyatt House Los Angeles - LAX - Manhattan Beach,91,A,3.0,104,$$,Hotels
+3277,Moore's Delicatessen,95,A,3.5,312,$$,Delis
+3278,Pablito's Kitchen,95,A,4.5,662,$$,Peruvian
+3279,Jeni's Splendid Ice Creams,98,A,4.5,133,$$,Ice Cream & Frozen Yogurt
+3280,The Alumni Sports Restaurant,95,A,4.5,82,$,Sports Bars
+3281,Luigi al Teatro,91,A,4.5,112,$$$,Italian
+3282,Cheetahs,97,A,3.0,76,$$,Adult Entertainment
+3287,Sweet Retreat Donuts,96,A,4.5,283,$,Donuts
+3288,Olympic Cafe - House of Breakfast,92,A,3.5,231,$,Breakfast & Brunch
+3289,Border Grill Downtown LA,90,A,3.5,923,$$,Mexican
+3290,Connie & Ted's,94,A,4.0,1717,$$$,Seafood
+3291,Moon Juice,97,A,4.5,52,$$$,Juice Bars & Smoothies
+3293,Smorgasburg,92,A,4.0,800,$$,Flea Markets
+3294,Georgie's Mediterranean Cuisine,93,A,4.5,717,$,Mediterranean
+3295,Seashore Chinese Restaurant,90,A,3.5,214,$$,Chinese
+3296,Cafe Rio,91,A,3.0,553,$,Mexican
+3299,The Vegan Joint,95,A,4.0,774,$,Vegan
+3300,Los Compadres,91,A,4.0,766,$$,Mexican
+3301,Curry House,92,A,3.5,899,$$,Japanese Curry
+3302,Salad Farm,90,A,3.5,330,$$,Sandwiches
+3305,Poquito Mas,96,A,3.0,183,$,Mexican
+3307,Shirin Bakery,94,A,5.0,221,$$,Bakeries
+3308,It's Boba Time,92,A,4.0,62,$,Shaved Ice
+3311,Fahrenheit LA,93,A,4.5,92,$,Pizza
+3313,Kabab Way,90,A,4.0,365,$,Middle Eastern
+3315,The Jeremy West Hollywood,95,A,4.0,81,$$$,Hotels
+3316,The Varnish,99,A,4.0,1129,$$,Lounges
+3318,Cathedral of Our Lady of the Angels,96,A,4.0,199,NA,Churches
+3319,Aloha Sushi,95,A,4.5,205,$$,Japanese
+3320,Miyako Sushi,94,A,4.0,276,$$,Sushi Bars
+3321,Lot 1 Cafe,93,A,4.0,241,$$,Music Venues
+3322,The Edison,94,A,3.5,2988,$$$,Cocktail Bars
+3323,Bravo's Charburgers,92,A,4.0,139,$,Burgers
+3324,Pizzeria Mozza,94,A,4.0,3994,$$,Pizza
+3325,Mama Hong's Vietnamese Kitchen,90,A,4.0,791,$$,Vietnamese
+3326,25 Degrees,91,A,3.5,1805,$$,Burgers
+3328,Truman House Tavern,97,A,4.5,156,$$,Gastropubs
+3329,Target,98,A,3.0,460,$$,Department Stores
+3330,Wingstop,92,A,2.5,81,$$,Chicken Wings
+3331,Bluewater Grill - Avalon,82,B,4.0,1364,$$,Seafood
+3332,Gatten Sushi,91,A,3.0,400,$$,Sushi Bars
+3335,Grow DTLA,93,A,4.0,49,$$,Organic Stores
+3336,Lajamaya Salvadorean Restaurant,92,A,3.5,73,$,Latin American
+3338,Lechon de Manila,92,A,4.5,161,$,Filipino
+3339,Uncle Tetsu Japanese Cheesecake,83,B,3.5,1007,$,Japanese
+3340,Bootleg Bar & Theater,97,A,3.5,242,$,Music Venues
+3341,Tj's Submarines,99,A,4.0,182,$,Sandwiches
+3343,Dragon Garden Chinese Cuisine,90,A,4.0,75,$,Chinese
+3344,Love Sushi,90,A,3.5,196,$$,Sushi Bars
+3345,Lazy Brewing Company,93,A,4.5,103,$,Coffee & Tea
+3346,Hennessey's Tavern,95,A,3.5,716,$$,Irish
+3348,Jersey Mike's Subs,92,A,3.0,63,$$,Delis
+3349,Aroma Coffee & Tea,94,A,4.0,2648,$$,Coffee & Tea
+3350,The Claremont Club,94,A,3.5,107,NA,Gyms
+3351,Jenny's Thai Restaurant,94,A,3.5,117,$,Thai
+3355,Los Balcones,94,A,3.5,386,$$,Peruvian
+3357,Patty's Cafe,94,A,4.5,100,$,Mexican
+3358,Tierra Mia Coffee,97,A,4.0,528,$,Coffee & Tea
+3359,"Laurent's ""Le"" Coffee Shop",99,A,4.5,78,$,Coffee & Tea
+3360,Kai Ramen Alhambra,90,A,4.0,635,$$,Ramen
+3361,L & L Hawaiian BBQ,94,A,3.0,150,$,Hawaiian
+3362,ONE80 PIZZERIA,93,A,4.0,66,$$,Pizza
+3363,Petrillo's Pizza Restaurant,98,A,3.5,1112,$$,Pizza
+3364,R & R Soul Food Restaurant,91,A,3.5,422,$$,Soul Food
+3365,Las Anitas Restaurant,96,A,3.5,173,$$,Mexican
+3366,La Casita Olvera,90,A,4.5,577,$$,Mexican
+3367,Dan Tana's,93,A,3.5,764,$$$,Italian
+3368,Indra Restaurant,91,A,3.5,194,$$,Thai
+3369,Pasta Roma,93,A,3.5,393,$,Italian
+3370,Guelaguetza Restaurante,97,A,4.0,1796,$$,Mexican
+3371,Pressed Juicery,99,A,4.0,107,$$,Juice Bars & Smoothies
+3374,Siam Chan,94,A,3.5,638,$,Thai
+3376,Happy Harbor Restaurant,80,B,3.0,740,$$,Dim Sum
+3377,The Coffee Bean & Tea Leaf,92,A,3.0,89,$,Coffee & Tea
+3379,The Pancake Factory,95,A,3.5,211,$$,Breakfast & Brunch
+3380,Halal Boys,96,A,4.5,82,$$,Mediterranean
+3382,Tak-e sushi & rolls,84,B,4.5,48,$$,Sushi Bars
+3383,La Maria,96,A,4.0,287,$$,Colombian
+3384,Kountry Folks,90,A,4.0,290,$,Breakfast & Brunch
+3385,Road To Seoul,90,A,4.0,3484,$$,Korean
+3386,Tomboy's World Famous Chili Hamburgers,94,A,4.0,172,$,Burgers
+3388,Urbane Cafe,98,A,4.5,513,$,Sandwiches
+3390,Hae Jang Chon Korean BBQ Restaurant,91,A,4.0,4378,$$,Korean
+3391,Bagel Factory,95,A,3.5,125,$,Coffee & Tea
+3392,Seven Grand,97,A,4.0,2046,$$,Lounges
+3394,Pho Hana Vietnamese Cuisine,95,A,3.5,257,$,Vietnamese
+3395,Fruiggies,90,A,3.5,63,$,Juice Bars & Smoothies
+3396,Ruby BBQ Food,95,A,4.0,73,$,Barbeque
+3397,Gangnam Korean BBQ,90,A,3.5,307,$$,Korean
+3398,California Science Center,99,A,4.0,1373,NA,Children's Museums
+3399,A&W Seafood Restaurant,90,A,3.5,460,$$,Seafood
+3402,Seven Grand,90,A,4.0,2046,$$,Lounges
+3403,Dong Nae Gil,92,A,4.0,54,$$,Korean
+3404,Half & Half Good Old Time,98,A,4.0,168,$,Taiwanese
+3405,Valley Produce Market,97,A,3.5,159,$,Grocery
+3407,G&K Burgers,93,A,3.5,87,$,Burgers
+3408,Rainbow Donuts,94,A,4.0,93,$,Bakeries
+3409,Bud's Deli,96,A,3.5,135,$$,Delis
+3410,Pizza Studio,93,A,4.0,206,$,Pizza
+3412,Waterlily Cafe,97,A,3.0,91,$$,Coffee & Tea
+3413,Green Zone,92,A,4.0,158,$$,Asian Fusion
+3415,Iroha Sushi of Tokyo,90,A,4.0,941,$$$,Sushi Bars
+3416,Pastries By Edie,94,A,4.0,310,$$,Bakeries
+3418,The Yoga Collective,97,A,4.5,221,NA,Yoga
+3419,Lil' Simmzy's,91,A,4.0,117,$$,Bars
+3420,Barone's,93,A,3.5,659,$$,Italian
+3421,Nova's Grill,95,A,3.5,244,$,Fast Food
+3424,Urth Caffé- Melrose,92,A,4.0,2613,$$,Sandwiches
+3425,Fred 62,100,A,3.5,2159,$$,Diners
+3427,The Source Cafe,96,A,4.0,425,$$,Juice Bars & Smoothies
+3428,Halfway House Cafe,95,A,4.0,164,$$,American (Traditional)
+3429,Deli Sis,90,A,4.5,77,$,Delis
+3430,Arto's Broadway Deli,95,A,4.5,52,$,Delis
+3431,Yalla Mediterranean,93,A,4.0,306,$$,Mediterranean
+3432,The Galley,92,A,3.5,404,$$,Seafood
+3433,Q Sushi,96,A,4.0,195,$$$$,Japanese
+3434,Vincenti Ristorante,95,A,4.0,193,$$$,Italian
+3435,La Tapatia Mexican Grill,87,B,4.5,300,$,Mexican
+3438,Toca Madera,92,A,4.0,1585,$$$,Cocktail Bars
+3439,Mimi's Cafe,96,A,3.0,406,$$,Breakfast & Brunch
+3440,Cafe Spot,90,A,3.0,179,$$,Coffee & Tea
+3441,My Father's BBQ,92,A,3.5,365,$$,Southern
+3442,Cheng Du Restaurant,91,A,3.5,291,$$,Chinese
+3444,S & P Restaurant & Sports Bar,90,A,3.5,243,$$,Sports Bars
+3445,Jamba Juice,98,A,3.5,70,$,Juice Bars & Smoothies
+3446,Sugar Suite,96,A,3.5,107,$,Bars
+3447,Urth Caffé - Santa Monica,92,A,4.0,3069,$$,Breakfast & Brunch
+3448,Max's Mexican Cuisine,95,A,4.0,704,$$,Mexican
+3449,CoCo Fresh Tea & Juice,97,A,3.5,140,$,Coffee & Tea
+3450,Cafe Sierra,93,A,3.5,760,$$$,American (New)
+3451,Ramona's Mexican Food Products,97,A,3.5,66,$,Mexican
+3452,Jonathan Club,90,A,4.0,93,NA,Venues & Event Spaces
+3454,Mariscos Vallarta,95,A,4.0,106,$$,Seafood
+3456,Ostioneria El Compa,94,A,4.5,93,$$,Mexican
+3458,sweetgreen,96,A,4.0,125,$$,Salad
+3459,It's Boba Time,95,A,4.0,732,$,Coffee & Tea
+3460,Fat Dog,91,A,4.0,541,$$,American (New)
+3461,California Chicken Cafe,98,A,3.5,702,$$,American (New)
+3463,U2 Cafe & BBQ,83,B,3.5,287,$,Chinese
+3464,Golden Farms,90,A,2.5,77,$$,Grocery
+3465,Lemonade,91,A,3.5,478,$$,American (New)
+3466,Yamato Restaurant,93,A,3.0,394,$$,Japanese
+3467,I Love Boba,100,A,4.0,221,$,Coffee & Tea
+3468,China Bowl Express,93,A,4.0,61,$,Chinese
+3469,Ludingji Noodles,90,A,4.0,47,$$,Chinese
+3470,One Zo,90,A,3.5,423,$,Bubble Tea
+3471,Nelly's Mexican Food,96,A,4.5,109,$,Mexican
+3472,Igloo Parlor,96,A,4.0,380,$$,Desserts
+3473,Philly West Bar & Grill,97,A,4.0,206,$,American (Traditional)
+3475,T TO TEA,96,A,4.5,210,$,Bubble Tea
+3476,Mendocino Farms,98,A,4.5,710,$$,Sandwiches
+3478,El Buen Gusto Restaurant,93,A,3.5,389,$,Salvadoran
+3479,The Lobster Trap,81,B,4.0,1494,$$,Seafood
+3480,Philipo's Pizza & Pasta,92,A,4.5,215,$,Pizza
+3481,Nina's Mexican Food,97,A,4.0,304,$,Mexican
+3482,Golden Bowl,90,A,3.5,98,$,Fast Food
+3483,Glendale Centre Theatre,97,A,4.5,113,NA,Performing Arts
+3486,Cinco De Mayo,90,A,3.5,563,$,Mexican
+3487,Applebee's Grill + Bar,98,A,2.5,290,$$,American (Traditional)
+3490,PIPS On La Brea,90,A,3.5,389,$$,Jazz & Blues
+3491,Frank N Hanks,93,A,4.0,278,$,Dive Bars
+3492,Dave's Hot Chicken,99,A,4.5,1193,$$,Chicken Shop
+3493,Golden Wok,92,A,3.0,51,$,Chinese
+3497,Beeps Fast Food,90,A,4.0,605,$,Fast Food
+3499,Tommy's Original World Famous Hamburgers,95,A,4.0,1142,$,Burgers
+3500,Mama Lu's Dumpling House,84,B,4.0,2223,$,Chinese
+3501,Daichan,92,A,4.5,837,$$,Japanese
+3504,The Canyon Club,96,A,2.5,437,$$,Music Venues
+3505,Waikiki Hawaiian Grill,90,A,4.0,176,$,Hawaiian
+3506,Ruby's Diner,91,A,3.5,182,$$,Diners
+3507,Blaze Fast-Fire'd Pizza,94,A,4.0,223,$,Salad
+3510,El Pollo Loco,98,A,1.5,44,$,Fast Food
+3511,Cabbage Patch,94,A,4.0,389,$$,American (New)
+3512,Jinky's Kanan Cafe,97,A,3.5,476,$$,Breakfast & Brunch
+3514,Ivy At The Shore,90,A,3.0,581,$$$,American (New)
+3515,Papa John's Pizza,97,A,2.0,53,$$,Pizza
+3516,California Seafood Pub,97,A,4.0,92,$$,Cajun/Creole
+3517,Blue Star,92,A,3.5,509,$$,Donuts
+3518,DK's Donuts & Bakery,96,A,4.0,1935,$,Donuts
+3519,Subway,97,A,2.5,56,$,Fast Food
+3521,El Buen Gusto,94,A,4.0,138,$$,Mexican
+3522,Shancheng Lameizi,93,A,3.5,205,$$,Szechuan
+3523,Bangkok Grill,91,A,4.0,313,$,Thai
+3524,Los Angeles County Museum of Art,97,A,4.5,1753,NA,Art Museums
+3525,The Virgil,94,A,4.0,271,$$,Lounges
+3526,XINJIANG BBQ,94,A,4.0,60,$$,Barbeque
+3527,The Pizza Cookery,94,A,3.0,246,$$,Pizza
+3528,Rubio's Bakery,90,A,4.0,50,$,Bakeries
+3529,1212 Santa Monica,90,A,4.0,601,$$,Cocktail Bars
+3530,The Crab Shack,90,A,4.0,913,$$,Cajun/Creole
+3531,Rice,90,A,4.0,436,$$,Japanese
+3532,Teriburger,90,A,3.5,71,$,Burgers
+3533,The Coffee Bean & Tea Leaf,96,A,4.0,195,$,Coffee & Tea
+3534,At Home Kitchen,90,A,4.5,350,$,Japanese
+3535,Denny's,93,A,2.0,144,$$,Diners
+3536,Rock Dog and Cat,95,A,5.0,162,NA,Pet Stores
+3537,E&J Yummy Kitchen,81,B,4.0,155,$,Cantonese
+3538,Rice Things,91,A,3.5,851,$,Japanese
+3539,Alcove Café & Bakery,96,A,4.0,4004,$$,Bakeries
+3540,Mariscos Chente,91,A,4.0,54,$$,Mexican
+3541,Larry's,94,A,3.5,535,$$,Gastropubs
+3542,Son of a Gun,94,A,4.0,1590,$$$,Seafood
+3545,Deli-cious Deli & Catering,100,A,4.5,183,$,Delis
+3546,Veggie Life Restaurant,90,A,4.0,141,$,Vegetarian
+3548,Lemon Tree Chinese Cuisine,95,A,3.0,87,$$,Chinese
+3549,Village Vault Restaurant,93,A,3.5,99,$,American (Traditional)
+3550,Spiro's Burgers,91,A,4.0,46,$,Burgers
+3551,Louvre Banquet Hall,98,A,3.5,57,NA,Venues & Event Spaces
+3552,Carson Buffet,81,B,3.0,219,$$,Buffets
+3554,M Grill,98,A,4.0,1780,$$$,Brazilian
+3555,El Cartel,90,A,4.0,388,$,Mexican
+3556,Pop's Cafe,91,A,4.0,511,$,Breakfast & Brunch
+3557,Tavern 101 Grill & Tap House,93,A,4.0,404,$$,Bars
+3558,Pieology Pizzeria,94,A,3.5,156,$,Pizza
+3560,Spitz - Little Tokyo,91,A,4.0,1547,$$,Mediterranean
+3561,Jersey Mike's Subs,98,A,3.5,183,$,Sandwiches
+3562,El Tarasco Restaurant,92,A,4.0,454,$,Mexican
+3563,The Beirut Mix,96,A,4.0,475,$$,Mediterranean
+3564,Ace Hotel,97,A,3.5,563,$$,Hotels
+3565,Kreation Organic Juicery,96,A,4.5,52,$$,Juice Bars & Smoothies
+3566,Ariya Thai Kitchen,90,A,4.0,160,$,Thai
+3568,Flying Rice Asian Kitchen,96,A,4.5,140,$,Asian Fusion
+3569,Umami Burger - Arts District,91,A,3.5,617,$$,American (New)
+3570,Taco Joe Mexican Grill,92,A,3.0,95,$,Mexican
+3571,The Coffee Bean & Tea Leaf,92,A,3.5,108,$,Coffee & Tea
+3572,Bui Sushi,95,A,4.0,254,$$,Sushi Bars
+3573,Carnival Imagination Cruise Ship,94,A,3.0,160,NA,Travel Services
+3574,Mexico Lindo,96,A,4.0,238,$,Mexican
+3575,Scarantino's Italian Inn,92,A,4.0,326,$$,Italian
+3577,Zero X,91,A,4.5,586,$,Coffee & Tea
+3579,Wood Ranch BBQ & Grill,99,A,4.0,780,$$,Barbeque
+3580,Half and Half Tea Express,97,A,3.5,280,$,Coffee & Tea
+3581,Shikibu Restaurant,97,A,4.0,328,$$,Sushi Bars
+3582,Blu Jam Cafe,95,A,4.5,448,$$,Cafes
+3583,Cake Sensations,97,A,4.0,297,$$,Bakeries
+3585,Chop Stop,99,A,4.0,290,$,Salad
+3587,Pitchoun!,90,A,4.0,776,$$,Cafes
+3588,KB Pizza and More,93,A,3.5,55,$,Pizza
+3589,Kinza Sushi,90,A,4.5,530,$$,Sushi Bars
+3590,Denny's,93,A,1.5,151,$$,Diners
+3592,La Penita Restaurant,91,A,4.0,85,$,Mexican
+3594,Fish Dish,92,A,3.5,425,$$,Seafood
+3596,Ma Jing's Eatery,83,B,3.5,47,$,Filipino
+3597,Rice Wok,90,A,4.0,346,$,Chinese
+3598,Poppy + Rose,92,A,4.0,1846,$$,Breakfast & Brunch
+3600,Le Pain Quotidien,93,A,3.5,301,$$,Bakeries
+3602,Fox's,93,A,3.5,164,$$,Breakfast & Brunch
+3603,The Bazaar by José Andrés,96,A,4.0,3633,$$$$,Spanish
+3607,Flowerboy Project,94,A,4.0,69,$,Cafes
+3608,Tortas Ahogadas Las Originales,94,A,4.0,221,$,Mexican
+3611,Brioche Cafe,93,A,4.0,99,$,Coffee & Tea
+3613,El Pollo Peruano,94,A,4.5,91,$$,Peruvian
+3614,Caffe Latte,95,A,4.0,188,$$,Breakfast & Brunch
+3615,Coconut Thai Cuisine,96,A,4.0,156,$$,Thai
+3616,Big Mouth Pizza,92,A,4.0,76,$$,Pizza
+3617,Swiss Park Banquet Center,96,A,4.0,71,NA,Venues & Event Spaces
+3618,Bison Burger,96,A,4.0,50,$$,Food Trucks
+3619,Antigua Bread,90,A,4.0,269,$,Bakeries
+3624,Burger City Grill,100,A,4.0,681,$,Burgers
+3625,Mike's Deli,90,A,4.5,621,$,Delis
+3626,Taste of India,95,A,4.0,283,$$,Indian
+3628,999 Mongolian BBQ,83,B,4.0,89,$,Mongolian
+3629,Sol Maya,90,A,4.0,451,$,Salvadoran
+3630,Cortez Brothers,92,A,4.0,99,$,Mexican
+3631,zpizza Taproom,91,A,4.0,185,$$,Pizza
+3632,Vaquero Mexican Grill,91,A,4.0,212,$,Mexican
+3634,Asian Star Buffet,90,A,2.5,218,$,Buffets
+3635,K C Donut,99,A,4.5,74,$,Donuts
+3638,Pi on Sunset,92,A,3.5,298,$$,Mediterranean
+3639,Honeymee - Gardena,98,A,4.0,513,$,Desserts
+3640,Palos Verdes Golf Club,90,A,4.0,47,NA,Golf
+3642,Marin Cafe,90,A,5.0,72,$,Coffee & Tea
+3643,Wingstop,100,A,3.0,85,$$,Chicken Wings
+3644,Cook's Tortas,94,A,4.0,2118,$$,Mexican
+3647,Continental Gourmet Market Lomita,90,A,4.5,246,$,Empanadas
+3648,Sushiko,91,A,4.0,201,$$,Sushi Bars
+3649,Chinese Deli,95,A,4.0,54,$,Delis
+3650,The Bullet,96,A,4.0,67,$,Gay Bars
+3651,Good Shine Kitchen,94,A,3.5,124,$,Chinese
+3652,Kabab Curry of India,90,A,3.5,219,$$,Indian
+3653,Clifton's Republic,88,B,3.0,1862,$$,Bars
+3654,Casa Torres Restaurant And Cantina,91,A,3.0,270,$$,Mexican
+3656,One Paleo Delivers,95,A,4.5,54,$$,Food Delivery Services
+3657,Hakata Ikkousha,92,A,4.0,398,$$,Ramen
+3658,Ronnie's Diner,90,A,4.0,569,$,Diners
+3659,FishBar,91,A,4.0,1486,$$,Seafood
+3660,Study Hall,93,A,4.0,143,$$,Burgers
+3662,Aura Thai Hollywood,95,A,4.0,140,$,Salad
+3663,Local Kitchen & Wine Bar,93,A,4.0,241,$$,Wine Bars
+3664,Grassroots Natural Market & Kitchen,94,A,4.0,368,$$,Specialty Food
+3665,Island Pacific Grill,98,A,4.0,165,$,Hawaiian
+3666,La Gondola Kosher Restaurant and Catering,92,A,3.5,198,$$$,Italian
+3667,Seongbukdong,92,A,4.0,1043,$$,Korean
+3668,Pho Hana Restaurant,93,A,3.5,345,$,Vietnamese
+3669,PokiNometry,95,A,4.5,568,$,Poke
+3670,Mongol King,91,A,3.5,189,$$,Buffets
+3672,Rubio's Coastal Grill,92,A,3.5,115,$,Mexican
+3673,Touhmi,90,A,3.5,196,$$,Korean
+3674,El Indio Azteca,96,A,4.0,68,$,Mexican
+3675,Boba Cove & Cafe,90,A,4.5,338,$,Cafes
+3676,Fogo de Chão Brazilian Steakhouse,91,A,4.0,3588,$$$$,Steakhouses
+3677,C&O Trattoria,95,A,4.0,3096,$$,Italian
+3678,Twinkle Brown Sugar,90,A,4.0,1142,$,Coffee & Tea
+3679,The Glass House,96,A,3.5,342,$$,Music Venues
+3681,Abhiruchi Grill,80,B,4.5,125,$$,Indian
+3683,Asia Buffet,84,B,2.5,152,$$,Chinese
+3684,Bar Nineteen 12,98,A,3.5,57,$$$$,Lounges
+3685,Aoki Japanese Restaurant,94,A,3.5,92,$$,Japanese
+3686,Sqirl,94,A,4.0,1700,$$,Coffee & Tea
+3687,Khinkali House,90,A,4.5,103,$$,Armenian
+3688,Tar & Roses,93,A,4.5,1981,$$$,American (New)
+3689,Momota Ramen House,91,A,4.5,167,$$,Ramen
+3691,BBQ Chicken,90,A,3.5,273,$$,Barbeque
+3693,IHOP,97,A,3.0,168,$$,American (Traditional)
+3694,Perry's Cafe & Bike Rental,96,A,3.0,47,$$,Cafes
+3695,An Indian Affaire,97,A,4.5,435,$$,Indian
+3696,Night + Market Song,95,A,4.0,837,$$,Thai
+3697,Hikari Sushi,92,A,4.0,829,$$,Sushi Bars
+3698,Uno Tea House,95,A,4.5,280,$,Juice Bars & Smoothies
+3699,Flame International Kabob House,90,A,4.0,378,$$,Mediterranean
+3700,Wences Bistro,90,A,4.0,48,$$,Italian
+3701,Continental Burgers,96,A,3.5,185,$,Burgers
+3702,Cilantro Lime,94,A,4.5,262,$,Mexican
+3704,Ajumma,95,A,4.5,341,$$,Asian Fusion
+3705,Bottega Louie,93,A,4.0,15795,$$,Italian
+3706,M'Dear's Bakery and Bistro,91,A,3.0,190,$$,Bakeries
+3707,Mohawk Bend,90,A,4.0,2205,$$,Beer Bar
+3708,The Comedy Store,96,A,3.5,617,$$,Comedy Clubs
+3711,The Smoothie Stop,95,A,3.5,62,$,Juice Bars & Smoothies
+3712,Matcha-cha,91,A,4.0,148,$,Desserts
+3713,Caza Tacos Restaurant,91,A,4.5,88,$,Mexican
+3714,Wolfdown,95,A,4.0,147,$$$,American (New)
+3715,Sharky's Woodfired Mexican Grill,98,A,4.0,293,$$,Mexican
+3716,Domino's Pizza,93,A,2.5,70,$,Pizza
+3717,"Conservatory For Coffee, Tea & Cocoa",90,A,4.5,943,$,Coffee & Tea
+3718,Bar Uerukamu,96,A,4.5,51,$$$,Japanese
+3719,Dolsot,94,A,4.5,100,$$,Korean
+3722,Tierra Cafe,91,A,4.0,164,$,Vegetarian
+3723,La Joconde Pastry,97,A,4.5,115,$,Bakeries
+3724,Diner On Main,91,A,3.5,576,$$,Diners
+3726,Sampa's Gourmet Pizza,97,A,5.0,106,$$,Pizza
+3728,Big Mama's & Papa's Pizzeria and Tavern,93,A,3.5,159,$$,Pizza
+3729,El Faro Tacos,91,A,4.0,285,$,Mexican
+3731,Rakkan Ramen-Redondo Beach,94,A,4.5,220,$$,Ramen
+3732,Tender Grill Cafe,97,A,4.5,257,$,Mediterranean
+3733,Brickworks Roasthouse & Grill,80,B,4.0,496,$$,American (Traditional)
+3734,KazuNori  | The Original Hand Roll Bar,96,A,4.5,2305,$$,Sushi Bars
+3739,Pinocchio In Cucina,96,A,4.0,157,$$,Italian
+3740,We Want Tacos Cafe,84,B,4.0,61,NA,Tacos
+3742,Lake Balboa/Anthony C. Beilenson Park,98,A,4.0,299,NA,Parks
+3743,El Jalapeno Tacos,93,A,4.0,122,$,Mexican
+3744,Pepe's Finest Mexican Food,95,A,3.5,308,$,Fast Food
+3747,Carl's Jr.,95,A,2.5,76,$,Fast Food
+3748,Nagoya Sushi,96,A,4.5,59,$$$,Japanese
+3749,Kura Fine Japanese Cuisine,90,A,4.0,300,$$,Japanese
+3750,Swingers Diner,97,A,3.5,1053,$$,Diners
+3753,Hinoki & The Bird,91,A,4.0,1247,$$$,American (New)
+3756,UCLA Dermatology,90,A,3.0,45,NA,Dermatologists
+3757,Lemonade,93,A,3.5,207,$$,American (New)
+3759,AM Cafe,93,A,4.0,143,$,Breakfast & Brunch
+3760,Earthbar,94,A,4.0,148,$,Juice Bars & Smoothies
+3761,Fresh Corn Grill,87,B,4.0,506,$$,American (New)
+3762,China Palace,83,B,3.5,150,$$,Sushi Bars
+3764,Choi Ga Nei Korean BBQ,83,B,4.0,532,$$,Korean
+3766,Karaoke Bleu,96,A,3.5,160,$$,Karaoke
+3767,Tito's Tacos,91,A,3.5,4602,$,Mexican
+3768,Tocaya Organica - Century City,93,A,4.0,149,$$,Tacos
+3769,DK's Donuts & Bakery,96,A,4.0,1935,$,Donuts
+3770,Wexler's Deli,96,A,3.5,246,$$,Delis
+3771,Panda Express,95,A,3.0,84,$,Chinese
+3772,LA's Best Deli & Cafe,94,A,3.5,57,$$,Delis
+3773,Beach City Creamery,97,A,4.0,402,$$,Ice Cream & Frozen Yogurt
+3774,Ono Hawaiian BBQ,93,A,3.0,62,$,Hawaiian
+3775,La Poblana Restaurant,93,A,3.5,193,$,Mexican
+3776,Isaan Station Thai Street Food,91,A,4.0,529,$$,Thai
+3777,Sandy's Tacos & More,92,A,4.0,45,$,Mexican
+3778,Rush Street,92,A,3.5,2011,$$,American (New)
+3779,Popeyes Louisiana Kitchen,94,A,1.5,75,$$,Fast Food
+3782,Brennan's,90,A,4.0,104,$$,American (New)
+3785,Ben & Jerry's,96,A,3.5,47,$$,Ice Cream & Frozen Yogurt
+3786,Jersey Mike's Subs,97,A,3.0,69,$,Sandwiches
+3787,Mendocino Farms,95,A,4.0,78,$$,Sandwiches
+3790,Aliotta's Via Firenze,90,A,4.0,306,$$,Italian
+3791,Thai Aree,92,A,3.5,158,$,Thai
+3793,Victory Bread,90,A,4.5,47,$,Bakeries
+3794,KOBUNGA,97,A,4.5,120,$$,Korean
+3795,Habitat Coffee and Tea,96,A,4.0,330,$$,Breakfast & Brunch
+3799,QQ Kitchen,94,A,3.5,122,$,Taiwanese
+3800,Cabo Cantina,90,A,2.5,759,$$,Mexican
+3801,85°C Bakery Cafe,97,A,3.5,963,$,Bakeries
+3802,Berlins,91,A,4.5,834,$,Bubble Tea
+3803,Black Cow Cafe,93,A,4.0,1283,$$,American (New)
+3804,Hilton Los Angeles Airport,96,A,2.5,741,$$$,Hotels
+3806,Rick's Drive In & Out,90,A,2.5,174,$,Burgers
+3808,Los Angeles Memorial Coliseum,93,A,3.0,393,NA,Venues & Event Spaces
+3809,Villa Lounge,90,A,2.5,82,$$$,Lounges
+3813,Crock N Kettle,94,A,4.0,118,$,Salad
+3815,Kirin Buffet & Grill,91,A,2.5,646,$$,Buffets
+3816,Panda Express,98,A,2.5,83,$,Chinese
+3818,Full house Chinese restaurant,93,A,3.0,54,$$,Chinese
+3820,Chicago For Ribs,90,A,3.0,210,$$,Barbeque
+3821,Martha's 22nd Street Grill,96,A,4.0,693,$$,American (Traditional)
+3822,Buddha Belly,92,A,4.0,76,$$,Thai
+3825,Seiwa Market Japanese Grocery,91,A,4.0,47,$$,International Grocery
+3826,Xi'an,94,A,3.5,327,$$,Chinese
+3827,Palms Thai Restaurant,91,A,4.0,2507,$$,Seafood
+3830,Pacific Theaters Vineland Drive-In,99,A,4.0,540,NA,Drive-In Theater
+3831,Juice Budz,95,A,4.5,110,$,Juice Bars & Smoothies
+3833,Japanese Castle,97,A,4.0,194,$$,Sushi Bars
+3835,Diamond Buffet & Grill,92,A,3.5,196,$$,American (Traditional)
+3836,Ray's Tepeyac,96,A,4.0,393,$$,Mexican
+3838,North Hollywood Diner,91,A,3.0,504,$$,Diners
+3839,Byul Gobchang,90,A,4.5,604,$$,Barbeque
+3840,Far Bar,99,A,3.5,1863,$$,Asian Fusion
+3841,Casey's Irish Pub,100,A,3.5,762,$$,Pubs
+3842,Park La Brea Apartments,90,A,2.5,645,NA,Apartments
+3843,Zahle Restaurant,95,A,4.0,199,$$,Lebanese
+3844,Tender Greens,93,A,3.5,457,$$,American (New)
+3846,Fix Cafe,95,A,5.0,47,$,Coffee & Tea
+3847,Thai Dishes,84,B,3.0,412,$$,Thai
+3848,Kyoto Sushi,98,A,3.5,497,$$,Sushi Bars
+3850,Cielito Lindo,95,A,4.0,698,$,Mexican
+3852,Udupi Palace,96,A,3.5,402,$$,Indian
+3853,Angeles La Mejor Mexican Food,99,A,3.0,129,$,Mexican
+3854,The Coffee Bean & Tea Leaf,97,A,4.0,121,$,Coffee & Tea
+3856,The San Franciscan,94,A,4.0,728,$$,Karaoke
+3857,El Charro Restaurant,98,A,4.0,83,$,Mexican
+3859,Sushi Katsu-Ya Encino,98,A,4.0,547,$$,Japanese
+3860,Nook Bistro,90,A,4.0,1040,$$,American (New)
+3862,King's Hawaiian Bakery & Restaurant,90,A,4.0,2762,$$,Bakeries
+3863,Bluebird Brasserie,96,A,4.0,182,$$,Brewpubs
+3864,The Spot Gourmet Catering,94,A,4.5,48,NA,Caterers
+3867,Malek Restaurant & Catering,94,A,4.0,172,$,Persian/Iranian
+3869,Tapioca Express Arcadia,92,A,3.5,218,$,Coffee & Tea
+3871,Robeks Juice,91,A,3.5,90,$,Juice Bars & Smoothies
+3872,Rooter Hero Plumbing,90,A,4.0,88,NA,Plumbing
+3873,Descanso Garden Spa,93,A,4.5,155,$$,Day Spas
+3874,Bottega Louie,92,A,4.0,15795,$$,Italian
+3876,Top Falafel,93,A,4.5,129,$,Middle Eastern
+3877,Bak kung 2 Korean BBQ,92,A,4.0,204,$$,Barbeque
+3878,Baby Bros Pizza & Wings,90,A,4.0,218,$$,Pizza
+3879,The Belmont,91,A,3.5,608,$$,American (Traditional)
+3880,Blue Bottle Coffee,94,A,4.0,537,$$,Coffee & Tea
+3881,Kabab Way,92,A,4.0,365,$,Middle Eastern
+3882,Jersey Mike's Subs,90,A,3.0,265,$$,Sandwiches
+3883,Star Wok,90,A,3.0,55,$,Chinese
+3884,Veracruz Mexican Restaurant,96,A,4.0,89,$,Mexican
+3885,Hannosuke,99,A,4.0,302,$,Japanese
+3886,Go Greek Yogurt,96,A,4.0,140,$,Ice Cream & Frozen Yogurt
+3887,The Oyster Bar SKC,94,A,4.0,587,$$,Cajun/Creole
+3888,"Cafe X2O, Glendora",96,A,4.0,244,$$,Mediterranean
+3889,Antonio's Tacos & Kabob,93,A,4.5,197,$$,Mexican
+3890,Tickle Tree Cafe,95,A,4.0,674,$$,Cafes
+3892,Spitz - Little Tokyo,97,A,4.0,1547,$$,Mediterranean
+3894,Sasoun Bakery,95,A,4.5,51,$,Mediterranean
+3896,WaBa Grill,96,A,3.5,45,$,Fast Food
+3897,ISA Japanese Restaurant,70,C,3.5,463,$$,Sushi Bars
+3898,Sun Ha Jang,95,A,3.5,192,$$,Korean
+3899,Marston's,96,A,3.5,561,$$,Breakfast & Brunch
+3901,Masala Grill,92,A,4.5,141,$$,Indian
+3902,Randy's Donuts,90,A,4.0,50,$,Coffee & Tea
+3903,Sweet Lab,97,A,3.5,208,$$,Ice Cream & Frozen Yogurt
+3904,Denny's,93,A,2.0,131,$$,Diners
+3905,Slater's 50/50 - Pasadena,90,A,4.0,3577,$$,Burgers
+3906,Julie's Pizzeria,93,A,3.5,210,$,Pizza
+3907,Twist Eatery,94,A,4.0,186,$$,Cafes
+3908,Bubble Republic,93,A,4.0,189,$,Taiwanese
+3909,Guisados,94,A,4.5,2277,$,Mexican
+3910,Denny's,93,A,2.0,96,$,American (Traditional)
+3912,Pho 24,90,A,4.0,543,$,Vietnamese
+3914,Spudnuts Donuts,93,A,4.0,139,$,Donuts
+3915,The Edison,94,A,3.5,2988,$$$,Cocktail Bars
+3916,Roxbury Cafe,90,A,4.0,149,$$,Breakfast & Brunch
+3917,Village Pizza,95,A,4.0,236,$,Pizza
+3918,Foothill Cinema 10,97,A,3.5,172,NA,Cinema
+3920,Shin-Sen-Gumi Yakitori -Gardena,90,A,4.5,1097,$$,Japanese
+3921,Balboa Sub Shop,92,A,4.5,208,$,Sandwiches
+3922,Oasis Pupuseria,91,A,3.0,203,$,Latin American
+3923,Hudson House,90,A,4.0,967,$$,Gastropubs
+3924,Señor G's Fresh & Healthy Mexican Food,96,A,4.5,573,$$,Mexican
+3925,Chipotle Mexican Grill,97,A,3.0,145,$,Mexican
+3927,Millennium Biltmore Los Angeles,97,A,3.0,899,$$$,Hotels
+3928,El Pollo Loco,96,A,2.0,71,$,Fast Food
+3929,Brazuca,93,A,4.0,91,$$,Brazilian
+3930,Tommy's Famous Drive-Thru,98,A,3.5,87,$,Burgers
+3931,Koutoubia,91,A,3.5,121,$$$,Moroccan
+3932,Jimmy John's,94,A,3.0,114,$,Delis
+3933,Tamon Sushi,90,A,4.0,87,$$,Japanese
+3934,Boulevard3,98,A,4.0,1252,$$,Dance Clubs
+3935,Beech Street,93,A,3.5,154,$$,Pizza
+3936,Jitlada,98,A,3.5,1792,$$,Thai
+3937,Corner Place,96,A,4.0,879,$$,Korean
+3939,Luchini Pizzeria & Bar,86,B,3.5,93,$,Pizza
+3940,J Spot Comedy Club,91,A,3.0,93,$$,Comedy Clubs
+3942,Mariscos Las Palmas De Colima,96,A,4.0,76,$,Mexican
+3943,Flame Broiler,93,A,3.5,66,$,American (Traditional)
+3944,Nirvana Clinic,90,A,4.5,231,NA,Cannabis Clinics
+3946,The Sweet Swirl,98,A,4.5,121,$,Ice Cream & Frozen Yogurt
+3947,Pinkberry,95,A,4.0,211,$,Ice Cream & Frozen Yogurt
+3948,Jinky's Cafe - Sherman Oaks,91,A,3.5,633,$$,American (Traditional)
+3949,Fantasy Castle,81,B,3.0,103,$$,Adult Entertainment
+3950,Kim Kee Noodle House,95,A,4.0,190,$,Chinese
+3951,Chang'an Restaurant,91,A,4.5,724,$$,Chinese
+3952,Sushi On Brand,95,A,3.5,285,$$,Sushi Bars
+3953,Medrano's Mexican Restaurant,99,A,3.5,67,$$,Mexican
+3954,Spire 73,92,A,3.0,445,$$$,Cocktail Bars
+3955,Sen Asian Kitchen,91,A,2.5,125,$$,Asian Fusion
+3956,Lucky Baldwin's Delirium Cafe,99,A,4.0,241,$$,Pubs
+3957,Soul Restaurant & Bar,96,A,3.5,288,$$,Barbeque
+3958,Randolph's Smoke House,90,A,4.0,66,$$,Barbeque
+3960,Sizzling Thai Kitchen,92,A,4.0,367,$,Thai
+3961,Tomato Patch,98,A,5.0,272,$,Cafes
+3962,"Patrol Masters, Inc.",93,A,1.0,137,NA,Security Services
+3963,Lotus Garden Restaurant,92,A,3.5,111,$$,Chinese
+3964,Sidewalk Grill,96,A,4.5,815,$$,Mediterranean
+3968,71 Above,92,A,4.0,1323,$$$$,American (Traditional)
+3970,Raw Junkies,95,A,5.0,89,$$,Vegan
+3971,Domino's Pizza,91,A,2.5,57,$$,Pizza
+3972,Bob's Country Meats,96,A,4.5,85,$,Meat Shops
+3973,The Poke,92,A,4.0,85,$$,Poke
+3974,Cozy Cafe,92,A,4.5,220,$,Greek
+3975,Warner Grand Theatre,90,A,4.0,75,$$,Performing Arts
+3976,Yogurtland,90,A,4.0,56,$,Ice Cream & Frozen Yogurt
+3977,Fried Rice Express,94,A,3.5,56,$,Chinese
+3978,SKD Tofu House,90,A,4.0,175,$$,Korean
+3979,Domino's Pizza,98,A,3.0,79,$,Pizza
+3980,Larry's Hamburgers,79,C,3.0,63,$,Burgers
+3981,JINYA Ramen Bar,94,A,3.5,472,$$,Ramen
+3982,Los Tres Cochinitos Restaurant,93,A,4.5,136,$,Mexican
+3983,Fatburger,96,A,3.5,78,$$,Burgers
+3984,Pizza Guy,83,B,3.0,74,$,Pizza
+3985,Mariscos San Isidro,92,A,3.5,126,$$,Mexican
+3986,Natalee Thai,94,A,3.5,1201,$$,Thai
+3987,Vintage Cafe,92,A,4.0,243,$$,French
+3989,Chipotle Mexican Grill,99,A,2.0,142,$,Mexican
+3990,Trattoria Allegria,94,A,4.5,186,$$,Italian
+3991,Com Tam Ninh Kieu,97,A,3.5,106,$,Vietnamese
+3992,La Salsa,91,A,3.5,73,$,Mexican
+3994,Bellflower Diner,98,A,4.0,193,$,Breakfast & Brunch
+3995,Veggie Grill,91,A,4.0,303,$$,American (New)
+3996,Muddle & Twist,95,A,4.0,133,$,Barbeque
+3997,Tommy's Original World Famous Hamburgers,97,A,3.0,76,$,Burgers
+3998,Gelatissimo,98,A,4.5,383,$,Desserts
+3999,Farmer Boys,97,A,3.0,80,$,Diners
+4000,Inka Grill,90,A,3.5,760,$$,Peruvian
+4001,Basil Thai Cooking,99,A,3.5,222,$$,Thai
+4002,City Club LA,91,A,4.0,101,NA,Social Clubs
+4003,Tempo Urban Kitchen,97,A,4.5,3770,$$,Tapas/Small Plates
+4007,El Pollo Inka,95,A,4.0,464,$$,Latin American
+4008,El Paraiso,94,A,4.5,43,$,Seafood
+4009,Sara The Wine Bar,96,A,4.5,338,$$,Wine Bars
+4010,Manna Korean BBQ,90,A,3.5,1173,$$,Korean
+4011,AV Veterinary Center,98,A,3.5,175,NA,Veterinarians
+4012,Saint Honore French Bakery,92,A,3.5,71,$$,Bakeries
+4013,Blue Table,98,A,4.5,289,$$,Sandwiches
+4014,Street Food Of Seoul,97,A,4.0,187,$,Asian Fusion
+4015,Zankou Chicken,97,A,3.5,357,$$,Mediterranean
+4016,El Taco Loco,98,A,3.5,123,$,Mexican
+4017,LAC + USC Medical Center,96,A,2.5,45,NA,Medical Centers
+4018,Rosie Thai Cuisine,85,B,3.5,115,$,Thai
+4022,SJ Restaurant,94,A,4.5,57,$,Vietnamese
+4023,Pink's,100,A,3.0,58,$,Hot Dogs
+4025,Love Chicken And Ribs,97,A,4.0,62,NA,Barbeque
+4026,Greenwich Village Pizzeria,94,A,3.0,146,$,Pizza
+4028,Lee Esther's Creole and Cajun Cooking,95,A,4.5,594,$$,Cajun/Creole
+4029,Cavaretta's Italian Groceries,93,A,4.5,657,$,Grocery
+4030,Izakaya & Beer Bar by Ryozanpaku,80,B,3.0,181,$$,Japanese
+4031,Toko Rame Indonesian Restaurant,95,A,4.0,248,$$,Indonesian
+4033,Menchie's Frozen Yogurt,99,A,4.0,89,$,Ice Cream & Frozen Yogurt
+4034,Fuji Grill,95,A,4.0,132,$,Japanese
+4035,Spicy City,93,A,3.5,248,$$,Szechuan
+4036,Brewport Tap House,96,A,4.5,254,$$,Beer Bar
+4037,Cafe Lanka,96,A,4.5,204,$,Indian
+4038,Yang San Bak,90,A,4.0,261,$$,Korean
+4040,R & J's Southern Home Cooking,83,B,3.0,45,$$,Soul Food
+4041,King's Cafe,91,A,4.0,64,$,Coffee & Tea
+4042,Umi by Hamasaku,92,A,4.0,169,$$,Japanese
+4043,Streets Of India Cafe,85,B,4.0,696,$$,Indian
+4044,Westchester Bakery,90,A,4.0,195,$,Bakeries
+4046,Bluesalt Fish Grill,92,A,4.5,373,$$,Seafood
+4047,Mariscos Nayarit,90,A,3.5,78,$$,Mexican
+4048,Seafood Palace,97,A,3.5,63,$$,Seafood
+4049,Bluestone Lane,90,A,4.0,44,$$,Coffee & Tea
+4050,My Thai,90,A,3.5,186,$$,Thai
+4051,Cham Sut Gol Korean BBQ,97,A,4.0,2637,$$,Barbeque
+4052,Alex Theatre,94,A,4.0,95,NA,Performing Arts
+4053,Mohawk Bend,90,A,4.0,2205,$$,Beer Bar
+4055,Hermosa Pie & Cake,97,A,4.5,89,$$$,Bakeries
+4056,Canaan Chinese Cuisine,90,A,4.0,321,$$,Chinese
+4057,Michelle's Donuts,96,A,4.5,60,$,Donuts
+4058,Wienerschnitzel,94,A,3.0,52,$,Hot Dogs
+4059,V Wine Room,95,A,4.5,190,$$,Wine Bars
+4060,Yogurtland,96,A,3.5,49,$,Ice Cream & Frozen Yogurt
+4061,Krazy Korner Restaurant,94,A,4.5,49,$,Juice Bars & Smoothies
+4062,Village Pizzeria,97,A,4.0,1351,$$,Pizza
+4063,Choko,95,A,4.5,50,$,Waffles
+4066,Milk,91,A,4.0,5729,$$,Ice Cream & Frozen Yogurt
+4067,Fair Oaks Burger,96,A,4.5,137,$,Burgers
+4068,Dos Amigos Gardunos Mexican Restaraunt,97,A,3.5,63,$,Mexican
+4069,Pita Bar & Grill,95,A,4.5,730,$$,Mediterranean
+4071,Sam's Hofbrau,99,A,3.0,275,$$,Bars
+4072,El Cariso Golf Course,93,A,3.5,43,$$,Golf
+4074,Francescos Cafe Italia,90,A,3.5,57,$$,Italian
+4075,El Jacalito Oaxaqueño,90,A,4.0,145,$,Mexican
+4076,Sweet Savory Cafe & Bakery,97,A,4.0,92,$,Sandwiches
+4077,The Vine Street Deli,97,A,4.0,134,$$,Coffee & Tea
+4078,Kim Hoa Hue Restaurant,97,A,3.5,99,$,Vietnamese
+4079,Urban Ramen,92,A,3.5,746,$$,Ramen
+4081,Daily Donuts,90,A,4.0,96,$,Donuts
+4082,Leaning Tower Pizza & Pasta,82,B,4.5,403,$$,Pizza
+4083,Moonlight Rollerway Skating Rink,100,A,3.5,418,NA,Skating Rinks
+4084,Kim Chuy Restaurant,91,A,4.0,100,$,Chinese
+4085,Los Arcos,94,A,3.5,70,$,Mexican
+4086,La Paloma Restaurant,93,A,3.5,410,$$,Mexican
+4087,Gold's Gym Downtown Los Angeles,96,A,3.0,733,NA,Gyms
+4088,Raffi's Place,96,A,4.5,3678,$$,Middle Eastern
+4089,Corner Bakery Cafe,96,A,3.0,281,$,Bakeries
+4090,Carnitas Loya Fast Food,93,A,4.0,84,$,Mexican
+4092,iPic Theaters,95,A,4.0,766,NA,Cinema
+4093,Blue Bottle Coffee,98,A,4.0,49,$$,Coffee & Tea
+4094,Blind Barber,94,A,4.0,793,$$,Barbers
+4095,Signature Burger,92,A,3.5,164,$$,Burgers
+4097,Pho NOHO,94,A,4.0,291,$$,Vietnamese
+4099,Chop Stop,99,A,3.5,183,$,Salad
+4100,The VI Tea,99,A,4.0,71,$$,Desserts
+4101,Dok Luck Thai Food,91,A,4.5,76,$,Thai
+4103,Mike's Hamburgers,94,A,3.5,148,$,Burgers
+4104,Chinese Fast Food,93,A,3.5,79,$,Chinese
+4105,Tacos El Unico,97,A,3.5,125,$,Mexican
+4106,Green Zone,83,B,4.0,1682,$$,Asian Fusion
+4108,Johnny's Bar,82,B,4.0,259,$,Bars
+4109,Ring - Baked Tofu Donuts,93,A,4.5,433,$,Donuts
+4111,Highland Park Bowl,93,A,4.0,484,$$,Bowling
+4112,El Pollo Loco,97,A,2.0,65,$,Mexican
+4113,Donuts USA,90,A,4.5,72,$,Donuts
+4114,HaiDiLao Hot Pot,94,A,4.0,790,$$$,Chinese
+4117,Bree's Cakes,97,A,4.5,51,$$,Bakeries
+4118,Wingstop,99,A,3.0,126,$$,Chicken Wings
+4119,Aroma Bakery Cafe,92,A,3.0,834,$$,Bakeries
+4122,Avalon Santa Monica on Main,93,A,4.0,45,NA,Apartments
+4123,Taqueria Mi Ranchito,91,A,5.0,212,$,Food Trucks
+4124,The Baker Bakery & Cafe,96,A,4.0,671,$$,Breakfast & Brunch
+4125,Salathai Restaurant,96,A,4.0,211,$,Thai
+4126,Butler's Coffee,99,A,4.5,104,$,Coffee & Tea
+4128,J K Donuts,97,A,4.5,58,$,Donuts
+4129,Happy Duck House,92,A,3.5,133,$$,Chinese
+4130,Big Mama's & Papa's Pizzeria,96,A,3.5,114,$$,Pizza
+4131,Los Angeles Athletic Club,93,A,4.0,229,$$,Gyms
+4132,Cook's Tortas,91,A,4.0,2118,$$,Mexican
+4133,Tacos Mexico,91,A,4.0,260,$,Mexican
+4134,Sushi Zo,98,A,4.5,236,$$$$,Japanese
+4135,The Boy & The Bear,92,A,4.0,360,$$,Coffee Roasteries
+4136,Jersey Mike's Subs,92,A,3.0,265,$$,Sandwiches
+4137,Bottega Louie,97,A,4.0,15795,$$,Italian
+4138,The Cheesecake Factory,97,A,3.0,1086,$$,American (New)
+4139,Underdogs,91,A,4.0,181,$$,Sports Bars
+4141,Family Fish Market,97,A,4.0,158,$,Seafood Markets
+4144,Highland Park Brewery,94,A,4.0,108,$$,Breweries
+4145,Chili's,99,A,2.5,224,$$,American (Traditional)
+4146,Ameci Pizza & Pasta  - Canyon Country,95,A,4.0,121,$$,Italian
+4147,Bäco Mercat,94,A,4.0,2454,$$,Mediterranean
+4148,King Poke,99,A,4.5,567,$,Japanese
+4149,California Market,91,A,3.5,95,$$,Grocery
+4150,Ronin BBQ Teriyaki,92,A,4.5,303,$$,Barbeque
+4151,Peacock Donuts,95,A,4.0,49,$,Donuts
+4153,Chow King,99,A,2.0,101,$,Filipino
+4154,Beaming Organic Superfood Café,96,A,4.5,87,$$,Juice Bars & Smoothies
+4155,Izakaya Sushi RAN,90,A,4.0,597,$$,Sushi Bars
+4156,Don Jose Mexican Café,93,A,3.5,250,$$,Mexican
+4157,Pacific Fish Grill,90,A,3.5,616,$$,Seafood
+4158,Orleans & York Deli Carson,94,A,4.0,228,$$,Delis
+4160,The Backhouse,92,A,3.5,109,$$,Sushi Bars
+4164,El Tarasco Burrito,95,A,3.0,228,$,Mexican
+4165,Lighthouse Cafe,91,A,4.0,378,$,Breakfast & Brunch
+4166,Yen Sushi & Sake Bar,95,A,4.0,218,$$,Sushi Bars
+4168,Barro's Pizza,95,A,3.5,187,$$,Pizza
+4169,Dino's Burgers,90,A,3.5,424,$,Burgers
+4170,The Kickin' Crab - Los Angeles,90,A,3.5,181,$$,Seafood
+4171,Tuk Tuk Thai,92,A,3.5,399,$$,Thai
+4173,Big Mama's & Papa's Pizzeria - Burbank,97,A,3.0,375,$$,Pizza
+4174,Sushi Ike,96,A,4.0,366,$$$,Sushi Bars
+4175,Newport Seafood Restaurant,94,A,4.0,2585,$$,Chinese
+4176,All India Cafe - West LA,93,A,4.0,459,$$,Indian
+4177,Phuket Thai Restaurant,84,B,3.5,391,$$,Thai
+4178,Tamales Guadalajara,91,A,4.0,62,$,Mexican
+4179,Tierra Mia Coffee,94,A,4.0,747,$,Coffee & Tea
+4180,Firehouse Subs,94,A,4.5,173,$$,Sandwiches
+4181,Tinder's Pizza,96,A,4.5,56,NA,Pizza
+4183,Woodlands Indian Cuisine,95,A,4.5,233,$$,Indian
+4184,Yuchun,91,A,4.5,131,$$,Korean
+4185,La Flor De Izote Restaurant,95,A,3.5,85,$,Spanish
+4187,Wake & Late,90,A,4.5,249,$,Coffee & Tea
+4188,Ms Ruby's Bakery,90,A,4.5,82,$,Bakeries
+4189,Sopita,91,A,4.0,137,$,Korean
+4190,Panera Bread,94,A,3.0,277,$$,Sandwiches
+4191,Submarina California Subs,96,A,3.5,84,$,Sandwiches
+4192,Arts District Brewing Company,92,A,4.0,827,$$,American (New)
+4193,King Poke,91,A,4.5,567,$,Japanese
+4194,The Detour Bistro Bar,95,A,4.0,241,$$,French
+4195,Uncle Joe's Donuts,98,A,4.0,93,$,Donuts
+4196,Delicias San Pedro,83,B,5.0,155,$,Juice Bars & Smoothies
+4197,Blue Bottle Coffee,94,A,4.0,189,$$,Coffee & Tea
+4198,Tea Republic,97,A,3.5,349,$,Taiwanese
+4199,Tastea,92,A,4.0,984,$,Coffee & Tea
+4200,Plan Check Kitchen & Bar,90,A,4.0,1051,$$,Cocktail Bars
+4201,Dong Ting Chun,87,B,3.0,165,$$,Chinese
+4202,Wanderlust Creamery,94,A,4.5,144,$$,Desserts
+4203,Luis' Butcher Shop,92,A,4.0,93,$$,Meat Shops
+4205,Yamato Restaurant,97,A,3.0,586,$$,Japanese
+4207,Woodland Hills Market,95,A,3.5,131,$$,Grocery
+4209,El Puerto Escondido,90,A,3.0,260,$$,Mexican
+4211,Four Sea Restaurant,85,B,3.5,389,$,Chinese
+4212,El Zarape,95,A,4.0,483,$$,Mexican
+4213,Bon Juk,94,A,4.0,374,$$,Korean
+4214,Walnut Bakery,92,A,4.0,52,$,Bakeries
+4216,BJ's Restaurant & Brewhouse,90,A,3.0,929,$$,Pizza
+4217,Koi,91,A,4.0,946,$$$,Japanese
+4219,E.B.'s Beer and Wine,97,A,4.0,54,$$,Sports Bars
+4221,Olio GCM Wood Fired Pizzeria,97,A,4.0,222,$$,Pizza
+4225,Comfort Cafe,97,A,5.0,78,$$,Sandwiches
+4226,Medrano's Mexican Restaurant,92,A,3.0,110,$$,Mexican
+4227,East Buffet,80,B,3.5,293,$$,Buffets
+4228,Yoga Circle Downtown,83,B,5.0,113,NA,Yoga
+4230,Carl's Jr,100,A,3.0,48,$,Fast Food
+4234,Wingstop,98,A,3.5,74,$$,Chicken Wings
+4235,Dickey's Barbecue Pit,95,A,4.0,291,$$,Barbeque
+4236,Fugetsu-Do,94,A,4.5,522,$,Candy Stores
+4237,Ninong's Pastries & Cafe,90,A,3.5,791,$,Bakeries
+4238,Whole Foods Market,96,A,3.0,309,$$$,Grocery
+4239,Chocolate Bash,92,A,3.5,139,$$,Coffee & Tea
+4241,Din Tai Fung,86,B,4.0,2922,$$,Shanghainese
+4244,Alibi East,97,A,3.0,69,$,Gay Bars
+4245,Half & Half Tea Express - Monterey Park,96,A,3.5,2595,$,Juice Bars & Smoothies
+4246,85°C Bakery Cafe,100,A,4.0,66,$,Coffee & Tea
+4248,Press Brothers Juicery,93,A,4.5,175,$$,Juice Bars & Smoothies
+4255,White and Brown,91,A,4.5,113,$,Coffee & Tea
+4256,Aroma Craft Coffee,94,A,4.5,522,$$,Coffee Roasteries
+4257,The Sushi House,96,A,4.0,755,$$,Japanese
+4258,88 Beef Noodle,94,A,3.5,129,$,Szechuan
+4259,UCLA,100,A,4.5,361,NA,Colleges & Universities
+4260,Juice Infusion,92,A,3.0,58,$$,Juice Bars & Smoothies
+4261,Sushi Roku,99,A,4.0,1059,$$$,Sushi Bars
+4265,Tacos El Gavilan,94,A,4.0,297,$,Breakfast & Brunch
+4266,Aharon Coffee & Roasting Co,90,A,4.5,216,$$,Coffee & Tea
+4267,Monster Thai,92,A,4.0,586,$,Thai
+4268,Sea Salt Poke,94,A,4.5,317,$$,Seafood
+4269,Oke Poke,96,A,4.5,174,$,Poke
+4270,Alberto's Mexican Food,90,A,2.0,88,$,Mexican
+4272,Tokyo Town Sushi,95,A,4.0,316,$$,Japanese
+4273,Pressed Juicery,94,A,4.5,166,$$,Juice Bars & Smoothies
+4275,McDonald's,98,A,2.0,58,$,Fast Food
+4276,Peking Wok,82,B,3.0,45,$,Chinese
+4277,Tanner's Coffee,93,A,4.0,240,$,Coffee & Tea
+4278,Joe's Falafel,97,A,4.5,1705,$,Mediterranean
+4280,Apollonia's Pizzeria,95,A,4.0,338,$$,Pizza
+4281,Mrs Winston's Green Grocery,95,A,4.5,119,$$,Sandwiches
+4282,El Taco Rico,94,A,4.0,173,$,Mexican
+4283,Get Shaved,94,A,4.0,626,$,Ice Cream & Frozen Yogurt
+4284,Edy's Burger,95,A,4.0,126,$,Burgers
+4285,Pho Show,95,A,3.0,503,$$,Vietnamese
+4287,Game Sports Bar Restaurant & Lounge,90,A,3.5,356,$$,Sports Bars
+4288,Anarbagh Indian Restaurant,96,A,4.5,479,$$,Indian
+4290,Pho & Chinese Foods,91,A,4.5,76,$,Vietnamese
+4291,Dough Boy's Donuts,95,A,4.0,45,$,Donuts
+4292,Grey & Cash,94,A,4.5,192,$,Breakfast & Brunch
+4293,Panda Express,94,A,2.0,49,$,Chinese
+4294,Lilit Bakery Cafe,97,A,4.0,532,$,Desserts
+4296,Wahoo Chaya,90,A,3.5,126,$$,Japanese
+4297,The Flame Broiler,90,A,2.5,90,$,Fast Food
+4298,Ami Sushi,92,A,3.5,149,$$,Japanese
+4299,Polly's Pies Restaurant,96,A,3.5,283,$$,Bakeries
+4301,Southern Girl Desserts,96,A,4.0,330,$$,Bakeries
+4303,Pho LTK,92,A,4.0,65,$,Noodles
+4304,Embassy Kitchen,91,A,3.5,146,$$,Chinese
+4307,Aura's Xquisit Food Xotic Juices,92,A,4.0,410,$,Juice Bars & Smoothies
+4309,Lu's Garden Restaurant,85,B,3.5,120,$,Cantonese
+4310,Me Gusta Gourmet Tamales,92,A,4.0,192,$,Mexican
+4311,Lucille's Smokehouse Bar-B-Que,96,A,3.5,1092,$$,Barbeque
+4312,Bobo's Hamburgers,96,A,3.5,71,$,Breakfast & Brunch
+4313,Fishbowl Poke Co.,95,A,4.5,367,$$,Poke
+4314,Dream Hollywood,94,A,3.0,115,$$$,Hotels
+4315,Bottega Louie,97,A,4.0,15795,$$,Italian
+4316,The Buffalo Spot,99,A,3.5,60,$$,Chicken Wings
+4317,Torrance Memorial Medical Center,91,A,3.5,300,NA,Medical Centers
+4318,Rubio's Coastal Grill,94,A,3.5,159,$,Mexican
+4319,La Flor De Izote Restaurant,91,A,3.5,85,$,Spanish
+4320,Café Tropical,93,A,4.0,528,$,Bakeries
+4325,Com Tam Kieu,94,A,3.0,88,$$,Vietnamese
+4326,Barista Society,94,A,4.5,50,$,Coffee & Tea
+4328,Spicy Moment 锅里锅外,92,A,4.5,204,$$,Chinese
+4329,Chevy Chase Country Club,94,A,4.0,47,$$,American (Traditional)
+4330,Cali Cafe,96,A,3.5,126,$,Cafes
+4331,Taco Boy,94,A,4.0,145,$,Tacos
+4332,New York Famous Deli,96,A,4.5,510,$$,Delis
+4333,Schooners Patio Grille,90,A,3.0,323,$$,Sports Bars
+4334,Giorgio's Pizza & Subs,92,A,4.5,63,$,Pizza
+4335,Jerry's Place,90,A,4.0,344,$,Breakfast & Brunch
+4336,Papa John's Pizza,94,A,2.0,66,$$,Pizza
+4338,Sapp Coffee Shop,90,A,4.0,833,$,Thai
+4339,Zuzu Chicken,97,A,4.0,325,$,Greek
+4340,Universal Donuts,97,A,4.5,42,$,Donuts
+4342,Got Kosher?,98,A,4.0,337,$$,Kosher
+4343,Goody's Restaurant,95,A,3.5,164,$,Diners
+4344,Taco Bell,96,A,2.0,77,$,Fast Food
+4345,Welltopia,99,A,4.5,111,$,Acai Bowls
+4346,Sunny Side Up Deli & Grill,91,A,4.5,75,NA,Caterers
+4347,Scotty's Family Restaurant,91,A,4.5,373,$$,American (Traditional)
+4349,Pico Kosher Deli,92,A,3.5,202,$$,Delis
+4350,Ramen of York,94,A,4.0,445,$$,Ramen
+4351,Q and Q Hawaiian BBQ,92,A,4.0,113,$,Hawaiian
+4352,Red Robin Gourmet Burgers,94,A,3.0,439,$$,Burgers
+4353,Ladurée The Grove,92,A,3.5,570,$$,French
+4354,Albert's Mexican Food,90,A,3.0,54,$,Mexican
+4355,Gardena Bowl Coffee Shop,90,A,4.0,570,$,Hawaiian
+4356,Jollibee,81,B,3.0,213,$,Filipino
+4357,Magicopolis,98,A,4.0,272,NA,Performing Arts
+4358,The Great Greek,92,A,4.0,675,$$,Greek
+4361,Art's Table,98,A,4.0,492,$$,American (New)
+4362,California Ramen Factory,93,A,4.0,198,$$,Ramen
+4363,Ritter's Steam Kettle Cooking,91,A,4.0,726,$$,Cajun/Creole
+4364,ArcLight Cinemas,96,A,3.5,1062,NA,Cinema
+4365,Pa Ord Noodle,92,A,4.0,1309,$,Thai
+4367,Bea's Bakery,96,A,4.0,373,$$,Bakeries
+4368,The Cheesecake Factory,98,A,2.5,717,$$,Desserts
+4369,Da Vinci Ice Cream,98,A,4.5,248,$,Ice Cream & Frozen Yogurt
+4370,LA Decks,97,A,4.0,64,NA,Decks & Railing
+4372,The India Restaurant,99,A,4.0,1078,$$,Indian
+4373,Kang Ho Dong Baekjeong,92,A,4.5,907,$$,Korean
+4374,Java Man,95,A,4.0,266,$,Coffee & Tea
+4375,Fernando's Taco Inn,96,A,4.0,120,$,Mexican
+4376,Afterburn Fitness,97,A,4.5,44,NA,Gyms
+4378,Jasmine House Chinese Cuisine,90,A,3.5,217,$$,Chinese
+4379,Quiet Cannon Conference & Event Center,92,A,3.5,111,NA,Venues & Event Spaces
+4383,King's Fish House - Calabasas,95,A,3.5,863,$$,Seafood
+4384,Taco Nazo,96,A,4.0,544,$,Mexican
+4385,Guelaguetza Restaurante,92,A,4.0,1796,$$,Mexican
+4386,You & Me Dining,90,A,3.5,76,$$,Chinese
+4387,Mr. Masala,99,A,3.5,132,$$,Indian
+4389,Pinkberry,90,A,3.5,57,$$,Ice Cream & Frozen Yogurt
+4390,India's Oven,90,A,4.5,1003,$$,Indian
+4391,Pat's II Cocktail Lounge,95,A,3.5,51,$,Cocktail Bars
+4393,Whole Foods Market,96,A,3.0,290,$$$,Grocery
+4394,Fina Estampa,91,A,4.0,167,$$,Seafood
+4395,Thomas Hamburgers,90,A,4.0,69,$,American (Traditional)
+4396,Frugos Yogurt,97,A,3.5,99,$,Ice Cream & Frozen Yogurt
+4397,The Pizzeria Factory,91,A,4.5,518,$,Italian
+4398,Seventeen Cafe,96,A,4.5,64,$,Cafes
+4399,IHOP,97,A,2.5,99,$$,Breakfast & Brunch
+4400,Chillin' Thai Cuisine,90,A,3.5,333,$,Thai
+4401,The 1776,96,A,4.0,198,$$,American (New)
+4404,Max's Mexican Cuisine,93,A,4.0,704,$$,Mexican
+4405,Zensen Sushi Express,90,A,3.0,439,$,Japanese
+4406,Cafe Rio Mexican Grill,95,A,3.0,405,$,Mexican
+4407,Eggslut,94,A,4.0,5260,$,Breakfast & Brunch
+4410,BMC PHO Banh Mi Che Cali,90,A,3.5,106,$,Vietnamese
+4411,Tel Aviv Grill,95,A,4.5,608,$$,Falafel
+4412,Durango's Restaurant,91,A,3.0,98,$$,Mexican
+4413,Shogun Japanese Restaurant,90,A,3.0,307,$$,Japanese
+4414,Skylight Gardens,93,A,4.0,590,$$,Italian
+4415,Spoon House Bakery & Restaurant,94,A,4.0,1107,$$,Bakeries
+4416,Tenju Tea House,92,A,4.5,494,$,Tea Rooms
+4418,Bar Mattachine,97,A,4.0,126,$$,Cocktail Bars
+4419,N'ice Cream,85,B,4.0,61,$,Ice Cream & Frozen Yogurt
+4420,Cho Cho San,95,A,3.5,748,$$,Sushi Bars
+4421,Café de Leche,95,A,4.0,469,$,Coffee & Tea
+4423,Mr Baguette,94,A,3.0,278,$,Sandwiches
+4426,Tops Burgers,92,A,3.5,675,$,Burgers
+4427,Skewer Mediterranean Grill,95,A,3.0,64,$$,Mediterranean
+4428,Wasabi Japanese Grill,97,A,3.5,117,$$,Japanese
+4429,Diep Thanh Thanh Seafood Restaurant Drink and Dessert,94,A,4.0,223,$$,Vietnamese
+4430,Big Fish Little Fish,94,A,3.5,67,$$,Poke
+4431,Azteca,84,B,4.0,97,$,Mexican
+4432,Cherry On Top,90,A,3.5,158,$,Ice Cream & Frozen Yogurt
+4433,Paros Chicken,96,A,4.0,125,$,Mediterranean
+4434,Lenzini's Pizza,95,A,4.0,344,$,Pizza
+4435,Roong-Fah Thai Restaurant,90,A,3.5,159,$,Thai
+4438,Niko Niko Sushi,91,A,3.5,515,$$,Japanese
+4441,JINYA Ramen Express,97,A,3.5,191,$$,Ramen
+4442,Mariscos Jalisco,95,A,4.5,698,$,Mexican
+4443,Highland Park Bowl,98,A,4.0,484,$$,Bowling
+4444,Picante Peruvian Cuisine,96,A,4.0,145,$$,Peruvian
+4446,Adobo Taco Grill,90,A,4.5,1549,$,Tacos
+4447,Zavala Restaurant Y Taqueria,90,A,3.5,74,$,Mexican
+4448,Togo's Eatery,93,A,3.5,45,$,Sandwiches
+4449,The Gangjung,93,A,3.5,210,$$,Korean
+4450,Schwartz Bakery,91,A,2.5,95,$$,Bakeries
+4451,Baja Fresh,97,A,2.5,77,$,Mexican
+4453,Kebab Grill,96,A,4.0,90,$$,Mediterranean
+4454,Pavilions,100,A,2.5,132,$$,Grocery
+4456,Margo's,98,A,3.5,230,$$,American (New)
+4457,Marouch Restaurant,96,A,4.5,390,$$,Armenian
+4458,Exotic Thai Cafe,94,A,3.0,151,$$,Thai
+4460,Caesar's Pastry,90,A,5.0,208,$,Bakeries
+4461,Edna Vees Public House,93,A,4.5,155,$,Bars
+4462,RedBrick Pizza Kitchen Cafe,97,A,3.0,53,$,Pizza
+4463,Transplants Brewing Company,93,A,4.5,106,$,Breweries
+4466,Tommy's Original World Famous Hamburgers,96,A,4.0,1142,$,Burgers
+4467,The Forum,91,A,3.0,1184,$$,Music Venues
+4469,Brooklyn Pizzeria & Italian Food,95,A,4.0,333,$,Pizza
+4470,Go Pocha,84,B,4.0,242,$$,Korean
+4471,Los Agaves,90,A,4.0,699,$$,Mexican
+4472,Raspado Xpress,93,A,3.5,132,$,Ice Cream & Frozen Yogurt
+4473,Claros Italian Market,92,A,4.5,394,$,Specialty Food
+4474,Cafe Amici,90,A,4.0,175,$$,Italian
+4475,California Pita & Grill Beverly Hills,93,A,3.5,149,$$,Middle Eastern
+4476,Cafe Beaujolais,95,A,4.5,1317,$$,French
+4477,Modern Eats,95,A,4.0,434,$$,Breakfast & Brunch
+4479,Rocco's Italian Market and Deli,96,A,4.5,202,$$,Italian
+4480,Mr Fish Pescaderia,91,A,4.5,45,$$,Seafood Markets
+4482,Thyme Cafe and Market,96,A,3.5,511,$$,Cafes
+4483,Chin Chin,95,A,3.5,351,$$,Chinese
+4485,Curry House CoCo Ichibanya,90,A,3.5,356,$$,Japanese Curry
+4486,Pancake Corner,91,A,3.0,157,$,Breakfast & Brunch
+4487,Ike's Place,91,A,4.0,681,$$,Sandwiches
+4488,Tomomi Sushi,92,A,3.5,1225,$$,Sushi Bars
+4489,Tokyo Shabu Shabu,86,B,3.5,712,$$,Japanese
+4490,Benito's Taco Shop,90,A,3.5,281,$,Mexican
+4492,Applebee's Grill + Bar,96,A,2.5,219,$$,American (Traditional)
+4493,Tutti Frutti Frozen Yogurt,97,A,4.0,53,$,Ice Cream & Frozen Yogurt
+4495,Lido di Manhattan Ristorante & Bar,93,A,4.0,367,$$,Italian
+4497,Peris Restaurant,90,A,4.5,688,$$,Persian/Iranian
+4499,Legends Classic Diner,94,A,3.5,394,$,American (Traditional)
+4501,Huerta Produce,94,A,4.0,59,$,Fruits & Veggies
+4504,Tropical Buffet & Grill,96,A,3.0,208,$$,Buffets
+4505,Dino's Pizza,98,A,3.5,734,$$,Pizza
+4506,Ramen Spott,93,A,3.5,292,$$,Ramen
+4507,Puerto Nuevo Restaurant,90,A,4.0,141,$,Mexican
+4508,Quality Seafood,90,A,4.0,1187,$$,Seafood Markets
+4509,Young King,86,B,4.0,507,$$,Chinese
+4511,Don Chuy's Mexican Restaurant,90,A,3.5,253,$$,Mexican
+4514,Butler's Pizza,96,A,4.5,99,$,Pizza
+4518,Chris's Burgers,98,A,4.0,421,$,Burgers
+4522,Don Chuy Mexican Restaurant,97,A,4.5,111,$,Mexican
+4523,Sushi Ye,98,A,4.5,229,$$,Sushi Bars
+4525,Chiquita Bonita,96,A,4.0,418,$$,Mexican
+4526,KKINI,90,A,4.0,56,$$,Korean
+4527,Lucky China Restaurant,93,A,3.5,216,$,Chinese
+4528,Mantra Coffee,94,A,4.5,611,$,Coffee & Tea
+4529,El Puerto Escondido,92,A,3.0,260,$$,Mexican
+4531,Taco Nazo,93,A,4.0,544,$,Mexican
+4532,Sushi Sasabune,92,A,4.5,975,$$$$,Sushi Bars
+4533,Express Chinese Food,90,A,3.0,101,$,Chinese
+4534,Giggles N' Hugs,95,A,4.0,503,NA,Party & Event Planning
+4536,La Grande Orange Café,95,A,4.0,2830,$$,American (New)
+4537,Water Grill- Los Angeles,92,A,4.0,1883,$$$,Seafood
+4538,Tamara's Tamales,90,A,4.0,177,$,Mexican
+4539,Kosher Pizza Station,94,A,4.5,69,$,Pizza
+4541,Submerge Sandwich,96,A,4.5,81,$,Sandwiches
+4542,Crystal Lake Cafe,94,A,4.5,80,$,American (Traditional)
+4543,Salsa & Beer,95,A,4.0,2248,$$,Mexican
+4544,Vic's Food To Go,93,A,4.0,347,$,Thai
+4545,Sip Matcha - Rowland Heights,95,A,4.0,224,$,Tea Rooms
+4546,Forman's Whiskey Tavern,94,A,4.0,305,$$,American (New)
+4550,Village Pizzeria,91,A,4.0,1351,$$,Pizza
+4551,Yanagi Japanese Bistro,93,A,4.0,537,$$,Japanese
+4552,WaBa Grill,97,A,3.0,89,$,Fast Food
+4553,Brami's Kosher Pizza,91,A,4.0,77,$,Pizza
+4554,Mission Burrito - Woodland Hills,91,A,3.0,127,$,Mexican
+4557,Tom's Sushi House,95,A,4.0,263,$$,Japanese
+4558,Forage,94,A,4.0,772,$$,American (New)
+4559,Fruit Revolution,91,A,4.0,98,$,Juice Bars & Smoothies
+4560,Pieology Pizzeria,96,A,4.0,568,$,Pizza
+4562,Cho Cho San,96,A,3.5,509,$$,Sushi Bars
+4563,Bottega Louie,91,A,4.0,15795,$$,Italian
+4564,Downtown Philly Cheese Steaks,92,A,4.0,198,$$,Cheesesteaks
+4565,Bottega Louie,97,A,4.0,15795,$$,Italian
+4566,Domino's Pizza,94,A,2.5,70,$,Pizza
+4567,Shik Do Rak,91,A,3.5,403,$$,Korean
+4571,Grill N Sushi,90,A,4.5,202,$$,Japanese
+4572,Tokyo Lobby,92,A,3.5,427,$$,Japanese
+4573,Wolf & Crane Bar,91,A,4.0,479,$$,Whiskey Bars
+4574,Amore Pizza,97,A,4.0,55,$,Pizza
+4575,Cake House,97,A,3.5,142,$,Bakeries
+4577,Kanpai Japanese Sushi Bar & Grill,92,A,4.0,1342,$$$,Japanese
+4578,Choe Gang Jip,90,A,4.0,254,$$,Korean
+4579,Taco Bell,98,A,3.5,75,$,Fast Food
+4581,Pho Family Restaurant,94,A,4.0,101,$,Vietnamese
+4582,Sam's Club,95,A,3.0,220,$$,Department Stores
+4583,Chipotle Mexican Grill,97,A,2.5,138,$,Mexican
+4584,Inka Wasi,90,A,4.0,244,$,Peruvian
+4585,The Overland Tap + Kitchen,90,A,3.5,1341,$$,American (New)
+4587,Jaipur Cuisine of India,90,A,4.0,579,$$,Indian
+4588,Lemon Leaf Cafe,96,A,4.0,413,$$,Bakeries
+4589,Pali Wine Co,99,A,4.5,97,$$,Wine Tasting Room
+4590,Noodle City,91,A,4.0,368,$,Vietnamese
+4592,Point Dume Chinese Food,94,A,4.0,128,$,Chinese
+4593,Nadia Cakes,98,A,4.0,354,$$,Bakeries
+4594,El Colmao,95,A,4.0,224,$$,Cuban
+4596,Al Watan Halal Restaurant,90,A,4.0,539,$$,Indian
+4597,Fogata Mexicana,95,A,3.5,272,$,Mexican
+4598,Pizza Studio,95,A,4.0,252,$,Pizza
+4599,Edible Arrangements,98,A,4.0,110,$$,Chocolatiers & Shops
+4600,Tipsy Tails Hollywood,95,A,4.5,87,$$,Bars
+4601,McConnell's Fine Ice Creams,97,A,4.5,260,$$,Ice Cream & Frozen Yogurt
+4602,Gaam Restaurant and Lounge,90,A,3.5,968,$$,Asian Fusion
+4604,Calamigos Ranch,95,A,4.5,228,NA,Venues & Event Spaces
+4605,Howl at the Moon Hollywood,94,A,3.0,724,$$,Bars
+4607,Darna Mediterranean Cuisine,95,A,4.5,319,$$,Kosher
+4608,Madison & Park Coffee,96,A,4.0,65,$,Coffee & Tea
+4609,Northern Cafe,91,A,4.0,102,$$,Chinese
+4610,OUE Skyspace LA,91,A,3.5,686,NA,Observatories
+4611,Thai Dishes,92,A,3.5,194,$,Thai
+4612,Karaoke at Music Box,96,A,3.0,147,$$,Karaoke
+4613,Savoy Kitchen,97,A,4.0,3525,$,Pizza
+4614,Jumping 1 Ton,99,A,5.0,249,$,Sandwiches
+4615,Arturo's Puffy Taco,97,A,4.0,610,$,Mexican
+4616,Lin's Garden Thai Vilay,91,A,4.5,135,$,Chinese
+4617,Ramen Champ,92,A,3.5,464,$$,Ramen
+4618,La 27th Restaurante Nicaragüense,96,A,4.0,233,$$,Nicaraguan
+4620,China Kitchen,92,A,4.0,78,$,Chinese
+4622,Interactive Cafe,83,B,2.0,129,$,Cafes
+4625,1212 Santa Monica,91,A,4.0,601,$$,Cocktail Bars
+4626,Marugame Udon,91,A,4.0,964,$,Japanese
+4627,SunLife Organics,93,A,4.0,146,$$,Juice Bars & Smoothies
+4628,Sushi One,95,A,4.5,323,$$,Japanese
+4629,Los Mariscos,93,A,2.5,108,$$,Seafood
+4630,Toppings Pizza,94,A,3.5,113,$,Pizza
+4632,Yojié Japanese Fondue,95,A,4.0,1311,$$,Japanese
+4634,Java Spice,100,A,3.5,307,$,Indonesian
+4635,Stevenson Donuts & Bakery,100,A,4.5,111,$,Donuts
+4637,Ah-Lien Hot Pot,90,A,4.0,95,$$,Chinese
+4639,It's Thai Casual Dining,90,A,3.5,42,$$,Thai
+4640,Taco Spot,90,A,4.0,483,$,Mexican
+4642,Sam Woo Barbeque,90,A,3.5,566,$,Barbeque
+4643,Public School 310,90,A,3.5,1549,$$,American (New)
+4644,Handel's Homemade Ice Cream and Yogurt,97,A,4.5,1274,$,Ice Cream & Frozen Yogurt
+4645,WP24,93,A,3.5,732,$$$$,Asian Fusion
+4646,Paradise Biryani Pointe,98,A,3.5,268,$$,Indian
+4647,Stan's Donuts,92,A,4.0,758,$,Bakeries
+4649,Cafe Gratitude,94,A,4.0,1963,$$,Breakfast & Brunch
+4650,Tru Nature Juice Bar,96,A,4.5,530,$,Juice Bars & Smoothies
+4652,The Magic Castle,96,A,4.0,2224,$$$,Performing Arts
+4654,Gjelina,90,A,3.5,4396,$$$,American (New)
+4656,Lee's Sandwiches,91,A,3.5,107,$,Vietnamese
+4660,Hideaway Country Bar & Grill,90,A,3.5,52,$,American (Traditional)
+4661,Kookie's Sandwiches,96,A,4.0,42,$,Sandwiches
+4662,Sarku Japan,93,A,2.5,62,$,Japanese
+4663,Veggie Grill,96,A,4.0,574,$$,American (Traditional)
+4665,Moana Grill,97,A,4.5,167,$,Japanese
+4667,Hard Rock Cafe Hollywood 5K/10K,90,A,3.5,79,NA,Races & Competitions
+4668,Cafe Americano,93,A,4.5,159,$,Coffee & Tea
+4669,Pho Tasty,93,A,4.0,1456,$,Vietnamese
+4670,The Granada LA,93,A,4.0,172,$$,Dance Clubs
+4671,Musashiya Udon Noodle,86,B,3.5,186,$$,Noodles
+4672,Sunlife Organics,97,A,4.0,185,$$,Juice Bars & Smoothies
+4673,Musso & Frank Grill,92,A,4.0,1349,$$$,Steakhouses
+4674,Amorelia Mexican Cafe,94,A,4.0,692,$$,Mexican
+4675,It's Boba Time,95,A,4.0,93,$,Bubble Tea
+4676,Mr G's Pizza,98,A,4.5,296,$,Pizza
+4678,Walter's Restaurant,93,A,3.0,608,$$,Breakfast & Brunch
+4679,Bee's Boba & Juicery,98,A,4.5,61,$,Juice Bars & Smoothies
+4680,Star Crab,96,A,4.5,92,$$,Seafood
+4681,Banh Mi Che Cali,92,A,3.0,146,$,Vietnamese
+4682,Jim's Burgers,97,A,3.5,76,$,Burgers
+4683,Truxton's American Bistro,94,A,4.0,539,$$,American (New)
+4684,Lu & Pe Mexican Restaurant & Catering,94,A,4.5,168,$,Mexican
+4687,Big Mama's & Papa's Pizzeria,94,A,3.0,147,$,Pizza
+4688,Chez Tex,90,A,4.0,87,$$,Cafes
+4690,Toast Bakery Cafe,90,A,3.5,1636,$$,American (New)
+4691,Shefa Melrose,94,A,4.5,200,$$,Mediterranean
+4692,Sonny McLean's,91,A,3.5,342,$$,Sports Bars
+4694,NORMS Restaurant,93,A,3.0,167,$$,American (Traditional)
+4695,Sabores De Oaxaca,81,B,3.5,54,$,Mexican
+4696,Cafe 50's,93,A,3.5,898,$$,Diners
+4697,The Shrimp Lover,80,B,3.5,417,$$,Cajun/Creole
+4698,un solo sol,95,A,4.5,534,$$,Latin American
+4699,Farmer Boys,94,A,3.0,259,$,Breakfast & Brunch
+4700,Kouraku Restaurant,90,A,3.5,961,$,Japanese
+4701,El Gran Burrito,92,A,3.5,325,$,Mexican
+4702,Thai Noodle House & BBQ,96,A,4.0,168,$$,Thai
+4703,Mercado Santa Monica,92,A,4.0,1301,$$,Mexican
+4704,Combo's N.Y. Pizzeria,90,A,2.0,44,$,Pizza
+4705,DoubleTree By Hilton Monrovia - Pasadena Area,97,A,3.5,224,$$,Hotels
+4707,Buffalo Wild Wings,96,A,2.5,474,$$,Sports Bars
+4711,LA Lasagna,97,A,4.0,170,$,Italian
+4713,Sakura Sushi & Roll,90,A,3.5,520,$$,Japanese
+4714,Boba V Cafe,84,B,3.5,75,$,Coffee & Tea
+4715,Pupuseria Mi Salvador,97,A,3.0,54,$,Salvadoran
+4718,Rustic Burger,92,A,4.0,630,$$,Burgers
+4719,22nd St Landing Seafood Grill & Bar,96,A,3.5,392,$$,Seafood
+4720,Burnt Tortilla,99,A,3.5,539,$$,Mexican
+4721,Ford Theatres,98,A,4.5,150,$$,Performing Arts
+4722,Tacos Del Chino,88,B,4.5,119,$,Tacos
+4723,Marjoe's Soul Food and Grill,85,B,4.0,132,$,Soul Food
+4724,The Sunset Trocadero Lounge,90,A,4.0,245,$$,American (New)
+4725,Jack's Bakery,90,A,4.5,288,$,Bakeries
+4726,The 6740,95,A,4.0,320,$$,American (Traditional)
+4727,Massimos Pizza & Pasta,86,B,4.5,255,$,Pizza
+4728,Kiku Sushi,93,A,4.0,310,$$,Japanese
+4729,Oro's Pizza & Bakery,95,A,4.5,117,$,Pizza
+4730,The Donut Man,93,A,4.5,3848,$,Donuts
+4733,Aroha New Zealand Cuisine And Bar,97,A,4.5,457,$$$,Seafood
+4734,Cafe Vida,91,A,4.0,1133,$$,Breakfast & Brunch
+4735,El Pollo Loco,98,A,3.0,50,$,Fast Food
+4736,Hollywood Pantages Theatre,99,A,4.5,1424,NA,Performing Arts
+4737,House of Meatballs,92,A,4.0,373,$$,Italian
+4738,Embassy Suites by Hilton LAX North,98,A,3.5,197,$$,Hotels
+4741,Broncos Mexican Grill,90,A,4.0,167,$,Mexican
+4742,WallyPark Airport Parking - Premier Garage,93,A,2.5,668,NA,Parking
+4745,The Bazaar by José Andrés,96,A,4.0,3633,$$$$,Spanish
+4746,Chili's,91,A,2.5,319,$$,American (Traditional)
+4748,Jade House Seafood & BBQ Restaurant,90,A,3.0,150,$,Chinese
+4749,Yangmani,94,A,4.5,156,$$,Korean
+4750,Morton's The Steakhouse,96,A,3.5,461,$$$$,Steakhouses
+4751,Gale's,92,A,4.0,973,$$,Italian
+4752,Northern Cafe,84,B,4.0,479,$,Chinese
+4753,Papa John's Pizza,91,A,2.5,42,$$,Pizza
+4755,World Seafoods,90,A,4.5,48,$$,Seafood Markets
+4756,Domino's Pizza,93,A,2.0,61,$$,Pizza
+4757,Pho House,90,A,4.5,324,$,Vietnamese
+4759,Birds & Bees,96,A,4.0,234,$$,Cocktail Bars
+4760,Prem's Thai Kitchen,90,A,4.5,284,$,Thai
+4761,Carnitas Michoacan,95,A,4.0,1135,$,Mexican
+4762,Hojas Tea House,97,A,4.0,466,$,Desserts
+4763,Flame and Skewers,99,A,4.5,248,$$,Mediterranean
+4764,Drifters Cocktails,96,A,4.0,58,$,Bars
+4765,Fukuno Restaurant,97,A,4.5,45,$$,Japanese
+4766,Trimana,94,A,3.0,46,$,Delis
+4767,Okrumong,93,A,4.0,264,$,Desserts
+4769,Guisados,96,A,4.5,2277,$,Mexican
+4770,The Hummus Republic,90,A,4.5,251,$$,Salad
+4771,Kachi Deli Cafe & Grill,90,A,4.0,263,$$,Vegetarian
+4772,Hilton Garden Inn LAX/El Segundo,95,A,3.5,126,$$,Hotels
+4773,Tocaya Organica - The Point,92,A,4.0,121,$$,Tacos
+4774,La Barca Restaurant,95,A,4.0,761,$$,Mexican
+4775,TJ's Submarine,93,A,4.0,97,$,Sandwiches
+4778,Gen Korean BBQ House,92,A,4.0,3080,$$,Korean
+4780,Escape Hotel,98,A,4.0,276,NA,Escape Games
+4781,Tacos Los Toritos,90,A,3.0,59,$,Mexican
+4782,Asakuma Rice,90,A,3.0,203,$$,Japanese
+4783,Harajuku Taproom,92,A,4.0,185,$$,Japanese
+4784,Little Brother Sushi,98,A,4.0,320,$$,Sushi Bars
+4786,Nori Sushi,91,A,4.0,268,$$,Sushi Bars
+4788,Patina Restaurant,97,A,4.0,621,$$$$,French
+4790,Creamy Spoon French Bistro,95,A,5.0,281,$$,French
+4793,Szechuwan Garden,92,A,4.5,688,$$,Chinese
+4794,Misky Misky Cocina Peruana,90,A,4.0,849,$$,Peruvian
+4795,Papa Hill's Fish Grill,99,A,3.5,63,$$,Food Court
+4796,Le Bon Patissier,93,A,3.5,59,$,Bakeries
+4797,The Palace Seafood & Dim Sum,82,B,3.0,518,$$,Dim Sum
+4798,Van Bakery,94,A,4.0,75,$,Bakeries
+4799,Joan's on Third,90,A,4.0,2138,$$,Breakfast & Brunch
+4802,Birrieria Apatzingan,90,A,4.5,53,$,Mexican
+4803,Pho Banh Mi Che Cali,81,B,3.0,328,$,Vietnamese
+4805,Rice Avenue,96,A,4.0,228,$,Thai
+4807,Chris' & Pitt's,93,A,3.5,372,$$,Barbeque
+4809,TantaWan Thai Cuisine,90,A,4.0,119,$$,Thai
+4811,Verandas Beach House,96,A,4.5,66,NA,Venues & Event Spaces
+4812,New York Chicken & Gyro,93,A,5.0,627,$,Mediterranean
+4813,King's Donuts,94,A,4.0,43,$,Donuts
+4814,Mama Shelter,96,A,3.5,376,$$,Hotels
+4815,Cold Stone Creamery,98,A,3.5,60,$$,Ice Cream & Frozen Yogurt
+4816,The Meat Cellar,92,A,4.0,755,$$,Meat Shops
+4817,Mexicano,92,A,3.5,348,$$,Mexican
+4818,Faultline,94,A,3.5,123,$,Gay Bars
+4819,Pico Cafe,90,A,3.0,88,$$,Breakfast & Brunch
+4820,Courtyard by Marriott,98,A,3.0,133,$$,Hotels
+4821,Santa Fe Cafe,96,A,3.5,148,$,Tex-Mex
+4823,Pa Ord Noodle,95,A,4.0,1309,$,Thai
+4824,The Cellar Bar & Grill,91,A,3.5,116,$$,American (New)
+4825,Matteo's,92,A,4.0,167,$$$,Italian
+4826,Simplethings,90,A,3.5,287,$$,Salad
+4828,Hill Street Pizza,97,A,4.0,79,$$,Pizza
+4829,Pho Eastern,91,A,4.5,242,$,Vietnamese
+4830,Valerie Confections,97,A,4.5,133,$$$,Chocolatiers & Shops
+4831,Oo-Kook Tofu & BBQ,95,A,4.0,1200,$$,Korean
+4832,Son of a Gun,94,A,4.0,1590,$$$,Seafood
+4833,Jollibee,98,A,3.0,352,$,Fast Food
+4834,Tsujita LA Artisan Noodle,93,A,4.0,3521,$$,Ramen
+4836,Get Bbul,90,A,4.0,170,$$,Korean
+4837,Fonda Don Chon,90,A,4.5,1594,$$,Mexican
+4838,Thai Kitchen,90,A,3.0,64,$,Thai
+4841,Rafo's Cafe,97,A,4.5,204,$,Cafes
+4842,Ackee Bamboo Jamaican Cuisine,85,B,4.0,308,$$,Caribbean
+4843,Masis Bakery,92,A,3.0,135,$,Bakeries
+4844,Petty Cash Taqueria,90,A,3.5,798,$$,Mexican
+4845,Hound Dog Hot Dog Shop,96,A,4.0,60,$,Hot Dogs
+4846,Arbat Banquet Hall,95,A,4.0,50,NA,Venues & Event Spaces
+4847,Thirty5 Degrees,97,A,4.5,172,$,Cafes
+4848,Rock & Brews - El Segundo,95,A,4.0,1235,$$,American (New)
+4850,GRANVILLE,96,A,4.5,1481,$$,American (New)
+4852,La Fiesta Brava,93,A,4.0,396,$,Mexican
+4853,Waldorf Astoria Beverly Hills,93,A,4.0,213,$$$$,Hotels
+4855,Tatang,96,A,4.5,202,$$,Filipino
+4857,Vespaio,92,A,3.5,554,$$,Italian
+4858,Big Mama's & Papa's Pizzeria,90,A,3.0,109,$$,Pizza
+4859,Birdies,94,A,4.0,1466,$$,Chicken Shop
+4860,Gondola Pizza,93,A,3.5,577,$$,Pizza
+4862,Pacific Dining Car,87,B,3.5,1119,$$$$,Steakhouses
+4863,Lucero Bakery,87,B,4.0,235,$,Bakeries
+4864,Ragin Cajun Cafe,90,A,4.0,1155,$$,Cajun/Creole
+4865,Dave & Buster's,94,A,2.5,347,$$,Bars
+4866,SUSHIRAW,90,A,3.5,537,$$,Japanese
+4867,Liaison Restaurant + Lounge,90,A,3.5,143,$$$,Bars
+4869,O Sushi,95,A,3.0,148,$$,Sushi Bars
+4870,China Express,93,A,4.0,47,$,Chinese
+4871,Chili's,93,A,2.5,334,$$,American (Traditional)
+4872,Crescent Hotel Beverly Hills,96,A,3.5,155,$$,Hotels
+4876,GuYi Restaurant,91,A,4.0,137,$$,Szechuan
+4877,Beer Belly,94,A,4.0,2298,$$,Gastropubs
+4878,Mariscos Los Arcos,93,A,4.0,220,$$,Mexican
+4879,La Farfala Coffee Shop & Deli,93,A,4.5,95,$,Coffee & Tea
+4880,Clifton's Republic,97,A,3.0,1862,$$,Bars
+4882,Denny's,95,A,2.5,140,$,Breakfast & Brunch
+4883,Tropicana Bakery & Cuban Café,90,A,3.5,1647,$,Bakeries
+4884,Crepes de Paris,98,A,4.0,119,$,Breakfast & Brunch
+4886,Twinkle Brown Sugar,97,A,4.0,1142,$,Coffee & Tea
+4889,Feu Pho Kitchen,92,A,4.5,420,$$,Vietnamese
+4891,Panda Garden,95,A,4.0,45,$,Chinese
+4892,Bottega Louie,96,A,4.0,15795,$$,Italian
+4893,Mango Tango Juicebar & Grill,91,A,4.0,113,$,Sandwiches
+4894,Lawry's Carvery,91,A,3.5,548,$$,Sandwiches
+4895,Blazing Stone Pizza,96,A,4.5,288,$$,Pizza
+4896,Sushi Planet Woodland Hills,96,A,4.0,420,$$,Sushi Bars
+4898,Blaze Fast-Fire'd Pizza,92,A,4.0,432,$,Pizza
+4899,The Bottle Inn Riviera,93,A,3.5,125,$$,Italian
+4900,Hot Pot Land,92,A,4.0,44,$$,Hot Pot
+4902,Pollo a La Brasa Western,96,A,4.0,729,$,Latin American
+4903,Loving Hut Claremont,94,A,3.0,430,$$,Vegan
+4904,Chinese Taste Fast Food,96,A,3.0,49,$,Chinese
+4906,El Burrito Jr,93,A,4.0,547,$,Mexican
+4907,Tipsy Cow,95,A,4.0,1273,$$,Bars
+4909,DTLA Cheese,98,A,4.0,233,$$,Cheese Shops
+4910,Barrington Dog Park,99,A,3.0,119,NA,Dog Parks
+4911,Pizzeria Mozza,95,A,4.0,3994,$$,Pizza
+4912,Vim Thai-Chinese Restaurant,96,A,3.5,44,$,Thai
+4913,Aro Latin,90,A,4.0,369,$$,Latin American
+4915,San Marco Coffee Roasting,98,A,4.0,130,$,Coffee Roasteries
+4916,Mint Garden,97,A,3.5,219,$,Thai
+4918,Tomato Pie Pizza Joint,96,A,4.0,343,$,Pizza
+4919,Gamble House,93,A,4.5,125,NA,Landmarks & Historical Buildings
+4925,Ivy At The Shore,94,A,3.0,581,$$$,American (New)
+4926,Plate & Petal,90,A,4.5,473,$$,American (New)
+4928,Chick 'N Chow,92,A,3.5,79,$$,Chinese
+4930,Kebbros - Hollywood,96,A,4.5,61,$$,Kebab
+4931,Super King Markets,90,A,3.5,481,$,Grocery
+4933,Henry's Charbroiler,93,A,4.0,97,$$,Greek
+4934,Golden Ox,95,A,3.0,78,$,Burgers
+4936,Tasty Kitchen,80,B,3.5,256,$$,Chinese
+4937,Kopan Ramen - UCLA,93,A,4.0,190,$$,Ramen
+4938,Lupe's Place,93,A,3.5,97,$,Mexican
+4939,Troy's Burgers,90,A,3.5,132,$,Burgers
+4941,Taqueria Las Comadres,95,A,4.0,175,$,Mexican
+4943,Juan's Super Pollo,91,A,4.0,66,$,Mexican
+4944,The LINE LA,96,A,3.5,755,$$,Hotels
+4945,El Taco Loco No 3,90,A,4.0,250,$,Mexican
+4946,Coral Tree Cafe,91,A,3.5,778,$$,Cafes
+4948,Nathan's Kosherland,84,B,3.5,80,$,Coffee & Tea
+4949,Batavia Coffee Bar,90,A,4.5,201,$$,Coffee & Tea
+4950,Samos,83,B,3.5,50,$,Burgers
+4951,Hong Kong Chef,95,A,3.5,100,$,Chinese
+4952,E.A.K. Ramen,90,A,4.0,267,$$,Ramen
+4953,Rock N Roll Sushi,93,A,3.0,398,$$,Japanese
+4957,The Coffee Bean & Tea Leaf,98,A,4.0,75,$,Coffee & Tea
+4958,The Mediterranean Kitchen,97,A,4.5,189,$$,Mediterranean
+4959,Ramen Bangaichi,91,A,3.5,129,$$,Ramen
+4960,Buca di Beppo Italian Restaurant,98,A,3.0,362,$$,Italian
+4963,333 Live,95,A,1.5,105,$$$,Music Venues
+4964,Nest Tea House,96,A,4.0,507,$,Bubble Tea
+4965,Mr. K Donuts,98,A,5.0,106,$,Bakeries
+4968,China Cafe,93,A,3.0,235,$,Chinese
+4969,Walmart Supercenter,96,A,2.0,94,$,Department Stores
+4970,The Great White Hut,92,A,4.0,698,$,Burgers
+4971,The pizza oven,97,A,4.0,42,$,Pizza
+4973,China garden,96,A,3.0,226,$$,Chinese
+4974,Maxwell's Burgers & Hotdogs,90,A,3.0,54,$,Burgers
+4975,Fais Do-Do,90,A,3.5,63,$$,Music Venues
+4976,800 Degrees Neapolitan Pizzeria,91,A,3.5,2276,$$,Pizza
+4977,Callahans Irish Pub & Grill,90,A,3.5,66,$$,Pubs
+4978,Westfield Fashion Square,99,A,3.5,322,$$,Shopping Centers
+4979,Taj Of India,81,B,4.0,52,$$,Indian
+4980,LAX Terminal 6,98,A,2.5,116,NA,Airport Terminals
+4981,Twisted Sage Cafe & Catering,94,A,4.0,886,$$,Cafes
+4982,Chinatown Express,90,A,2.5,59,$,Chinese
+4984,Jimmy John's,100,A,3.5,67,$,Sandwiches
+4987,The Original Barrio Fiesta of Manila,93,A,4.0,388,$$,Filipino
+4988,California Sushi & Teriyaki,96,A,3.5,59,$,Sushi Bars
+4990,Masa of Echo Park,94,A,4.0,3772,$$,American (New)
+4991,KFC,94,A,1.5,53,$,Fast Food
+4992,Fusion Sushi - Manhattan Beach,93,A,4.0,637,$$,Sushi Bars
+4993,Grill 'Em All,96,A,4.0,2212,$$,Burgers
+4994,Kreation Organic Juicery,95,A,4.5,52,$$,Juice Bars & Smoothies
+4996,Lollicup,94,A,2.5,175,$,Coffee & Tea
+4997,Hong Kong Express,90,A,3.0,78,$,Chinese
+4998,Cafe Bizou,96,A,4.0,142,$$,French
+4999,Miki House,90,A,4.0,72,$,Filipino
