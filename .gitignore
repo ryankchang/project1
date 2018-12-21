@@ -1,2 +1,4 @@
 data/
 config.py
+.ipynb_checkpoints
+*.pyc
